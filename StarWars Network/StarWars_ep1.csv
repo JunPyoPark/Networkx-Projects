@@ -1,0 +1,997 @@
+episode,scene_num,sequence,place,type,actor,dialogue
+1,1,1,REPUBLIC CRUISER,INT,QUI-GON,Captain.
+1,1,2,REPUBLIC CRUISER,INT,CAPTAIN,"Yes, sir?"
+1,1,3,REPUBLIC CRUISER,INT,QUI-GON,Tell them we wish to board at once.
+1,1,4,REPUBLIC CRUISER,INT,CAPTAIN,"Yes, sir."
+1,1,5,REPUBLIC CRUISER,INT,CAPTAIN,"With all due respect for the Trade Federation, the Ambassodors for the Supreme Chancellor wish to board immediately."
+1,1,6,REPUBLIC CRUISER,INT,NUTE,"Yes, yes, of coarse...ahhh...as you know, our blockade is perfectly legal, and we'd be happy to recieve the Ambassador...Happy to."
+1,3,7,FEDERATION BATTLESHIP,INT,PK-4,They must be important if the Viceroy sent one of those useless protocol gearheads to greet them.
+1,3,8,FEDERATION BATTLESHIP,INT,TC-14,"I'm TC-14 at your service. This way, please."
+1,3,9,FEDERATION BATTLESHIP,INT,EG-9,A Republic cruiser! That's trouble...don't you think?
+1,3,10,FEDERATION BATTLESHIP,INT,PR-4,I'm not made to think.
+1,4,11,FEDERATION BATTLESHIP,INT,TC-14,I hope you honoured sirs with the most comfortable here. My master will be with you shortly.
+1,4,12,FEDERATION BATTLESHIP,INT,OBI-WAN,I have a bad feeling about this.
+1,4,13,FEDERATION BATTLESHIP,INT,QUI-GON,I don't sense anything.
+1,4,14,FEDERATION BATTLESHIP,INT,OBI-WAN,"It's not about the mission, Master, it's somethging...elsewhere...elusive."
+1,4,15,FEDERATION BATTLESHIP,INT,QUI-GON,"Don't center on your anxiety, Obi-Wan. Keep your concentration here and now where it belongs."
+1,4,16,FEDERATION BATTLESHIP,INT,OBI-WAN,Master Yoda says I should be mindful of the future...
+1,4,17,FEDERATION BATTLESHIP,INT,QUI-GON,".....but not at the expense of the moment. Be mindful of the living Force, my young Padawan."
+1,4,18,FEDERATION BATTLESHIP,INT,OBI-WAN,"Yes, Master...how do you think the trade viceroy will deal with the chancellor's demands?"
+1,4,19,FEDERATION BATTLESHIP,INT,QUI-GON,These Federation types are cowards. The negotiations will be short.
+1,5,20,FEDERATION BATTLESHIP,INT,NUTE,What?!? What did you say?
+1,5,21,FEDERATION BATTLESHIP,INT,TC-14,"The Ambassadors are Jedi Knights, I believe."
+1,5,22,FEDERATION BATTLESHIP,INT,DOFINE,"I knew it! They were sent to force a settlement, eh. Blind me, we're done for!"
+1,6,23,FEDERATION BATTLESHIP,INT,NUTE,"They must be dead by now. Blast, what's left of them."
+1,6,24,FEDERATION BATTLESHIP,INT,TC14,"Oh, excuse me, so sorry."
+1,7,25,FEDERATION BATTLESHIP,INT,OWO-1,Not sure exactly what...
+1,7,26,FEDERATION BATTLESHIP,INT,NUTE,What in blazes is going on down there?
+1,7,27,FEDERATION BATTLESHIP,INT,RUNE,"Have you ever encountered a Jedi Knight before, sir?"
+1,7,28,FEDERATION BATTLESHIP,INT,NUTE,"Well, not exactly, but I don't... Seal off the bridge."
+1,7,29,FEDERATION BATTLESHIP,INT,RUNE,"That won't be enough, sir."
+1,7,30,FEDERATION BATTLESHIP,INT,NUTE,I want destroyer droids up here at once!!!
+1,7,31,FEDERATION BATTLESHIP,INT,RUNE,We will not survive this.
+1,9,32,FEDERATION BATTLESHIP,INT,NUTE,Close the blast doors!!!
+1,9,33,FEDERATION BATTLESHIP,INT,RUNE,...They're still coming through!
+1,9,34,FEDERATION BATTLESHIP,INT,NUTE,Impossible!! This is impossible!!
+1,9,35,FEDERATION BATTLESHIP,INT,RUNE,Where are those destroyer droids?!
+1,10,36,FEDERATION BATTLESHIP,INT,QUI-GON,Destroyer droids!
+1,10,37,FEDERATION BATTLESHIP,INT,OBI-WAN,"Offhand, I'd say this mission is past the negotiaion stage."
+1,10,38,FEDERATION BATTLESHIP,INT,P-59,Switch to bio...There they are!
+1,10,39,FEDERATION BATTLESHIP,INT,OBI-WAN,They have shield generators!
+1,10,40,FEDERATION BATTLESHIP,INT,QUI-GON,It's a standoff! Let's go!
+1,11,41,FEDERATION BATTLESHIP,INT,RUNE,"We have them on the run, sir...they're no match for destroyer droids."
+1,11,42,FEDERATION BATTLESHIP,INT,TEY HOW,"Sir, they've gone up the ventilation shaft."
+1,12,43,FEDERATION BATTLESHIP,INT,QUI-GON,Battle droids.
+1,12,44,FEDERATION BATTLESHIP,INT,OBI-WAN,It's an invisible army.
+1,12,45,FEDERATION BATTLESHIP,INT,QUI-GON,It's an odd play for the Trade Federation. We've got to warn the Naboo and contact Chancellor Valorum. Let's split up. Stow aboard separate ships and meet down on the planet.
+1,12,46,FEDERATION BATTLESHIP,INT,OBI-WAN,"You were right about one thing, Master. The negotiations were short."
+1,13,47,FEDERATION BATTLESHIP,INT,TEY HOW,"Sir, a transmission from the planet."
+1,13,48,FEDERATION BATTLESHIP,INT,RUNE,It's Queen Amidala herself.
+1,13,49,FEDERATION BATTLESHIP,INT,NUTE,At last we're getting results.
+1,13,50,FEDERATION BATTLESHIP,INT,NUTE,"Again you come before me, Your highness. The Federation is pleased."
+1,13,51,FEDERATION BATTLESHIP,INT,AMIDALA,"You will not be pleased when you hear what I have to say, Viceroy...Your trade boycott of our planet has ended."
+1,13,52,FEDERATION BATTLESHIP,INT,NUTE,I was not aware of such a failure.
+1,13,53,FEDERATION BATTLESHIP,INT,AMIDALA,I have word that the Senate is finally voting on this blockade of yours.
+1,13,54,FEDERATION BATTLESHIP,INT,NUTE,I take it you know the outcome. I wonder why they bother to vote.
+1,13,55,FEDERATION BATTLESHIP,INT,AMIDALA,"Enough of this pretense, Viceroy! I'm aware the Chancellor's Ambassadors are with you now, and that you have beencommanded to reach a settlement."
+1,13,56,FEDERATION BATTLESHIP,INT,NUTE,I know nothing about any Ambassadors...you must be mistaken.
+1,13,57,FEDERATION BATTLESHIP,INT,AMIDALA,"Beware, Viceroy....the Federation is going too far this time."
+1,13,58,FEDERATION BATTLESHIP,INT,NUTE,"Your Highness, we would never do anything without the approval of the Senate. You assume too much."
+1,13,59,FEDERATION BATTLESHIP,INT,AMIDALA,We will see.
+1,13,60,FEDERATION BATTLESHIP,INT,RUNE,"She's right, the Senate will never...."
+1,13,61,FEDERATION BATTLESHIP,INT,NUTE,It's too late now.
+1,13,62,FEDERATION BATTLESHIP,INT,RUNE,Do you think she suspects an attack?
+1,13,63,FEDERATION BATTLESHIP,INT,NUTE,"I don't know, but we must move quickly to disrupt all communications down there."
+1,14,64,NABOO PALACE,INT,PALPATINE,...How could that be true? I have assurances from the Chancellor...his Ambassaodrs did arrive. It must be the...get...negotiate...
+1,14,65,NABOO PALACE,INT,AMIDALA,Senator Palpatine?!?  What's happening?
+1,14,66,NABOO PALACE,INT,CAPT. PANAKA,Check the transmission generators...
+1,14,67,NABOO PALACE,INT,BIBBLE,A malfunction?
+1,14,68,NABOO PALACE,INT,CAPT. PANAKA,It could be the Federation jamming us. Your Highness.
+1,14,69,NABOO PALACE,INT,BIBBLE,A communications disruption can only mean one thing. Invasion.
+1,14,70,NABOO PALACE,INT,AMIDALA,"Don't jump to conclusions, Governor. The Federation would not dare go that far."
+1,14,71,NABOO PALACE,INT,CAPT. PANAKA,"The Senate would revoke their trade franchise, and they'd be finished."
+1,14,72,NABOO PALACE,INT,AMIDALA,We must continue to rely on negotiation.
+1,14,73,NABOO PALACE,INT,BIBBLE,Negotiation? We've lost all communications!...and where atre the Chancellors Ambassadors? How can we negotiate? We must prepare to defend ourselves.
+1,14,74,NABOO PALACE,INT,CAPT. PANAKA,"This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army."
+1,14,75,NABOO PALACE,INT,AMIDALA,I will not condone a course of action that will lead us to war.
+1,17,76,NABOO EDGE OF SWAMP / GRASS PLAINS,EXT,RUNE,...and there is no trace of the Jedi. They may have gotton onto one of your landing craft.
+1,17,77,NABOO EDGE OF SWAMP / GRASS PLAINS,EXT,OOM-9,"If they are down here, sir, we'll find them. We are moving out of the swamp and are marching on the cities. We are meeting no resistance."
+1,17,78,NABOO EDGE OF SWAMP / GRASS PLAINS,EXT,NUTE,Excellent.
+1,18,79,NABOO SWAMP,EXT,JAR JAR,"Oh, noooooooooo!"
+1,18,80,NABOO SWAMP,EXT,JAR JAR,"Hey, help me! Help me!!"
+1,18,81,NABOO SWAMP,EXT,QUI-GON,Let go!
+1,18,82,NABOO SWAMP,EXT,JAR JAR,"Oyi, mooie-mooie! I luv yous!"
+1,18,83,NABOO SWAMP,EXT,QUI-GON,Are you brainless? You almost got us killed!
+1,18,84,NABOO SWAMP,EXT,JAR JAR,I spake.
+1,18,85,NABOO SWAMP,EXT,QUI-GON,The ability to speak does not make you intelligent. Now get outta here!
+1,18,86,NABOO SWAMP,EXT,JAR JAR,No...no! Mesa stay...Mesa yous humble servaunt.
+1,18,87,NABOO SWAMP,EXT,QUI-GON,That wont be necessary.
+1,18,88,NABOO SWAMP,EXT,JAR JAR,"Oh boot tis! Tis demunded byda guds. Tis a live debett, tis. Mesa culled Jaja Binkss."
+1,18,89,NABOO SWAMP,EXT,QUI-GON,I have no time for this now...
+1,18,90,NABOO SWAMP,EXT,JAR JAR,Say what?
+1,18,91,NABOO SWAMP,EXT,JAR JAR,"Oh, nooooo! Weesa ganna...."
+1,18,92,NABOO SWAMP,EXT,QUI-GON,Stay down!
+1,18,93,NABOO SWAMP,EXT,JAR JAR,...dieeee!
+1,18,94,NABOO SWAMP,EXT,OBI-WAN,"Sorry, Master, the water fried my weapon."
+1,18,95,NABOO SWAMP,EXT,QUI-GON,"You forgot to turn your power off again, didn't you?"
+1,18,96,NABOO SWAMP,EXT,QUI-GON,"It won't take long to recharge, but this is a lesson I hope you've learned, my young Padawan."
+1,18,97,NABOO SWAMP,EXT,OBI-WAN,"Yes, Master."
+1,18,98,NABOO SWAMP,EXT,JAR JAR,"Yousa sav-ed my again, hey?"
+1,18,99,NABOO SWAMP,EXT,OBI-WAN,What's this?
+1,18,100,NABOO SWAMP,EXT,QUI-GON,"A local. Let's go, before more of those droids show up."
+1,18,101,NABOO SWAMP,EXT,JAR JAR,Mure? Mure did you spake??!?
+1,18,102,NABOO SWAMP,EXT,JAR JAR,"Ex-squeeze me, but da moto grande safe place would be Otoh Gunga. Tis where I grew up...Tis safe city."
+1,18,103,NABOO SWAMP,EXT,QUI-GON,A city!  Can you take us there?
+1,18,104,NABOO SWAMP,EXT,JAR JAR,"Ahhh, will...on second taut...no, not willy."
+1,18,105,NABOO SWAMP,EXT,QUI-GON,No??!
+1,18,106,NABOO SWAMP,EXT,JAR JAR,"Iss embarrissing, boot... My afrai my've bean banished. My forgoten der Bosses would do terrible tings to my. Terrible tings if my goen back dare."
+1,18,107,NABOO SWAMP,EXT,QUI-GON,You hear that?
+1,18,108,NABOO SWAMP,EXT,QUI-GON,That's the sound of a thousand terrible things heading this way...
+1,18,109,NABOO SWAMP,EXT,OBI-WAN,"When they find us, they will crush us, grind us into little pieces, then blast us into oblivion!"
+1,18,110,NABOO SWAMP,EXT,JAR JAR,Oh! Yousa point is well seen. Dis way! Hurry!
+1,19,111,NABOO SWAMP LAKE,EXT,QUI-GON,Much farther?
+1,19,112,NABOO SWAMP LAKE,EXT,JAR JAR,"Wesa goen underwater, okeyday?"
+1,19,113,NABOO SWAMP LAKE,EXT,JAR JAR,My warning yous. Gungans no liken outlaunders. Don't expict a wern welcome.
+1,19,114,NABOO SWAMP LAKE,EXT,OBI-WAN,"Don't worry, this has not been our day for warm welcomes."
+1,21,115,OTOH GUNGA,INT,JAR JAR,"Heyo-dalee, Cap'n Tarpals, Mesa back!"
+1,21,116,OTOH GUNGA,INT,CAPT. TARPALS,"Noah gain, Jar Jar. Yousa goen tada Bosses. Yousa in big dudu this time."
+1,21,117,OTOH GUNGA,INT,JAR JAR,How wude.
+1,22,118,OTOH GUNGA,INT,BOSS NASS,Yousa cannot bees hair. Dis army of mackineeks up dare tis new weesong!
+1,22,119,OTOH GUNGA,INT,QUI-GON,That droid army is about to attack the Naboo. We must warn them.
+1,22,120,OTOH GUNGA,INT,BOSS NASS,Wesa no like da Naboo! Un dey no like uss-ens. Da Naboo tink day so smarty den us-ens. Day tink day brains so big.
+1,22,121,OTOH GUNGA,INT,OBI-WAN,"After those droids take control of the surface, they will come here and take control of you."
+1,22,122,OTOH GUNGA,INT,BOSS NASS,"No, mesa no tink so. Mesa scant talkie witda Naboo, and no nutten talkie it outlaunders. Dos mackineeks no comen here! Dey not know of uss-en."
+1,22,123,OTOH GUNGA,INT,OBI-WAN,You and the Naboo form a symbiont circle. What happens to noe of you will affect the other. You must understand this.
+1,22,124,OTOH GUNGA,INT,BOSS NASS,"Wesa wish no nutten in yousa tings, outlaunder, and wesa no care-n about da Naboo."
+1,22,125,OTOH GUNGA,INT,QUI-GON,Then speed us on our way.
+1,22,126,OTOH GUNGA,INT,BOSS NASS,Wesa gonna speed yousaway.
+1,22,127,OTOH GUNGA,INT,QUI-GON,We need a transport.
+1,22,128,OTOH GUNGA,INT,BOSS NASS,Wesa give yousa una bongo. Da speedest way tooda Naboo tis goen through da core. Now go.
+1,22,129,OTOH GUNGA,INT,QUI-GON,Thank you for your help. We go in peace.
+1,22,130,OTOH GUNGA,INT,OBI-WAN,"Master, whats a bongo?"
+1,22,131,OTOH GUNGA,INT,QUI-GON,"A transport, I hope."
+1,22,132,OTOH GUNGA,INT,JAR JAR,Daza setten yous up. Goen through da planet core is bad bombin!!
+1,22,133,OTOH GUNGA,INT,QUI-GON,"Thank you, my friend."
+1,22,134,OTOH GUNGA,INT,JAR JAR,Ahhh...any hep hair would be hot.
+1,22,135,OTOH GUNGA,INT,OBI-WAN,"We are short of time, Master."
+1,22,136,OTOH GUNGA,INT,QUI-GON,We'll need a navigator to get us through the planet's core. This Gungan my be of help.
+1,22,137,OTOH GUNGA,INT,QUI-GON,What is to become of Jar Jar Binks here?
+1,22,138,OTOH GUNGA,INT,BOSS NASS,Binkss brokeen the nocombackie law. Hisen to be pune-ished.
+1,22,139,OTOH GUNGA,INT,QUI-GON,He has been a great help to us. I hope the punishment will not be too severe.
+1,22,140,OTOH GUNGA,INT,BOSS NASS,Pounded unto death.
+1,22,141,OTOH GUNGA,INT,JAR JAR,Oooooh...Ouch!
+1,22,142,OTOH GUNGA,INT,QUI-GON,"We need a navigator to get us through the planet's core. I have saved Jar Jar Binks' life. He owes me what you call a ""life.debt."""
+1,22,143,OTOH GUNGA,INT,BOSS NASS,Binks. Yousa havena liveplay with thisen hisen?
+1,22,144,OTOH GUNGA,INT,QUI-GON,Your gods demand that his life belongs to me now.
+1,22,145,OTOH GUNGA,INT,BOSS NASS,"Hisen live tis yos, outlauder. Begone wit him."
+1,22,146,OTOH GUNGA,INT,JAR JAR,"Count mesa outta dis! Better dead here, den deader in da core...Yee guds, whata mesa sayin?!"
+1,24,147,SUB COCKPIT,INT,JAR JAR,Dis is nusen.
+1,24,148,SUB COCKPIT,INT,OBI-WAN,"Master, why do you keep dragging these pathetic life forms along with us?...Here, take over."
+1,24,149,SUB COCKPIT,INT,JAR JAR,"Hey, ho? Where wesa goen??"
+1,24,150,SUB COCKPIT,INT,QUI-GON,You're the navigator.
+1,24,151,SUB COCKPIT,INT,JAR JAR,"Yo dreamen mesa hopen...,br QUI-GON   Just relax, the Force will guide us..."
+1,24,152,SUB COCKPIT,INT,JAR JAR,"Ooooh, maxibig...""da Force""...Wellen, dat smells stinkowiff."
+1,24,153,SUB COCKPIT,INT,OBI-WAN,"Why were you banished, Jar Jar?"
+1,24,154,SUB COCKPIT,INT,JAR JAR,"Tis a long tale, buta small part wawdabe mesa...ooooh...aaaa.....clumsy."
+1,24,155,SUB COCKPIT,INT,OBI-WAN,They banished you because you're clumsy?
+1,24,156,SUB COCKPIT,INT,JAR JAR,"Mesa cause-ed mabee one or duey lettal bitty axadentes...yud-say boom da gasser, un crash Der Bosses heyblibber...den banished."
+1,24,157,SUB COCKPIT,INT,QUI-GON,Full speed ahead.
+1,24,158,SUB COCKPIT,INT,JAR JAR,Oooops.
+1,24,159,SUB COCKPIT,INT,OBI-WAN,Give me the controls.
+1,24,160,SUB COCKPIT,INT,JAR JAR,Wesa free!
+1,24,161,SUB COCKPIT,INT,QUI-GON,There's always a bigger fish.
+1,25,162,FEDERATION BATTLESHIP,INT,NUTE,"The invasion is on schedule, My Lord."
+1,25,163,FEDERATION BATTLESHIP,INT,DARTH SIDIOUS,"Good. I have the Senate bogged down in procedures. By the time this incident comes up for a vote, they will have no choice but to accept your control of the system."
+1,25,164,FEDERATION BATTLESHIP,INT,NUTE,The Queen has great faith the Senate will side with her.
+1,25,165,FEDERATION BATTLESHIP,INT,DARTH SIDIOUS,"Queen Amidala is yound and naive. You will find controlling her will not be difficult. You have done well, Viceroy."
+1,25,166,FEDERATION BATTLESHIP,INT,NUTE,"Thank you, My Lord."
+1,25,167,FEDERATION BATTLESHIP,INT,RUNE,You didn't tell him about the missing Jedi?
+1,25,168,FEDERATION BATTLESHIP,INT,NUTE,"No need to report that to him, until we have something to report."
+1,26,169,SUB COCKPIT,INT,OBI-WAN,.....we're losing power.
+1,26,170,SUB COCKPIT,INT,QUI-GON,Stay calm. We're not in trouble yet.
+1,26,171,SUB COCKPIT,INT,JAR JAR,"What yet? Monstairs out dare! Leak'n in here, all'n sink'n, and nooooo power! You nutsen! WHEN YOUSA TINK WESA IN TROUBLE?!!!?"
+1,26,172,SUB COCKPIT,INT,OBI-WAN,Power's back.
+1,26,173,SUB COCKPIT,INT,JAR JAR,Monstairs back!
+1,26,174,SUB COCKPIT,INT,JAR JAR,Wesa in trouble now??
+1,26,175,SUB COCKPIT,INT,QUI-GON,Relax.
+1,26,176,SUB COCKPIT,INT,OBI-WAN,You overdid it.
+1,26,177,SUB COCKPIT,INT,JAR JAR,Wesa dead yet?? Oie Boie!
+1,26,178,SUB COCKPIT,INT,QUI-GON,Head for that outcropping.
+1,28,179,THEED PLAZA,EXT,NUTE,"Ah, victory!"
+1,29,180,NABOO LAKE,INT,JAR JAR,Wesa dude it!
+1,30,181,THEED,EXT,JAR JAR,Wesa safe now.
+1,30,182,THEED,EXT,QUI-GON,Get this thing started.
+1,30,183,THEED,EXT,JAR JAR,Dissen berry good. Hey?
+1,30,184,THEED,EXT,OBI-WAN,What is it?
+1,30,185,THEED,EXT,JAR JAR,What!!?? Oie boie!
+1,30,186,THEED,EXT,JAR JAR,"Iyiiyi, wesa die'n here, hey!"
+1,30,187,THEED,EXT,QUI-GON,Come on...
+1,30,188,THEED,EXT,QUI-GON,"Come on, Jar Jar."
+1,30,189,THEED,EXT,JAR JAR,No! Too scary!
+1,30,190,THEED,EXT,OBI-WAN,Get up here!
+1,30,191,THEED,EXT,JAR JAR,No a mighty no!
+1,30,192,THEED,EXT,JAR JAR,Oie boie...mesa comen. Mesa comen!
+1,30,193,THEED,EXT,OBI-WAN,That was close.
+1,30,194,THEED,EXT,BATTLE DROID 3B3,Drop your weapons!
+1,30,195,THEED,EXT,BATTLE DROID 3B3,I said drop your weapons
+1,30,196,THEED,EXT,JAR JAR,Whoa!!!
+1,32,197,THEED,INT,BIBBLE,...how will you explain this invasion to the Senate?
+1,32,198,THEED,INT,NUTE,The Naboo and the Federation will forge a treaty that will legitimize our occupation here. I've been assured it will be ratified by the Senate.
+1,32,199,THEED,INT,AMIDALA,I will not co-operate.
+1,32,200,THEED,INT,NUTE,"Now, now, your Highness. You are not going to like what we have in store for your people. In time, their suffering will persuade you to see our point of view. Commander.  Process them."
+1,32,201,THEED,INT,OOM-9,"Yes, sir!  Take them to Camp Four."
+1,34,202,CENTRAL HANGER,INT,CAPT. PANAKA,There are too many of them.
+1,34,203,CENTRAL HANGER,INT,QUI-GON,"That won't be a problem.  Your Highness, under the circumstances, Isuggest you come to Coruscant with us."
+1,34,204,CENTRAL HANGER,INT,AMIDALA,"Thank you, Ambassador, but my place is here with my people."
+1,34,205,CENTRAL HANGER,INT,QUI-GON,They will kill you if you stay.
+1,34,206,CENTRAL HANGER,INT,BIBBLE,They wouldn't dare.
+1,34,207,CENTRAL HANGER,INT,CAPT. PANAKA,They need her to sign a treaty to make this invasion of theirs legal. They can't afford to kill her.
+1,34,208,CENTRAL HANGER,INT,QUI-GON,"The situation here is not what it seems. There is something else behind all this, Your Highness. There is no logic in the Federation's move here. My feelings tell me they will destroy you."
+1,34,209,CENTRAL HANGER,INT,BIBBLE,"Please, Your Highness, reconsider. Our only hope is for the Senate to side with us... Senator Palpatine will need your help."
+1,34,210,CENTRAL HANGER,INT,CAPT. PANAKA,"Getting past their blockade is impossible, Your Highness. Any attempt to escape will be dangerous."
+1,34,211,CENTRAL HANGER,INT,BIBBLE,"Your Highness, I will stay here and do what I can...They will have to retain the Council of Governors in order to maintain control. But you must leave..."
+1,34,212,CENTRAL HANGER,INT,AMIDALA,Either choice presents a great risk...to all of us...
+1,34,213,CENTRAL HANGER,INT,PADME,"We are brave, Your Highness."
+1,34,214,CENTRAL HANGER,INT,QUI-GON,"If you are to leave, Your Highness, it must be now."
+1,34,215,CENTRAL HANGER,INT,AMIDALA,"Then, I will plead our case before the Senate.  Be careful, Governor."
+1,35,216,CENTRAL HANGER,INT,CAPT. PANAKA,We need to free those pilots.
+1,35,217,CENTRAL HANGER,INT,OBI-WAN,I'll take care of that. OBI-WAN heads toward the group of captured pilots.
+1,35,218,CENTRAL HANGER,INT,GUARD DROID,Where are you going?
+1,35,219,CENTRAL HANGER,INT,QUI-GON,"I'm Ambassador for the Supreme Chancellor, and I'm taking those people to Coruscant."
+1,35,220,CENTRAL HANGER,INT,DROID GUARD,You're under arrest!
+1,38,221,NABOO SPACECRAFT,INT,RIC OLIE,....our communications are still jammed.
+1,39,222,NABOO SPACECRAFT,INT,OBI-WAN,"Now stay here, and keep out of trouble."
+1,39,223,NABOO SPACECRAFT,INT,JAR JAR,"Ello, boyos.  Disa wanna longo trip...hey?"
+1,39,224,NABOO SPACECRAFT,INT,JAR JAR,Tis opens?...Oooops! Many springs and things come flying out.
+1,39,225,NABOO SPACECRAFT,INT,JAR JAR,Yoi! Just yoken!
+1,39,226,NABOO SPACECRAFT,INT,RIC OLIE,"Powers back! That little droid did it. He bypassed the main power drive. Deflector shield up, at maximum."
+1,39,227,NABOO SPACECRAFT,INT,RIC OLIE,There's not enough power to get us to Coruscant...the hyperdrive is leaking.
+1,39,228,NABOO SPACECRAFT,INT,QUI-GON,We'll have to land somewhere to refuel and repair the ship.
+1,39,229,NABOO SPACECRAFT,INT,OBI-WAN,"Here, Master. Tatooine... It's small, out of the way, poor... The Trade Federation has no presence there."
+1,39,230,NABOO SPACECRAFT,INT,CAPT. PANAKA,How can you be sure?
+1,39,231,NABOO SPACECRAFT,INT,QUI-GON,It's controlled by the Hutts...
+1,39,232,NABOO SPACECRAFT,INT,CAPT. PANAKA,The Hutts??
+1,39,233,NABOO SPACECRAFT,INT,OBI-WAN,It's risky...but there's no alternative.
+1,39,234,NABOO SPACECRAFT,INT,CAPT. PANAKA,You can't take Her Royal Highness there! The Hutts are gangsters... If they discovered her...
+1,39,235,NABOO SPACECRAFT,INT,QUI-GON,"...It would be no different than if we landed on a system controlled by the Federation...except the Hutts aren't looking for her, which gives us an advantage."
+1,41,236,FEDERATION BATTLESHIP,INT,NUTE,We control all the cities in the North and are searching for any other settlements...
+1,41,237,FEDERATION BATTLESHIP,INT,DARTH SIDIOUS,"Destroy all high-ranking officials, Viceroy...slowly...quietly. And Queen Amidala, has she signed the treaty?"
+1,41,238,FEDERATION BATTLESHIP,INT,NUTE,"She has disappeared, My Lord. One Naboo cruiser got pat the blockade."
+1,41,239,FEDERATION BATTLESHIP,INT,DARTH SIDIOUS,"Viceroy, find her! I want that treaty signed."
+1,41,240,FEDERATION BATTLESHIP,INT,NUTE,"My Lord, it's impossible to locate the ship. It's out of our range."
+1,41,241,FEDERATION BATTLESHIP,INT,DARTH SIDIOUS,...not for a Sith...
+1,41,242,FEDERATION BATTLESHIP,INT,DARTH SIDIOUS,"...Viceroy, this is my apprentice. Lord Maul. He will find your lost ship."
+1,41,243,FEDERATION BATTLESHIP,INT,NUTE,"Yes, My Lord. The hologram fades off."
+1,41,244,FEDERATION BATTLESHIP,INT,NUTE,This is getting out of hand...now there are two of them.
+1,41,245,FEDERATION BATTLESHIP,INT,RUNE,We should not have made this bargain. What will happen when the Jedi become aware of these Sith Lords?
+1,42,246,NABOO SPACECRAFT,INT,CAPT. PANAKA,"...An extremely well put together little droid. Without a doubt, it saved the ship, as well as our lives."
+1,42,247,NABOO SPACECRAFT,INT,AMIDALA,It is to be commended...what is its number?
+1,42,248,NABOO SPACECRAFT,INT,CAPT. PANAKA,"R2-D2, Your Highness."
+1,42,249,NABOO SPACECRAFT,INT,AMIDALA,"Thank you, Artoo Detoo. You have proven to be very loyal...Padme!"
+1,42,250,NABOO SPACECRAFT,INT,AMIDALA,"Clean this droid up the best you can. It deserves our gratitude... Continue, Captain."
+1,42,251,NABOO SPACECRAFT,INT,QUI-GON,"Yor Highness, we are heading for a remote planet called Tatooine. It is a system far beyond the reach of the Trade Federation. There we will be able to make needed repairs, then travel on to Coruscant."
+1,42,252,NABOO SPACECRAFT,INT,CAPTAIN PANAKA,"Your Highness, Tatooine is very dangerous. It's controlled by an alliance of gangs called the Hutts. I do not agree with the Jedi on this."
+1,42,253,NABOO SPACECRAFT,INT,QUI-GON,"You must trust my judgement, Your Highness."
+1,43,254,NABOO SPACECRAFT,INT,JAR JAR,Hidoe!
+1,43,255,NABOO SPACECRAFT,INT,JAR JAR,"Sorry, nomeanen to scare yousa."
+1,43,256,NABOO SPACECRAFT,INT,PADME,That's all right.
+1,43,257,NABOO SPACECRAFT,INT,JAR JAR,I scovered oily back dare. Needen it?
+1,43,258,NABOO SPACECRAFT,INT,PADME,Thank you. This little guy is quite a mess.
+1,43,259,NABOO SPACECRAFT,INT,JAR JAR,"Mesa Ja Ja Binksss... PADME   I'm Padme, I attend Her Highness, You're a Gungan, aren't you?  How did you end up here with us?"
+1,43,260,NABOO SPACECRAFT,INT,JAR JAR,"Me no know...mesa day starten pitty okeyday witda brisky morning munchen. Den boom....getten berry skeered, un grabbed dat Jedi, and before mesa knowen it...pow! Mesa here. ...getten berry berry skeered."
+1,44,261,ANBOO SPACECRAFT,INT,OBI-WAN,Tahyt's it. Tatooine.
+1,44,262,ANBOO SPACECRAFT,INT,RIC OLIE,"There's a settlement...a spaceport, looks like."
+1,44,263,ANBOO SPACECRAFT,INT,QUI-GON,Land near the outskirts. We don't want to attract any attention.
+1,47,264,NABOO SPACECRAFT,EXT,JAR JAR,"Obi-Wan, sire, pleeese, no mesa go!"
+1,47,265,NABOO SPACECRAFT,EXT,OBI-WAN,"Sorry, Qui-Gon's right. You'll make things less obvious."
+1,47,266,NABOO SPACECRAFT,EXT,OBI-WAN,The Hyperdrive generator is gone. We will need a new one.
+1,47,267,NABOO SPACECRAFT,EXT,QUI-GON,Don't let them send ant transmissions. Be wary...I sense a disturbance in the Force.
+1,47,268,NABOO SPACECRAFT,EXT,OBI-WAN,"I fell it also, Master."
+1,48,269,TATOOINE,EXT,JAR JAR,Dis sun doen murder tada skin.
+1,48,270,TATOOINE,EXT,CAPT. PANAKA,Wait!
+1,48,271,TATOOINE,EXT,CAPT. PANAKA,Her Highness commands you to take her handmaiden with you. She wishes for her to observe the local...
+1,48,272,TATOOINE,EXT,QUI-GON,"No more commands from Her Highness today, Captain. This spaceport is not going to be pleasant..."
+1,48,273,TATOOINE,EXT,CAPT. PANAKA,The Queen wishes it. She is curious about this planet.
+1,48,274,TATOOINE,EXT,PADME,I've been trained in defense... I can take care of myself.
+1,48,275,TATOOINE,EXT,CAPT. PANAKA,Don't make me go back and tell her you refuse.
+1,48,276,TATOOINE,EXT,QUI-GON,I don't have time to argue. But this is not a good idea. Stay close to me.
+1,49,277,MOS ESPA,EXT,QUI-GON,"...moisture farms for the most part, but also a few indigenous tribes and scavengers. The few spaceports like this one are havens for those who do not wish to be found..."
+1,49,278,MOS ESPA,EXT,PADME,....like us. JAR JAR is in a constant state of panic.
+1,49,279,MOS ESPA,EXT,JAR JAR,Dissen berry berry bad. Ooooh...icky...icky...goo.
+1,50,280,MOS ESPA,EXT,QUI-GON,We'll try one of the smaller dealers.
+1,51,281,WATTO'S JUNK SHOP,INT,WATTO,Hi chuba da naga?
+1,51,282,WATTO'S JUNK SHOP,INT,QUI-GON,I need parts for a J-type 327 Nubian.
+1,51,283,WATTO'S JUNK SHOP,INT,WATTO,"Ah yes, ah yes. Nubian. We have lots of that. What kinda junk? Peedenkel! Naba dee unko"
+1,51,284,WATTO'S JUNK SHOP,INT,QUI-GON,My droid here has a readout of what I need.
+1,51,285,WATTO'S JUNK SHOP,INT,WATTO,Coona tee-tocky malia?
+1,51,286,WATTO'S JUNK SHOP,INT,ANAKIN,Mel tassa cho-passa... (I was cleaning the bin like you...)
+1,51,287,WATTO'S JUNK SHOP,INT,WATTO,"Chut-Chut! Ganda doe wallya. (Never mind! Watch the store) Me dwana no bata. Soooo, let me take- a thee out back. Ni you'll find what you need."
+1,51,288,WATTO'S JUNK SHOP,INT,QUI-GON,Don't touch anything.
+1,51,289,WATTO'S JUNK SHOP,INT,ANAKIN,Are you an angel?
+1,51,290,WATTO'S JUNK SHOP,INT,PADME,What?
+1,51,291,WATTO'S JUNK SHOP,INT,ANAKIN,"An angel. I've heard the deep space pilots talk about them. They live on the Moons of Iego I thimk. They are the most beautiful creatures in the universe. They are good and kind, and so pretty they make even the most hardened spice pirate cry."
+1,51,292,WATTO'S JUNK SHOP,INT,ANAKIN,You must be one...maybe you just don't know it.
+1,51,293,WATTO'S JUNK SHOP,INT,PADME,You're a funny little boy. How do you know so much?
+1,51,294,WATTO'S JUNK SHOP,INT,ANAKIN,"Since I was very little, three, I think. My Mom and I were sold to Gardulla the Hutt, but she lost us, betting on the Podraces, to Watto, who's a lot better master than Gardulla, I think."
+1,51,295,WATTO'S JUNK SHOP,INT,PADME,You're...a slave?
+1,51,296,WATTO'S JUNK SHOP,INT,ANAKIN,I am a person! My name is Anakin.
+1,51,297,WATTO'S JUNK SHOP,INT,PADME,I'm sorry. I don't fully understand. This is a strange world to me.
+1,51,298,WATTO'S JUNK SHOP,INT,ANAKIN,You are a strange girl to me.
+1,51,299,WATTO'S JUNK SHOP,INT,ANAKIN,Hit the nose!
+1,52,300,WATTO'S JUNK YARD,EXT,WATTO,"...Here it is...a T-14 hyperdrive generator!! Thee in luck, I'm the only one hereabouts who has one...but thee might as well buy a new ship. It would be cheaper, I think...Sying of which, how's thee going to pay for all this?"
+1,52,301,WATTO'S JUNK YARD,EXT,QUI-GON,"I have 20,000 Republic dataries."
+1,52,302,WATTO'S JUNK YARD,EXT,WATTO,Republic credits?!? Republic credits are no good out here. I need something more real...
+1,52,303,WATTO'S JUNK YARD,EXT,QUI-GON,I don't have anything else.  But credits will do fine.
+1,52,304,WATTO'S JUNK YARD,EXT,WATTO,"No they won'ta. QUI-GON, using his mind power, waves his hand again."
+1,52,305,WATTO'S JUNK YARD,EXT,QUI-GON,Credits will do fine.
+1,52,306,WATTO'S JUNK YARD,EXT,WATTO,"No, they won'ta. What you think you're some kinda Jedi, waving your hand around like that? I'm a Toydarian. Mind tricks don'ta work on me-only money. No money, no parts! No deal! And no one else has a T-14 hyperdrive, I promise you that."
+1,53,307,WATTO'S JUNK SHOP,INT,ANAKIN,...wouldn't have lasted long if I weren't so good at fixing things. I'm making my own droid...
+1,53,308,WATTO'S JUNK SHOP,INT,PADME,"I'm glad I met you,....ah..."
+1,53,309,WATTO'S JUNK SHOP,INT,ANAKIN,...Anakin.
+1,53,310,WATTO'S JUNK SHOP,INT,PADME,Anakin.
+1,53,311,WATTO'S JUNK SHOP,INT,ANAKIN,Anakin Skywalker.
+1,53,312,WATTO'S JUNK SHOP,INT,PADME,Padme Naberrie.
+1,53,313,WATTO'S JUNK SHOP,INT,ANAKIN,I'm glad I met you too.
+1,53,314,WATTO'S JUNK SHOP,INT,WATTO,"Ootmians! Tinka me chasa hopoe ma booty na nolia. (Outlanders! They think because we live so far from the center, we don't know nothing.)"
+1,53,315,WATTO'S JUNK SHOP,INT,ANAKIN,"La lova num botaffa.  WATTO Fweepa niaga. Tolpa da bunky dunko. (Clean the racks, then you can go home.)"
+1,54,316,MOS ESPA,EXT,QUI-GON,"...Obi-Wan, you're sure there isn't anything of value left on board?"
+1,54,317,MOS ESPA,EXT,OBI-WAN,"A few containers of supplies, the Queen's wardrobe, maybe. Not enough for you to barter with. Not in the ammounts you're talking about."
+1,54,318,MOS ESPA,EXT,QUI-GON,All right. Another solution will present itself. I'll check back.
+1,54,319,MOS ESPA,EXT,JAR JAR,Noah gain...da beings hereabouts cawazy. Wesa be robbed un crunched.
+1,54,320,MOS ESPA,EXT,QUI-GON,"Not likely. We have nothing of value, that's our problem."
+1,55,321,MOS ESPA,EXT,VENDOR,"Hey, that will be seven truguts!!"
+1,55,322,MOS ESPA,EXT,SEBULBA,"Chuba!!  JAR JAR   Who, mesa?? SEBULBA Ni chuba na??"
+1,55,323,MOS ESPA,EXT,JAR JAR,Why mesa always da one??
+1,55,324,MOS ESPA,EXT,ANAKIN,Because you're afraid.
+1,55,325,MOS ESPA,EXT,ANAKIN,"Chess ko, Sebulba...Coo wolpa tooney rana. (Careful, Sebulba...This one's very connected.)"
+1,55,326,MOS ESPA,EXT,SEBULBA,"Tooney rana nu pratta dunko, shag. (Connected?? Whada you mean, slave?)"
+1,55,327,MOS ESPA,EXT,ANAKIN,"Oh da Hutt...cha porko ootman geesa...me teesa rodda co pana pee choppa chawa. (As in Hutt...big time outlander, this one... I'd hate to see you diced before we race again.)"
+1,55,328,MOS ESPA,EXT,SEBULBA,"Neek me chowa, wermo, mo killee ma klounkee(Next time we race, wermo, it will be the end of you!) Una noto wo shag, me wompity du pom pom."
+1,55,329,MOS ESPA,EXT,ANAKIN,"Eh, chee bana do mullee ra. (Yeah, it'd be a pity if you had to pay for me.)"
+1,55,330,MOS ESPA,EXT,ANAKIN,Hi! Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba.
+1,55,331,MOS ESPA,EXT,JAR JAR,"Nosir, nosir. Mesa hate crunchen. Dat's da last ting mesa wanten."
+1,55,332,MOS ESPA,EXT,QUI-GON,"Nevertheless, the boy is right...you were heading for trouble. Thank you, my young friend."
+1,55,333,MOS ESPA,EXT,JAR JAR,Mesa doen nutten!
+1,55,334,MOS ESPA,EXT,ANAKIN,Fear attracts the fearful. He was trying to overcome his fear by squashing you...be less afraid.
+1,55,335,MOS ESPA,EXT,PADME,And that works for you.
+1,55,336,MOS ESPA,EXT,ANAKIN,To a point.
+1,56,337,TATOOINE,EXT,OBI-WAN,This storm's going to slow them down.
+1,56,338,TATOOINE,EXT,CAPT. PANAKA,It looks pretty bad. We'd better seal the ship.
+1,56,339,TATOOINE,EXT,CAPT. PANAKA,Yes? CAPT. PANAKA   We'll be right there.
+1,57,340,MOS ESPA,EXT,ANAKIN,"How are you feeling today, Jira?"
+1,57,341,MOS ESPA,EXT,JIRA,"The heat's never been kind to me, you know, Annie!"
+1,57,342,MOS ESPA,EXT,ANAKIN,"Guess what? I've found that cooling unit I've been searching for. It's pretty beat up, but I'll have it fixed up for you in no time, I promise."
+1,57,343,MOS ESPA,EXT,JIRA,"You're a fine boy, Annie."
+1,57,344,MOS ESPA,EXT,ANAKIN,I'll take four pallies today.  You'll like these...
+1,57,345,MOS ESPA,EXT,ANAKIN,"Whoops, I thought I had more...Make thgat three, I'm not hungry."
+1,57,346,MOS ESPA,EXT,JIRA,"Gracious, my bones are aching...storm's coming on, Annie. You'd better get home quick."
+1,57,347,MOS ESPA,EXT,ANAKIN,Do you have shelter?
+1,57,348,MOS ESPA,EXT,QUI-GON,We'll hed back to our ship.
+1,57,349,MOS ESPA,EXT,ANAKIN,Is it far?
+1,57,350,MOS ESPA,EXT,PADME,On the outskirts.
+1,57,351,MOS ESPA,EXT,ANAKIN,"You'll never reach the outskirts in time...sandstorms are very, very dangerous. Come with me. Hurry!"
+1,59,352,ANAKIN'S HOVEL,INT,ANAKIN,Mom! Mom! I'm home.
+1,59,353,ANAKIN'S HOVEL,INT,JAR JAR,Dissen cozy.
+1,59,354,ANAKIN'S HOVEL,INT,SHMI,"Oh, my!! Annie, what's this?"
+1,59,355,ANAKIN'S HOVEL,INT,ANAKIN,"These are my friends, Mom. This is Padme, and...gee, I don't know any of your names."
+1,59,356,ANAKIN'S HOVEL,INT,QUI-GON,"I'm Qui-Gon Jinn, and this is Jar Jar Binks. ARTOO lets out a little beep."
+1,59,357,ANAKIN'S HOVEL,INT,PADME,"...and our droid, Artoo-Detoo."
+1,59,358,ANAKIN'S HOVEL,INT,ANAKIN,I'm building a droid. You wanna see?
+1,59,359,ANAKIN'S HOVEL,INT,SHMI,Anakin! Why are they here?
+1,59,360,ANAKIN'S HOVEL,INT,ANAKIN,"A sandstorm, Mom. Listen."
+1,59,361,ANAKIN'S HOVEL,INT,QUI-GON,Your son was kind enough to offer us shelter.
+1,59,362,ANAKIN'S HOVEL,INT,ANAKIN,Come on! Let me show you Threepio!
+1,59,363,ANAKIN'S HOVEL,INT,QUI-GON,I have enough food for a meal.
+1,59,364,ANAKIN'S HOVEL,INT,SHMI,"Oh, tank you. Thank you so much. I'm sorry if I was abrupt. I'll never get used to Anakin's surprises."
+1,59,365,ANAKIN'S HOVEL,INT,QUI-GON,He's a very special boy. SHMI looks at him as if he's discovered a secret.
+1,59,366,ANAKIN'S HOVEL,INT,SHMI,"Yes, I know."
+1,60,367,ANAKIN'S HOVEL,INT,ANAKIN,Isn't he great?! He's not finished yet.
+1,60,368,ANAKIN'S HOVEL,INT,PADME,He's wonderful!
+1,60,369,ANAKIN'S HOVEL,INT,ANAKIN,You reall like him? He's a protocol droid...to help Mom. Watch!
+1,60,370,ANAKIN'S HOVEL,INT,THREEPIO,"How do you do, I am See-Threepio, Human Cyborg Relations. How might I serve you?"
+1,60,371,ANAKIN'S HOVEL,INT,PADME,He's perfect.
+1,60,372,ANAKIN'S HOVEL,INT,ANAKIN,"When the storm is over, you can see my racer. I'm building a Podracer!"
+1,60,373,ANAKIN'S HOVEL,INT,THREEPIO,I beg your pardon....what do you mean I'm naked?
+1,61,374,NABOO SPACECRAFT,INT,BIBBLE,"...cut off all food supplies until you return...the death toll is catastrophic...we must bow to their wishes, Your Highness...Please tell us what to do! If you can hear us, Your Highness, you must contact me..."
+1,61,375,NABOO SPACECRAFT,INT,OBI-WAN,It's a trick. Send no reply... Send no transmission of any kind.
+1,62,376,ANAKIN'S HOVEL,INT,OBI-WAN,...the Queen is upset...but absolutly no reply was sent.
+1,62,377,ANAKIN'S HOVEL,INT,QUI-GON,It sounds like bait to establish a connection trace.
+1,62,378,ANAKIN'S HOVEL,INT,OBI-WAN,What if it is true and the people are dying?
+1,62,379,ANAKIN'S HOVEL,INT,QUI-GON,"Either way, we're running out of time."
+1,63,380,CORUSCANT,EXT,DARTH MAUL,"Tatooine is sparsely populated. If the trace was correct, I will find them quickly, Master."
+1,63,381,CORUSCANT,EXT,DARTH SIDIOUS,"Move against the Jedi first...you will then have no difficulty taking the Queen back to Naboo, where she will sign the treaty."
+1,63,382,CORUSCANT,EXT,DARTH MAUL,At last we will reveal ourselves to the Jedi. At last we will have revenge.
+1,63,383,CORUSCANT,EXT,DARTH SIDIOUS,"You have been well trained, my young apprentice, they will be no match for you. It is too late for them to stop us now. Everything is going as planned. The Republic will soon be in my command."
+1,64,384,ANAKIN'S HOVEL,INT,SHMI,All slaves have transmitters placed inside their bodies somewhere.
+1,64,385,ANAKIN'S HOVEL,INT,ANAKIN,"I've been working on a scanner to try and locate them, but no luck."
+1,64,386,ANAKIN'S HOVEL,INT,SHMI,Any attempt to escape...
+1,64,387,ANAKIN'S HOVEL,INT,ANAKIN,...and they blow you up...poof!
+1,64,388,ANAKIN'S HOVEL,INT,JAR JAR,How wude.
+1,64,389,ANAKIN'S HOVEL,INT,PADME,I can't believe there is still slavery in the galaxy. The Republic's anti-slavery laws...
+1,64,390,ANAKIN'S HOVEL,INT,SHMI,The Republic doesn't exist out here...we must survive on our own.
+1,64,391,ANAKIN'S HOVEL,INT,ANAKIN,Have you ever seen a Podrace?
+1,64,392,ANAKIN'S HOVEL,INT,QUI-GON,"They have Podracing on Malastare. Very fast, very dangerous."
+1,64,393,ANAKIN'S HOVEL,INT,ANAKIN,I'm the only human who can do it.
+1,64,394,ANAKIN'S HOVEL,INT,ANAKIN,"Mom, what? I'm not bragging. It's true. Watto says he's never heard of a human doing it."
+1,64,395,ANAKIN'S HOVEL,INT,QUI-GON,You must have Jedi reflexes if you race Pods.
+1,64,396,ANAKIN'S HOVEL,INT,QUI-GON,Don't do that again.
+1,64,397,ANAKIN'S HOVEL,INT,ANAKIN,I...I was wondering...something...
+1,64,398,ANAKIN'S HOVEL,INT,QUI-GON,What?
+1,64,399,ANAKIN'S HOVEL,INT,ANAKIN,"Well, ahhh...you're a Jedi Knight, aren't you?"
+1,64,400,ANAKIN'S HOVEL,INT,QUI-GON,What makes you think that?
+1,64,401,ANAKIN'S HOVEL,INT,ANAKIN,I saw your laser sword. Only Jedi carry that kind of weapon.
+1,64,402,ANAKIN'S HOVEL,INT,QUI-GON,Perhaps I killed a Jedi and stole it from him.
+1,64,403,ANAKIN'S HOVEL,INT,ANAKIN,I don't think so... No one can kill a Jedi Knight.
+1,64,404,ANAKIN'S HOVEL,INT,QUI-GON,I wish that were so... ANAKIN. I had a dream I was a Jedi. I came back here and freed all the slaves...have you come to free us?
+1,64,405,ANAKIN'S HOVEL,INT,QUI-GON,"No, I'm afraid not..."
+1,64,406,ANAKIN'S HOVEL,INT,ANAKIN,I think you have...why else would you be here?
+1,64,407,ANAKIN'S HOVEL,INT,QUI-GON,"I can see there's no fooling you... You mustn't let anyone know about us...we're on our way to Coruscant, the central system in the Republic, on a very important mission, and it must be kept secret."
+1,64,408,ANAKIN'S HOVEL,INT,ANAKIN,Coruscant...wow...how did you end up here in the outer rim?
+1,64,409,ANAKIN'S HOVEL,INT,PADME,"Our ship was damaged, and we're stranded here until we can repair it."
+1,64,410,ANAKIN'S HOVEL,INT,ANAKIN,I can help! I can fix anything!
+1,64,411,ANAKIN'S HOVEL,INT,QUI-GON,"I believe you can, but our first job is to aquire the parts we need..."
+1,64,412,ANAKIN'S HOVEL,INT,JAR JAR,Wit no-nutten mula to trade.
+1,64,413,ANAKIN'S HOVEL,INT,PADME,These junk dealers must have a weakness of some kind.
+1,64,414,ANAKIN'S HOVEL,INT,SHMI,Gambling. Everything here revolves around betting on those awful races.
+1,64,415,ANAKIN'S HOVEL,INT,QUI-GON,Podracing... Greed can be a powerful ally.. if it's used properly.
+1,64,416,ANAKIN'S HOVEL,INT,ANAKIN,"I've built a racer! It's the fastest ever...There's a big race tomorrow, on Boonta Eve. You could enter my pod. It's all but finished..."
+1,64,417,ANAKIN'S HOVEL,INT,SHMI,"Anakin, settle down. Watto won't let you..."
+1,64,418,ANAKIN'S HOVEL,INT,ANAKIN,"Watto doesn't know I've built it.  You could make him think it's your's, and you could get him to let me pilot it for you."
+1,64,419,ANAKIN'S HOVEL,INT,SHMI,"I don't want you to race, Annie...It's awful. I die every time Watto makes you do it."
+1,64,420,ANAKIN'S HOVEL,INT,ANAKIN,"But Mom, I love it...and they need help...they're in trouble. The prize money would more than pay for the parts they need. JAR JAR   Wesa ina pitty bad goo."
+1,64,421,ANAKIN'S HOVEL,INT,GUI-GON,Your mother's right. Is there anyone friendly to the Republic who might be able to help us?
+1,64,422,ANAKIN'S HOVEL,INT,ANAKIN,"We have to help them, Mom...you said that the biggest problem in the universe is no one helps each other..."
+1,64,423,ANAKIN'S HOVEL,INT,SHMI,"Anakin, don't..."
+1,64,424,ANAKIN'S HOVEL,INT,PADME,I'm sure Qui-Gon doesn't want to put your son in danger. We will find another way...
+1,64,425,ANAKIN'S HOVEL,INT,SHMI,"No, Annie's right, there is no other way... I may not like it, but he can help you...he was meant to help you."
+1,64,426,ANAKIN'S HOVEL,INT,ANAKIN,Is that a yes? That is a yes!
+1,65,427,MOS ESPA,EXT,PADME,Are you sure about this? Trusting our fate to a boy we hardly know. The Queen will not approve.
+1,65,428,MOS ESPA,EXT,QUI-GON,The Queen does not need to know.
+1,65,429,MOS ESPA,EXT,PADME,"Well, I don't approve."
+1,66,430,WATTO'S JUNK SHOP,INT,WATTO,Patta go bolla!
+1,66,431,WATTO'S JUNK SHOP,INT,ANKAIN,No batta!
+1,66,432,WATTO'S JUNK SHOP,INT,WATTO,Pedunky. Maa kee cheelya.
+1,66,433,WATTO'S JUNK SHOP,INT,ANAKIN,"Bayno, Bayno!"
+1,66,434,WATTO'S JUNK SHOP,INT,WATTO,"The boy tells me you wanta sponser hi insa race. You can't afford parts. How can you do this? Not on Republic credits, I think."
+1,66,435,WATTO'S JUNK SHOP,INT,QUI-GON,My ship will be the entry fee.
+1,66,436,WATTO'S JUNK SHOP,INT,WATTO,Not bad...not bad...a Nubian.
+1,66,437,WATTO'S JUNK SHOP,INT,QUI-GON,"It's in good order, except for the parts we need."
+1,66,438,WATTO'S JUNK SHOP,INT,WATTO,...but what would the boy ride? He smashed up my Pod in the last race. It will take some time to fix it.
+1,66,439,WATTO'S JUNK SHOP,INT,ANAKIN,Ahhhh....it wasn't my fault really...Sebulba flashed me with his vent ports. I actually saved the Pod...mostly.
+1,66,440,WATTO'S JUNK SHOP,INT,WATTO,"That you did. The boy is good, no doubts there."
+1,66,441,WATTO'S JUNK SHOP,INT,QUI-GON,"I have...acquired a Pod in a game of chance. ""The fastest ever built."""
+1,66,442,WATTO'S JUNK SHOP,INT,WATTO,"I hope you didn't kill anyone I know for it.  So, you supply the Pod and the entry fee; I supply the boy. We split the winnings fifty-fifty, I think."
+1,66,443,WATTO'S JUNK SHOP,INT,QUI-GON,"Fifty-fifty!?! If it's going to be fifty-fifty, I suggest you front the cash for the entry. If we win, you keep all the winnings, minus the cost of the parts I need...If we lose, you keep my ship."
+1,66,444,WATTO'S JUNK SHOP,INT,QUI-GON,"Either way, you win."
+1,66,445,WATTO'S JUNK SHOP,INT,WATTO,"Deal! Yo bana pee ho-tah, meedee ya. (Your friend is a follish one, methinks.)"
+1,67,446,NABOO SPACECRAFT,EXT,OBI-WAN,"What if this plan fails, Master? We could be stuck here for a long time."
+1,67,447,NABOO SPACECRAFT,EXT,QUI-GON,"A ship without a power supply will not get us anywhere, and there is something about this boy..."
+1,68,448,MOS ESPA,EXT,ANAKIN,"Padme and Jar Jar, this is my friend Kitster, and seek, Amee, and Wald."
+1,68,449,MOS ESPA,EXT,KITSTER,"Wow, a real Astro Droid...how'd you get so lucky?"
+1,68,450,MOS ESPA,EXT,ANAKIN,This isn't the half of it. I'm entered in the Boonta Race tomorrow!
+1,68,451,MOS ESPA,EXT,KITSTER,What? With this??
+1,68,452,MOS ESPA,EXT,WALD,"Annie, Jesko na joka. 9You are such a joke, Annie.)"
+1,68,453,MOS ESPA,EXT,AMEE,You've been working on that thing for years. It's never going to run.
+1,68,454,MOS ESPA,EXT,SEEK,"Come on, let's go play ball. Keep it up, Annie, and you're gonna be bug squash."
+1,68,455,MOS ESPA,EXT,ANAKIN,Hey! Jar Jar! Stay away from those energy binders...
+1,68,456,MOS ESPA,EXT,JAR JAR,"Who, mesa?"
+1,68,457,MOS ESPA,EXT,ANAKIN,"If your hand gets caught in that beam, it will go numb for hours."
+1,68,458,MOS ESPA,EXT,JAR JAR,Ouch-dats muy bigo Oucho.
+1,68,459,MOS ESPA,EXT,KITSTER,But you don't even know if this thing will run.
+1,68,460,MOS ESPA,EXT,ANAKIN,It will.
+1,68,461,MOS ESPA,EXT,QUI-GON,"I think it's time we found out. Use this power charge. ANAKIN Yes, sir!!"
+1,70,462,SLAVE QUARTERS,EXT,QUI-GON,"Sit still, Annie. Let me clean this cut."
+1,70,463,SLAVE QUARTERS,EXT,ANAKIN,There are so many! Do they all have a system of planets?
+1,70,464,SLAVE QUARTERS,EXT,QUI-GON,Most of them.
+1,70,465,SLAVE QUARTERS,EXT,ANAKIN,Has anyone been to them all?
+1,70,466,SLAVE QUARTERS,EXT,QU-IG0N,Not likely.
+1,70,467,SLAVE QUARTERS,EXT,ANAKIN,I want to be the first one to see them all... Ouch!
+1,70,468,SLAVE QUARTERS,EXT,QUI-GON,"There, good as new..."
+1,70,469,SLAVE QUARTERS,EXT,SHMI,"Annie, bedtime!"
+1,70,470,SLAVE QUARTERS,EXT,ANAKIN,What are you doing?
+1,70,471,SLAVE QUARTERS,EXT,QUI-GON,Checking your blood for infections.
+1,70,472,SLAVE QUARTERS,EXT,ANAKIN,I've never seen...
+1,70,473,SLAVE QUARTERS,EXT,SHMI,Annie! I'm not goiung to tell you again!
+1,70,474,SLAVE QUARTERS,EXT,QUI-GON,"Go on, you have a big day tomorrow.  Goodnight."
+1,70,475,SLAVE QUARTERS,EXT,QUI-GON,Obi-Wan...
+1,70,476,SLAVE QUARTERS,EXT,OBI-WAN,"Yes, Master."
+1,70,477,SLAVE QUARTERS,EXT,QUI-GON,Make an analysis of this blood sample I'm sending you.
+1,70,478,SLAVE QUARTERS,EXT,OBI-WAN,Wait a minute...
+1,70,479,SLAVE QUARTERS,EXT,QUI-GON,I need a midi-chlorian count.
+1,70,480,SLAVE QUARTERS,EXT,OBI-WAN,All right. I've got it.
+1,70,481,SLAVE QUARTERS,EXT,QUI-GON,What are your readings?
+1,70,482,SLAVE QUARTERS,EXT,OBI-WAN,Something must be wrong with the transmission.
+1,70,483,SLAVE QUARTERS,EXT,QUI-GON,Here's a signal check.
+1,70,484,SLAVE QUARTERS,EXT,OBI-WAN,"Strange. The transmission seems to be in good order, but the reading's off the chart...over twenty thousand."
+1,70,485,SLAVE QUARTERS,EXT,QUI-GON,That's it then.
+1,70,486,SLAVE QUARTERS,EXT,OBI-WAN,Even Master Yoda doesn't have a midi-chlorian count that high!
+1,70,487,SLAVE QUARTERS,EXT,QUI-GON,No Jedi has.
+1,70,488,SLAVE QUARTERS,EXT,OBI-WAN,What does it mean?
+1,70,489,SLAVE QUARTERS,EXT,QUI-GON,I'm not sure.
+1,73,490,MOS ESPA,EXT,PADME,I hope you're about finished.
+1,73,491,MOS ESPA,EXT,ANAKIN,You were in my dream...you were leading a huge army into battle.
+1,73,492,MOS ESPA,EXT,PADME,I hope not; I hate fighting. Your mother wants you to come in and clean up. We have to leave soon. ANAKIN stands up and stretches just as KITSTER arrives.
+1,73,493,MOS ESPA,EXT,ANAKIN,"Hook 'em up, Kitster.  I won't be long. Where's Qui-Gon?"
+1,73,494,MOS ESPA,EXT,PADME,He and Jar Jar left already. They're with Watto at the arena.
+1,75,495,MOS ESPA,INT,WATTO,...I want to see your spaceship the moment the race is over.
+1,75,496,MOS ESPA,INT,QUI-GON,"Patienc, my blue friend. You'll have your winnings before the suns set, and we'll be far away from here."
+1,75,497,MOS ESPA,INT,WATTO,"Not if your ship belongs to me, I think...I warn you, no funny business."
+1,75,498,MOS ESPA,INT,QUI-GON,You don't think Anakin will win?
+1,75,499,MOS ESPA,INT,WATTO,"Don't get me wrongo. I have great faith in the boy. He's a credit to your race, but Sebulba there is going to win, I think."
+1,75,500,MOS ESPA,INT,QUI-GON,Why?
+1,75,501,MOS ESPA,INT,WATTO,He always wins.  I'm betting heavily on Sebulba.
+1,75,502,MOS ESPA,INT,QUI-GON,I'll take that bet.
+1,75,503,MOS ESPA,INT,WATTO,What??!! What do you mean?
+1,75,504,MOS ESPA,INT,QUI-GON,I'll wager my new racing pod against...say...the boy and his mother.
+1,75,505,MOS ESPA,INT,WATTO,"A Pod for slaves. I don't think so...well, poerhaps. Just one...the mother, maybe...the boy isn't for sale."
+1,75,506,MOS ESPA,INT,QUI-GON,"The boy is small, he can't be worth much."
+1,75,507,MOS ESPA,INT,QUI-GON,For the fastest Pod ever built?!
+1,75,508,MOS ESPA,INT,QUI-GON,"Both, or no bet."
+1,75,509,MOS ESPA,INT,WATTO,No Pod's worth two slaves...not by a long shot...one slave or nothing.
+1,75,510,MOS ESPA,INT,QUI-GON,"The boy, then..."
+1,75,511,MOS ESPA,INT,WATTO,"We'll let fate decide. Blue it's the boy, red his mother..."
+1,75,512,MOS ESPA,INT,WATTO,"You won the small toss, outlander, bou you won't win the race, so...it makes little difference."
+1,75,513,MOS ESPA,INT,WATTO,"Bonapa keesa pateeso, o wanna meetee chobodd. "
+1,75,514,MOS ESPA,INT,ANAKIN,What did he mean by that?
+1,75,515,MOS ESPA,INT,QUI-GON,I'll tell you later.
+1,75,516,MOS ESPA,INT,THREEPIO,Oh my! Space travel sounds rather perilous.
+1,75,517,MOS ESPA,INT,THREEPIO,I can assure you they will never get me onto one of those dreadful starships!
+1,75,518,MOS ESPA,INT,KITSTER,"This is so wizard! I'm sure you'll do it this time, Annie."
+1,75,519,MOS ESPA,INT,PADME,Do what?
+1,75,520,MOS ESPA,INT,KITSTER,"Finish the race, of course!"
+1,75,521,MOS ESPA,INT,PADME,You've never won a race?
+1,75,522,MOS ESPA,INT,ANAKIN,Well...not exactly...
+1,75,523,MOS ESPA,INT,PADME,Not even finished?!
+1,75,524,MOS ESPA,INT,ANAKIN,"...but Kitster's right, I will this time."
+1,75,525,MOS ESPA,INT,QUI-GON,Of course you will.
+1,81,526,MOS ESPA,EXT,SHMI,Be safe.
+1,81,527,MOS ESPA,EXT,ANAKIN,"I will, Mom. I promise."
+1,81,528,MOS ESPA,EXT,JABBA,"...Mawhonic tuta Hok, Teemto Pagalies tuta Moonus Mandel, Anakin SKywalker tuta Tatoonine...."
+1,81,529,MOS ESPA,EXT,JAR JAR,"Dis berry loony, Annie. May da guds be kind, mesa palo."
+1,81,530,MOS ESPA,EXT,PADME,You carry all our hopes.
+1,81,531,MOS ESPA,EXT,ANAKIN,I won't let you down.
+1,81,532,MOS ESPA,EXT,SEBULBA,"Bazda wahota, shag. Dobiella Nok. Yoka to Bantha poodoo. 9You won't walk away from this one, slave scum! You're Bantha poodoo.)"
+1,81,533,MOS ESPA,EXT,ANAKIN,"Cha skrundee da pat, sleemo. (Don't count on it, slime-ball.)"
+1,81,534,MOS ESPA,EXT,JABBA,...Ka bazza kundee hodrudda! (...Let the challenge begin!)
+1,81,535,MOS ESPA,EXT,QUI-GON,"Are you all set, Annie?  Remember, concentrate on the moment. Feel. Don't think. Trust your instincts.  May the Force be with you."
+1,82,536,MOS ESPA,EXT,JAR JAR,Mesa no watch. Dissen ganna be messy! 
+1,83,537,MOS ESPA,EXT,SHMI,Is he nervous?
+1,83,538,MOS ESPA,EXT,QUI-GON,He's fine.
+1,83,539,MOS ESPA,EXT,PADME,You Jedi are far too reckless. The Queen...
+1,83,540,MOS ESPA,EXT,QUI-GON,"The Queen trusts my judgment, young handmaiden. You should too."
+1,83,541,MOS ESPA,EXT,PADME,You assume too much.
+1,88,542,MOS ESPA,EXT,JAR JAR,Where's Skywalker?
+1,90,543,MOS ESPA,EXT,A,Sebulba! Ka pa me cheespa wata!
+1,90,544,MOS ESPA,EXT,FANTA,Bug off.
+1,90,545,MOS ESPA,EXT,JAR JAR,He musta crash-ud.
+1,90,546,MOS ESPA,EXT,PADME,Here he comes!
+1,91,547,MOS ESPA,EXT,THREEPIO,He has to complete two more circuits? Oh dear!
+1,95,548,MOS ESPA,INT,WATTO,You! You swindled me! You knew the boy was going to win! Somehow you knew it! I lost everything.
+1,95,549,MOS ESPA,INT,QUI-GON,"Whenever you gamble, my freind, eventually you'll lose. Bring the parts to the main hanger. I'll come by your shop later so you can release the boy."
+1,95,550,MOS ESPA,INT,WATTO,You can't have him! It wasn't a fair bet!
+1,95,551,MOS ESPA,INT,QUI-GON,Would you like to discuss it with the Hutts...I'm sure they can settle this.
+1,95,552,MOS ESPA,INT,WATTO,"No, no! I want no more of your tricks! Take him!"
+1,97,553,MOS ESPA,INT,ANAKIN,"Ah, gee...enough of this..."
+1,97,554,MOS ESPA,INT,SHMI,"It's so wonderful, Annie. You have brought hope to those who have none. I'm so very proud of you..."
+1,97,555,MOS ESPA,INT,PADME,We owe you everything.
+1,97,556,MOS ESPA,INT,ANAKIN,Just feeling this good was worth it.
+1,97,557,MOS ESPA,INT,QUI-GON,"Padme. Jar Jar, let's go, we've got to get these parts back to the ship."
+1,97,558,MOS ESPA,INT,QUI-GON,I'll return the eopies by midday.
+1,98,559,TATOOINE,EXT,QUI-GON,Start getting this hyperdrive generator installed. I'm going back...some unfinished business. I won't be long.
+1,98,560,TATOOINE,EXT,OBI-WAN,Why do I sense we've picked up another pathetic life form...?
+1,98,561,TATOOINE,EXT,QUI-GON,It's the boy who's responsible for getting those parts.
+1,99,562,TATOOINE,EXT,QUI-GON,What's this?
+1,99,563,TATOOINE,EXT,ANAKIN,He said I cheated.
+1,99,564,TATOOINE,EXT,QUI-GON,Did you?
+1,99,565,TATOOINE,EXT,ANAKIN,No!
+1,99,566,TATOOINE,EXT,QUI-GON,Do you still think he cheated?
+1,99,567,TATOOINE,EXT,GREEDO,Yes.
+1,99,568,TATOOINE,EXT,QUI-GON,"Well, Annie. You know the truth... You will have to tolerate his opinion, fighting won't change it."
+1,99,569,TATOOINE,EXT,WALD,"Keep this up, Greedo, and you're gonna come to a bad end."
+1,99,570,TATOOINE,EXT,QUI-GON,These are yours. We sold the Pod.
+1,99,571,TATOOINE,EXT,ANAKIN,Yes!
+1,100,572,ANAKIN'S HOVEL,INT,ANAKIN,"Mom, he sold the Pod. Look at all the money we have!"
+1,100,573,ANAKIN'S HOVEL,INT,SHMI,"Oh, my goodness, That's wonderful."
+1,100,574,ANAKIN'S HOVEL,INT,QUI-GON,And Anakin has been freed.
+1,100,575,ANAKIN'S HOVEL,INT,ANAKIN,What?!?
+1,100,576,ANAKIN'S HOVEL,INT,QUI-GON,You're no longer a slave.
+1,100,577,ANAKIN'S HOVEL,INT,ANAKIN,"Did you hear that, Mom?  Was that part of the prize, or what?"
+1,100,578,ANAKIN'S HOVEL,INT,QUI-GON,Let's just say Watto has learned an important lesson about gambling.
+1,100,579,ANAKIN'S HOVEL,INT,SHMI,"Now you can make your dreams come true, Annie. You're free! (turns to Qui-Gon) Will you take him with you? Is he to become a Jedi?"
+1,100,580,ANAKIN'S HOVEL,INT,QUI-GON,"Our meeting was not a coincidence. Nothing happens by accident. You are strong with the Force, but you may not be accepted by the Coucil."
+1,100,581,ANAKIN'S HOVEL,INT,ANAKIN,"A Jedi! Mighty blasters, you mean I get to go with you in your starship and everything?!"
+1,100,582,ANAKIN'S HOVEL,INT,QUI-GON,"Anakin, training to be a Jedi will not be a easy challenge. And if you succeed, it will be a hard life."
+1,100,583,ANAKIN'S HOVEL,INT,ANAKIN,"But it's what I want. What I've always dreamed about. Can I go, Mom?!"
+1,100,584,ANAKIN'S HOVEL,INT,QUI-GON,"This path has been placed for you, Annie; the choice to take it is yours alone."
+1,100,585,ANAKIN'S HOVEL,INT,ANAKIN,I want to go.
+1,100,586,ANAKIN'S HOVEL,INT,QUI-GON,"Then, pack your things. We haven't much time."
+1,100,587,ANAKIN'S HOVEL,INT,ANAKIN,Yipee!!
+1,100,588,ANAKIN'S HOVEL,INT,ANAKIN,"What about Mom? Is she free too? You're coming, aren't you, Mom"
+1,100,589,ANAKIN'S HOVEL,INT,QUI-GON,"I tried to free your mother, Annie, but Watto wouldn't have it."
+1,100,590,ANAKIN'S HOVEL,INT,ANAKIN,But the money from selling...
+1,100,591,ANAKIN'S HOVEL,INT,QUI-GON,It's not nearly enough.
+1,100,592,ANAKIN'S HOVEL,INT,SHMI,"Son, my place is here. My future is here. It is time for you to let go...to let go of me. I cannot go with you."
+1,100,593,ANAKIN'S HOVEL,INT,ANAKIN,I want to stay with you. I don't want things to change.
+1,100,594,ANAKIN'S HOVEL,INT,SHMI,"You can't stop change any more than you can stop the suns from setting. Listen to your feelings; Annie, you know what's right."
+1,100,595,ANAKIN'S HOVEL,INT,ANAKIN,"I'm going to miss you so much, Mom..."
+1,100,596,ANAKIN'S HOVEL,INT,SHMI,"I love you, Annie...now hurry."
+1,100,597,ANAKIN'S HOVEL,INT,SHMI,Thank you.
+1,100,598,ANAKIN'S HOVEL,INT,QUI-GON,I will watch after him. You have my word. Will you be all right?
+1,100,599,ANAKIN'S HOVEL,INT,SHMI,He was in my life for such a short time.
+1,101,600,ANAKIN'S HOVEL,INT,ANAKIN,"Well, Threepio, I'm free...and I'm going away...in a starship..."
+1,101,601,ANAKIN'S HOVEL,INT,THREEPIO,"Master, Annie, you are my maker, and I wish you well. Although I'd like it better if I were a little less naked."
+1,101,602,ANAKIN'S HOVEL,INT,ANAKIN,"I'm sorry I wasn't able to finish you, Threepio...give you coverings and all... I'm going to miss working on you. You've been a great pal. I'll make sure Mom doesn't sell you or anything. Bye."
+1,101,603,ANAKIN'S HOVEL,INT,THREEPIO,Sell me?!?
+1,102,604,MOS ESPA,EXT,KITSTER,"There are so many of us who want you to stay, Annie... You're a hero."
+1,102,605,MOS ESPA,EXT,ANAKIN,I...  I... have to go.
+1,102,606,MOS ESPA,EXT,KITSTER,Well.
+1,102,607,MOS ESPA,EXT,ANAKIN,Well.
+1,102,608,MOS ESPA,EXT,KITSTER,Thank's for every moment you've been here. You're my best friend.
+1,102,609,MOS ESPA,EXT,ANAKIN,I won't forget.
+1,102,610,MOS ESPA,EXT,ANAKIN,"I can't do it, Mom. I just can't."
+1,102,611,MOS ESPA,EXT,SHMI,"Annie, remember when you climbed the great dune in order to chase the Banthas away so they wouldn't be shot... Remember how you collapses several times, exhausted thinking you couldn't do it?"
+1,102,612,MOS ESPA,EXT,SHMI,"This is one of those times when you have to do something you don't think you can do. I know how strong you are, Annie. I know you can do this..."
+1,102,613,MOS ESPA,EXT,ANAKIN,Will I ever see you again?
+1,102,614,MOS ESPA,EXT,SHMI,What does your heart tell you?
+1,102,615,MOS ESPA,EXT,ANAKIN,I hope so...yes...I guess.
+1,102,616,MOS ESPA,EXT,SHMI,Then we will see each other again.
+1,102,617,MOS ESPA,EXT,ANAKIN,"I.. will become a Jedi and I will come back and free you, Mom...I promise."
+1,102,618,MOS ESPA,EXT,SHMI,"No matter where you are, my love will be with you. Now be brave, and don't look back... don't look back."
+1,102,619,MOS ESPA,EXT,ANAKIN,I love you so much.
+1,104,620,TATOOINE,EXT,ANAKIN,"Master Qui-Gon,sir, wait!"
+1,104,621,TATOOINE,EXT,QUI-GON,"Anakin, drop!"
+1,104,622,TATOOINE,EXT,QUI-GON,"Annie, get to the ship! Take off! Go! Go!"
+1,105,623,NABOO SPACECRAFT,INT,ANAKIN,Qui-Gon's in trouble. He says to take off...now!!
+1,105,624,NABOO SPACECRAFT,INT,CAPT. PANAKA,Who are you?
+1,105,625,NABOO SPACECRAFT,INT,PADME,He's a friend.
+1,106,626,NABOO SPACECRAFT,INT,CAPT. PANAKA,"Qui-Gon is in trouble, he says to take off!"
+1,106,627,NABOO SPACECRAFT,INT,PILOT,I don't see anything.
+1,106,628,NABOO SPACECRAFT,INT,OBI-WAN,Over there! Fly low!
+1,110,629,NABOO SPACECRAFT,INT,ANAKIN,Are you all right?
+1,110,630,NABOO SPACECRAFT,INT,QUI-GON,I think so... that was a surpirse I wont soon forget.
+1,110,631,NABOO SPACECRAFT,INT,OBI-WAN,What was it?
+1,110,632,NABOO SPACECRAFT,INT,QUI-GON,I don't know... but he was well trained in the Jedi arts. My guess is he was after the Queen...
+1,110,633,NABOO SPACECRAFT,INT,ANAKIN,Do you think he'll follow us?
+1,110,634,NABOO SPACECRAFT,INT,QUI-GON,"We'll be safe enough once we're in hyperspace, but I have no doubt he knows our destination."
+1,110,635,NABOO SPACECRAFT,INT,ANAKIN,What are we going to do about it?
+1,110,636,NABOO SPACECRAFT,INT,QUI-GON,"We will be patient. Anakin Skywalker, meet Obi-Wan Kenobi."
+1,110,637,NABOO SPACECRAFT,INT,ANAKIN,Pleased to meet you. Wow! You're a Jedi too?
+1,111,638,COCKPIT,INT,QUI-GON,Let's hope this hyperdrive works and Watto didn't get the last laugh.
+1,114,639,NABOO PALACE,INT,NUTE,"When are you going to give up this pointless strike? Your Queen is lost, your people are starving, and you, Governor, are going to die, much sooner than your people, I'm afraid. Take him away!"
+1,114,640,NABOO PALACE,INT,BIBBLE,This invasion will gain you nothing. We're a democracy. The people have decided... They will not live under your tyranny.
+1,114,641,NABOO PALACE,INT,OOM-9,My troops are in position to begin searching the swamps for these rumored underwater villages... they will not stay hidden for long.
+1,115,642,NABOO SPACECRAFT,INT,PADME,Are you all right?
+1,115,643,NABOO SPACECRAFT,INT,ANAKIN,It's very cold.
+1,115,644,NABOO SPACECRAFT,INT,PADME,"You're from a warm planet, Annie. Too warm for my taste. Space is cold."
+1,115,645,NABOO SPACECRAFT,INT,ANAKIN,You seem sad.
+1,115,646,NABOO SPACECRAFT,INT,PADME,"The Queen is...worried. Her people are suffering...dying. She must convince the Senate to intervene, or...I'm not sure what will happen."
+1,115,647,NABOO SPACECRAFT,INT,ANAKIN,I'm...I'm not sure what's going to happen to me. I dunno if I'll ever see you again..  I made this for you. Sou you'd remember me. I carved it out of a japor snippet... It will bring you good fortune.
+1,115,648,NABOO SPACECRAFT,INT,PADME,"It's beautiful, but I don't need this to remember you. Many things will change when we reach the capital, Annie. My caring for you will always remain."
+1,115,649,NABOO SPACECRAFT,INT,ANAKIN,I care for you too. Only I...miss...
+1,115,650,NABOO SPACECRAFT,INT,PADME,...You miss your mother.
+1,118,651,NABOO SPACECRAFT,INT,RIC OLIE,Coruscant...the capital of the Republic...the entire planet is one big city.
+1,118,652,NABOO SPACECRAFT,INT,ANAKIN,Wow! It's so huge!
+1,120,653,CORUSCANT,EXT,PALPATINE,"It is a great gift to see you alive, Your Majesty. May I present Supreme Chancellor Valorum."
+1,120,654,CORUSCANT,EXT,VALORUM,"Welcome, Your Highness. It is an honor to finally meet you in person. I must relay to you how distressed everyone is over the currant situation. I've called for a special session of the Senate to hear your position."
+1,120,655,CORUSCANT,EXT,AMIDALA,"I am grateful for your concern, Chancellor."
+1,120,656,CORUSCANT,EXT,PALPATINE,"There is a question of precedure, but I feel confident we can overcome it..."
+1,120,657,CORUSCANT,EXT,JAR JAR,"Da Queens- a bein grossly nice, mesa tinks. Pitty hot!"
+1,120,658,CORUSCANT,EXT,QUI-GON,"I must speak with the Jei Council immediately, Your Honor. The situation has become more complicated."
+1,121,659,PALPATINE'S QUARTERS,INT,JAR JAR,Dissen all pitty odd to my.
+1,121,660,PALPATINE'S QUARTERS,INT,ANAKIN,Don't look at me. I don't know what's going on.
+1,122,661,PALPATINE'S QUARTERS,INT,PALPATINE,"...the Republic is not what it once was. The Senate is full of greedy, squabbling delegates who are only looking out for themselves and their home sytems. There is no interest in the common good...no civility, only politics...its disgusting. I must be frank, Your Majesty, there is little chance the Senate will act on the invasion."
+1,122,662,PALPATINE'S QUARTERS,INT,AMIDALA,Chancellor Valorum seems to think there is hope.
+1,122,663,PALPATINE'S QUARTERS,INT,PALPATINE,"If I may say so, Your Majesty, the Chancellor has little real power...he is mired down by baseless accusations of corruption. A manufactured scandal surrounds him. The bureaucrats are in charge now."
+1,122,664,PALPATINE'S QUARTERS,INT,AMIDALA,What options do we have?
+1,122,665,PALPATINE'S QUARTERS,INT,PALPATINE,"Our best choice would be to push for the election of a stronger Supreme Chancellor. One who will take control of the bureaucrats, enforces the laws, and give us justice. You could call for a vote of no confidence in Chancellor Valorum."
+1,122,666,PALPATINE'S QUARTERS,INT,AMIDALA,He has been our strongest supporter. Is there any other way?
+1,122,667,PALPATINE'S QUARTERS,INT,PALPATINE,Our only other choice would to be to submit a plea to the courts...
+1,122,668,PALPATINE'S QUARTERS,INT,AMIDALA,"There's no time for that. The courts take even longer to decide things than the Senate. Our people are dying, Senator...more and more each day. We must do something quickly to stop the Federation."
+1,122,669,PALPATINE'S QUARTERS,INT,PALPATINE,"To be realistic, Your Highness, I'd say we're going to have to accept Federation control for the time being."
+1,122,670,PALPATINE'S QUARTERS,INT,AMIDALA,There is something I cannot do.
+1,124,671,TEMPLE OF THE JEDI,INT,QUI-GON,...my only conclusion can be that it was a Sith Lord.
+1,124,672,TEMPLE OF THE JEDI,INT,MACE WINDU,A Sith Lord?!?
+1,124,673,TEMPLE OF THE JEDI,INT,KI-ADI,Impossible! The Sith have been extinct for a millenium.
+1,124,674,TEMPLE OF THE JEDI,INT,YODA,"The very Republic is threatened, if involved the Sith are."
+1,124,675,TEMPLE OF THE JEDI,INT,MACE WINDU,I do not believe they could have returned without us knowing.
+1,124,676,TEMPLE OF THE JEDI,INT,YODA,"Hard to see, the dark side is. Discover who this assassin is, we must."
+1,124,677,TEMPLE OF THE JEDI,INT,KI-ADI,I sense he will reveal himself again.
+1,124,678,TEMPLE OF THE JEDI,INT,MACE WINDU,"This attack was with purpose, that is clear, and I agree the Queen is the target."
+1,124,679,TEMPLE OF THE JEDI,INT,YODA,"With this Naboo queen you must stay, Qui-Gon. Protect her."
+1,124,680,TEMPLE OF THE JEDI,INT,MACE WINDU,We will use all our resources here to unravel this mystery and discover the identity of your attacker... May the Force be with you.
+1,124,681,TEMPLE OF THE JEDI,INT,YODA,May the Force be with you.
+1,124,682,TEMPLE OF THE JEDI,INT,YODA,Master Qui-Gon more to say have you?
+1,124,683,TEMPLE OF THE JEDI,INT,QUI-GON,"With your permission, my Master. I have encountered a vergence in the Force."
+1,124,684,TEMPLE OF THE JEDI,INT,YODA,"A vergence, you say?"
+1,124,685,TEMPLE OF THE JEDI,INT,MACE WINDU,Located around a person?
+1,124,686,TEMPLE OF THE JEDI,INT,QUI-GON,A boy... his cells have the highest concentration of midi-chlorians I have seen in a life form. It is possible he was conceived by the midi-chlorians.
+1,124,687,TEMPLE OF THE JEDI,INT,MACE WINDU,You're referring to the prophesy of the one who will bring balance to the Force...you believe it's this boy??
+1,124,688,TEMPLE OF THE JEDI,INT,QUI-GON,I don't pressume...
+1,124,689,TEMPLE OF THE JEDI,INT,YODA,But you do! Rrevealed your opinion is.
+1,124,690,TEMPLE OF THE JEDI,INT,QUI-GON,I request the boy be tested.
+1,124,691,TEMPLE OF THE JEDI,INT,YODA,"Trained as a Jedi, you request for him?"
+1,124,692,TEMPLE OF THE JEDI,INT,QUI-GON,Finding him was the will of the Force...I have no doubt of that. There is too much happening here...
+1,124,693,TEMPLE OF THE JEDI,INT,MACE WINDU,"Bring him before us, then."
+1,124,694,TEMPLE OF THE JEDI,INT,YODA,Tested he will be.
+1,124,695,TEMPLE OF THE JEDI,INT,GUARD,"May I help you, son?"
+1,124,696,TEMPLE OF THE JEDI,INT,ANAKIN,"I'm...I'm looking for the handmaiden, Padme."
+1,124,697,TEMPLE OF THE JEDI,INT,GUARD,The boy is here to see Padme.
+1,124,698,TEMPLE OF THE JEDI,INT,RABE,Send him in.
+1,124,699,TEMPLE OF THE JEDI,INT,ANAKIN,"I'd like to speak with Padme, if I could."
+1,124,700,TEMPLE OF THE JEDI,INT,RABE,"I'm sorry, Annie. Padme is not here right now."
+1,124,701,TEMPLE OF THE JEDI,INT,AMIDALA,Who is it?
+1,124,702,TEMPLE OF THE JEDI,INT,RABE,"Anakin Skywalker, to see Padme, Your Highness."
+1,124,703,TEMPLE OF THE JEDI,INT,AMIDALA,I've sent Padme on an errand.
+1,124,704,TEMPLE OF THE JEDI,INT,ANAKIN,"I'm going to the Jedi temple to start my training, I hope."
+1,124,705,TEMPLE OF THE JEDI,INT,ANAKIN,I may not see her again...and... I just wanted to say goodbye.
+1,124,706,TEMPLE OF THE JEDI,INT,AMIDALA,We will tell her for you. We're sure her heart goes with you.
+1,124,707,TEMPLE OF THE JEDI,INT,ANAKIN,"Thank you, Your Highness. I'm sorry to have disturbed you."
+1,126,708,MAIN ROTUNDA,INT,PALPATINE,"If the Federation moves to defer the motion...Your Majesty, Ibeg of you to ask for a resolution to end this congressional session."
+1,126,709,MAIN ROTUNDA,INT,AMIDALA,"I wish I had your confidence in this, Senator."
+1,126,710,MAIN ROTUNDA,INT,PALPATINE,"You must force a new election for Supreme Chancellor...I promise you there are many who will support us...it is our best chance... Your Majesty, our only, chance."
+1,126,711,MAIN ROTUNDA,INT,AMIDALA,You truely believe Chancellor Valorum will not bring our motion to a vote?
+1,126,712,MAIN ROTUNDA,INT,PALAPATINE,He is distracted...he is afraid. He will be of no help.
+1,126,713,MAIN ROTUNDA,INT,VALORUM,The Chair recognizes the Senator from the sovereign system of Naboo.
+1,126,714,MAIN ROTUNDA,INT,PALPATINE,"Supreme Chancellor, delegates of the Senate. A tragedy has occured on our peaceful system of Naboo. We have become caugt in a dispute you're all well aware of, which began right here with the taxation of trade routes, and has now engulfed our entire planet in the oppresion of the Trade Federation."
+1,126,715,MAIN ROTUNDA,INT,LOTT DOD,This is outrageous! I object to the Senator's statements!
+1,126,716,MAIN ROTUNDA,INT,VALORUM,The Chair does not recognize the Senator from the Trade Federation at this time. Please return to your station.
+1,126,717,MAIN ROTUNDA,INT,PALPATINE,"To state our allegations, I present Queen Amidala, the recently elected ruler of Naboo, to speak on our behalf."
+1,126,718,MAIN ROTUNDA,INT,AMIDALA,"Honorable representatives of the Republic, distinguished delegates, and Your Honor Supreme Chancellor Valorum, I come to you under the gravest of circumstances. The Naboo system has been invaded by force. Invaded...against all the laws of the Republic by the Droid Armies of the Trade..."
+1,126,719,MAIN ROTUNDA,INT,LOTT DOD,I object! There is no proof. This is incredible. We recommend a commision be sent to Naboo to assertain the truth.
+1,126,720,MAIN ROTUNDA,INT,VALORUM,Overruled.
+1,126,721,MAIN ROTUNDA,INT,LOTT DOD,"Your Honor, you cannot allow us to be condemned without reasonable observation. It's against all the rules of procedure."
+1,126,722,MAIN ROTUNDA,INT,AKS MOE,The Congress of Malastare concurs with the honorable delegate from the Trade Federation. A commision must be appointed...that is the law.
+1,126,723,MAIN ROTUNDA,INT,VALORUM,The point...
+1,126,724,MAIN ROTUNDA,INT,PALPATINE,"Enter the bureaucrats, the true rulers of the Republic, and on the payroll of the Trade Federation, I might add. This is where Chancellor Valorum's strength will dissapear."
+1,126,725,MAIN ROTUNDA,INT,VALORUM,"The point is conceded...Section 523A take precedence here. Queen Amidala of the Naboo, will you defer your motion to allow a commission to explore the validity of your accusations?"
+1,126,726,MAIN ROTUNDA,INT,AMIDALA,"I will not defer...I have come before you to resolve this attack on our sovereignty now. I was not elected to watch my people suffer and die while you discuss this invasion in a committee. If this body is not capable of action, I suggest new leadership is needed. I move for a ""vote of no confidence""...in Chancellor Valorum's leadership."
+1,126,727,MAIN ROTUNDA,INT,VALORUM,What?...No!
+1,126,728,MAIN ROTUNDA,INT,MAS AMEDDA,Order! We shall have order...
+1,126,729,MAIN ROTUNDA,INT,BAIL ORGANA,Alderaan seconds the motion for a vote of no confidence in Chancellor Valorum.
+1,126,730,MAIN ROTUNDA,INT,MAD AMEDDA,The motion has been seconded by Bail Organa of Alderaan.
+1,126,731,MAIN ROTUNDA,INT,BAIL ORGANA,There must be no delays. The motion is on the floor and must be voted upon in this session.
+1,126,732,MAIN ROTUNDA,INT,LOTT DOD,The Trade Federation moves the motion be sent to the procedures committee for study.
+1,126,733,MAIN ROTUNDA,INT,ASSEMBLY,Vote now! Vote now! Vote now!
+1,126,734,MAIN ROTUNDA,INT,PALPATINE,"You see, Your Majaesty, the tide is with us...Valorum will be voted out, I assure you, and they will elect in a new Chancellor, a strong Chancellor, one who will not let our tragedy continue..."
+1,126,735,MAIN ROTUNDA,INT,MAS AMEDDA,Thew Supreme Chancellor requests a recess. Tomorrow we will begin the vote.
+1,126,736,MAIN ROTUNDA,INT,VALORUM,"Palpatine, I thought you were my ally...my friend. You have betrayed me! How could you do this?"
+1,127,737,PALACE OF THE JEDI,EXT,OBI-WAN,"The boy will not pass the Council's tests, Master, and you know it. He is far too old."
+1,127,738,PALACE OF THE JEDI,EXT,QUI-GON,Anakin will become A Jedi...I promise you.
+1,127,739,PALACE OF THE JEDI,EXT,OBI-WAN,"Don't defy the Council, Master..not again."
+1,127,740,PALACE OF THE JEDI,EXT,QUI-GON,I will do what I must.
+1,127,741,PALACE OF THE JEDI,EXT,OBI-WAN,"Master, you could be sitting on the Council by now if you would just follow the code. They will not go along with you this time."
+1,127,742,PALACE OF THE JEDI,EXT,QUI-GON,"You still have much to learn, my young apprentice."
+1,128,743,PALACE OF THE JEDI,INT,ANAKIN,A ship...a cup...a speeder.
+1,128,744,PALACE OF THE JEDI,INT,YODA,"Good, good, young one. How feel you?"
+1,128,745,PALACE OF THE JEDI,INT,ANAKIN,"Cold, sir."
+1,128,746,PALACE OF THE JEDI,INT,YODA,Afraid are you?
+1,128,747,PALACE OF THE JEDI,INT,ANAKIN,"No, sir."
+1,128,748,PALACE OF THE JEDI,INT,MACE WINDU,Afraid to give up your life?
+1,128,749,PALACE OF THE JEDI,INT,ANAKIN,I don't think so.
+1,128,750,PALACE OF THE JEDI,INT,YODA,"See through you, we can."
+1,128,751,PALACE OF THE JEDI,INT,MACE WINDU,Be mindful of your feelings...
+1,128,752,PALACE OF THE JEDI,INT,KI-ADI,YOur thoughts dwell on your mother.
+1,128,753,PALACE OF THE JEDI,INT,ANAKIN,I miss her.
+1,128,754,PALACE OF THE JEDI,INT,YODA,Afraid to lose her..I think.
+1,128,755,PALACE OF THE JEDI,INT,ANAKIN,What's that got to do with anything?
+1,128,756,PALACE OF THE JEDI,INT,YODA,Eveything. Fear is the path to the dark side... fear leads to anger... anger leads to hate.. hate leads to suffering.
+1,128,757,PALACE OF THE JEDI,INT,ANAKIN,I am not afraid!
+1,128,758,PALACE OF THE JEDI,INT,YODA,"A Jedi must have the deepest commitment, the most serious mind. I sense much fear in you."
+1,128,759,PALACE OF THE JEDI,INT,ANAKIN,I am not afraid.
+1,128,760,PALACE OF THE JEDI,INT,YODA,"Then continue, we will."
+1,129,761,PALPATINES QUARTERS,INT,JAR JAR,Mesa wonder why da guds invent pain?
+1,129,762,PALPATINES QUARTERS,INT,AMIDALA,"To motivate us, I imagine..."
+1,129,763,PALPATINES QUARTERS,INT,JAR JAR,Yousa tinken yousa people ganna die?
+1,129,764,PALPATINES QUARTERS,INT,AMIDALA,I don't know.
+1,129,765,PALPATINES QUARTERS,INT,JAR JAR,"Gungans ganna get pasted too, eh?"
+1,129,766,PALPATINES QUARTERS,INT,AMIDALA,I hope not.
+1,129,767,PALPATINES QUARTERS,INT,JAR JAR,"Gungans do die'n without a fight.... wesa warriors. Wesa gotta grand army. Dat why you no liken us, metinks."
+1,129,768,PALPATINES QUARTERS,INT,CAPT. PANAKA,"Your Highness, Senator Palpatine has been nominated to succeed Valorum as Supreme Chancellor."
+1,129,769,PALPATINES QUARTERS,INT,PALPATINE,"A surprise, to be sure, but a welcome one. I promise, Your Majesty, if I am elected, I will bring democracy back to the Republic. I will put an end to corruption. The Trade Fedreation will lose its influence over the bureaucrats, and our people will be freed."
+1,129,770,PALPATINES QUARTERS,INT,AMIDALA,Who else can be nominated?
+1,129,771,PALPATINES QUARTERS,INT,CAPT. PANAKA,Bail Antilles of Alderaan and Ainlee Teem of Malastare.
+1,129,772,PALPATINES QUARTERS,INT,PALPATINE,"I feel confident...our ""situation"" will create a strong sympaphy vote for us... I will be Chancellor, I promise you."
+1,129,773,PALPATINES QUARTERS,INT,AMIDALA,"I fear by the time you have control of the bureaucrats, Senator, there will be nothing left of our cities, our people, our way of life..."
+1,129,774,PALPATINES QUARTERS,INT,PALPATINE,"I understand your concern, Your Majesty; unfortunately, the Federation has possession of our planet. The law is in their favor."
+1,129,775,PALPATINES QUARTERS,INT,AMIDALA,"With the Senate in transition, there is nothing more I can do here...Senator, this is your arena. I feel I must return to mine. I have decided to go back to Naboo. My place is with my people."
+1,129,776,PALPATINES QUARTERS,INT,PALPATINE,"Go back!! But, Your Majesty, be realistic! You would be in danger. They will force you to sign the treaty."
+1,129,777,PALPATINES QUARTERS,INT,AMIDALA,"I will sign no treaty, Senator. My fate will be no different from that of our people. Captain!"
+1,129,778,PALPATINES QUARTERS,INT,CAPT. PANAKA,"Yes, Your Highness?"
+1,129,779,PALPATINES QUARTERS,INT,AMIDALA,Ready my ship!
+1,129,780,PALPATINES QUARTERS,INT,CAPT. PANAKA,"Please, Your Majesty, stay here...where it's safe."
+1,129,781,PALPATINES QUARTERS,INT,AMIDALA,"No place is safe, if the Senate doesn't condemn this invasion. It is clear to me now that the Republic no longer functions as a democracy. If you win the election, Senator, I know you will do everything possible to stop the Federation. I pray you will bring sanity and compassion back to the Senate."
+1,130,782,TEMPLE OF THE JEDI,INT,YODA,"...Correct you were, Qui-Gon."
+1,130,783,TEMPLE OF THE JEDI,INT,MACE WINDU,His cells contain a high concentration of midi-chlorians.
+1,130,784,TEMPLE OF THE JEDI,INT,KI-ADI,The Force is strong with him.
+1,130,785,TEMPLE OF THE JEDI,INT,QUI-GON,"He's to be trained, then."
+1,130,786,TEMPLE OF THE JEDI,INT,MACE WINDU,No. He will not be trained.
+1,130,787,TEMPLE OF THE JEDI,INT,QUI-GON,No??!!
+1,130,788,TEMPLE OF THE JEDI,INT,MACE WINDU,He is too old. There is already too much anger in him.
+1,130,789,TEMPLE OF THE JEDI,INT,QUI-GON,He is the chosen one...you must see it.
+1,130,790,TEMPLE OF THE JEDI,INT,YODA,"Clouded, this boy's future is. Masked by his youth."
+1,130,791,TEMPLE OF THE JEDI,INT,QUI-GON,"I will trin him, then. I take Anakin as my Padawan learner."
+1,130,792,TEMPLE OF THE JEDI,INT,YODA,"An apprentice, you have, Qui-Gon. Impossible, to take on a second."
+1,130,793,TEMPLE OF THE JEDI,INT,MACE WINDU,We forbid it.
+1,130,794,TEMPLE OF THE JEDI,INT,QUI-GON,Obi-Wan is ready...
+1,130,795,TEMPLE OF THE JEDI,INT,OBI-WAN,Iam ready to face the trials.
+1,130,796,TEMPLE OF THE JEDI,INT,YODA,"Ready so early, are you? What know you of ready?"
+1,130,797,TEMPLE OF THE JEDI,INT,QUI-GON,"Headstrong....and he has much to learn about the living Force, but he is capabe. There is little more he will learn from me."
+1,130,798,TEMPLE OF THE JEDI,INT,YODA,"Our own council we will keep on who is ready. More to learn, he has..."
+1,130,799,TEMPLE OF THE JEDI,INT,MACE WINDU,"Now is not the time for this...the Senate is voting for a new Spreme Chancellor. Queen Amidala is returning home, which will put pressure on the Federation, and could widen the confrontation."
+1,130,800,TEMPLE OF THE JEDI,INT,YODA,And draw out the Queen's attacker.
+1,130,801,TEMPLE OF THE JEDI,INT,KI-ADI,Events are moving fast...too fast.
+1,130,802,TEMPLE OF THE JEDI,INT,MACE WINDU,Go with the Queen to Naboo and discover the identity of the dark warrior. That is the clue we need to unravel this mystery of the Sith.
+1,130,803,TEMPLE OF THE JEDI,INT,YODA,Young Skywalker's fate will be decided later.
+1,130,804,TEMPLE OF THE JEDI,INT,QUI-GON,I brought Anakin here; he must stay in my charge. He has nowhere else to go.
+1,130,805,TEMPLE OF THE JEDI,INT,MACE WINDU,"He is your ward, Qui-Gon...we will not dispute that."
+1,130,806,TEMPLE OF THE JEDI,INT,YODA,"Train him not. Take him with you, but train him not!"
+1,130,807,TEMPLE OF THE JEDI,INT,MACE WINDU,"Protect the Queen, but do not intercede if it comes to war until we have the Senate's approval."
+1,130,808,TEMPLE OF THE JEDI,INT,YODA,May the Force be with you.
+1,131,809,CORUSCANT,EXT,OBI-WAN,"It is not disrespect, Master, it is the truth."
+1,131,810,CORUSCANT,EXT,QUI-GON,From your point of view....
+1,131,811,CORUSCANT,EXT,OBI-WAN,The boy is dangerous...they all sense it. Why can't you?
+1,131,812,CORUSCANT,EXT,QUI-GON,"His fate is uncertain, not dangerous. The Council will decide Anakin's future...that should be enough for you. Now get on board! OBI-WAN reluctantly boards the Naboo spacecraft followed by ARTOO. QUI-GON goes over to ANAKIN."
+1,131,813,CORUSCANT,EXT,ANAKIN,"Master Qui-Gon, sir, I do not wish to be a problem."
+1,131,814,CORUSCANT,EXT,QUI-GON,"You won't be, Annie....I'm not allowed to train you, so I want you to watch me and be mindful...always remember, your focus determines your reality. Stay close to me and you will be safe."
+1,131,815,CORUSCANT,EXT,ANAKIN,"Master, sir...I've been wondering...what are midi-chlorians?"
+1,131,816,CORUSCANT,EXT,QUI-GON,Midi-chlorians are a microcopic lifeform that reside within all living cells and communicates with the Force.
+1,131,817,CORUSCANT,EXT,ANAKIN,They live inside of me?
+1,131,818,CORUSCANT,EXT,QUI-GON,In your cells. We are symbionts with the midi-chlorians.
+1,131,819,CORUSCANT,EXT,ANAKIN,Symbionts?
+1,131,820,CORUSCANT,EXT,QUI-GON,"Life forms living together for mutual advantage. Without the midi-chlorians, life could not exist, and we would have no knowledge of the Force. They continually speak to you, telling you the will of the Force."
+1,131,821,CORUSCANT,EXT,ANAKIN,They do??
+1,131,822,CORUSCANT,EXT,QUI-GON,"When you learn to quiet your mind, you will hear them speaking to you."
+1,131,823,CORUSCANT,EXT,ANAKIN,I don't understand.
+1,131,824,CORUSCANT,EXT,QUI-GON,"With time and training, Annie...you will."
+1,131,825,CORUSCANT,EXT,QUI-GON,"Your Highness, it is our pleasure to continue to serve and protect you."
+1,131,826,CORUSCANT,EXT,AMIDALA,I welcome your help. Senator Palpatine fears the Federation means to destroy me.
+1,131,827,CORUSCANT,EXT,QUI-GON,"I promise you, I will not let that happen."
+1,131,828,CORUSCANT,EXT,JAR JAR,Wesa goen home!
+1,132,829,NABOO PALACE,INT,DARTH SIDIOUS,"The Queen is on her way to you. I regret she is of no further use to us. When she gets there, destroy her."
+1,132,830,NABOO PALACE,INT,NUTE,"Yes, my Lord."
+1,132,831,NABOO PALACE,INT,DARTH SIDIOUS,"Viceroy, is the planet secure?"
+1,132,832,NABOO PALACE,INT,NUTE,"Yes, my Lord, we have taken over the last pockets of primitive life forms. We are in complete control of the planet now."
+1,132,833,NABOO PALACE,INT,DARTH SIDIOUS,"Good. I will see to it that in the Senate, things stay as they are. I am sending Darth Maul to join you. He will deal with the Jedi."
+1,132,834,NABOO PALACE,INT,NUTE,"Yes, my Lord."
+1,132,835,NABOO PALACE,INT,RUNE,A Sith lord here with us?!!
+1,133,836,SPACE,INT,ANAKIN,...and that one?
+1,133,837,SPACE,INT,RIC OLIE,The forward stabalizer.
+1,133,838,SPACE,INT,ANAKIN,And those control the pitch?
+1,133,839,SPACE,INT,RIC OLIE,You catch on pretty quick.
+1,134,840,NABOO SPACECRAFT,INT,CAPT. PANAKA,"The moment we land the Federation will arrest you, and force you to sign the treaty."
+1,134,841,NABOO SPACECRAFT,INT,QUI-GON,I agree...I'm not sure what you hope to accomplish by this.
+1,134,842,NABOO SPACECRAFT,INT,AMIDALA,I'm going to take back what's ours.
+1,134,843,NABOO SPACECRAFT,INT,CAPT. PANAKA,"There are only twelve of us, Your Highness....we have no army."
+1,134,844,NABOO SPACECRAFT,INT,QUI-GON,"I cannot fight a war for you, Your Highness, only protect you."
+1,134,845,NABOO SPACECRAFT,INT,AMIDALA,Jar Jar Binks!
+1,134,846,NABOO SPACECRAFT,INT,JAR JAR,"Mesa, Your Highness?"
+1,134,847,NABOO SPACECRAFT,INT,AMIDALA,Yes. I need your help.
+1,135,848,NABOO CRUISER COCKPIT,INT,PANAKA,The blockade's gone.
+1,135,849,NABOO CRUISER COCKPIT,INT,OBI-WAN,The war's over...No need for it now.
+1,135,850,NABOO CRUISER COCKPIT,INT,RIC OLIE,I have one battleship on my scope.
+1,135,851,NABOO CRUISER COCKPIT,INT,OBI-WAN,A droid control ship.
+1,135,852,NABOO CRUISER COCKPIT,INT,PANAKA,They've probably spotted us. OBI-WAN ; We haven't much time.
+1,136,853,NABOO SPACECRAFT,INT,ANAKIN,Hi! Where have you been?
+1,136,854,NABOO SPACECRAFT,INT,PADME,Annie! What are you doing here?
+1,136,855,NABOO SPACECRAFT,INT,ANAKIN,I'm with Qui-Gon...but...they're not going to let me be a Jedi. I'm too old.
+1,136,856,NABOO SPACECRAFT,INT,PADME,"This is going to be dangerous, Annie."
+1,136,857,NABOO SPACECRAFT,INT,ANAKIN,Is it? I can help... Where are we going?
+1,136,858,NABOO SPACECRAFT,INT,PADME,"To war, I'm afraid. The Queen has had to make the most difficuld decision of her life. She doesn't believe in fighting, Annie. We are a peaceful people..."
+1,136,859,NABOO SPACECRAFT,INT,ANAKIN,I want to help...I'm glad you're back.
+1,137,860,NABOO SWAMP,EXT,OBI-WAN,"Jar Jar is on his way to the Gungan city, Master."
+1,137,861,NABOO SWAMP,EXT,QUI-GON,Good.
+1,137,862,NABOO SWAMP,EXT,OBI-WAN,Do you think the Queen's idea will work?
+1,137,863,NABOO SWAMP,EXT,QUI-GON,"The Gungans will not easily be swayed, and we cannot use our power to help her."
+1,137,864,NABOO SWAMP,EXT,OBI-WAN,"I'm...I'm sorry for my behavior, Master. It is not my place to disagree with you about the boy. I am grateful you think I am ready for the trials."
+1,137,865,NABOO SWAMP,EXT,QUI-GON,"You have been a good apprentice. You are much wiser than Iam, Obi-Wan. I foresee you will become a great Jedi Knight."
+1,139,866,OTOH GUNGA,INT,JAR JAR,Ello! Where das everybody?
+1,141,867,NABOO SWAMP,EXT,JAR JAR,Dissen it.
+1,141,868,NABOO SWAMP,EXT,JAR JAR,"Heyo-dalee, Captain Tarpals."
+1,141,869,NABOO SWAMP,EXT,CAPT. TARPALS,Binks!! Noah gain!
+1,141,870,NABOO SWAMP,EXT,JAR JAR,We comen to see da boss.
+1,141,871,NABOO SWAMP,EXT,CAPT. TARPALS,"Ouch time, Binks... Ouch time for all-n youse."
+1,143,872,NABOO PALACE,INT,NUTE,"...we've sent out patrols. We've already located their starship in the swamp....It won't be long, My Lord."
+1,143,873,NABOO PALACE,INT,DARTH SIDIOUS,"This is an unexpected move for her. It's too aggresive.. Lord Maul, be mindful."
+1,143,874,NABOO PALACE,INT,DARTH MAUL,"Yes, my Master."
+1,143,875,NABOO PALACE,INT,DARTH SIDIOUS,Be patient... Let them make the first move.
+1,144,876,NABOO EDGE OF SWAMP/ GRASS PLAINS,EXT,GUNGAN LOOKOUT,Daza comen!
+1,144,877,NABOO EDGE OF SWAMP/ GRASS PLAINS,EXT,ANAKIN,All right. They're here!
+1,144,878,NABOO EDGE OF SWAMP/ GRASS PLAINS,EXT,BOSS NASS,Yousa doen grand. Jar Jar bringen da Naboo together.
+1,144,879,NABOO EDGE OF SWAMP/ GRASS PLAINS,EXT,JAR JAR,"Oh, no, no, no..."
+1,144,880,NABOO EDGE OF SWAMP/ GRASS PLAINS,EXT,BOSS NASS,"So, wesa maken yousa Bombad General."
+1,144,881,NABOO EDGE OF SWAMP/ GRASS PLAINS,EXT,JAR JAR,"General??! Oh, no.."
+1,145,882,THEED,INT,DARTH SIDIOUS,...she is more foolish than I thought.
+1,145,883,THEED,INT,NUTE,We are sending all available troops to meet this army of hers assembling near the swamp. It appears to be made up of primitives. We do not expect much resistance.
+1,145,884,THEED,INT,OOM-9,I am increasing security at all Naboo detention camps.
+1,145,885,THEED,INT,DARTH MAUL,"I feel there is more to this, My Master. The two Jedi may be using the Queen for their own purposes."
+1,145,886,THEED,INT,DARTH SIDIOUS,The Jedi cannot become involved. They can only protect the Queen. Even Qui-Gon Jinn will not break that conenant.... This will work to our advantage...
+1,145,887,THEED,INT,NUTE,"I have your approval to proceed then, My Lord."
+1,145,888,THEED,INT,DARTH SIDIOUS,Proceed. Wipe them put...all of them. INT. NABOO SWAMP LAKE 
+1,146,889,THEED,EXT,QUI-GON,"Once we get inside, Annie, you find a safe placeto hide and stay there."
+1,146,890,THEED,EXT,ANAKIN,Sure.
+1,146,891,THEED,EXT,QUI-GON,And stay there!
+1,148,892,THEED,INT,NUTE,I thought the battle was going to take place far from here...this is too close!
+1,148,893,THEED,INT,RUNE,What is going on?
+1,148,894,THEED,INT,DARTH MAUL,I told you there was more to this...the Jedi are involved.
+1,150,895,THEED,INT,PADME,Get to your ships!
+1,150,896,THEED,INT,FIGHTER PILOT,"Better find a new hiding place, kid. I'm taking this ship."
+1,152,897,THEED,INT,PADME,My guess is the Viceroy is in the throne room.
+1,152,898,THEED,INT,QUI-GON,I agree.
+1,152,899,THEED,INT,ANAKIN,Hey! Wait for me.
+1,152,900,THEED,INT,QUI-GON,"No, Annie, you stay there. Stay right where you are."
+1,152,901,THEED,INT,ANAKNI,"But, I..."
+1,152,902,THEED,INT,QUI-GON,Stay in that cockpit.
+1,152,903,THEED,INT,QUI-GON,We'' handle this...
+1,152,904,THEED,INT,ANAKIN,"Oh, no..."
+1,152,905,THEED,INT,ANAKIN,"We gotta do something, Artoo."
+1,152,906,THEED,INT,ANAKIN,"All right, thanks Artoo! Great idea! I'll take over. Let's see..."
+1,152,907,THEED,INT,ANAKIN,"Where's the trigger? Oops, wrong one.. Maybe this one...."
+1,152,908,THEED,INT,ANAKIN,"Yeah, all right. ""Droid blaster."" Yeah!"
+1,152,909,THEED,INT,ANAKIN,Oops...shield up! Always on the right...shields always on the right.
+1,152,910,THEED,INT,ANAKIN,I know we're moving. I'll shut the energy drive down.
+1,152,911,THEED,INT,ANAKIN,Oops!! Wrong one.
+1,152,912,THEED,INT,ANAKIN,I'm not doing anything!
+1,152,913,THEED,INT,ANAKIN,I know...I didn't push anything.
+1,153,914,NABOO STARFIGHTER,INT,RIC OLIE,"Bravo Flight A, take on the fighters. Flight B, make the run on the transmitter."
+1,153,915,NABOO STARFIGHTER,INT,BRAVO TWO,"Roger, Bravo Leader."
+1,153,916,NABOO STARFIGHTER,INT,RIC OLIE,Enemy fighters straight ahead!
+1,155,917,NABOO STARFIGHTER,INT,ANAKIN,The Autopilot is searching for what other ships?
+1,155,918,NABOO STARFIGHTER,INT,ANAKIN,"There is no manual override, Artoo. You'll have to rewire it or something."
+1,155,919,NABOO STARFIGHTER,INT,ANAKIN,Look! There they are! That's where the autopilot is taking us.
+1,158,920,THEED,INT,PADME,"We don't have time for this, Captain."
+1,158,921,THEED,INT,CAPT. PANAKA,Let's try the outside stairway.
+1,159,922,THEED,EXT,GENERAL CEEL,Retreat! Retreat!
+1,160,923,NABOO STARFIGHTER,INT,ANAKIN,"Whoo, boy! This is tense!"
+1,160,924,NABOO STARFIGHTER,INT,ANAKN,"Oops! Artoo, get us off Autopilot!"
+1,160,925,NABOO STARFIGHTER,INT,ANAKIN,I've got control?
+1,160,926,NABOO STARFIGHTER,INT,ANAKIN,"Okay, let's go left!"
+1,160,927,NABOO STARFIGHTER,INT,ANAKIN,"Yes...I've got control. You did it, Artoo!"
+1,160,928,NABOO STARFIGHTER,INT,ANAKIN,Go back!?! Qui-Gon told me to stay in this cockpit and that's what I'm gonna do. Now c'mon!
+1,160,929,NABOO STARFIGHTER,INT,ANAKIN,Oops! Whoa!
+1,160,930,NABOO STARFIGHTER,INT,ANAKIN,"I'll try spinning, that's a good trick."
+1,160,931,NABOO STARFIGHTER,INT,ANAKIN,I know we're in trouble! Hang on! The way out of this mess is the way we got into it.
+1,160,932,NABOO STARFIGHTER,INT,ANAKIN,Which one? This one?
+1,161,933,NABOO STARFIGHTER,INT,RIC OLIE,Bravo flight...go for the central bridge.
+1,161,934,NABOO STARFIGHTER,INT,BRAVO TWO,"ROger, Bravo Leader."
+1,161,935,NABOO STARFIGHTER,INT,RIC OLIE,Their deflector shield is too strong. We'll never get through it.
+1,161,936,NABOO STARFIGHTER,INT,ANAKIN,"I know, Artoo! This isn't Podracing!"
+1,161,937,NABOO STARFIGHTER,INT,ANAKIN,We're hit!
+1,161,938,NABOO STARFIGHTER,INT,ANAKIN,Great gobs of bantha poo-doo!
+1,161,939,NABOO STARFIGHTER,INT,ANAKIN,I'm trying to stop! I'm trying to stop! Whoa!
+1,161,940,NABOO STARFIGHTER,INT,ANAKIN,All right! All right! Get the system started!
+1,161,941,NABOO STARFIGHTER,INT,ANAKIN,Everything's overheated. All the lights are red.
+1,164,942,THEED,INT,PADME,Throw down your weapons. They win this round.
+1,164,943,THEED,INT,CAPT. PANAKA,But we can't....
+1,164,944,THEED,INT,PADME,"Captain, I said throw down your weapons."
+1,167,945,NABOO GRASS PLAINS,EXT,JAR JAR,"Dissa bad, berry bombad."
+1,167,946,NABOO GRASS PLAINS,EXT,GENERAL CEEL,Mesa hopen dissa working for da Queen.
+1,168,947,THED,INT,NUTE,"Your little insurrection is at an end, Your Highness. Time for you to sign the treaty...and end this pointless debate in the Senate."
+1,168,948,THED,INT,SABE,"I will not be signing any treaty, Viceroy, because you've lost!"
+1,168,949,THED,INT,NUTE,After her! This one is a decoy!
+1,168,950,THED,INT,NUTE,Your Queen will not get away with this.
+1,168,951,THED,INT,PADME,"Now, Viceroy, this is the end of your occupation here."
+1,168,952,THED,INT,NUTE,Don't be absurd. There are too few of you. It won't be long before hundreds of destroyer droids break in to rescue us.
+1,169,953,THEED,INT,OBI-WAN,Master! Master!
+1,169,954,THEED,INT,QUI-GON,It is too late...It's...
+1,169,955,THEED,INT,OBI-WAN,No!
+1,169,956,THEED,INT,QUI-GON,Obi-Wan promise...promise me you'll train the boy...
+1,169,957,THEED,INT,OBI-WAN,"Yes, Master..."
+1,169,958,THEED,INT,QUI-GON,He is the chosen one...he will...bring balance...train him!
+1,170,959,NABOO STARFIGHTER,INT,ANAKIN,Uh oh. This is not good.
+1,170,960,NABOO STARFIGHTER,INT,ANAKIN,"The systems are still overheated, Artoo."
+1,170,961,NABOO STARFIGHTER,INT,BATTLE DROID CAPTAIN,Where's your pilot?
+1,170,962,NABOO STARFIGHTER,INT,BATTLE DROID CAPTAIN,You're the pilot?
+1,170,963,NABOO STARFIGHTER,INT,BATTLE DROID CAPTAIN,Let me see your identification!
+1,170,964,NABOO STARFIGHTER,INT,ANAKIN,Yes...we have ignition.
+1,170,965,NABOO STARFIGHTER,INT,BATTLE DROID CAPTAIN,You! Come out of there or we'll blast you!
+1,170,966,NABOO STARFIGHTER,INT,ANAKIN,Not if I can help it! Shields up!
+1,170,967,NABOO STARFIGHTER,INT,ANAKIN,This should stop them.
+1,170,968,NABOO STARFIGHTER,INT,ANAKIN,...and take this!
+1,170,969,NABOO STARFIGHTER,INT,ANAKIN,Darn...I missed!
+1,170,970,NABOO STARFIGHTER,INT,ANAKIN,Let's get out of here!
+1,170,971,NABOO STARFIGHTER,INT,ANAKIN,"Now, this is Podracing! Whoopee!"
+1,171,972,FEDERATION BATTLESHIP,INT,TEY HOW,"Sir, we're losing power... There is some problem with the main reactor..."
+1,171,973,FEDERATION BATTLESHIP,INT,DOFINE,Impossible!! I don't...
+1,172,974,NABOO FIGHTER,INT,BRAVO TWO,What's that?? It's blowing up from the inside.
+1,172,975,NABOO FIGHTER,INT,RIC OLIE,"I don't know, we didn't hit it."
+1,172,976,NABOO FIGHTER,INT,BRAVO THREE,Look! One of ours! Outta the main hold!!
+1,173,977,NABOO GRASS PLAINS,EXT,JAR JAR,Wierdind...
+1,175,978,THEED,INT,BRAVO TWO,"He flew into the hold, behind the deflector shield and blasted the main reactor..."
+1,175,979,THEED,INT,BRAVO THREE,Amazing... They don't teach that in the academy.
+1,175,980,THEED,INT,RIC OLIE,We're all accounted for. Who flew that ship?
+1,175,981,THEED,INT,ANAKIN,"I'm not going to get into trouble, am I?"
+1,176,982,MAIN HANGER,INT,PADME,"Now, Viceroy, you are going to have to go back to the Senate and explain all this."
+1,176,983,MAIN HANGER,INT,CAPT. PANAKA,I think you can kiss your Trade franchise goodbye.
+1,176,984,MAIN HANGER,INT,AMIDALA,"Congratulations on youer election, Chancellor. It is so good to see you again."
+1,176,985,MAIN HANGER,INT,PALPATINE,"It's good to be home. Your boldness has saved our people, Your Majesty. It is you who should be congratulated. Together we shall bring peace and prosperity to the Republic."
+1,177,986,TURRET ROOM,INT,YODA,"Confer on you, the level of Jedi Knight the Coucil does. But agree on you taking this boy as your Padawan learner, I do not."
+1,177,987,TURRET ROOM,INT,OBI-WAN,Qui-Gon believed in him. I believe in Qui-Gon.
+1,177,988,TURRET ROOM,INT,YODA,"The Chosen One the boy may be; nevertheless, grave danger I fear in his training."
+1,177,989,TURRET ROOM,INT,OBI-WAN,"Master Yoda, Igave Qui-Gon my word. I will train Anakin. Without the approval of the Council if I must."
+1,177,990,TURRET ROOM,INT,YODA,"Qui-Gon's defiance I sense in you. Need that, you do not. Agree, the council does. Your apprentice, young Skywalker will be."
+1,178,991,THEED,EXT,OBI-WAN,"He is one with the Force, Anakin...You must let go."
+1,178,992,THEED,EXT,ANAKIN,What will happen to me now?
+1,178,993,THEED,EXT,OBI-WAN,"I am your Master now. You will become a Jedi, I promise."
+1,178,994,THEED,EXT,MACE WINDU,There is no doubt. The mysterious warrior was a Sith.
+1,178,995,THEED,EXT,YODA,Always two there are....no more...no less. A maste and an apprentice.
+1,178,996,THEED,EXT,MACE WINDU,"But which one was destroyed, the master or the apprentice?"

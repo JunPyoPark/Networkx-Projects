@@ -1,0 +1,1005 @@
+episode,scene_num,sequence,place,type,actor,dialogue
+4,1,1,REBEL BLOCKADE RUNNER,INT,THREEPIO,Did you hear that? They've shut down the main reactor. We'll be destroyed for sure. This is madness!
+4,1,2,REBEL BLOCKADE RUNNER,INT,THREEPIO,We're doomed!
+4,1,3,REBEL BLOCKADE RUNNER,INT,THREEPIO,There'll be no escape for the Princess this time.
+4,1,4,REBEL BLOCKADE RUNNER,INT,THREEPIO,What's that?
+4,3,5,REBEL BLOCKADE RUNNER,INT,THREEPIO,I should have known better than to trust the logic of a half-sized thermocapsulary dehousing assister...
+4,4,6,TATOOINE,INT,LUKE,Hurry up! Come with me! What are you waiting for?! Get in gear!
+4,7,7,REBEL BLOCKADE RUNNER,INT,THREEPIO,"Artoo! Artoo-Detoo, where are you?"
+4,7,8,REBEL BLOCKADE RUNNER,INT,THREEPIO,At last! Where have you been?
+4,7,9,REBEL BLOCKADE RUNNER,INT,THREEPIO,They're heading in this direction. What are we going to do? We'll be sent to the spice mine of Kessel or smashed into who knows what!
+4,7,10,REBEL BLOCKADE RUNNER,INT,THREEPIO,"Wait a minute, where are you going?"
+4,8,11,REBEL BLOCKADE RUNNER,INT,IMPERIAL OFFICER,The Death Star plans are not in the main computer.
+4,8,12,REBEL BLOCKADE RUNNER,INT,VADER,Where are those transmissions you intercepted?
+4,8,13,REBEL BLOCKADE RUNNER,INT,VADER,What have you done with those plans?
+4,8,14,REBEL BLOCKADE RUNNER,INT,REBEL OFFICER,We intercepted no transmissions. Aaah... This is a consular ship. Were on a diplomatic mission.
+4,8,15,REBEL BLOCKADE RUNNER,INT,VADER,If this is a consular ship... were is the Ambassador?
+4,8,16,REBEL BLOCKADE RUNNER,INT,VADER,"Commander, tear this ship apart until you've found those plans and bring me the Ambassador. I want her alive!"
+4,9,17,REBEL BLOCKADE RUNNER,INT,TROOPER,There she is! Set for stun!
+4,9,18,REBEL BLOCKADE RUNNER,INT,TROOPER,She'll be all right. Inform Lord Vader we have a prisoner.
+4,10,19,REBEL BLOCKADE RUNNER,INT,THREEPIO,"Hey, you're not permitted in there. It's restricted. You'll be deactivated for sure.."
+4,10,20,REBEL BLOCKADE RUNNER,INT,THREEPIO,"Don't call me a mindless philosopher, you overweight glob of grease! Now come out before somebody sees you."
+4,10,21,REBEL BLOCKADE RUNNER,INT,THREEPIO,Secret mission? What plans? What are you talking about? I'm not getting in there!
+4,10,22,REBEL BLOCKADE RUNNER,INT,THREEPIO,I'm going to regret this.
+4,11,23,IMPERIAL STARDESTROYER,INT,CHIEF PILOT,There goes another one.
+4,11,24,IMPERIAL STARDESTROYER,INT,CAPTAIN,Hold your fire. There are no life forms. It must have been short- circuited.
+4,12,25,LIFEPOD,INT,THREEPIO,"That's funny, the damage doesn't look as bad from out here."
+4,12,26,LIFEPOD,INT,THREEPIO,Are you sure this things safe?
+4,13,27,TATOOINE,INT,WOMAN,I've told you kids to slow down!
+4,14,28,POWER STATION,INT,FIXER,Did I hear a young noise blast through here?
+4,14,29,POWER STATION,INT,CAMIE,It was just wormie on another rampage.
+4,14,30,POWER STATION,INT,LUKE,Shape it up you guys!... Biggs?
+4,14,31,POWER STATION,INT,LUKE,I didn't know you were back! When did you get in?
+4,14,32,POWER STATION,INT,BIGGS,"Just now. I wanted to surprise you, hot shot. I thought you'd be here... certainly didn't expect you to be out working."
+4,14,33,POWER STATION,INT,LUKE,"The Academy didn't change you much...but you're back so soon? Hey, what happened, didn't you get your commission?"
+4,14,34,POWER STATION,INT,BIGGS,Of course I got it. Signed aboard The Rand Ecliptic last week. First mate Biggs Darklighter at your service... ...I just came to say good-bye to all you unfortunate landlocked simpletons.
+4,14,35,POWER STATION,INT,LUKE,I almost forgot. There's a battle going on! Right here in our system. Come and look!
+4,14,36,POWER STATION,INT,DEAK,Not again! Forget it.
+4,15,37,TATOOINE,INT,LUKE,There they are!
+4,15,38,TATOOINE,INT,BIGGS,"That's no battle, hot shot... they're just sitting there! Probably a freighter-tanker refueling."
+4,15,39,TATOOINE,INT,LUKE,But there was a lot of firing earlier...
+4,15,40,TATOOINE,INT,LUKE,"Hey, easy with those..."
+4,15,41,TATOOINE,INT,CAMIE,"Don't worry about it, Wormie."
+4,15,42,TATOOINE,INT,FIXER,"I keep telling you, the Rebellion is a long way from here. I doubt if the Empire would even fight to keep this system. Believe me Luke, this planet is a big hunk of nothing..."
+4,16,43,REBEL BLOCKADE RUNNER,INT,LEIA,"Lord Vader, I should have known. Only you could be so bold. The Imperial Senate will not sit for this, when they hear you've attacked a diplomatic..."
+4,16,44,REBEL BLOCKADE RUNNER,INT,VADER,"Don't play games with me, Your Highness. You weren't on any mercy mission this time. You passed directly through a restricted system. Several transmissions were beamed to this ship by Rebel spies. I want to know what happened to the plans they sent you."
+4,16,45,REBEL BLOCKADE RUNNER,INT,LEIA,I don't know what you're talking about. I'm a member of the Imperial Senate on a diplomatic mission to Alderaan...
+4,16,46,REBEL BLOCKADE RUNNER,INT,VADER,You're a part of the Rebel Alliance... and a traitor. Take her away!
+4,16,47,REBEL BLOCKADE RUNNER,INT,COMMANDER,"Holding her is dangerous. If word of this gets out, it could generate sympathy for the Rebellion in the senate."
+4,16,48,REBEL BLOCKADE RUNNER,INT,VADER,I have traced the Rebel spies to her. Now she is my only link to find their secret base!
+4,16,49,REBEL BLOCKADE RUNNER,INT,COMMANDER,She'll die before she tells you anything.
+4,16,50,REBEL BLOCKADE RUNNER,INT,VADER,Leave that to me. Send a distress signal and then inform the senate that all aboard were killed!
+4,16,51,REBEL BLOCKADE RUNNER,INT,SECOND OFFICER,"Lord Vader, the battle station plans are not aboard this ship! And no transmissions were made. An escape pod was jettisoned during the fighting, but no life forms were aboard."
+4,16,52,REBEL BLOCKADE RUNNER,INT,VADER,"She must have hidden the plans in the escape pod. Send a detachment down to retrieve them. See to it personally, Commander. There'll be no one to stop us this time."
+4,16,53,REBEL BLOCKADE RUNNER,INT,COMMANDER,"Yes, sir."
+4,18,54,TATOOINE,INT,THREEPIO,How did I get into this mess? I really don't know how. We seem to be made to suffer. It's our lot in life.
+4,18,55,TATOOINE,INT,THREEPIO,I've got to rest before I fall apart. My joints are almost frozen.
+4,18,56,TATOOINE,INT,THREEPIO,What a desolate place this is.
+4,18,57,TATOOINE,INT,THREEPIO,Where are you going?
+4,18,58,TATOOINE,INT,THREEPIO,"Well, I'm not going that way. It's much too rocky. This way is much easier."
+4,18,59,TATOOINE,INT,THREEPIO,What makes you think there are settlements over there?
+4,18,60,TATOOINE,INT,THREEPIO,Don't get technical with me.
+4,18,61,TATOOINE,INT,THREEPIO,"What mission? What are you talking about? I've had just about enough of you! Go that way! You'll be malfunctioning within a day, you nearsighted scrap pile!"
+4,18,62,TATOOINE,INT,THREEPIO,"And don't let me catch you following me begging for help, because you won't get it."
+4,18,63,TATOOINE,INT,THREEPIO,No more adventures. I'm not going that way.
+4,19,64,TATOOINE,INT,THREEPIO,"That malfunctioning little twerp. This is all his fault! He tricked me into going this way, but he'll do no better."
+4,19,65,TATOOINE,INT,THREEPIO,"Wait, what's that? A transport! I'm saved!"
+4,19,66,TATOOINE,INT,THREEPIO,"Over here! Help! Please, help!"
+4,20,67,TATOOINE,INT,LUKE,"...so I cut off my power, shut down the afterburners and came in low on Deak's trail. I was so close I thought I was going to fry my instruments. As it was I busted up the Skyhopper pretty bad. Uncle Owen was pretty upset. He grounded me for the rest of the season. You should have been there... it was fantastic."
+4,20,68,TATOOINE,INT,BIGGS,"You ought to take it easy Luke. You may be the hottest bushpilot this side of Mos Eisley, but those little Skyhoppers are dangerous. Keep it up, and one day, whammo, you're going to be nothing more than a dark spot on the down side of a canyon wall."
+4,20,69,TATOOINE,INT,LUKE,Look who's talking. Now that you've been around those giant starships you're beginning to sound like my uncle. You've gotten soft in the city...
+4,20,70,TATOOINE,INT,BIGGS,I've missed you kid.
+4,20,71,TATOOINE,INT,LUKE,"Well, things haven't been the same since you left, Biggs. It's been so... quiet."
+4,20,72,TATOOINE,INT,BIGGS,"Luke, I didn't come back just to say good-bye... I shouldn't tell you this, but you're the only one I can trust... and if I don't come back, I want somebody to know."
+4,20,73,TATOOINE,INT,LUKE,What are you talking about?
+4,20,74,TATOOINE,INT,BIGGS,"I made some friends at the Academy. ...when our frigate goes to one of the central systems, we're going to jump ship and join the Alliance..."
+4,20,75,TATOOINE,INT,LUKE,Join the Rebellion?! Are you kidding! How?
+4,20,76,TATOOINE,INT,BIGGS,Quiet down will ya! You got a mouth bigger than a meteor crater!
+4,20,77,TATOOINE,INT,LUKE,I'm sorry. I'm quiet. Listen how quiet I am. You can barely hear me...
+4,20,78,TATOOINE,INT,BIGGS,My friend has a friend on Bestine who might help us make contact.
+4,20,79,TATOOINE,INT,LUKE,You're crazy! You could wander around forever trying to find them.
+4,20,80,TATOOINE,INT,BIGGS,"I know it's a long shot, but if I don't find them I'll do what I can on my own... It's what we always talked about. Luke, I'm not going to wait for the Empire to draft me into service. The Rebellion is spreading and I want to be on the right side -- the side I believe in."
+4,20,81,TATOOINE,INT,LUKE,And I'm stuck here...
+4,20,82,TATOOINE,INT,BIGGS,I thought you were going to the Academy next term. You'll get your chance to get off this rock.
+4,20,83,TATOOINE,INT,LUKE,Not likely! I had to cancel my application. There has been a lot of unrest among the Sandpeople since you left... they've even raided the outskirts of Anchorhead.
+4,20,84,TATOOINE,INT,BIGGS,Your uncle could hold off a whole colony of Sandpeople with one blaster.
+4,20,85,TATOOINE,INT,LUKE,"I know, but he's got enough vaporators going to make the place pay off. He needs me for just one more season. I can't leave him now."
+4,20,86,TATOOINE,INT,BIGGS,"I feel for you, Luke, you're going to have to learn what seems to be important or what really is important. What good is all your uncle's work if it's taken over by the Empire?... You know they're starting to nationalize commerce in the central systems... it won't be long before your uncle is merely a tenant, slaving for the greater glory of the Empire."
+4,20,87,TATOOINE,INT,LUKE,It couldn't happen here. You said it yourself. The Empire won't bother with this rock.
+4,20,88,TATOOINE,INT,BIGGS,Things always change.
+4,20,89,TATOOINE,INT,LUKE,I wish I was going... Are you going to be around long?
+4,20,90,TATOOINE,INT,BIGGS,"No, I'm leaving in the morning..."
+4,20,91,TATOOINE,INT,LUKE,Then I guess I won't see you.
+4,20,92,TATOOINE,INT,BIGGS,Maybe someday... I'll keep a lookout.
+4,20,93,TATOOINE,INT,LUKE,"Well, I'll be at the Academy next season... after that who knows. I won't be drafted into the Imperial Starfleet that's for sure... Take care of yourself, you'll always be the best friend I've got."
+4,20,94,TATOOINE,INT,BIGGS,"So long, Luke."
+4,24,95,SANDCRAWLER,INT,THREEPIO,Artoo-Detoo! It's you! It's you!
+4,26,96,TATOOINE,INT,FIRST TROOPER,Someone was in the pod. The tracks go off in this direction.
+4,26,97,TATOOINE,INT,SECOND TROOPER,"Look, sir -- droids."
+4,28,98,SANDCRAWLER,INT,THREEPIO,Wake up! Wake up!
+4,28,99,SANDCRAWLER,INT,THREEPIO,We're doomed.
+4,28,100,SANDCRAWLER,INT,THREEPIO,Do you think they'll melt us down?
+4,28,101,SANDCRAWLER,INT,THREEPIO,Don't shoot! Don't shoot! Will this never end?
+4,29,102,TATOOINE,INT,BERU,"Luke, tell Owen that if he gets a translator to be sure it speaks Bocce."
+4,29,103,TATOOINE,INT,LUKE,It looks like we don't have much of a choice but I'll remind him.
+4,29,104,TATOOINE,INT,OWEN,I have no need for a protocol droid.
+4,29,105,TATOOINE,INT,THREEPIO,Sir -- not in an environment such as this -- that's why I've also been programmed for over thirty secondary functions that...
+4,29,106,TATOOINE,INT,OWEN,What I really need is a droid that understands the binary language of moisture vaporators.
+4,29,107,TATOOINE,INT,THREEPIO,Vaporators! Sir -- My first job was programming binary load lifter... very similar to your vaporators. You could say...
+4,29,108,TATOOINE,INT,OWEN,Do you speak Bocce?
+4,29,109,TATOOINE,INT,THREEPIO,"Of course I can, sir. It's like a second language for me... I'm as fluent in Bocce..."
+4,29,110,TATOOINE,INT,OWEN,All right shut up! I'll take this one.
+4,29,111,TATOOINE,INT,THREEPIO,"Shutting up, sir."
+4,29,112,TATOOINE,INT,OWEN,"Luke, take these two over to the garage, will you? I want you to have both of them cleaned up before dinner."
+4,29,113,TATOOINE,INT,LUKE,But I was going into Toshi Station to pick up some power converters...
+4,29,114,TATOOINE,INT,OWEN,"You can waste time with your friends when your chores are done. Now come on, get to it!"
+4,29,115,TATOOINE,INT,LUKE,"All right, come on! And the red one, come on. Well, come on, Red, let's go."
+4,29,116,TATOOINE,INT,LUKE,Uncle Owen...
+4,29,117,TATOOINE,INT,OWEN,Yeah?
+4,29,118,TATOOINE,INT,LUKE,This R2 unit has a bad motivator. Look!
+4,29,119,TATOOINE,INT,OWEN,"Hey, what're you trying to push on us?"
+4,29,120,TATOOINE,INT,THREEPIO,"Excuse me, sir, but that R2 unit is in prime condition. A real bargain."
+4,29,121,TATOOINE,INT,LUKE,Uncle Owen...
+4,29,122,TATOOINE,INT,OWEN,Yeah?
+4,29,123,TATOOINE,INT,LUKE,What about that one?
+4,29,124,TATOOINE,INT,OWEN,What about that blue one? We'll take that one.
+4,29,125,TATOOINE,INT,LUKE,"Yeah, take it away."
+4,29,126,TATOOINE,INT,THREEPIO,"Uh, I'm quite sure you'll be very pleased with that one, sir. He really is in first-class condition. I've worked with him before. Here he comes."
+4,29,127,TATOOINE,INT,LUKE,"Okay, let's go."
+4,29,128,TATOOINE,INT,THREEPIO,"Now, don't you forget this! Why I should stick my neck out for you is quite beyond my capacity!"
+4,30,129,LARS HOMESTEAD,INT,THREEPIO,"Thank the maker! This oil bath is going to feel so good. I've got such a bad case of dust contamination, I can barely move!"
+4,30,130,LARS HOMESTEAD,INT,LUKE,"It just isn't fair. Oh, Biggs is right. I'm never gonna get out of here!"
+4,30,131,LARS HOMESTEAD,INT,THREEPIO,Is there anything I might do to help?
+4,30,132,LARS HOMESTEAD,INT,LUKE,"Well, not unless you can alter time, speed up the harvest, or teleport me off this rock!"
+4,30,133,LARS HOMESTEAD,INT,THREEPIO,"I don't think so, sir. I'm only a droid and not very knowledgeable about such things. Not on this planet, anyways. As a matter of fact, I'm not even sure which planet I'm on."
+4,30,134,LARS HOMESTEAD,INT,LUKE,"Well, if there's a bright center to the universe, you're on the planet that it's farthest from."
+4,30,135,LARS HOMESTEAD,INT,THREEPIO,"I see, sir."
+4,30,136,LARS HOMESTEAD,INT,LUKE,"Uh, you can call me Luke."
+4,30,137,LARS HOMESTEAD,INT,THREEPIO,"I see, sir Luke."
+4,30,138,LARS HOMESTEAD,INT,LUKE,Just Luke.
+4,30,139,LARS HOMESTEAD,INT,THREEPIO,"And I am See-Threepio, human-cyborg relations, and this is my counterpart, Artoo-Detoo."
+4,30,140,LARS HOMESTEAD,INT,LUKE,Hello.
+4,30,141,LARS HOMESTEAD,INT,LUKE,You got a lot of carbon scoring here. It looks like you boys have seen a lot of action.
+4,30,142,LARS HOMESTEAD,INT,THREEPIO,"With all we've been through, sometimes I'm amazed we're in as good condition as we are, what with the Rebellion and all."
+4,30,143,LARS HOMESTEAD,INT,LUKE,You know of the Rebellion against the Empire?
+4,30,144,LARS HOMESTEAD,INT,THREEPIO,"That's how we came to be in your service, if you take my meaning, sir."
+4,30,145,LARS HOMESTEAD,INT,LUKE,Have you been in many battles?
+4,30,146,LARS HOMESTEAD,INT,THREEPIO,"Several, I think. Actually, there's not much to tell. I'm not much more than an interpreter, and not very good at telling stories. Well, not at making them interesting, anyways."
+4,30,147,LARS HOMESTEAD,INT,LUKE,"Well, my little friend, you've got something jammed in here real good. Were you on a cruiser or..."
+4,30,148,LARS HOMESTEAD,INT,LEIA,"Help me, Obi-Wan Kenobi. You're my only hope."
+4,30,149,LARS HOMESTEAD,INT,LUKE,What's this?
+4,30,150,LARS HOMESTEAD,INT,THREEPIO,What is what?!? He asked you a question... What is that?
+4,30,151,LARS HOMESTEAD,INT,LEIA,"Help me, Obi-Wan Kenobi. You're my only hope. Help me, Obi-Wan Kenobi. You're my only hope."
+4,30,152,LARS HOMESTEAD,INT,THREEPIO,"Oh, he says it's nothing, sir. Merely a malfunction. Old data. Pay it no mind."
+4,30,153,LARS HOMESTEAD,INT,LUKE,Who is she? She's beautiful.
+4,30,154,LARS HOMESTEAD,INT,THREEPIO,"I'm afraid I'm not quite sure, sir."
+4,30,155,LARS HOMESTEAD,INT,LEIA,"Help me, Obi-Wan Kenobi..."
+4,30,156,LARS HOMESTEAD,INT,THREEPIO,"I think she was a passenger on our last voyage. A person of some importance, sir -- I believe. Our captain was attached to..."
+4,30,157,LARS HOMESTEAD,INT,LUKE,Is there more to this recording?
+4,30,158,LARS HOMESTEAD,INT,THREEPIO,"Behave yourself, Artoo. You're going to get us in trouble. It's all right, you can trust him. He's our new master."
+4,30,159,LARS HOMESTEAD,INT,THREEPIO,"He says he's the property of Obi-Wan Kenobi, a resident of these parts. And it's a private message for him. Quite frankly, sir I don't know what he's talking about. Our last master was Captain Antilles, but with what we've been through, this little R2 unit has become a bit eccentric."
+4,30,160,LARS HOMESTEAD,INT,LUKE,Obi-Wan Kenobi? I wonder if he means old Ben Kenobi?
+4,30,161,LARS HOMESTEAD,INT,THREEPIO,"I beg your pardon, sir, but do you know what he's talking about?"
+4,30,162,LARS HOMESTEAD,INT,LUKE,"Well, I don't know anyone named Obi- Wan, but old Ben lives out beyond the dune sea. He's kind of a strange old hermit."
+4,30,163,LARS HOMESTEAD,INT,LUKE,I wonder who she is. It sounds like she's in trouble. I'd better play back the whole thing.
+4,30,164,LARS HOMESTEAD,INT,THREEPIO,"He says the restraining bolt has short circuited his recording system. He suggests that if you remove the bolt, he might be able to play back the entire recording."
+4,30,165,LARS HOMESTEAD,INT,LUKE,"H'm? Oh, yeah, well, I guess you're too small to run away on me if I take this off! Okay."
+4,30,166,LARS HOMESTEAD,INT,LUKE,There you go.
+4,30,167,LARS HOMESTEAD,INT,LUKE,"Well, wait a minute. Where'd she go? Bring her back! Play back the entire message."
+4,30,168,LARS HOMESTEAD,INT,THREEPIO,What message? The one you're carrying inside your rusty innards!
+4,30,169,LARS HOMESTEAD,INT,AUNT BERU,Luke? Luke! Come to dinner!
+4,30,170,LARS HOMESTEAD,INT,LUKE,"All right, I'll be right there, Aunt Beru."
+4,30,171,LARS HOMESTEAD,INT,THREEPIO,"I'm sorry, sir, but he appears to have picked up a slight flutter."
+4,30,172,LARS HOMESTEAD,INT,LUKE,"Well, see what you can do with him. I'll be right back."
+4,30,173,LARS HOMESTEAD,INT,THREEPIO,Just you reconsider playing that message for him.
+4,30,174,LARS HOMESTEAD,INT,THREEPIO,"No, I don't think he likes you at all."
+4,30,175,LARS HOMESTEAD,INT,THREEPIO,"No, I don't like you either."
+4,31,176,LARS HOMESTEAD,INT,LUKE,"You know, I think that R2 unit we bought might have been stolen."
+4,31,177,LARS HOMESTEAD,INT,OWEN,What makes you think that?
+4,31,178,LARS HOMESTEAD,INT,LUKE,"Well, I stumbled across a recording while I was cleaning him. He says he belongs to someone called Obi-Wan Kenobi."
+4,31,179,LARS HOMESTEAD,INT,LUKE,"I thought he might have meant old Ben. Do you know what he's talking about? Well, I wonder if he's related to Ben."
+4,31,180,LARS HOMESTEAD,INT,OWEN,That old man's just a crazy old wizard. Tomorrow I want you to take that R2 unit into Anchorhead and have its memory flushed. That'll be the end of it. It belongs to us now.
+4,31,181,LARS HOMESTEAD,INT,LUKE,But what if this Obi-Wan comes looking for him?
+4,31,182,LARS HOMESTEAD,INT,OWEN,"He won't, I don't think he exists any more. He died about the same time as your father."
+4,31,183,LARS HOMESTEAD,INT,LUKE,He knew my father?
+4,31,184,LARS HOMESTEAD,INT,OWEN,I told you to forget it. Your only concern is to prepare the new droids for tomorrow. In the morning I want them on the south ridge working out those condensers.
+4,31,185,LARS HOMESTEAD,INT,LUKE,"Yes, sir. I think those new droids are going to work out fine. In fact, I, uh, was also thinking about our agreement about my staying on another season. And if these new droids do work out, I want to transmit my application to the Academy this year."
+4,31,186,LARS HOMESTEAD,INT,OWEN,You mean the next semester before harvest?
+4,31,187,LARS HOMESTEAD,INT,LUKE,"Sure, there're more than enough droids."
+4,31,188,LARS HOMESTEAD,INT,OWEN,Harvest is when I need you the most. Only one more season. This year we'll make enough on the harvest so I'll be able to hire some more hands. And then you can go to the Academy next year.
+4,31,189,LARS HOMESTEAD,INT,OWEN,"You must understand I need you here, Luke."
+4,31,190,LARS HOMESTEAD,INT,LUKE,But it's a whole 'nother year.
+4,31,191,LARS HOMESTEAD,INT,OWEN,"Look, it's only one more season."
+4,31,192,LARS HOMESTEAD,INT,LUKE,"Yeah, that's what you said last year when Biggs and Tank left."
+4,31,193,LARS HOMESTEAD,INT,AUNT BERU,Where are you going?
+4,31,194,LARS HOMESTEAD,INT,LUKE,It looks like I'm going nowhere. I have to finish cleaning those droids.
+4,31,195,LARS HOMESTEAD,INT,AUNT BERU,"Owen, he can't stay here forever. Most of his friends have gone. It means so much to him."
+4,31,196,LARS HOMESTEAD,INT,OWEN,I'll make it up to him next year. I promise.
+4,31,197,LARS HOMESTEAD,INT,AUNT BERU,"Luke's just not a farmer, Owen. He has too much of his father in him."
+4,31,198,LARS HOMESTEAD,INT,OWEN,That's what I'm afraid of.
+4,33,199,LARS HOMESTEAD,INT,LUKE,What are you doing hiding there?
+4,33,200,LARS HOMESTEAD,INT,THREEPIO,"It wasn't my fault, sir. Please don't deactivate me. I told him not to go, but he's faulty, malfunctioning; kept babbling on about his mission."
+4,33,201,LARS HOMESTEAD,INT,LUKE,"Oh, no!"
+4,34,202,TATOOINE,INT,THREEPIO,That R2 unit has always been a problem. These astro-droids are getting quite out of hand. Even I can't understand their logic at times.
+4,34,203,TATOOINE,INT,LUKE,How could I be so stupid? He's nowhere in sight. Blast it!
+4,34,204,TATOOINE,INT,THREEPIO,"Pardon me, sir, but couldn't we go after him?"
+4,34,205,TATOOINE,INT,LUKE,It's too dangerous with all the Sandpeople around. We'll have to wait until morning.
+4,34,206,TATOOINE,INT,OWEN,"Luke, I'm shutting the power down for the night."
+4,34,207,TATOOINE,INT,LUKE,"All right, I'll be there in a few minutes. Boy, am I gonna get it."
+4,34,208,TATOOINE,INT,LUKE,You know that little droid is going to cause me a lot of trouble.
+4,34,209,TATOOINE,INT,THREEPIO,"Oh, he excels at that, sir."
+4,35,210,LARS HOMESTEAD,INT,OWEN,Luke? Luke? Luke? Where could he be loafing now!
+4,36,211,LARS HOMESTEAD,INT,OWEN,Have you seen Luke this morning?
+4,36,212,LARS HOMESTEAD,INT,AUNT BERU,"He said he had some things to do before he started today, so he left early."
+4,36,213,LARS HOMESTEAD,INT,OWEN,Uh? Did he take those two new droids with him?
+4,36,214,LARS HOMESTEAD,INT,AUNT BERU,I think so.
+4,36,215,LARS HOMESTEAD,INT,OWEN,"Well, he'd better have those units in the south range repaired be midday or there'll be hell to pay!"
+4,37,216,TATOOINE,INT,LUKE,How's that.
+4,37,217,TATOOINE,INT,LUKE,"Old Ben Kenobi lives out in this direction somewhere, but I don't see how that R2 unit could have come this far. We must have missed him. Uncle Owen isn't going to take this very well."
+4,37,218,TATOOINE,INT,THREEPIO,"Sir, would it help if you told him it was my fault."
+4,37,219,TATOOINE,INT,LUKE,Sure. He needs you. He'd probably only deactivate you for a day or so...
+4,37,220,TATOOINE,INT,THREEPIO,"Deactivate! Well, on the other hand if you hadn't removed his restraining bolt..."
+4,37,221,TATOOINE,INT,LUKE,"Wait, there's something dead ahead on the scanner. It looks like our droid... hit the accelerator."
+4,40,222,TATOOINE,INT,LUKE,"Hey, whoa, just where do you think you're going?"
+4,40,223,TATOOINE,INT,THREEPIO,"Master Luke here is your rightful owner. We'll have no more of this Obi-Wan Kenobi jibberish... and don't talk to me about your mission, either. You're fortunate he doesn't blast you into a million pieces right here."
+4,40,224,TATOOINE,INT,LUKE,"Well, come on. It's getting late. I only hope we can get back before Uncle Owen really blows up."
+4,40,225,TATOOINE,INT,THREEPIO,"If you don't mind my saying so, sir, I think you should deactivate the little fugitive until you've gotten him back to your workshop."
+4,40,226,TATOOINE,INT,LUKE,"No, he's not going to try anything."
+4,40,227,TATOOINE,INT,LUKE,What's wrong with him now?
+4,40,228,TATOOINE,INT,THREEPIO,"Oh my... sir, he says there are several creatures approaching from the southeast."
+4,40,229,TATOOINE,INT,LUKE,"Sandpeople! Or worst! Come on, let's have a look. Come on."
+4,41,230,TATOOINE,INT,LUKE,"There are two Banthas down there but I don't see any... wait a second, they're Sandpeople all right. I can see one of them now."
+4,42,231,TATOOINE,INT,BEN,Hello there! Come here my little friend. Don't be afraid.
+4,42,232,TATOOINE,INT,BEN,"Don't worry, he'll be all right."
+4,42,233,TATOOINE,INT,LUKE,What happened?
+4,42,234,TATOOINE,INT,BEN,"Rest easy, son, you've had a busy day. You're fortunate you're still in one piece."
+4,42,235,TATOOINE,INT,LUKE,"Ben? Ben Kenobi! Boy, am I glad to see you!"
+4,42,236,TATOOINE,INT,BEN,"The Jundland wastes are not to be traveled lightly. Tell me young Luke, what brings you out this far?"
+4,42,237,TATOOINE,INT,LUKE,"Oh, this little droid! I think he's searching for his former master... I've never seen such devotion in a droid before... there seems to be no stopping him. He claims to be the property of an Obi-Wan Kenobi. Is he a relative of yours? Do you know who he's talking about?"
+4,42,238,TATOOINE,INT,BEN,Obi-Wan Kenobi... Obi-Wan? Now thats a name I haven't heard in a long time... a long time.
+4,42,239,TATOOINE,INT,LUKE,I think my uncle knew him. He said he was dead.
+4,42,240,TATOOINE,INT,BEN,"Oh, he's not dead, not... not yet."
+4,42,241,TATOOINE,INT,LUKE,You know him!
+4,42,242,TATOOINE,INT,BEN,"Well of course, of course I know him. He's me! I haven't gone by the name Obi-Wan since oh, before you were born."
+4,42,243,TATOOINE,INT,LUKE,Then the droid does belong to you.
+4,42,244,TATOOINE,INT,BEN,Don't seem to remember ever owning a droid. Very interesting...
+4,42,245,TATOOINE,INT,BEN,I think we better get indoors. The Sandpeople are easily startled but they will soon be back and in greater numbers.
+4,42,246,TATOOINE,INT,LUKE,Threepio!
+4,43,247,TATOOINE,INT,THREEPIO,Where am I? I must have taken a bad step...
+4,43,248,TATOOINE,INT,LUKE,Can you stand? We've got to get out of here before the Sandpeople return.
+4,43,249,TATOOINE,INT,THREEPIO,"I don't think I can make it. You go on, Master Luke. There's no sense in you risking yourself on my account. I'm done for."
+4,43,250,TATOOINE,INT,LUKE,"No, you're not. What kind of talk is that?"
+4,43,251,TATOOINE,INT,BEN,"Quickly, son... they're on the move."
+4,44,252,KENOBI'S DWELLING,INT,LUKE,"No, my father didn't fight in the wars. He was a navigator on a spice freighter."
+4,44,253,KENOBI'S DWELLING,INT,BEN,That's what your uncle told you. He didn't hold with your father's ideals. Thought he should have stayed here and not gotten involved.
+4,44,254,KENOBI'S DWELLING,INT,LUKE,You fought in the Clone Wars?
+4,44,255,KENOBI'S DWELLING,INT,BEN,"Yes, I was once a Jedi Knight the same as your father."
+4,44,256,KENOBI'S DWELLING,INT,LUKE,I wish I'd known him.
+4,44,257,KENOBI'S DWELLING,INT,BEN,"He was the best star-pilot in the galaxy, and a cunning warrior. I understand you've become quite a good pilot yourself. And he was a good friend. Which reminds me..."
+4,44,258,KENOBI'S DWELLING,INT,BEN,"I have something here for you. Your father wanted you to have this when you were old enough, but your uncle wouldn't allow it. He feared you might follow old Obi-Wan on some damned-fool idealistic crusade like your father did."
+4,44,259,KENOBI'S DWELLING,INT,THREEPIO,"Sir, if you'll not be needing me, I'll close down for awhile."
+4,44,260,KENOBI'S DWELLING,INT,LUKE,"Sure, go ahead."
+4,44,261,KENOBI'S DWELLING,INT,LUKE,What is it?
+4,44,262,KENOBI'S DWELLING,INT,BEN,Your fathers lightsaber. This is the weapon of a Jedi Knight. Not as clumsy or as random as a blaster.
+4,44,263,KENOBI'S DWELLING,INT,BEN,"An elegant weapon for a more civilized time. For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times, before the Empire."
+4,44,264,KENOBI'S DWELLING,INT,LUKE,How did my father die?
+4,44,265,KENOBI'S DWELLING,INT,BEN,"A young Jedi named Darth Vader, who was a pupil of mine until he turned to evil, helped the Empire hunt down and destroy the Jedi Knights. He betrayed and murdered your father. Now the Jedi are all but extinct. Vader was seduced by the dark side of the Force."
+4,44,266,KENOBI'S DWELLING,INT,LUKE,The Force?
+4,44,267,KENOBI'S DWELLING,INT,BEN,"Well, the Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together."
+4,44,268,KENOBI'S DWELLING,INT,BEN,"Now, let's see if we can't figure out what you are, my little friend. And where you come from."
+4,44,269,KENOBI'S DWELLING,INT,LUKE,I saw part of the message he was...
+4,44,270,KENOBI'S DWELLING,INT,BEN,I seem to have found it.
+4,44,271,KENOBI'S DWELLING,INT,LEIA,"General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire. I regret that I am unable to present my father's request to you in person, but my ship has fallen under attack and I'm afraid my mission to bring you to Alderaan has failed. I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit. My father will know how to retrieve it. You must see this droid safely delivered to him on Alderaan. This is our most desperate hour. Help me, Obi-Wan Kenobi, you're my only hope."
+4,44,272,KENOBI'S DWELLING,INT,BEN,You must learn the ways of the Force if you're to come with me to Alderaan.
+4,44,273,KENOBI'S DWELLING,INT,LUKE,"Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is."
+4,44,274,KENOBI'S DWELLING,INT,BEN,"I need your help, Luke. She needs your help. I'm getting too old for this sort of thing."
+4,44,275,KENOBI'S DWELLING,INT,LUKE,I can't get involved! I've got work to do! It's not that I like the Empire. I hate it! But there's nothing I can do about it right now. It's such a long way from here.
+4,44,276,KENOBI'S DWELLING,INT,BEN,That's your uncle talking.
+4,44,277,KENOBI'S DWELLING,INT,LUKE,"Oh, God, my uncle. How am I ever going to explain this?"
+4,44,278,KENOBI'S DWELLING,INT,BEN,"Learn about the Force, Luke."
+4,44,279,KENOBI'S DWELLING,INT,LUKE,"Look, I can take you as far as Anchorhead. You can get a transport there to Mos Eisley or wherever you're going."
+4,44,280,KENOBI'S DWELLING,INT,BEN,"You must do what you feel is right, of course."
+4,45,281,DEATH STAR,INT,TAGGE,Until this battle station is fully operational we are vulnerable. The Rebel Alliance is too well equipped. They're more dangerous than you realize.
+4,45,282,DEATH STAR,INT,MOTTI,"Dangerous to your starfleet, Commander, not to this battle station!"
+4,45,283,DEATH STAR,INT,TAGGE,The Rebellion will continue to gain a support in the Imperial Senate as long as....
+4,45,284,DEATH STAR,INT,TARKIN,The Imperial Senate will no longer be of any concern to us. I've just received word that the Emperor has dissolved the council permanently. The last remnants of the Old Republic have been swept away.
+4,45,285,DEATH STAR,INT,TAGGE,That's impossible! How will the Emperor maintain control without the bureaucracy?
+4,45,286,DEATH STAR,INT,TARKIN,The regional governors now have direct control over territories. Fear will keep the local systems in line. Fear of this battle station.
+4,45,287,DEATH STAR,INT,TAGGE,"And what of the Rebellion? If the Rebels have obtained a complete technical readout of this station, it is possible, however unlikely, that they might find a weakness and exploit it."
+4,45,288,DEATH STAR,INT,VADER,The plans you refer to will soon be back in our hands.
+4,45,289,DEATH STAR,INT,MOTTI,"Any attack made by the Rebels against this station would be a useless gesture, no matter what technical data they've obtained. This station is now the ultimate power in the universe. I suggest we use it!"
+4,45,290,DEATH STAR,INT,VADER,Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
+4,45,291,DEATH STAR,INT,MOTTI,"Don't try to frighten us with your sorcerer's ways, Lord Vader. Your sad devotion to that ancient religion has not helped you conjure up the stolen data tapes, or given you clairvoyance enough to find the Rebel's hidden fort..."
+4,45,292,DEATH STAR,INT,VADER,I find your lack of faith disturbing.
+4,45,293,DEATH STAR,INT,TARKIN,"Enough of this! Vader, release him!"
+4,45,294,DEATH STAR,INT,VADER,As you wish.
+4,45,295,DEATH STAR,INT,TARKIN,This bickering is pointless. Lord Vader will provide us with the location of the Rebel fortress by the time this station is operational. We will then crush the Rebellion with one swift stroke.
+4,46,296,TATOOINE,INT,LUKE,"It looks like Sandpeople did this, all right. Look, here are Gaffi sticks, Bantha tracks. It's just... I never heard of them hitting anything this big before."
+4,46,297,TATOOINE,INT,BEN,They didn't. But we are meant to think they did. These tracks are side by side. Sandpeople always ride single file to hide there numbers.
+4,46,298,TATOOINE,INT,LUKE,These are the same Jawas that sold us Artoo and Threepio.
+4,46,299,TATOOINE,INT,BEN,"And these blast points, too accurate for Sandpeople. Only Imperial stormtroopers are so precise."
+4,46,300,TATOOINE,INT,LUKE,Why would Imperial troops want to slaughter Jawas?
+4,46,301,TATOOINE,INT,LUKE,"If they traced the robots here, they may have learned who they sold them to. And that would lead them home!"
+4,46,302,TATOOINE,INT,BEN,"Wait, Luke! It's too dangerous."
+4,48,303,TATOOINE,INT,LUKE,Uncle Owen! Aunt Beru! Uncle Owen!
+4,50,304,DEATH STAR,INT,VADER,"And, now Your Highness, we will discuss the location of your hidden Rebel base."
+4,51,305,TATOOINE,INT,BEN,"There's nothing you could have done, Luke, had you been there. You'd have been killed, too, and the droids would be in the hands of the Empire."
+4,51,306,TATOOINE,INT,LUKE,I want to come with you to Alderaan. There's nothing here for me now. I want to learn the ways of the Force and become a Jedi like my father.
+4,52,307,TATOOINE,INT,BEN,Mos Eisley Spaceport. You will never find a more wretched hive of scum and villainy. We must be cautious.
+4,53,308,TATOOINE,INT,TROOPER,How long have you had these droids?
+4,53,309,TATOOINE,INT,LUKE,About three or four seasons.
+4,53,310,TATOOINE,INT,BEN,They're for sale if you want them.
+4,53,311,TATOOINE,INT,TROOPER,Let me see your identification.
+4,53,312,TATOOINE,INT,BEN,You don't need to see his identification.
+4,53,313,TATOOINE,INT,TROOPER,We don't need to see his identification.
+4,53,314,TATOOINE,INT,BEN,These are not the droids your looking for.
+4,53,315,TATOOINE,INT,TROOPER,These are not the droids we're looking for.
+4,53,316,TATOOINE,INT,BEN,He can go about his business.
+4,53,317,TATOOINE,INT,TROOPER,You can go about your business.
+4,53,318,TATOOINE,INT,BEN,Move along.
+4,53,319,TATOOINE,INT,TROOPER,Move along. Move along.
+4,54,320,TATOOINE,INT,THREEPIO,I can't abide these Jawas. Disgusting creatures.
+4,54,321,TATOOINE,INT,LUKE,"Go on, go on. I can't understand how we got by those troopers. I thought we were dead."
+4,54,322,TATOOINE,INT,BEN,The Force can have a strong influence on the weak-minded. You will find it a powerful ally.
+4,54,323,TATOOINE,INT,LUKE,Do you really think we're going to find a pilot here that'll take us to Alderaan?
+4,54,324,TATOOINE,INT,BEN,"Well, most of the best freighter pilots can be found here. Only watch your step. This place can be a little rough."
+4,54,325,TATOOINE,INT,LUKE,I'm ready for anything.
+4,54,326,TATOOINE,INT,THREEPIO,"Come along, Artoo."
+4,55,327,TATOOINE,INT,BARTENDER,We don't serve their kind here!
+4,55,328,TATOOINE,INT,LUKE,What?
+4,55,329,TATOOINE,INT,BARTENDER,Your droids. They'll have to wait outside. We don't want them here.
+4,55,330,TATOOINE,INT,LUKE,"Listen, why don't you wait out by the speeder. We don't want any trouble."
+4,55,331,TATOOINE,INT,THREEPIO,I heartily agree with you sir.
+4,55,332,TATOOINE,INT,CREATURE,Negola dewaghi wooldugger?!?
+4,55,333,TATOOINE,INT,HUMAN,He doesn't like you.
+4,55,334,TATOOINE,INT,LUKE,I'm sorry.
+4,55,335,TATOOINE,INT,HUMAN,I don't like you either.
+4,55,336,TATOOINE,INT,HUMAN,Don't insult us. You just watch yourself. We're wanted men. I have the death sentence in twelve systems.
+4,55,337,TATOOINE,INT,LUKE,I'll be careful than.
+4,55,338,TATOOINE,INT,HUMAN,You'll be dead.
+4,55,339,TATOOINE,INT,BEN,This little one isn't worth the effort. Come let me buy you something...
+4,55,340,TATOOINE,INT,BARTENDER,No blasters! No blaster!
+4,55,341,TATOOINE,INT,BEN,This is Chewbacca. He's first-mate on a ship that might suit our needs.
+4,56,342,TATOOINE,INT,THREEPIO,I don't like the look of this.
+4,57,343,TATOOINE,INT,HAN,Han Solo. I'm captain of the Millennium Falcon. Chewie here tells me you're looking for passage to the Alderaan system.
+4,57,344,TATOOINE,INT,BEN,"Yes, indeed. If it's a fast ship."
+4,57,345,TATOOINE,INT,HAN,Fast ship? You've never heard of the Millennium Falcon?
+4,57,346,TATOOINE,INT,BEN,Should I have?
+4,57,347,TATOOINE,INT,HAN,It's the ship that made the Kessel run in less than twelve parsecs!
+4,57,348,TATOOINE,INT,HAN,"I've outrun Imperial starships, not the local bulk-cruisers, mind you. I'm talking about the big Corellian ships now. She's fast enough for you, old man. What's the cargo?"
+4,57,349,TATOOINE,INT,BEN,"Only passengers. Myself, the boy, two droids, and no questions asked."
+4,57,350,TATOOINE,INT,HAN,What is it? Some kind of local trouble?
+4,57,351,TATOOINE,INT,BEN,Let's just say we'd like to avoid any Imperial entanglements.
+4,57,352,TATOOINE,INT,HAN,"Well, that's the trick, isn't it? And it's going to cost you something extra. Ten thousand in advance."
+4,57,353,TATOOINE,INT,LUKE,Ten thousand? We could almost buy our own ship for that!
+4,57,354,TATOOINE,INT,HAN,"But who's going to fly it, kid! You?"
+4,57,355,TATOOINE,INT,LUKE,You bet I could. I'm not such a bad pilot myself! We don't have to sit here and listen...
+4,57,356,TATOOINE,INT,BEN,"We haven't that much with us. But we could pay you two thousand now, plus fifteen when we reach Alderaan."
+4,57,357,TATOOINE,INT,HAN,"Seventeen, huh!"
+4,57,358,TATOOINE,INT,HAN,Okay. You guys got yourself a ship. We'll leave as soon as you're ready. Docking bay Ninety-four.
+4,57,359,TATOOINE,INT,BEN,Ninety-four.
+4,57,360,TATOOINE,INT,HAN,Looks like somebody's beginning to take an interest in your handiwork.
+4,57,361,TATOOINE,INT,TROOPER,"All right, we'll check it out."
+4,57,362,TATOOINE,INT,HAN,Seventeen thousand! Those guys must really be desperate. This could really save my neck. Get back to the ship and get her ready.
+4,58,363,TATOOINE,INT,BEN,You'll have to sell your speeder.
+4,58,364,TATOOINE,INT,LUKE,That's okay. I'm never coming back to this planet again.
+4,59,365,MOS EISLEY,INT,GREEDO,"Going somewhere, Solo?"
+4,59,366,MOS EISLEY,INT,HAN,"Yes, Greedo. As a matter of fact, I was just going to see your boss. Tell Jabba that I've got his money."
+4,59,367,MOS EISLEY,INT,GREEDO,"It's too late. You should have paid him when you had the chance. Jabba's put a price on your head, so large that every bounty hunter in the galaxy will be looking for you. I'm lucky I found you first."
+4,59,368,MOS EISLEY,INT,HAN,"Yeah, but this time I got the money."
+4,59,369,MOS EISLEY,INT,GREEDO,"If you give it to me, I might forget I found you."
+4,59,370,MOS EISLEY,INT,HAN,I don't have it with me. Tell Jabba...
+4,59,371,MOS EISLEY,INT,GREEDO,Jabba's through with you. He has no time for smugglers who drop their shipments at the first sign of an Imperial cruiser.
+4,59,372,MOS EISLEY,INT,HAN,Even I get boarded sometimes. Do you think I had a choice?
+4,59,373,MOS EISLEY,INT,GREEDO,You can tell that to Jabba. He may only take your ship.
+4,59,374,MOS EISLEY,INT,HAN,Over my dead body.
+4,59,375,MOS EISLEY,INT,GREEDO,That's the idea. I've been looking forward to killing you for a long time.
+4,59,376,MOS EISLEY,INT,HAN,"Yes, I'll bet you have."
+4,59,377,MOS EISLEY,INT,HAN,Sorry about the mess.
+4,61,378,DEATH STAR,INT,VADER,Her resistance to the mind probe is considerable. It will be some time before we can extract any information from her.
+4,61,379,DEATH STAR,INT,IMPERIAL OFFICER,The final check-out is complete. All systems are operational. What course shall we set?
+4,61,380,DEATH STAR,INT,TARKIN,Perhaps she would respond to an alternative form of persuasion.
+4,61,381,DEATH STAR,INT,VADER,What do you mean?
+4,61,382,DEATH STAR,INT,TARKIN,I think it is time we demonstrate the full power of this station. Set your course for Princess Leia's home planet of Alderaan.
+4,61,383,DEATH STAR,INT,TROOPER,With pleasure.
+4,62,384,TATOOINE,INT,THREEPIO,"Lock the door, Artoo."
+4,62,385,TATOOINE,INT,TROOPER,"All right, check that side of the street. It's secure. Move on to the next door."
+4,62,386,TATOOINE,INT,THREEPIO,"I would much rather have gone with Master Luke than stay here with you. I don't know what all the trouble is about, but I'm sure it must be your fault."
+4,62,387,TATOOINE,INT,THREEPIO,You watch your language!
+4,63,388,TATOOINE,INT,LUKE,"He says it's the best he can do. Since the XP-38 came out, they're just not in demand."
+4,63,389,TATOOINE,INT,BEN,It will be enough.
+4,63,390,TATOOINE,INT,BEN,"If the ship's as fast as he's boasting, we ought to do well."
+4,64,391,DOCKING BAY 94,INT,JABBA,"Come on out, Solo!"
+4,64,392,DOCKING BAY 94,INT,HAN,"I've been waiting for you, Jabba."
+4,64,393,DOCKING BAY 94,INT,JABBA,I expected you would be.
+4,64,394,DOCKING BAY 94,INT,HAN,I'm not the type to run.
+4,64,395,DOCKING BAY 94,INT,JABBA,"Han, my boy, there are times when you disappoint me... why haven't you paid me? And why did you have to fry poor Greedo like that... after all we've been through together."
+4,64,396,DOCKING BAY 94,INT,HAN,You sent Greedo to blast me.
+4,64,397,DOCKING BAY 94,INT,JABBA,"Han, why you're the best smuggler in the business. You're too valuable to fry. He was only relaying my concern at your delays. He wasn't going to blast you."
+4,64,398,DOCKING BAY 94,INT,HAN,"I think he thought he was. Next time don't send one of those twerps. If you've got something to say to me, come see me yourself."
+4,64,399,DOCKING BAY 94,INT,JABBA,"Han, Han! If only you hadn't had to dump that shipment of spice... you understand I just can't make an exception. Where would I be if every pilot who smuggled for me dumped their shipment at the first sign of an Imperial starship? It's not good business."
+4,64,400,DOCKING BAY 94,INT,HAN,"You know, even I get boarded sometimes, Jabba. I had no choice, but I've got a charter now and I can pay you back, plus a little extra. I just need some more time."
+4,64,401,DOCKING BAY 94,INT,JABBA,"Put your blasters away. Han, my boy, I'm only doing this because you're the best and I need you. So, for an extra, say twenty percent I'll give you a little more time... but this is it. If you disappoint me again, I'll put a price on your head so large you won't be able to go near a civilized system for the rest of your short life."
+4,64,402,DOCKING BAY 94,INT,HAN,"Jabba, I'll pay you because it's my pleasure."
+4,66,403,MOS EISLEY SPACEPORT,INT,LUKE,What a piece of junk.
+4,66,404,MOS EISLEY SPACEPORT,INT,HAN,"She'll make point five beyond the speed of light. She may not look like much, but she's got it where it counts, kid. I've added some special modifications myself."
+4,66,405,MOS EISLEY SPACEPORT,INT,HAN,"We're a little rushed, so if you'll hurry aboard we'll get out of here."
+4,68,406,MOS EISLEY SPACEPORT,INT,THREEPIO,"Hello, sir."
+4,69,407,TATOOINE,INT,TROOPER,Which way?
+4,69,408,TATOOINE,INT,TROOPER,"All right, men. Load your weapons!"
+4,70,409,MOS EISLEY SPACEPORT,INT,TROOPER,Stop that ship!
+4,70,410,MOS EISLEY SPACEPORT,INT,TROOPER,Blast 'em!
+4,71,411,MILLENNIUM FALCON,INT,HAN,"Chewie, get us out of here!"
+4,71,412,MILLENNIUM FALCON,INT,THREEPIO,"Oh, my. I'd forgotten how much I hate space travel."
+4,75,413,MILLENNIUM FALCON,INT,HAN,It looks like an Imperial cruiser. Our passengers must be hotter than I thought. Try and hold them off. Angle the deflector shield while I make the calculations for the jump to light speed.
+4,77,414,MILLENNIUM FALCON,INT,HAN,Stay sharp! There are two more coming in; they're going to try to cut us off.
+4,77,415,MILLENNIUM FALCON,INT,LUKE,Why don't you outrun them? I thought you said this thing was fast.
+4,77,416,MILLENNIUM FALCON,INT,HAN,"Watch your mouth, kid, or you're going to find yourself floating home. We'll be safe enough once we make the jump to hyperspace. Besides, I know a few maneuvers. We'll lose them!"
+4,79,417,MILLENNIUM FALCON,INT,HAN,Here's where the fun begins!
+4,79,418,MILLENNIUM FALCON,INT,BEN,How long before you can make the jump to light speed?
+4,79,419,MILLENNIUM FALCON,INT,HAN,It'll take a few moments to get the coordinates from the navi-computer.
+4,79,420,MILLENNIUM FALCON,INT,LUKE,Are you kidding? At the rate they're gaining...
+4,79,421,MILLENNIUM FALCON,INT,HAN,"Traveling through hyperspace isn't like dusting crops, boy! Without precise calculations we could fly right through a star or bounce too close to a supernova and that'd end your trip real quick, wouldn't it?"
+4,79,422,MILLENNIUM FALCON,INT,LUKE,What's that flashing?
+4,79,423,MILLENNIUM FALCON,INT,HAN,"We're losing our deflector shield. Go strap yourself in, I'm going to make the jump to light speed."
+4,82,424,DEATH STAR,INT,MOTTI,We've entered the Alderaan system.
+4,82,425,DEATH STAR,INT,LEIA,"Governor Tarkin, I should have expected to find you holding Vader's leash. I recognized your foul stench when I was brought on board."
+4,82,426,DEATH STAR,INT,TARKIN,Charming to the last. You don't know how hard I found it signing the order to terminate your life!
+4,82,427,DEATH STAR,INT,LEIA,I surprised you had the courage to take the responsibility yourself!
+4,82,428,DEATH STAR,INT,TARKIN,"Princess Leia, before your execution I would like you to be my guest at a ceremony that will make this battle station operational. No star system will dare oppose the Emperor now."
+4,82,429,DEATH STAR,INT,LEIA,"The more you tighten your grip, Tarkin, the more star systems will slip through your fingers."
+4,82,430,DEATH STAR,INT,TARKIN,"Not after we demonstrate the power of this station. In a way, you have determined the choice of the planet that'll be destroyed first. Since you are reluctant to provide us with the location of the Rebel base, I have chosen to test this station's destructive power... on your home planet of Alderaan."
+4,82,431,DEATH STAR,INT,LEIA,No! Alderaan is peaceful. We have no weapons. You can't possibly...
+4,82,432,DEATH STAR,INT,TARKIN,You would prefer another target? A military target? Then name the system!
+4,82,433,DEATH STAR,INT,TARKIN,I grow tired of asking this. So it'll be the last time. Where is the Rebel base?
+4,82,434,DEATH STAR,INT,LEIA,Dantooine.
+4,82,435,DEATH STAR,INT,LEIA,They're on Dantooine.
+4,82,436,DEATH STAR,INT,TARKIN,"There. You see Lord Vader, she can be reasonable. Continue with the operation. You may fire when ready."
+4,82,437,DEATH STAR,INT,LEIA,What?
+4,82,438,DEATH STAR,INT,TARKIN,You're far too trusting. Dantooine is too remote to make an effective demonstration. But don't worry. We will deal with your Rebel friends soon enough.
+4,82,439,DEATH STAR,INT,LEIA,No!
+4,83,440,DEATH STAR,INT,VADER,Commence primary ignition.
+4,84,441,MILLENNIUM FALCON,INT,LUKE,Are you all right? What's wrong?
+4,84,442,MILLENNIUM FALCON,INT,BEN,I felt a great disturbance in the Force... as if millions of voices suddenly cried out in terror and were suddenly silenced. I fear something terrible has happened.
+4,84,443,MILLENNIUM FALCON,INT,BEN,You'd better get on with your exercises.
+4,84,444,MILLENNIUM FALCON,INT,HAN,"Well, you can forget your troubles with those Imperial slugs. I told you I'd outrun 'em."
+4,84,445,MILLENNIUM FALCON,INT,HAN,Don't everyone thank me at once.
+4,84,446,MILLENNIUM FALCON,INT,HAN,"Anyway, we should be at Alderaan about oh-two-hundred hours."
+4,84,447,MILLENNIUM FALCON,INT,THREEPIO,"Now be careful, Artoo."
+4,84,448,MILLENNIUM FALCON,INT,THREEPIO,He made a fair move. Screaming about it won't help you.
+4,84,449,MILLENNIUM FALCON,INT,HAN,Let him have it. It's not wise to upset a Wookiee.
+4,84,450,MILLENNIUM FALCON,INT,THREEPIO,"But sir, nobody worries about upsetting a droid."
+4,84,451,MILLENNIUM FALCON,INT,HAN,That's 'cause droids don't pull people's arms out of their socket when they lose. Wookiees are known to do that.
+4,84,452,MILLENNIUM FALCON,INT,THREEPIO,"I see your point, sir. I suggest a new strategy, Artoo. Let the Wookiee win."
+4,84,453,MILLENNIUM FALCON,INT,BEN,"Remember, a Jedi can feel the Force flowing through him."
+4,84,454,MILLENNIUM FALCON,INT,LUKE,You mean it controls your actions?
+4,84,455,MILLENNIUM FALCON,INT,BEN,Partially. But it also obeys your commands.
+4,84,456,MILLENNIUM FALCON,INT,HAN,"Hokey religions and ancient weapons are no match for a good blaster at your side, kid."
+4,84,457,MILLENNIUM FALCON,INT,LUKE,"You don't believe in the Force, do you?"
+4,84,458,MILLENNIUM FALCON,INT,HAN,"Kid, I've flown from one side of this galaxy to the other. I've seen a lot of strange stuff, but I've never seen anything to make me believe there's one all-powerful force controlling everything. There's no mystical energy field that controls my destiny."
+4,84,459,MILLENNIUM FALCON,INT,HAN,It's all a lot of simple tricks and nonsense.
+4,84,460,MILLENNIUM FALCON,INT,BEN,"I suggest you try it again, Luke."
+4,84,461,MILLENNIUM FALCON,INT,BEN,"This time, let go your conscious self and act on instinct."
+4,84,462,MILLENNIUM FALCON,INT,LUKE,"With the blast shield down, I can't even see. How am I supposed to fight?"
+4,84,463,MILLENNIUM FALCON,INT,BEN,Your eyes can deceive you. Don't trust them.
+4,84,464,MILLENNIUM FALCON,INT,BEN,Stretch out with your feelings.
+4,84,465,MILLENNIUM FALCON,INT,BEN,"You see, you can do it."
+4,84,466,MILLENNIUM FALCON,INT,HAN,I call it luck.
+4,84,467,MILLENNIUM FALCON,INT,BEN,"In my experience, there's no such thing as luck."
+4,84,468,MILLENNIUM FALCON,INT,HAN,"Look, going good against remotes is one thing. Going good against the living? That's something else."
+4,84,469,MILLENNIUM FALCON,INT,HAN,Looks like we're coming up on Alderaan.
+4,84,470,MILLENNIUM FALCON,INT,LUKE,"You know, I did feel something. I could almost see the remote."
+4,84,471,MILLENNIUM FALCON,INT,BEN,That's good. You have taken your first step into a larger world.
+4,85,472,DEATH STAR,INT,TARKIN,Yes.
+4,85,473,DEATH STAR,INT,OFFICER CASS,"Our scout ships have reached Dantooine. They found the remains of a Rebel base, but they estimate that it has been deserted for some time. They are now conducting an extensive search of the surrounding systems."
+4,85,474,DEATH STAR,INT,TARKIN,She lied! She lied to us!
+4,85,475,DEATH STAR,INT,VADER,I told you she would never consciously betray the Rebellion.
+4,85,476,DEATH STAR,INT,TARKIN,Terminate her... immediately!
+4,87,477,MILLENNIUM FALCON,INT,HAN,"Stand by, Chewie, here we go. Cut in the sublight engines."
+4,87,478,MILLENNIUM FALCON,INT,HAN,"What the...? Aw, we've come out of hyperspace into a meteor shower. Some kind of asteroid collision. It's not on any of the charts."
+4,87,479,MILLENNIUM FALCON,INT,LUKE,What's going on?
+4,87,480,MILLENNIUM FALCON,INT,HAN,"Our position is correct, except... no, Alderaan!"
+4,87,481,MILLENNIUM FALCON,INT,LUKE,What do you mean? Where is it?
+4,87,482,MILLENNIUM FALCON,INT,HAN,"Thats what I'm trying to tell you, kid. It ain't there. It's been totally blown away."
+4,87,483,MILLENNIUM FALCON,INT,LUKE,What? How?
+4,87,484,MILLENNIUM FALCON,INT,BEN,Destroyed... by the Empire!
+4,87,485,MILLENNIUM FALCON,INT,HAN,The entire starfleet couldn't destroy the whole planet. It'd take a thousand ships with more fire power than I've...
+4,87,486,MILLENNIUM FALCON,INT,HAN,There's another ship coming in.
+4,87,487,MILLENNIUM FALCON,INT,LUKE,Maybe they know what happened.
+4,87,488,MILLENNIUM FALCON,INT,BEN,It's an Imperial fighter.
+4,87,489,MILLENNIUM FALCON,INT,LUKE,It followed us!
+4,87,490,MILLENNIUM FALCON,INT,BEN,No. It's a short range fighter.
+4,87,491,MILLENNIUM FALCON,INT,HAN,There aren't any bases around here. Where did it come from?
+4,89,492,MILLENNIUM FALCON,INT,LUKE,"It sure is leaving in a big hurry. If they identify us, we're in big trouble."
+4,89,493,MILLENNIUM FALCON,INT,HAN,Not if I can help it. Chewie...jam it's transmissions.
+4,89,494,MILLENNIUM FALCON,INT,BEN,It'd be as well to let it go. It's too far out of range.
+4,89,495,MILLENNIUM FALCON,INT,HAN,Not for long...
+4,91,496,MILLENNIUM FALCON,INT,BEN,A fighter that size couldn't get this deep into space on its own.
+4,91,497,MILLENNIUM FALCON,INT,LUKE,"It must have gotten lost, been part of a convoy or something."
+4,91,498,MILLENNIUM FALCON,INT,HAN,"Well, he ain't going to be around long enough to tell anyone about us."
+4,93,499,MILLENNIUM FALCON,INT,LUKE,Look at him. He's headed for that small moon.
+4,93,500,MILLENNIUM FALCON,INT,HAN,I think I can get him before he gets there... he's almost in range.
+4,93,501,MILLENNIUM FALCON,INT,BEN,That's no moon! It's a space station.
+4,93,502,MILLENNIUM FALCON,INT,HAN,It's too big to be a space station.
+4,93,503,MILLENNIUM FALCON,INT,LUKE,I have a very bad feeling about this.
+4,93,504,MILLENNIUM FALCON,INT,HAN,"Yeah, I think your right. Full reverse! Chewie, lock in the auxiliary power."
+4,93,505,MILLENNIUM FALCON,INT,LUKE,Why are we still moving towards it?
+4,93,506,MILLENNIUM FALCON,INT,HAN,We're caught in a tractor beam! It's pulling us in!
+4,93,507,MILLENNIUM FALCON,INT,LUKE,But there's gotta be something you can do!
+4,93,508,MILLENNIUM FALCON,INT,HAN,"There's nothin' I can do about it, kid. I'm in full power. I'm going to have to shut down. But they're not going to get me without a fight!"
+4,93,509,MILLENNIUM FALCON,INT,BEN,You can't win. But there are alternatives to fighting.
+4,96,510,DEATH STAR,INT,OFFICER,To you stations! Come with me.
+4,98,511,DEATH STAR,INT,OFFICER,Close all outboard shields! Close all outboard shields!
+4,99,512,DEATH STAR,INT,TARKIN,Yes.
+4,99,513,DEATH STAR,INT,VOICE,We've captured a freighter entering the remains of the Alderaan system. It's markings match those of a ship that blasted its way out of Mos Eisley.
+4,99,514,DEATH STAR,INT,VADER,They must be trying to return the stolen plans to the princess. She may yet be of some use to us.
+4,100,515,DEATH STAR,INT,VOICE,Unlock one-five-seven and nine. Release charges.
+4,100,516,DEATH STAR,INT,OFFICER,"There's no one on board, sir. According to the log, the crew abandoned ship right after takeoff. It must be a decoy, sir. Several of the escape pods have been jettisoned."
+4,100,517,DEATH STAR,INT,VADER,Did you find any droids?
+4,100,518,DEATH STAR,INT,OFFICER,"No, sir. If there were any on board, they must also have jettisoned."
+4,100,519,DEATH STAR,INT,VADER,Send a scanning crew on board. I want every part of this ship checked.
+4,100,520,DEATH STAR,INT,OFFICER,"Yes, sir."
+4,100,521,DEATH STAR,INT,VADER,I sense something... a presence I haven't felt since...
+4,100,522,DEATH STAR,INT,OFFICER,Get me a scanning crew in here on the double. I want every part of this ship checked!
+4,101,523,MILLENNIUM FALCON,INT,LUKE,"Boy, it's lucky you had these compartments."
+4,101,524,MILLENNIUM FALCON,INT,HAN,"I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous. Even if I could take off, I'd never get past the tractor beam."
+4,101,525,MILLENNIUM FALCON,INT,BEN,Leave that to me!
+4,101,526,MILLENNIUM FALCON,INT,HAN,Damn fool. I knew that you were going to say that!
+4,101,527,MILLENNIUM FALCON,INT,BEN,Who's the more foolish... the fool or the fool who follows him?
+4,102,528,DEATH STAR,INT,TROOPER,"The ship's all yours. If the scanners pick up anything, report it immediately. All right, let's go."
+4,102,529,DEATH STAR,INT,HAN'S VOICE,"Hey down there, could you give us a hand with this?"
+4,103,530,DEATH STAR,INT,GANTRY OFFICER,"TX-four-one-two. Why aren't you at your post? TX-four-one-two, do you copy?"
+4,103,531,DEATH STAR,INT,GANTRY OFFICER,Take over. We've got a bad transmitter. I'll see what I can do.
+4,103,532,DEATH STAR,INT,LUKE,"You know, between his howling and your blasting everything in sight, it's a wonder the whole station doesn't know we're here."
+4,103,533,DEATH STAR,INT,HAN,Bring them on! I prefer a straight fight to all this sneaking around.
+4,103,534,DEATH STAR,INT,THREEPIO,"We found the computer outlet, sir."
+4,103,535,DEATH STAR,INT,BEN,Plug in. He should be able to interpret the entire Imperial computer network.
+4,103,536,DEATH STAR,INT,THREEPIO,He says he's found the main computer to power the tractor beam that's holding the ship here. He'll try to make the precise location appear on the monitor.
+4,103,537,DEATH STAR,INT,THREEPIO,The tractor beam is coupled to the main reactor in seven locations. A power loss at one of the terminals will allow the ship to leave.
+4,103,538,DEATH STAR,INT,BEN,I don't think you boys can help. I must go alone.
+4,103,539,DEATH STAR,INT,HAN,Whatever you say. I've done more that I bargained for on this trip already.
+4,103,540,DEATH STAR,INT,LUKE,I want to go with you.
+4,103,541,DEATH STAR,INT,BEN,"Be patient, Luke. Stay and watch over the droids."
+4,103,542,DEATH STAR,INT,LUKE,But he can...
+4,103,543,DEATH STAR,INT,BEN,They must be delivered safely or other star systems will suffer the same fate as Alderaan. Your destiny lies along a different path than mine. The Force will be with you... always!
+4,103,544,DEATH STAR,INT,HAN,"Boy you said it, Chewie."
+4,103,545,DEATH STAR,INT,HAN,Where did you dig up that old fossil?
+4,103,546,DEATH STAR,INT,LUKE,Ben is a great man.
+4,103,547,DEATH STAR,INT,HAN,"Yeah, great at getting us into trouble."
+4,103,548,DEATH STAR,INT,LUKE,I didn't hear you give any ideas...
+4,103,549,DEATH STAR,INT,HAN,"Well, anything would be better than just hanging around waiting for him to pick us up..."
+4,103,550,DEATH STAR,INT,LUKE,Who do you think...
+4,103,551,DEATH STAR,INT,LUKE,What is it?
+4,103,552,DEATH STAR,INT,THREEPIO,"I'm afraid I'm not quite sure, sir. He says ""I found her"", and keeps repeating, ""She's here."""
+4,103,553,DEATH STAR,INT,LUKE,"Well, who... who has he found?"
+4,103,554,DEATH STAR,INT,THREEPIO,Princess Leia.
+4,103,555,DEATH STAR,INT,LUKE,The princess? She's here?
+4,103,556,DEATH STAR,INT,HAN,Princess? What's going on?
+4,103,557,DEATH STAR,INT,THREEPIO,Level five. Detention block A A-twenty- three. I'm afraid she's scheduled to be terminated.
+4,103,558,DEATH STAR,INT,LUKE,"Oh, no! We've got to do something."
+4,103,559,DEATH STAR,INT,HAN,What are you talking about?
+4,103,560,DEATH STAR,INT,LUKE,The droid belongs to her. She's the one in the message... We've got to help her.
+4,103,561,DEATH STAR,INT,HAN,"Now, look, don't get any funny ideas. The old man wants us to wait right here."
+4,103,562,DEATH STAR,INT,LUKE,"But he didn't know she was here. Look, will you just find a way back into the detention block?"
+4,103,563,DEATH STAR,INT,HAN,I'm not going anywhere.
+4,103,564,DEATH STAR,INT,LUKE,"They're going to execute her. Look, a few minutes ago you said you didn't want to just wait here to be captured. Now all you want to do is stay."
+4,103,565,DEATH STAR,INT,HAN,Marching into the detention area is not what I had in mind.
+4,103,566,DEATH STAR,INT,LUKE,But they're going to kill her!
+4,103,567,DEATH STAR,INT,HAN,Better her than me...
+4,103,568,DEATH STAR,INT,LUKE,She's rich.
+4,103,569,DEATH STAR,INT,HAN,Rich?
+4,103,570,DEATH STAR,INT,LUKE,"Yes. Rich, powerful! Listen, if you were to rescue her, the reward would be..."
+4,103,571,DEATH STAR,INT,HAN,What?
+4,103,572,DEATH STAR,INT,LUKE,Well more wealth that you can imagine.
+4,103,573,DEATH STAR,INT,HAN,"I don't know, I can imagine quite a bit!"
+4,103,574,DEATH STAR,INT,LUKE,You'll get it!
+4,103,575,DEATH STAR,INT,HAN,I better!
+4,103,576,DEATH STAR,INT,LUKE,You will...
+4,103,577,DEATH STAR,INT,HAN,"All right, kid. But you'd better be right about this."
+4,103,578,DEATH STAR,INT,LUKE,All right.
+4,103,579,DEATH STAR,INT,HAN,What's your plan?
+4,103,580,DEATH STAR,INT,LUKE,"Uh... Threepio, hand me those binders there will you?"
+4,103,581,DEATH STAR,INT,LUKE,"Okay. Now, I'm going to put these on you."
+4,103,582,DEATH STAR,INT,LUKE,"Okay. Han, you put these on."
+4,103,583,DEATH STAR,INT,HAN,"Don't worry, Chewie. I think I know what he has in mind."
+4,103,584,DEATH STAR,INT,THREEPIO,"Master Luke, sir! Pardon me for asking... but, ah... what should Artoo and I do if we're discovered here?"
+4,103,585,DEATH STAR,INT,LUKE,Lock the door!
+4,103,586,DEATH STAR,INT,HAN,And hope they don't have blasters.
+4,103,587,DEATH STAR,INT,THREEPIO,That isn't very reassuring.
+4,104,588,DEATH STAR,INT,LUKE,I can't see a thing in this helmet.
+4,106,589,DEATH STAR,INT,HAN,This is not going to work.
+4,106,590,DEATH STAR,INT,LUKE,Why didn't you say so before?
+4,106,591,DEATH STAR,INT,HAN,I did say so before!
+4,107,592,DETENTION AREA,INT,OFFICER,Where are you taking this... thing?
+4,107,593,DETENTION AREA,INT,LUKE,Prisoner transfer from Block one-one- three-eight.
+4,107,594,DETENTION AREA,INT,OFFICER,I wasn't notified. I'll have to clear it.
+4,107,595,DETENTION AREA,INT,HAN,Look out! He's loose!
+4,107,596,DETENTION AREA,INT,LUKE,He's going to pull us all apart.
+4,107,597,DETENTION AREA,INT,HAN,Go get him!
+4,107,598,DETENTION AREA,INT,HAN,We've got to find out which cell this princess of yours is in. Here it is... cell twenty-one-eight-seven. You go get her. I'll hold them here.
+4,107,599,DETENTION AREA,INT,HAN,Everything is under control. Situation normal.
+4,107,600,DETENTION AREA,INT,INTERCOM VOICE,What happened?
+4,107,601,DETENTION AREA,INT,HAN,"Uh... had a slight weapons malfunction. But, uh, everything's perfectly all right now. We're fine. We're all fine here, now, thank you. How are you?"
+4,107,602,DETENTION AREA,INT,INTERCOM VOICE,We're sending a squad up.
+4,107,603,DETENTION AREA,INT,HAN,"Uh, uh, negative. We had a reactor leak here now. Give us a few minutes to lock it down. Large leak... very dangerous."
+4,107,604,DETENTION AREA,INT,INTERCOM VOICE,Who is this? What's your operating number?
+4,107,605,DETENTION AREA,INT,HAN,Boring conversation anyway. hall) Luke! We're going to have company!
+4,108,606,DEATH STAR,INT,LEIA,Aren't you a little short to be a stormtrooper?
+4,108,607,DEATH STAR,INT,LUKE,What? Oh... the uniform. I'm Luke Skywalker. I'm here to rescue you.
+4,108,608,DEATH STAR,INT,LEIA,You're who?
+4,108,609,DEATH STAR,INT,LUKE,I'm here to rescue you. I've got your R2 unit. I'm here with Ben Kenobi.
+4,108,610,DEATH STAR,INT,LEIA,Ben Kenobi is here! Where is he?
+4,108,611,DEATH STAR,INT,LUKE,Come on!
+4,109,612,DEATH STAR,INT,VADER,He is here...
+4,109,613,DEATH STAR,INT,TARKIN,Obi-Wan Kenobi! What makes you think so?
+4,109,614,DEATH STAR,INT,VADER,A tremor in the Force. The last time I felt it was in the presence of my old master.
+4,109,615,DEATH STAR,INT,TARKIN,Surely he must be dead by now.
+4,109,616,DEATH STAR,INT,VADER,Don't underestimate the power of the Force.
+4,109,617,DEATH STAR,INT,TARKIN,"The Jedi are extinct, their fire has gone out of the universe. You, my friend, are all that's left of their religion."
+4,109,618,DEATH STAR,INT,TARKIN,Yes.
+4,109,619,DEATH STAR,INT,INTERCOM VOICE,"Governor Tarkin, we have an emergency alert in detention block A A-twenty- three."
+4,109,620,DEATH STAR,INT,TARKIN,The princess! Put all sections on alert!
+4,109,621,DEATH STAR,INT,VADER,Obi-Wan is here. The Force is with him.
+4,109,622,DEATH STAR,INT,TARKIN,"If you're right, he must not be allowed to escape."
+4,109,623,DEATH STAR,INT,VADER,Escape is not his plan. I must face him alone.
+4,110,624,DEATH STAR,INT,HAN,Chewie!
+4,110,625,DEATH STAR,INT,HAN,Get behind me! Get behind me!
+4,110,626,DEATH STAR,INT,HAN,Can't get out that way.
+4,110,627,DEATH STAR,INT,LEIA,Looks like you managed to cut off our only escape route.
+4,110,628,DEATH STAR,INT,HAN,"Maybe you'd like it back in your cell, Your Highness."
+4,110,629,DEATH STAR,INT,LUKE,See-Threepio! See-Threepio!
+4,110,630,DEATH STAR,INT,THREEPIO,Yes sir?
+4,110,631,DEATH STAR,INT,LUKE,We've been cut off! Are there any other ways out of the cell bay?... What was that? I didn't copy!
+4,111,632,DEATH STAR,INT,THREEPIO,"I said, all systems have been alerted to your presence, sir. The main entrance seems to be the only way in or out; all other information on your level is restricted."
+4,111,633,DEATH STAR,INT,TROOPER VOICE,Open up in there!
+4,111,634,DEATH STAR,INT,THREEPIO,"Oh, no!"
+4,112,635,DEATH STAR,INT,LUKE,There isn't any other way out.
+4,112,636,DEATH STAR,INT,HAN,I can't hold them off forever! Now what?
+4,112,637,DEATH STAR,INT,LEIA,"This is some rescue. When you came in here, didn't you have a plan for getting out?"
+4,112,638,DEATH STAR,INT,HAN,"He's the brains, sweetheart."
+4,112,639,DEATH STAR,INT,LUKE,"Well, I didn't..."
+4,112,640,DEATH STAR,INT,HAN,What the hell are you doing?
+4,112,641,DEATH STAR,INT,LEIA,"Somebody has to save our skins. Into the garbage chute, wise guy."
+4,112,642,DEATH STAR,INT,HAN,Get in there you big furry oaf! I don't care what you smell! Get in there and don't worry about it.
+4,112,643,DEATH STAR,INT,HAN,Wonderful girl! Either I'm going to kill her or I'm beginning to like her. Get in there!
+4,113,644,DEATH STAR,INT,HAN,Oh! The garbage chute was a really wonderful idea. What an incredible smell you've discovered! Let's get out of here! Get away from there...
+4,113,645,DEATH STAR,INT,LUKE,No! wait!
+4,113,646,DEATH STAR,INT,LUKE,Will you forget it? I already tried it. It's magnetically sealed!
+4,113,647,DEATH STAR,INT,LEIA,Put that thing away! You're going to get us all killed.
+4,113,648,DEATH STAR,INT,HAN,"Absolutely, Your Worship. Look, I had everything under control until you led us down here. You know, it's not going to take them long to figure out what happened to us."
+4,113,649,DEATH STAR,INT,LEIA,It could be worse...
+4,113,650,DEATH STAR,INT,HAN,It's worse.
+4,113,651,DEATH STAR,INT,LUKE,There's something alive in here!
+4,113,652,DEATH STAR,INT,HAN,That's your imagination.
+4,113,653,DEATH STAR,INT,LUKE,Something just moves past my leg! Look! Did you see that?
+4,113,654,DEATH STAR,INT,HAN,What?
+4,113,655,DEATH STAR,INT,LUKE,Help!
+4,113,656,DEATH STAR,INT,HAN,Luke! Luke! Luke!
+4,113,657,DEATH STAR,INT,LEIA,Luke!
+4,113,658,DEATH STAR,INT,LEIA,"Luke, Luke, grab a hold of this."
+4,113,659,DEATH STAR,INT,LUKE,"Blast it, will you! My gun's jammed."
+4,113,660,DEATH STAR,INT,HAN,Where?
+4,113,661,DEATH STAR,INT,LUKE,Anywhere! Oh!!
+4,113,662,DEATH STAR,INT,HAN,Luke! Luke!
+4,113,663,DEATH STAR,INT,LEIA,Grab him!
+4,113,664,DEATH STAR,INT,LEIA,What happened?
+4,113,665,DEATH STAR,INT,LUKE,"I don't know, it just let go of me and disappeared..."
+4,113,666,DEATH STAR,INT,HAN,I've got a very bad feeling about this.
+4,113,667,DEATH STAR,INT,LUKE,The walls are moving!
+4,113,668,DEATH STAR,INT,LEIA,Don't just stand there. Try to brace it with something.
+4,113,669,DEATH STAR,INT,LUKE,Wait a minute!
+4,113,670,DEATH STAR,INT,LUKE,Threepio! Come in Threepio! Threepio! Where could he be?
+4,114,671,DEATH STAR,INT,FIRST TROOPER,Take over! officer) See to him! Look there!
+4,114,672,DEATH STAR,INT,THREEPIO,"They're madmen! They're heading for the prison level. If you hurry, you might catch them."
+4,114,673,DEATH STAR,INT,FIRST OFFICER,Follow me! You stand guard.
+4,114,674,DEATH STAR,INT,THREEPIO,Come on!
+4,114,675,DEATH STAR,INT,THREEPIO,"Oh! All this excitement has overrun the circuits of my counterpart here. If you don't mind, I'd like to take him down to maintenance."
+4,114,676,DEATH STAR,INT,TROOPER,All right.
+4,115,677,DEATH STAR,INT,LUKE,"Threepio! Come in, Threepio! Threepio!"
+4,115,678,DEATH STAR,INT,HAN,Get to the top!
+4,115,679,DEATH STAR,INT,LEIA,I can't
+4,115,680,DEATH STAR,INT,LUKE,"Where could he be? Threepio! Threepio, will you come in?"
+4,116,681,DEATH STAR,INT,THREEPIO,They aren't here! Something must have happened to them. See if they've been captured.
+4,116,682,DEATH STAR,INT,THREEPIO,Hurry!
+4,117,683,DEATH STAR,INT,HAN,One thing's for sure. We're all going to be a lot thinner! Get on top of it!
+4,117,684,DEATH STAR,INT,LEIA,I'm trying!
+4,118,685,DEATH STAR,INT,THREEPIO,"Thank goodness, they haven't found them! Where could they be?"
+4,118,686,DEATH STAR,INT,THREEPIO,"Use the comlink? Oh, my! I forgot I turned it off!"
+4,120,687,DEATH STAR,INT,THREEPIO,"Are you there, sir?"
+4,121,688,DEATH STAR,INT,LUKE,Threepio!
+4,122,689,DEATH STAR,INT,THREEPIO,We've had some problems...
+4,122,690,DEATH STAR,INT,LUKE,"Will you shut up and listen to me? Shut down all garbage mashers on the detention level, will you? Do you copy?"
+4,123,691,DEATH STAR,INT,LUKE,Shut down all the garbage mashers on the detention level.
+4,124,692,DEATH STAR,INT,LUKE,Shut down all the garbage mashers on the detention level.
+4,124,693,DEATH STAR,INT,THREEPIO,No. Shut them all down! Hurry!
+4,124,694,DEATH STAR,INT,THREEPIO,"Listen to them! They're dying, Artoo! Curse my metal body! I wasn't fast enough. It's all my fault! My poor master!"
+4,124,695,DEATH STAR,INT,LUKE,"Threepio, we're all right!"
+4,125,696,DEATH STAR,INT,LUKE,We're all right. You did great.
+4,125,697,DEATH STAR,INT,LUKE,"Hey... hey, open the pressure maintenance hatch on unit number... where are we?"
+4,126,698,DEATH STAR,INT,HAN,Three-two-six-eight-two-seven.
+4,128,699,DEATH STAR,INT,HAN,"If we can just avoid any more female advice, we ought to be able to get out of here."
+4,128,700,DEATH STAR,INT,LUKE,"Well, let's get moving!"
+4,128,701,DEATH STAR,INT,HAN,Where are you going?
+4,128,702,DEATH STAR,INT,LEIA,"No, wait. They'll hear!"
+4,128,703,DEATH STAR,INT,HAN,"Come here, you big coward!"
+4,128,704,DEATH STAR,INT,HAN,Chewie! Come here!
+4,128,705,DEATH STAR,INT,LEIA,"Listen. I don't know who you are, or where you came from, but from now on, you do as I tell you. Okay?"
+4,128,706,DEATH STAR,INT,HAN,"Look, Your Worshipfulness, let's get one thing straight! I take orders from one person! Me!"
+4,128,707,DEATH STAR,INT,LEIA,It's a wonder you're still alive. Will somebody get this big walking carpet out of my way?
+4,128,708,DEATH STAR,INT,HAN,No reward is worth this.
+4,129,709,DEATH STAR,INT,OFFICER,Secure this area until the alert is canceled.
+4,129,710,DEATH STAR,INT,FIRST TROOPER,Give me regular reports.
+4,129,711,DEATH STAR,INT,FIRST TROOPER,Do you know what's going on?
+4,129,712,DEATH STAR,INT,SECOND TROOPER,Maybe it's another drill.
+4,129,713,DEATH STAR,INT,SECOND TROOPER,What was that?
+4,129,714,DEATH STAR,INT,FIRST TROOPER,"Oh, it's nothing. Don't worry about it."
+4,130,715,DEATH STAR,INT,HAN,There she is.
+4,130,716,DEATH STAR,INT,LUKE,"See-Threepio, do you copy?"
+4,130,717,DEATH STAR,INT,THREEPIO,"For the moment. Uh, we're in the main hangar across from the ship."
+4,130,718,DEATH STAR,INT,LUKE,We're right above you. Stand by.
+4,130,719,DEATH STAR,INT,LEIA,You came in that thing? You're braver that I thought.
+4,130,720,DEATH STAR,INT,HAN,Nice! Come on!
+4,130,721,DEATH STAR,INT,FIRST TROOPER,It's them! Blast them!
+4,130,722,DEATH STAR,INT,HAN,Get back to the ship!
+4,130,723,DEATH STAR,INT,LUKE,Where are you going? Come back!
+4,130,724,DEATH STAR,INT,LEIA,He certainly has courage.
+4,130,725,DEATH STAR,INT,LUKE,What good will it do us if he gets himself killed? Come on!
+4,134,726,DEATH STAR,INT,LUKE,I think we took a wrong turn.
+4,134,727,DEATH STAR,INT,LEIA,There's no lock!
+4,134,728,DEATH STAR,INT,LUKE,That oughta hold it for a while.
+4,134,729,DEATH STAR,INT,LEIA,"Quick, we've got to get across. Find the control that extends the bridge."
+4,134,730,DEATH STAR,INT,LUKE,"Oh, I think I just blasted it."
+4,134,731,DEATH STAR,INT,LEIA,They're coming through!
+4,134,732,DEATH STAR,INT,LUKE,"Here, hold this."
+4,134,733,DEATH STAR,INT,LEIA,Here they come!
+4,134,734,DEATH STAR,INT,LEIA,For luck!
+4,136,735,DEATH STAR,INT,THREEPIO,Where could they be?
+4,137,736,DEATH STAR,INT,TROOPER,Close the blast doors!
+4,137,737,DEATH STAR,INT,TROOPER,Open the blast doors! Open the blast doors!
+4,138,738,DEATH STAR,INT,VADER,"I've been waiting for you, Obi-Wan. We meet again, at last. The circle is now complete."
+4,138,739,DEATH STAR,INT,VADER,"When I left you, I was but the learner; now I am the master."
+4,138,740,DEATH STAR,INT,BEN,"Only a master of evil, Darth."
+4,138,741,DEATH STAR,INT,VADER,"Your powers are weak, old man."
+4,138,742,DEATH STAR,INT,BEN,"You can't win, Darth. If you strike me down, I shall become more powerful than you can possibly imagine."
+4,139,743,DEATH STAR,INT,HAN,Didn't we just leave this party?
+4,139,744,DEATH STAR,INT,HAN,What kept you?
+4,139,745,DEATH STAR,INT,LEIA,We ran into some old friends.
+4,139,746,DEATH STAR,INT,LUKE,Is the ship all right?
+4,139,747,DEATH STAR,INT,HAN,"Seems okay, if we can get to it. Just hope the old man got the tractor beam out of commission."
+4,140,748,DEATH STAR,INT,LUKE,Look!
+4,141,749,DEATH STAR,INT,THREEPIO,"Come on, Artoo, we're going!"
+4,142,750,DEATH STAR,INT,HAN,Now's our chance! Go!
+4,142,751,DEATH STAR,INT,LUKE,No!
+4,142,752,DEATH STAR,INT,HAN,Come on!
+4,142,753,DEATH STAR,INT,LEIA,"Come on! Luke, its too late!"
+4,142,754,DEATH STAR,INT,HAN,Blast the door! Kid!
+4,142,755,DEATH STAR,INT,BEN'S VOICE,"Run, Luke! Run!"
+4,143,756,MILLENNIUM FALCON,INT,HAN,"I hope the old man got that tractor beam out if commission, or this is going to be a real short trip. Okay, hit it!"
+4,146,757,MILLENNIUM FALCON,INT,HAN,We're coming up on the sentry ships. Hold 'em off! Angle the deflector shields while I charge up the main guns!
+4,147,758,MILLENNIUM FALCON,INT,LUKE,I can't believe he's gone.
+4,147,759,MILLENNIUM FALCON,INT,LEIA,There wasn't anything you could have done.
+4,147,760,MILLENNIUM FALCON,INT,HAN,"Come on, buddy, we're not out of this yet!"
+4,151,761,MILLENNIUM FALCON,INT,HAN,"You in, kid? Okay, stay sharp!"
+4,154,762,MILLENNIUM FALCON,INT,LEIA,Here they come!
+4,161,763,MILLENNIUM FALCON,INT,LUKE,They're coming in too fast!
+4,166,764,MILLENNIUM FALCON,INT,THREEPIO,Oooh!
+4,167,765,MILLENNIUM FALCON,INT,LEIA,We've lost lateral controls.
+4,167,766,MILLENNIUM FALCON,INT,HAN,"Don't worry, she'll hold together."
+4,167,767,MILLENNIUM FALCON,INT,HAN,"You hear me, baby? Hold together!"
+4,177,768,MILLENNIUM FALCON,INT,LUKE,Got him! I got him!
+4,177,769,MILLENNIUM FALCON,INT,HAN,Great kid! Don't get cocky.
+4,179,770,MILLENNIUM FALCON,INT,LEIA,There are still two more of them out there!
+4,185,771,MILLENNIUM FALCON,INT,LUKE,That's it! We did it!
+4,185,772,MILLENNIUM FALCON,INT,LEIA,We did it!
+4,186,773,MILLENNIUM FALCON,INT,THREEPIO,Help! I think I'm melting! This is all your fault.
+4,188,774,DEATH STAR,INT,TARKIN,Are they away?
+4,188,775,DEATH STAR,INT,VADER,They have just made the jump into hyperspace.
+4,188,776,DEATH STAR,INT,TARKIN,"You're sure the homing beacon is secure aboard their ship? I'm taking an awful risk, Vader. This had better work."
+4,189,777,MILLENNIUM FALCON,INT,HAN,"Not a bad bit of rescuing, huh? You know, sometimes I even amaze myself."
+4,189,778,MILLENNIUM FALCON,INT,LEIA,"That doesn't sound too hard. Besides, they let us go. It's the only explanation for the ease of our escape."
+4,189,779,MILLENNIUM FALCON,INT,HAN,Easy... you call that easy?
+4,189,780,MILLENNIUM FALCON,INT,LEIA,Their tracking us!
+4,189,781,MILLENNIUM FALCON,INT,HAN,"Not this ship, sister."
+4,189,782,MILLENNIUM FALCON,INT,LEIA,At least the information in Artoo is still intact.
+4,189,783,MILLENNIUM FALCON,INT,HAN,What's so important? What's he carrying?
+4,189,784,MILLENNIUM FALCON,INT,LEIA,"The technical readouts of that battle station. I only hope that when the data is analyzed, a weakness can be found. It's not over yet!"
+4,189,785,MILLENNIUM FALCON,INT,HAN,"It is for me, sister! Look, I ain't in this for your revolution, and I'm not in it for you, Princess. I expect to be well paid. I'm in it for the money!"
+4,189,786,MILLENNIUM FALCON,INT,LEIA,"You needn't worry about your reward. If money is all that you love, then that's what you'll receive!"
+4,189,787,MILLENNIUM FALCON,INT,LEIA,Your friend is quite a mercenary. I wonder if he really cares about anything... or anyone.
+4,189,788,MILLENNIUM FALCON,INT,LUKE,I care!
+4,189,789,MILLENNIUM FALCON,INT,LUKE,"So... what do you think of her, Han?"
+4,189,790,MILLENNIUM FALCON,INT,HAN,"I'm trying not to, kid!"
+4,189,791,MILLENNIUM FALCON,INT,LUKE,Good...
+4,189,792,MILLENNIUM FALCON,INT,HAN,"Still, she's got a lot of spirit. I don't know, what do you think? Do you think a princess and a guy like me..."
+4,189,793,MILLENNIUM FALCON,INT,LUKE,No!
+4,194,794,MASSASSI,INT,WILLARD,You're safe! We had feared the worst.
+4,194,795,MASSASSI,INT,WILLARD,"When we heard about Alderaan, we were afraid that you were... lost along with your father."
+4,194,796,MASSASSI,INT,LEIA,"We don't have time for our sorrows, Commander. The battle station has surely tracked us here. Han) It's the only explanation for the ease of our escape. You must use the information in this R2 unit to plan the attack. It is our only hope."
+4,196,797,DEATH STAR,INT,TARKIN,Yes.
+4,198,798,MASSASSI,INT,DODONNA,The battle station is heavily shielded and carries a firepower greater than half the star fleet. It's defenses are designed around a direct large- scale assault. A small one-man fighter should be able to penetrate the outer defense.
+4,198,799,MASSASSI,INT,GOLD LEADER,"Pardon me for asking, sir, but what good are snub fighters going to be against that?"
+4,198,800,MASSASSI,INT,DODONNA,"Well, the Empire doesn't consider a small one-man fighter to be any threat, or they'd have a tighter defense. An analysis of the plans provided by Princess Leia has demonstrated a weakness in the battle station."
+4,198,801,MASSASSI,INT,DODONNA,"The approach will not be easy. You are required to maneuver straight down this trench and skim the surface to this point. The target area is only two meters wide. It's a small thermal exhaust port, right below the main port. The shaft leads directly to the reactor system. A precise hit will start a chain reaction which should destroy the station."
+4,198,802,MASSASSI,INT,DODONNA,"Only a precise hit will set up a chain reaction. The shaft is ray- shielded, so you'll have to use proton torpedoes."
+4,198,803,MASSASSI,INT,WEDGE,"That's impossible, even for a computer."
+4,198,804,MASSASSI,INT,LUKE,It's not impossible. I used to bull's- eye womp rats in my T-sixteen back home. They're not much bigger than two meters.
+4,198,805,MASSASSI,INT,DODONNA,Man your ships! And may the Force be with you!
+4,200,806,DEATH STAR,INT,VADER,This will be a day long remembered. It has seen the end of Kenobi and it will soon see the end of the Rebellion.
+4,201,807,MASSASSI OUTPOST,INT,MAN'S VOICE,"All flight trooper, man your stations. All flight troops, man your stations."
+4,201,808,MASSASSI OUTPOST,INT,LUKE,So... you got your reward and you're just leaving then?
+4,201,809,MASSASSI OUTPOST,INT,HAN,"That's right, yeah! I got some old debts I've got to pay off with this stuff. Even if I didn't, you don't think I'd be fool enough to stick around here, do you? Why don't you come with us? You're pretty good in a fight. I could use you."
+4,201,810,MASSASSI OUTPOST,INT,LUKE,"Come on! Why don't you take a look around? You know what's about to happen, what they're up against. They could use a good pilot like you. You're turning your back on them."
+4,201,811,MASSASSI OUTPOST,INT,HAN,"What good's a reward if you ain't around to use it? Besides, attacking that battle station ain't my idea of courage. It's more like suicide."
+4,201,812,MASSASSI OUTPOST,INT,LUKE,"All right. Well, take care of yourself, Han. I guess that's what you're best at, isn't it?"
+4,201,813,MASSASSI OUTPOST,INT,HAN,"Hey, Luke... may the Force be with you!"
+4,201,814,MASSASSI OUTPOST,INT,HAN,What're you lookin' at? I know what I'm doing.
+4,202,815,MAIN HANGAR DECK,INT,LEIA,What's wrong?
+4,202,816,MAIN HANGAR DECK,INT,LUKE,"Oh, it's Han! I don't know, I really thought he'd change his mind."
+4,202,817,MAIN HANGAR DECK,INT,LEIA,He's got to follow his own path. No one can choose it for him.
+4,202,818,MAIN HANGAR DECK,INT,LUKE,I only wish Ben were here.
+4,202,819,MAIN HANGAR DECK,INT,BIGGS,Luke! I don't believe it! How'd you get here... are you going out with us?!
+4,202,820,MAIN HANGAR DECK,INT,LUKE,"Biggs! Of course, I'll be up there with you! Listen, have I got some stories to tell..."
+4,202,821,MAIN HANGAR DECK,INT,RED LEADER,Are you... Luke Skywalker? Have you been checked out on the Incom T-sixty- five?
+4,202,822,MAIN HANGAR DECK,INT,BIGGS,"Sir, Luke is the best bushpilot in the outer rim territories."
+4,202,823,MAIN HANGAR DECK,INT,RED LEADER,"I met your father once when I was just a boy, he was a great pilot. You'll do all right. If you've got half of your father's skill, you'll do better than all right."
+4,202,824,MAIN HANGAR DECK,INT,LUKE,"Thank you, sir. I'll try."
+4,202,825,MAIN HANGAR DECK,INT,BIGGS,"I've got to get aboard. Listen, you'll tell me your stories when we come back. All right?"
+4,202,826,MAIN HANGAR DECK,INT,LUKE,"I told you I'd make it someday, Biggs."
+4,202,827,MAIN HANGAR DECK,INT,BIGGS,"You did, all right. It's going to be like old times, Luke. We're a couple of shooting stars that'll never be stopped!"
+4,202,828,MAIN HANGAR DECK,INT,CHIEF,This R2 unit of your seems a bit beat up. Do you want a new one?
+4,202,829,MAIN HANGAR DECK,INT,LUKE,"Not on your life! That little droid and I have been through a lot together. You okay, Artoo?"
+4,202,830,MAIN HANGAR DECK,INT,CHIEF,"Okay, easy she goes!"
+4,202,831,MAIN HANGAR DECK,INT,THREEPIO,"Hang on tight,Artoo, you've got to come back."
+4,202,832,MAIN HANGAR DECK,INT,THREEPIO,"You wouldn't want my life to get boring, would you?"
+4,202,833,MAIN HANGAR DECK,INT,BEN'S VOICE,"Luke, the Force will be with you."
+4,204,834,MASSASSI OUTPOST,INT,MASSASSI INTERCOM VOICE,"Stand-by alert. Death Star approaching. Estimated time to firing range, fifteen minutes."
+4,207,835,RED LEADER STARSHIP,INT,RED LEADER,All wings report in.
+4,208,836,ANOTHER COCKPIT,INT,RED TEN,Red Ten standing by.
+4,209,837,BIGGS' COCKPIT,INT,RED SEVEN,Red Seven standing by.
+4,209,838,BIGGS' COCKPIT,INT,BIGGS,Red Three standing by.
+4,210,839,PORKINS' COCKPIT,INT,PORKINS,Red Six standing by.
+4,210,840,PORKINS' COCKPIT,INT,RED NINE,Red Nine standing by.
+4,211,841,WEDGE'S FIGHTER,INT,WEDGE,Red Two standing by.
+4,212,842,LUKE'S X,INT,RED ELEVEN,Red Eleven standing by.
+4,212,843,LUKE'S X,INT,LUKE,Red Five standing by.
+4,214,844,RED LEADER'S FIGHTER,INT,RED LEADER,Lock S-foils in attack position.
+4,216,845,BIGGS' COCKPIT,INT,READ LEADER,We're passing through their magnetic field.
+4,217,846,RED LEADER'S COCKPIT,INT,RED LEADER,Hold tight!
+4,218,847,LUKE'S X,INT,RED LEADER,Switch your deflectors on.
+4,219,848,ANOTHER COCKPIT,INT,RED LEADER,Double front!
+4,221,849,WEDGE'S COCKPIT,INT,WEDGE,Look at the size of that thing!
+4,221,850,WEDGE'S COCKPIT,INT,RED LEADER,"Cut the chatter, Red Two."
+4,222,851,RED LEADER'S COCKPIT,INT,RED LEADER,"Accelerate to attack speed. This is it, boys!"
+4,224,852,GOLD LEADER'S COCKPIT,INT,GOLD LEADER,"Red Leader, this is Gold Leader."
+4,224,853,GOLD LEADER'S COCKPIT,INT,RED LEADER,"I copy, Gold Leader."
+4,224,854,GOLD LEADER'S COCKPIT,INT,GOLD LEADER,We're starting for the target shaft now.
+4,225,855,RED LEADER'S COCKPIT,INT,RED LEADER,We're in position. I'm going to cut across the axis and try and draw their fire.
+4,229,856,MASSASSI OUTPOST,INT,WEDGE,"system) Heavy fire, boss! Twenty-degrees."
+4,229,857,MASSASSI OUTPOST,INT,RED LEADER,I see it. Stay low.
+4,234,858,LUKE'S X,INT,LUKE,This is Red Five; I'm going in!
+4,236,859,LUKE'S X,INT,BIGGS,"Luke, pull up!"
+4,238,860,BIGGS' COCKPIT,INT,BIGGS,Are you all right?
+4,239,861,LUKE'S X,INT,LUKE,"I got a little cooked, but I'm okay."
+4,241,862,DEATH STAR,INT,ASTRO-OFFICER,"We count thirty Rebel ships, Lord Vader. But they're so small they're evading our turbo-lasers!"
+4,241,863,DEATH STAR,INT,VADER,We'll have to destroy them ship to ship. Get the crews to their fighters.
+4,243,864,READ LEADER'S X,INT,RED LEADER,"Luke, let me know when you're going in."
+4,244,865,LUKE'S X,INT,LUKE,I'm on my way in now...
+4,244,866,LUKE'S X,INT,RED LEADER,Watch yourself! There's a lot of fire coming from the right side of that deflection tower.
+4,244,867,LUKE'S X,INT,LUKE,I'm on it.
+4,252,868,MASSASSI OUTPOST,INT,CONTROL OFFICER,"Squad leaders, we've picked up a new group of signals. Enemy fighters coming your way."
+4,253,869,LUKE'S X,INT,LUKE,My scope's negative. I don't see anything.
+4,254,870,RED LEADER'S X,INT,RED LEADER,"Keep up your visual scanning. With all this jamming, they'll be on top of you before your scope can pick them up."
+4,257,871,RED LEADER'S COCKPIT,INT,RED LEADER,Biggs! You've picked one up... watch it!
+4,257,872,RED LEADER'S COCKPIT,INT,BIGGS,I can't see it! Where is he?!
+4,259,873,BIGGS' COCKPIT,INT,BIGGS,"He's on me tight, I can't shake him... I can't shake him."
+4,261,874,X,INT,LUKE,"Hang on, Biggs, I'm coming in."
+4,264,875,LUKE'S X,INT,LUKE,Got him!
+4,265,876,DEATH STAR,INT,VADER,Several fighters have broken off from the main group. Come with me!
+4,266,877,MASSASSI OUTPOST,INT,BIGGS,Pull in! Luke... pull in!
+4,266,878,MASSASSI OUTPOST,INT,WEDGE,"Watch your back, Luke!"
+4,267,879,LUKE'S X,INT,WEDGE,"Watch your back! Fighter's above you, coming in!"
+4,271,880,LUKE'S X,INT,LUKE,"I'm hit, but not bad."
+4,272,881,LUKE'S X,INT,LUKE'S VOICE,"Artoo, see what you can do with it. Hang on back there."
+4,273,882,LUKE'S X,INT,RED LEADER,Red Six...
+4,274,883,MASSASSI OUTPOST,INT,RED LEADER,Can you see Red Five?
+4,274,884,MASSASSI OUTPOST,INT,RED TEN,"There's a heavy fire zone on this side. Red Five, where are you?"
+4,275,885,LUKE'S X,INT,LUKE,I can't shake him!
+4,277,886,WEDGE'S COCKPIT,INT,WEDGE,"I'm on him, Luke!"
+4,278,887,LUKE'S X,INT,WEDGE,Hold on!
+4,281,888,LUKE'S X,INT,LUKE,Blast it! Wedge where are you?
+4,284,889,LUKE'S X,INT,LUKE,"Thanks, Wedge."
+4,285,890,MASSASSI OUTPOST,INT,BIGGS,"Good shooting, Wedge!"
+4,285,891,MASSASSI OUTPOST,INT,GOLD LEADER,Red Leader...
+4,286,892,GOLD LEADER'S Y,INT,GOLD LEADER,This is Gold Leader. We're starting out attack run.
+4,288,893,MASSASSI OUTPOST,INT,RED LEADER,"I copy, Gold Leader. Move into position."
+4,290,894,DARTH VADER'S COCKPIT,INT,VADER,Stay in attack formation!
+4,291,895,MASSASSI OUTPOST,INT,GOLD LEADER,The exhaust post is...
+4,292,896,GOLD LEADER'S Y,INT,GOLD LEADER,...marked and locked in!
+4,295,897,GOLD LEADER'S Y,INT,GOLD LEADER,Switch power to front deflector screens.
+4,298,898,GOLD LEADER'S Y,INT,GOLD LEADER,"How many guns do you think, Gold Five."
+4,299,899,MASSASSI OUTPOST,INT,GOLD FIVE,"I'd say about twenty guns. Some on the surface, some on the towers."
+4,299,900,MASSASSI OUTPOST,INT,MASSASSI INTERCOM VOICE,Death Star will be in range in five minutes.
+4,301,901,GOLD LEADER'S Y,INT,GOLD LEADER,Switching to targeting computer.
+4,302,902,GOLD TWO'S Y,INT,GOLD TWO,Computer's locked. Getting a signal.
+4,302,903,GOLD TWO'S Y,INT,GOLD TWO,The guns... they've stopped!
+4,303,904,GOLD FIVE'S COCKPIT,INT,GOLD FIVE,Stabilize your read deflectors. Watch for enemy fighters.
+4,304,905,GOLD LEADER'S Y,INT,GOLD LEADER,They've coming in! Three marks at two ten.
+4,306,906,DARTH VADER'S COCKPIT,INT,VADER,I'll take them myself! Cover me!
+4,306,907,DARTH VADER'S COCKPIT,INT,WINGMAN'S VOICE,"Yes, sir."
+4,313,908,GOLD LEADER'S Y,INT,GOLD LEADER,I can't maneuver!
+4,314,909,GOLD FIVE'S Y,INT,GOLD FIVE,Stay on target.
+4,315,910,GOLD LEADER'S Y,INT,GOLD LEADER,We're too close.
+4,316,911,GOLD FIVE'S Y,INT,GOLD FIVE,Stay on target!
+4,317,912,GOLD LEADER'S Y,INT,GOLD LEADER,Loosen up!
+4,321,913,GOLD FIVE'S Y,INT,GOLD FIVE,Gold Five to Red Leader...
+4,322,914,LUKE'S X,INT,GOLD FIVE,"Lost Tiree, lost Dutch."
+4,323,915,RED LEADER'S COCKPIT,INT,RED LEADER,"I copy, Gold Five."
+4,324,916,GOLD FIVE'S Y,INT,GOLD FIVE,They came from behind...
+4,327,917,DEATH STAR,INT,OFFICER,"We've analyzed their attack, sir, and there is a danger. Should I have your ship standing by?"
+4,327,918,DEATH STAR,INT,TARKIN,Evacuate? In out moment of triumph? I think you overestimate their chances!
+4,327,919,DEATH STAR,INT,VOICE,"Rebel base, three minutes and closing."
+4,328,920,READ LEADER'S COCKPIT,INT,RED LEADER,"Red Group, this is Red Leader."
+4,329,921,MASSASSI OUTPOST,INT,RED LEADER,Rendezvous at mark six point one.
+4,329,922,MASSASSI OUTPOST,INT,WEDGE,This is Red Two. Flying toward you.
+4,329,923,MASSASSI OUTPOST,INT,BIGGS,"Red Three, standing by."
+4,330,924,RED LEADER'S COCKPIT,INT,DODONNA,"Red Leader, this is Base One. Keep half your group out of range for the next run."
+4,331,925,LUKE'S X,INT,RED LEADER'S VOICE,"Copy, Base One. Luke, take Red Two and Three. Hold up here and wait for my signal... to start your run."
+4,335,926,RED LEADER'S COCKPIT,INT,RED LEADER,This is it!
+4,339,927,RED TEN'S COCKPIT,INT,RED TEN,We should be able to see it by now.
+4,341,928,RED LEADER'S COCKPIT,INT,RED LEADER,Keep your eyes open for those fighters!
+4,342,929,RED TEN'S COCKPIT,INT,RED TEN,There's too much interference!
+4,343,930,SPACE,INT,RED TEN'S VOICE,"Red Five, can you see them from where you are?"
+4,344,931,LUKE'S X,INT,LUKE,No sign of any... wait!
+4,345,932,RED TEN'S COCKPIT,INT,LUKE,Coming in point three five.
+4,345,933,RED TEN'S COCKPIT,INT,RED TEN,I see them.
+4,347,934,RED LEADER'S COCKPIT,INT,RED LEADER,I'm in range.
+4,349,935,RED LEADER'S COCKPIT,INT,RED LEADER,Target's coming up!
+4,349,936,RED LEADER'S COCKPIT,INT,RED LEADER,Just hold them off for a few seconds.
+4,350,937,DARTH VADER'S COCKPIT,INT,VADER,Close up formation.
+4,357,938,RED LEADER'S COCKPIT,INT,RED LEADER,Almost there!
+4,357,939,RED LEADER'S COCKPIT,INT,RED TEN,I can't hold them!
+4,363,940,RED LEADER'S COCKPIT,INT,RED LEADER,It's away!
+4,365,941,MASSASSI OUTPOST,INT,RED NINE'S VOICE,It's a hit!
+4,365,942,MASSASSI OUTPOST,INT,RED LEADER,Negative.
+4,366,943,RED LEADER'S COCKPIT,INT,RED LEADER,Negative! It didn't go in. It just impacted on the surface.
+4,369,944,RED LEADER'S COCKPIT,INT,LUKE,"Red Leader, we're right above you. Turn to point..."
+4,370,945,LUKE'S X,INT,LUKE,...oh-five; we'll cover for you.
+4,370,946,LUKE'S X,INT,RED LEADER,Stay there...
+4,371,947,RED LEADER'S COCKPIT,INT,RED LEADER,...I just lost my starboard engine.
+4,372,948,LUKE'S X,INT,RED LEADER,Get set to make your attack run.
+4,377,949,DEATH STAR,INT,DEATH STAR INTERCOM VOICE,"Rebel base, one minute and closing."
+4,378,950,MASSASSI OUTPOST,INT,LUKE,"Biggs, Wedge, let's close it up. We're going in. We're going in full throttle."
+4,379,951,WEDGE'S COCKPIT,INT,WEDGE,"Right with you, boss."
+4,381,952,BIGGS' COCKPIT,INT,BIGGS,"Luke, at that speed will you be able to pull out in time?"
+4,382,953,LUKE'S X,INT,LUKE,It'll be just like Beggar's Canyon back home.
+4,384,954,BIGGS' COCKPIT,INT,BIGGS,We'll stay back far enough to cover you.
+4,385,955,LUKE'S COCKPIT,INT,WEDGE,"My scope shows the tower, but I can't see the exhaust port! Are you sure the computer can hit it?"
+4,387,956,LUKE'S X,INT,LUKE,Watch yourself! Increase speed full throttle!
+4,388,957,WEDGE'S COCKPIT,INT,WEDGE,What about the tower?
+4,389,958,LUKE'S X,INT,LUKE,You worry about those fighters! I'll worry about the tower!
+4,391,959,LUKE'S X,INT,LUKE,"Artoo... that, that stabilizer's broken loose again! See if you can't lock it down!"
+4,398,960,MASSASSI OUTPOST,INT,WEDGE,I'm hit! I can't stay with you.
+4,398,961,MASSASSI OUTPOST,INT,LUKE,"Get clear, Wedge."
+4,399,962,LUKE'S X,INT,LUKE,You can't do any more good back there!
+4,400,963,WEDGE'S COCKPIT,INT,WEDGE,Sorry!
+4,402,964,DARTH VADER'S COCKPIT,INT,VADER,Let him go! Stay on the leader!
+4,404,965,BIGGS' COCKPIT,INT,BIGGS,"Hurry, Luke, they're coming in much faster this time. I can't hold them!"
+4,406,966,LUKE'S X,INT,LUKE,"Artoo, try and increase the power!"
+4,411,967,LUKE'S X,INT,BIGGS,"Hurry up, Luke!"
+4,413,968,BIGGS' COCKPIT,INT,BIGGS,Wait!
+4,419,969,DEATH STAR,INT,DEATH STAR INTERCOM VOICE,"Rebel base, thirty seconds and closing."
+4,420,970,DARTH VADER'S COCKPIT,INT,VADER,I'm on the leader.
+4,422,971,MASSASSI OUTPOST,INT,THREEPIO,"Hang on, Artoo!"
+4,428,972,LUKE'S X,INT,BEN'S VOICE,"Use the Force, Luke."
+4,430,973,LUKE'S X,INT,BEN'S VOICE,"Let go, Luke."
+4,432,974,DARTH VADER'S COCKPIT,INT,VADER,The Force is strong with this one!
+4,434,975,LUKE'S X,INT,BEN'S VOICE,"Luke, trust me."
+4,435,976,MASSASSI OUTPOST,INT,BASE VOICE,"His computer's off. Luke, you switched off your targeting computer. What's wrong?"
+4,435,977,MASSASSI OUTPOST,INT,LUKE,Nothing. I'm all right.
+4,443,978,LUKE'S X,INT,LUKE,I've lost Artoo!
+4,444,979,MASSASSI OUTPOST,INT,MASSASSI INTERCOM VOICE,The Death Star has cleared the planet. The Death Star has cleared the planet.
+4,445,980,DEATH STAR,INT,DEATH STAR INTERCOM VOICE,"Rebel base, in range."
+4,445,981,DEATH STAR,INT,TARKIN,You may fire when ready.
+4,445,982,DEATH STAR,INT,DEATH STAR INTERCOM VOICE,Commence primary ignition.
+4,450,983,DARTH VADER'S COCKPIT,INT,VADER,I have you now.
+4,453,984,DARTH VADER'S COCKPIT,INT,VADER,What?
+4,455,985,MILLENNIUM FALCON,INT,HAN,Yahoo!
+4,457,986,WINGMAN'S COCKPIT,INT,WINGMAN,Look out!
+4,462,987,MILLENNIUM FALCON,INT,HAN,"You're all clear, kid."
+4,463,988,MASSASSI OUTPOST,INT,HAN,Now let's blow this thing and go home!
+4,467,989,DEATH STAR,INT,INTERCOM VOICE,Stand by to fire at Rebel base.
+4,469,990,DEATH STAR,INT,INTERCOM VOICE,Standing by.
+4,471,991,MILLENNIUM FALCON,INT,HAN,"Great shot, kid. That was one in a million."
+4,472,992,LUKE'S X,INT,BEN'S VOICE,"Remember, the Force will be with you... always."
+4,475,993,MASSASSI OUTPOST,INT,LEIA,Luke! Luke! Luke!
+4,475,994,MASSASSI OUTPOST,INT,HAN,Hey! Hey!
+4,475,995,MASSASSI OUTPOST,INT,LUKE,I knew you'd come back! I just knew it!
+4,475,996,MASSASSI OUTPOST,INT,HAN,"Well, I wasn't gonna let you get all the credit and take all the reward."
+4,475,997,MASSASSI OUTPOST,INT,LEIA,"Hey, I knew there was more to you than money."
+4,475,998,MASSASSI OUTPOST,INT,LUKE,"Oh, no!"
+4,475,999,MASSASSI OUTPOST,INT,THREEPIO,"Oh, my! Artoo! Can you hear me? Say something! You can repair him, can't you?"
+4,475,1000,MASSASSI OUTPOST,INT,TECHNICIAN,We'll get to work on him right away.
+4,475,1001,MASSASSI OUTPOST,INT,THREEPIO,"You must repair him! Sir, if any of my circuits or gears will help, I'll gladly donate them."
+4,475,1002,MASSASSI OUTPOST,INT,LUKE,He'll be all right.
+4,476,1003,MASSASSI OUTPOST,INT,FADE OUT:,
+4,476,1004,MASSASSI OUTPOST,INT,THE END,

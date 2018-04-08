@@ -1,0 +1,884 @@
+episode,scene_num,sequence,place,type,actor,dialogue
+2,2,1,CORUSCANT,EXT,PADMÉ,Cordé...
+2,2,2,CORUSCANT,EXT,CORDÉ,"... I'm sorry, m'lady... I'm... not sure I..."
+2,2,3,CORUSCANT,EXT,AMIDALA,No!... No!... No!...
+2,2,4,CORUSCANT,EXT,AMIDALA,I should not have come back.
+2,2,5,CORUSCANT,EXT,CAPTAIN TYPHO,"M'Lady, you are still in danger."
+2,2,6,CORUSCANT,EXT,CAPTAIN TYPHO,"This vote is very important. You did your duty and Cordé did hers. Now come. (she doesn't respond) M'Lady, please!"
+2,4,7,SENATE CHAMBER,INT,MAS AMEDDA,"Order! We shall have order! The motion for the Republic to commission an army takes precedent, and that is what we will vote on at this time."
+2,4,8,SENATE CHAMBER,INT,PALPATINE,"...My esteemed colleagues, excuse me... I have just received some tragic and disturbing news. Senator Amidala of the Naboo system... Has been assassinated!"
+2,4,9,SENATE CHAMBER,INT,PALPATINE,"This grievous blow is especially personal to me. Before I became Chancellor, I served Amidala when she was Queen. She was a great leader who fought for justice, not only in this honourable assembly, but also on her home planet. She was so loved she could have been elected queen for life. She believed in public service, and she fervently believed in democracy. Her death is a great loss to us all. We will all mourn her as a relentless champion of freedom... and as a dear friend."
+2,4,10,SENATE CHAMBER,INT,SENATOR ASK AAK,"How many more Senators will die before this civil strife ends! We must confront these rebels now, and they need an army to do it."
+2,4,11,SENATE CHAMBER,INT,AMBASSADOR DARSANA,"Why weren't the Jedi able to stop this assassination? We are no longer safe, under their protection."
+2,4,12,SENATE CHAMBER,INT,ORN FREE TAA,The Republic needs more security now! Before it comes to war.
+2,4,13,SENATE CHAMBER,INT,PALPATINE,Must I remind the Senator from Malastare that negotiations are continuing with the separatists. Peace is our objective here... not war.
+2,4,14,SENATE CHAMBER,INT,AMIDALA,"My noble colleagues, I concur with the Supreme Chancellor. At all costs, we do not want war!"
+2,4,15,SENATE CHAMBER,INT,PALPATINE,"It is with great surprise and joy the chair recognises the Senator from Naboo, Padmé Amidala."
+2,4,16,SENATE CHAMBER,INT,PADMÉ,"Less than an hour ago, an assassination attempt was made against my life. One of my bodyguards and six  others were ruthlessly and senselessly murdered. I was the target but, more importantly, I believe this security measure before you, was the target. I have led the opposition to build an army... but there is someone in this body who will stop at nothing to assure it's passage..."
+2,4,17,SENATE CHAMBER,INT,PADMÉ,"I warn you, if you vote to create this army, war will follow. I have experienced the misery of war first-hand; I do not wish to do it again."
+2,4,18,SENATE CHAMBER,INT,PADMÉ,"Wake up, Senators... you must wake up! If you offer the separatists violence, they can only show us violence in return! Many will lose their lives. All will lose their freedom. This decision could very well destroy the very foundation of our great Republic. I pray you do not let fear push you into a disastrous decision. Vote down this security measure, which is nothing less than a declaration of war! Does anyone here want that? I cannot believe they do."
+2,4,19,SENATE CHAMBER,INT,ORN FREE TAA,My motion to defer the vote must be dealt with first. That is the rule of law.
+2,4,20,SENATE CHAMBER,INT,PALPATINE,"Due to the lateness of the hour and the seriousness of this motion, we will take up these matters tomorrow. Until then, the Senate stands adjourned."
+2,6,21,CHANCELLOR'S OFFICE,INT,PALPATINE,"I don't know how much longer I can hold off the vote, my friends. More and more star systems are joining the separatists."
+2,6,22,CHANCELLOR'S OFFICE,INT,MACE WINDU,If they do break away -
+2,6,23,CHANCELLOR'S OFFICE,INT,PALPATINE,No! I will not let that happen!
+2,6,24,CHANCELLOR'S OFFICE,INT,MACE WINDU,"But if they do, you must realise there aren't enough Jedi to protect the Republic. We are keepers of the peace, not soldiers."
+2,6,25,CHANCELLOR'S OFFICE,INT,PALPATINE,"Master Yoda, do you think it will really come to war?"
+2,6,26,CHANCELLOR'S OFFICE,INT,YODA,"Worse than war, I fear... Much worse."
+2,6,27,CHANCELLOR'S OFFICE,INT,PALPATINE,What?
+2,6,28,CHANCELLOR'S OFFICE,INT,MACE WINDU,"What do you sense, Master?"
+2,6,29,CHANCELLOR'S OFFICE,INT,YODA,Impossible to see ... The Dark Side clouds everything. But this I am sure of - Do their duty the Jedi will.
+2,6,30,CHANCELLOR'S OFFICE,INT,DAR WAC,"The loyalist committee has arrived, my Lord."
+2,6,31,CHANCELLOR'S OFFICE,INT,PALPATINE,Send them in.
+2,6,32,CHANCELLOR'S OFFICE,INT,YODA,With you the force is strong... young Senator. To see you alive brings warm feeling to my heart.
+2,6,33,CHANCELLOR'S OFFICE,INT,PADMÉ,"Thank you, Master Yoda. Do you have any idea who was behind the attack?"
+2,6,34,CHANCELLOR'S OFFICE,INT,MACE WINDU,"Our intelligence points to disgruntled spice miners, on the moons of Naboo."
+2,6,35,CHANCELLOR'S OFFICE,INT,PADMÉ,I don't wish to disagree but I think that Count Dooku was behind it.
+2,6,36,CHANCELLOR'S OFFICE,INT,MACE WINDU,"You know, M'Lady, Count Dooku was once a Jedi. He wouldn't assassinate anyone, it is not in his character."
+2,6,37,CHANCELLOR'S OFFICE,INT,KI-ADI-MUNDI,"He is a political idealist, not a murderer."
+2,6,38,CHANCELLOR'S OFFICE,INT,YODA,"In dark times nothing is what it appears to be, but the fact remains Senator, in grave danger you are."
+2,6,39,CHANCELLOR'S OFFICE,INT,PALPATINE,Count Dooku has always avoided any kind of conflict. It appears he has no desire to start a war. Why would he kill you? To what end?
+2,6,40,CHANCELLOR'S OFFICE,INT,PADMÉ,"I don't know, but everything in my being tells me he was behind it..."
+2,6,41,CHANCELLOR'S OFFICE,INT,PALPATINE,"Master Jedi, may I suggest that the Senator be placed under the protection of your graces."
+2,6,42,CHANCELLOR'S OFFICE,INT,BAIL ORGANA,Do you think that is a wise use of manpower during these stressful times?
+2,6,43,CHANCELLOR'S OFFICE,INT,PADMÉ,"Chancellor, if I may comment, I do not believe the..."
+2,6,44,CHANCELLOR'S OFFICE,INT,PALPATINE,"...""situation is that serious."" No, but I do, Senator."
+2,6,45,CHANCELLOR'S OFFICE,INT,PADMÉ,"Chancellor, please! I don't want any more guards!"
+2,6,46,CHANCELLOR'S OFFICE,INT,PALPATINE,"I realise all too well that additional security might be disruptive for you, but perhaps someone you are familiar with... an old friend like... Master Kenobi..."
+2,6,47,CHANCELLOR'S OFFICE,INT,MACE WINDU,That's possible. He has just returned from a Border dispute on Ansion.
+2,6,48,CHANCELLOR'S OFFICE,INT,PALPATINE,"You must remember him, M'Lady... he watched over you during the blockade conflict."
+2,6,49,CHANCELLOR'S OFFICE,INT,PADMÉ,"This is not necessary, Chancellor."
+2,6,50,CHANCELLOR'S OFFICE,INT,PALPATINE,"Do it for me, M'Lady, please. I will rest easier. We had a big scare today. The thought of losing you is unbearable."
+2,6,51,CHANCELLOR'S OFFICE,INT,MACE WINDU,"I will have Obi-Wan report to you immediately, M'Lady."
+2,6,52,CHANCELLOR'S OFFICE,INT,YODA,"Too little about yourself you worry, Senator, and too much about politics. Be mindful of your danger, Padmé. Accept our help."
+2,6,53,CHANCELLOR'S OFFICE,INT,PALPATINE,"I will not like this Republiv, that has stood for over a thousand years, be split in two"
+2,8,54,SENATE BUILDING,INT,JAR JAR,Obi! Obi! Obi! Mesa sooo smilen to see'en yousa. Wahoooooo!
+2,8,55,SENATE BUILDING,INT,OBI-WAN,"It's Good to see you, too, Jar Jar."
+2,8,56,SENATE BUILDING,INT,JAR JAR,"Oops! Wheresa mesa manners? Excuse me, Master Obi-Wan. I completely forgot myself for a moment there. I have had to learn Diplodiaclect... speak it like a native now. Don't really see the point, actually, but members of the Senate seem to prefer it..."
+2,8,57,SENATE BUILDING,INT,JAR JAR,"...and this, I take it, is your apprentice... Nooooooooo! Annie? Noooooooo! Little Bitty Annie? Nooooooo! Yousa so biggen! Yiyiyiyyi! Annie!! Mesa no believen."
+2,8,58,SENATE BUILDING,INT,ANAKIN,"Hi, Jar Jar."
+2,8,59,SENATE BUILDING,INT,JAR JAR,Annie! Annie! Yiyiyiyiyiyiiii!
+2,9,60,SENATE BUILDING,INT,JAR JAR,"Lookie... lookie... Oops!... Oh, dear, I'm afraid I've forgotten myself again."
+2,9,61,SENATE BUILDING,INT,OBI-WAN,"It's a great pleasure to see you again, M'Lady."
+2,9,62,SENATE BUILDING,INT,PADMÉ,It has been far too long Master Kenobi. I'm so glad our paths have crossed again... but I must warn you that I think your presence here is unnecessary.
+2,9,63,SENATE BUILDING,INT,OBI-WAN,I'm sure the Jedi Council have their reasons.
+2,9,64,SENATE BUILDING,INT,PADMÉ,Annie?? My goodness you've grown.
+2,9,65,SENATE BUILDING,INT,ANAKIN,"So have you... grown more beautiful, I mean... and much shorter... for a Senator, I mean."
+2,9,66,SENATE BUILDING,INT,PADMÉ,"Oh Annie, you'll always be that little boy I knew on Tatooine."
+2,9,67,SENATE BUILDING,INT,OBI-WAN,"Our presence will be invisible, M'Lady."
+2,9,68,SENATE BUILDING,INT,CAPTAIN TYPHO,"I am very grateful you are here, Master Kenobi. The situation is more dangerous than the Senator will admit."
+2,9,69,SENATE BUILDING,INT,PADMÉ,"I don't need more security, I need answers. I want to know who is trying to kill me."
+2,9,70,SENATE BUILDING,INT,OBI-WAN,"We're here to protect you Senator, not to start an investigation."
+2,9,71,SENATE BUILDING,INT,ANAKIN,"We will find out who is trying to kill you Padmé, I promise you."
+2,9,72,SENATE BUILDING,INT,OBI-WAN,"We are not going to exceed our mandate, my young Padawan learner."
+2,9,73,SENATE BUILDING,INT,ANAKIN,"I meant in the interest of protecting her, Master, of course."
+2,9,74,SENATE BUILDING,INT,OBI-WAN,"We are not going through this exercise again, Anakin. You will pay attention to my lead."
+2,9,75,SENATE BUILDING,INT,ANAKIN,Why?
+2,9,76,SENATE BUILDING,INT,OBI-WAN,What??!!
+2,9,77,SENATE BUILDING,INT,ANAKIN,"Why else do you think we were assigned to her, if not to find the killer? Protection is a job for local security... not Jedi. It's overkill, Master. Investigation is implied in our mandate."
+2,9,78,SENATE BUILDING,INT,OBI-WAN,"We will do as the Council has instructed, and you will learn your place, young one."
+2,9,79,SENATE BUILDING,INT,PADMÉ,"Perhaps with merely your presence, the mysteries surrounding this threat will be revealed.  Now if you will excuse me I will retire."
+2,9,80,SENATE BUILDING,INT,CAPTAIN TYPHO,"Well, I know I feel a lot better having you here. I'll have an officer on every floor and I'll be at the command centre downstairs."
+2,9,81,SENATE BUILDING,INT,JAR JAR,"Mesa busten wit happiness seein Yousa again, Annie. Deesa bad times, bombad times."
+2,9,82,SENATE BUILDING,INT,ANAKIN,"She didn't even recognise me, Jar Jar. I thought about her every day since we parted... and she's forgotten me completely."
+2,9,83,SENATE BUILDING,INT,JAR JAR,Shesa happy. Happier den mesa see-en her in longo time.
+2,9,84,SENATE BUILDING,INT,OBI-WAN,"Anakin, you're focusing on the Negative again. Be mindful of your thoughts. She was glad to see us. Now lets check the security here."
+2,9,85,SENATE BUILDING,INT,ANAKIN,"Yes, my master."
+2,11,86,JEDI TEMPLE,INT,MACE WINDU,Why couldn't we see this attack on the Senator?
+2,11,87,JEDI TEMPLE,INT,YODA,"Masking the future, is this disturbance in the Force."
+2,11,88,JEDI TEMPLE,INT,MACE WINDU,"The propecy is coming true, the Dark Side is growing."
+2,11,89,JEDI TEMPLE,INT,YODA,And only those who have turned to the Dark Side can sense the possibilities of the future. Only going through the Dark Side can we see.
+2,11,90,JEDI TEMPLE,INT,MACE WINDU,"It's been ten years, and the Sith still have no shown themselves. Do you think they are behind this?"
+2,11,91,JEDI TEMPLE,INT,YODA,"...Out there, they are. A certainty that is."
+2,11,92,JEDI TEMPLE,INT,MACE WINDU,Do you think Obi-Wan's apprentice will be able to bring balance to the Force?
+2,11,93,JEDI TEMPLE,INT,YODA,Only if he chooses to follow his destiny.
+2,13,94,SENATE BUILDING,INT,OBI-WAN,Captain Typho has more than enough men downstairs. No assassin will try that way. Any activity up here?
+2,13,95,SENATE BUILDING,INT,ANAKIN,Quiet as a tomb. I don't like just waiting here for something to happen to her.
+2,13,96,SENATE BUILDING,INT,OBI-WAN,What's going on?
+2,13,97,SENATE BUILDING,INT,ANAKIN,She covered that camera. I don't think she liked me watching her.
+2,13,98,SENATE BUILDING,INT,OBI-WAN,What is she thinking?
+2,13,99,SENATE BUILDING,INT,ANAKIN,She programmed Artoo to warn us if there's an intruder.
+2,13,100,SENATE BUILDING,INT,OBI-WAN,It's not an intruder I'm worried about. There are many other ways to kill a Senator.
+2,13,101,SENATE BUILDING,INT,ANAKIN,"I know, but we also want to catch this assassin. Don't we, Master?"
+2,13,102,SENATE BUILDING,INT,OBI-WAN,You're using her as bait??
+2,13,103,SENATE BUILDING,INT,ANAKIN,It was her idea... No harm will come to her. I can sense everything going on in that room. Trust me.
+2,13,104,SENATE BUILDING,INT,OBI-WAN,"It's too risky... and your senses aren't that attuned, young apprentice."
+2,13,105,SENATE BUILDING,INT,ANAKIN,And yours are?
+2,13,106,SENATE BUILDING,INT,OBI-WAN,Possibly.
+2,15,107,SENATE BUILDING,INT,OBI-WAN,You look tired.
+2,15,108,SENATE BUILDING,INT,ANAKIN,"I don't sleep well, anymore."
+2,15,109,SENATE BUILDING,INT,OBI-WAN,Because of your mother?
+2,15,110,SENATE BUILDING,INT,ANAKIN,I don't know why I keep dreaming About her now. I haven't seen her since I was little.
+2,15,111,SENATE BUILDING,INT,OBI-WAN,Dreams pass in time.
+2,15,112,SENATE BUILDING,INT,ANAKIN,I'd rather dream of Padmé. Just Being around her again is... intoxicating.
+2,15,113,SENATE BUILDING,INT,OBI-WAN,"Mind your thoughts, Anakin, they betray you. You've made a commitment to the Jedi order... a commitment not easily broken... and don't forget she's a politician. They're not to be trusted."
+2,15,114,SENATE BUILDING,INT,ANAKIN,"She's not like the others in the Senate, Master."
+2,15,115,SENATE BUILDING,INT,OBI-WAN,It's been my experience that Senators are only focused on pleasing those who fund their campaigns... and they are more than willing to forget the niceties of democracy to get those funds.
+2,15,116,SENATE BUILDING,INT,ANAKIN,"Not another lecture, Master. Not on the economics of politics.... It's too early in the morning... and besides, you're generalising. The Chancellor doesn't appear to be corrupt."
+2,15,117,SENATE BUILDING,INT,OBI-WAN,"Palpatine's a politician, I've observed that he is very clever at following the passions and prejudices of the Senators."
+2,15,118,SENATE BUILDING,INT,ANAKIN,I think he is a good man. My instincts are very positive about...
+2,15,119,SENATE BUILDING,INT,OBI-WAN,"I sense it, too."
+2,18,120,SENATE BUILDING,INT,ANAKIN,Stay here!
+2,21,121,CITYSCAPE,EXT,OBI-WAN,I have a bad feeling about this.
+2,21,122,CITYSCAPE,EXT,ANAKIN,That was wacky! I almost lost you in the traffic.
+2,21,123,CITYSCAPE,EXT,OBI-WAN,What took you so long?
+2,21,124,CITYSCAPE,EXT,ANAKIN,"Oh, you know, Master, I couldn't find a speeder I really liked, with an open cockpit... and with the right speed capabilities... and then you know I had to get a really gonzo color..."
+2,21,125,CITYSCAPE,EXT,OBI-WAN,"If you'd spend as much time working on your saber skills as you do on your wit, young Padawan, you would rival Master Yoda as a swordsman."
+2,21,126,CITYSCAPE,EXT,ANAKIN,I thought I already did.
+2,21,127,CITYSCAPE,EXT,OBI-WAN,"Only in your mind, my very young apprentice. Careful!! Hey, easy!!"
+2,21,128,CITYSCAPE,EXT,ANAKIN,"Sorry, I forgot you don't like flying, Master."
+2,21,129,CITYSCAPE,EXT,OBI-WAN,I don't mind flying... but what you're doing is suicide!
+2,21,130,CITYSCAPE,EXT,ANAKIN,"Master, you know I've been flying since before I could walk. I'm very good at this."
+2,21,131,CITYSCAPE,EXT,OBI-WAN,Just slow down!
+2,21,132,CITYSCAPE,EXT,OBI-WAN,Wait! Don't go in there!
+2,21,133,CITYSCAPE,EXT,OBI-WAN,You know I don't like it when you do that!
+2,21,134,CITYSCAPE,EXT,ANAKIN,"Sorry, Master. Don't worry, this guy's gonna kill himself any minute now!"
+2,21,135,CITYSCAPE,EXT,OBI-WAN,What are you doing? He's gonna blast me!
+2,21,136,CITYSCAPE,EXT,ANAKIN,Right - this isn't working.
+2,21,137,CITYSCAPE,EXT,OBI-WAN,That was too close!
+2,21,138,CITYSCAPE,EXT,ANAKIN,Clear that!
+2,21,139,CITYSCAPE,EXT,OBI-WAN,What??
+2,21,140,CITYSCAPE,EXT,ANAKIN,Clear the flag! We're losing power! Hurry!
+2,21,141,CITYSCAPE,EXT,OBI-WAN,Whooooaaa! Don't do that! I don't  like it when you do that!
+2,21,142,CITYSCAPE,EXT,ANAKIN,"So sorry, Master."
+2,21,143,CITYSCAPE,EXT,OBI-WAN,It's dangerous near those power couplings! Slow down! Don't go through there!
+2,21,144,CITYSCAPE,EXT,OBI-WAN,"Yiiii, what are you doing?"
+2,21,145,CITYSCAPE,EXT,ANAKIN,"Sorry, Master!"
+2,21,146,CITYSCAPE,EXT,OBI-WAN,"Oh, that was good..."
+2,21,147,CITYSCAPE,EXT,ANAKIN,That was crazy!!!
+2,21,148,CITYSCAPE,EXT,ANAKIN,"Ahh, damn."
+2,21,149,CITYSCAPE,EXT,OBI-WAN,Stop!!
+2,21,150,CITYSCAPE,EXT,ANAKIN,"No, we can make it."
+2,21,151,CITYSCAPE,EXT,OBI-WAN,I'm crazy... I'm crazy... I'm crazy.
+2,21,152,CITYSCAPE,EXT,ANAKIN,But it worked... we made it.
+2,21,153,CITYSCAPE,EXT,OBI-WAN,It didn't work... we've stalled! And you almost got us killed!
+2,21,154,CITYSCAPE,EXT,ANAKIN,I think we're still alive.
+2,21,155,CITYSCAPE,EXT,OBI-WAN,It was stupid!
+2,21,156,CITYSCAPE,EXT,ANAKIN,I could have made it...
+2,21,157,CITYSCAPE,EXT,OBI-WAN,But you didn't!!! And now we've lost him.
+2,21,158,CITYSCAPE,EXT,ANAKIN,No we didnt...
+2,21,159,CITYSCAPE,EXT,OBI-WAN,"Where are you going?! He went down there, the other way."
+2,21,160,CITYSCAPE,EXT,ANAKIN,This is a shortcut... I think.
+2,21,161,CITYSCAPE,EXT,OBI-WAN,"What do you mean, You think? What kind of shortcut?! He went completely the other way! Youve lost him!"
+2,21,162,CITYSCAPE,EXT,ANAKIN,"Master, if we keep this chase going, that creeps gonna end up deep fried. Personally, Id very much like to find out who in the hell he is and who hes working for..."
+2,21,163,CITYSCAPE,EXT,OBI-WAN,"Oh, so thats why were going in the wrong direction."
+2,21,164,CITYSCAPE,EXT,OBI-WAN,"Well, you lost him."
+2,21,165,CITYSCAPE,EXT,ANAKIN,"Im deeply sorry, Master."
+2,21,166,CITYSCAPE,EXT,ANAKIN,Excuse me for a moment.
+2,22,167,ENTERTAINMENT STREET,EXT,OBI-WAN,Anakin!
+2,22,168,ENTERTAINMENT STREET,EXT,ANAKIN,"She went into that club, Master."
+2,22,169,ENTERTAINMENT STREET,EXT,OBI-WAN,Patience.
+2,22,170,ENTERTAINMENT STREET,EXT,OBI-WAN,Here. Next time try not to lose it.
+2,22,171,ENTERTAINMENT STREET,EXT,ANAKIN,"Sorry, Master."
+2,22,172,ENTERTAINMENT STREET,EXT,OBI-WAN,A Jedi's saber is his most precious possession.
+2,22,173,ENTERTAINMENT STREET,EXT,ANAKIN,"Yes, Master."
+2,22,174,ENTERTAINMENT STREET,EXT,OBI-WAN,He must keep it with him at all times.
+2,22,175,ENTERTAINMENT STREET,EXT,ANAKIN,"I know, Master."
+2,22,176,ENTERTAINMENT STREET,EXT,OBI-WAN,This weapon is your life!
+2,22,177,ENTERTAINMENT STREET,EXT,ANAKIN,I've heard this lesson before...
+2,22,178,ENTERTAINMENT STREET,EXT,OBI-WAN,"But, you haven't learned anything, Anakin."
+2,22,179,ENTERTAINMENT STREET,EXT,ANAKIN,"I try, Master."
+2,23,180,NIGHTCLUB,INT,OBI-WAN,Why do I think you are going to be the death of me?!
+2,23,181,NIGHTCLUB,INT,ANAKIN,Don't say that Master... You're the closest thing I have to a father... I love you. I don't want to cause you pain.
+2,23,182,NIGHTCLUB,INT,OBI-WAN,Then why don't you listen to me?!
+2,23,183,NIGHTCLUB,INT,ANAKIN,"I will. I'll do better, I promise."
+2,23,184,NIGHTCLUB,INT,OBI-WAN,Do you see him him?
+2,23,185,NIGHTCLUB,INT,ANAKIN,I think he's a she...
+2,23,186,NIGHTCLUB,INT,OBI-WAN,Then be extra careful... Check it out.
+2,23,187,NIGHTCLUB,INT,ANAKIN,"Where are you going, Master?"
+2,23,188,NIGHTCLUB,INT,OBI-WAN,To get a drink.
+2,23,189,NIGHTCLUB,INT,ELAN SLEAZEBAGGANO,Wanna buy some death sticks?
+2,23,190,NIGHTCLUB,INT,OBI-WAN,You don't want to sell me death- sticks.
+2,23,191,NIGHTCLUB,INT,ELAN,I don't want to sell you death- sticks.
+2,23,192,NIGHTCLUB,INT,OBI-WAN,You want to go home and rethink your life.
+2,23,193,NIGHTCLUB,INT,ELAN,I want to go home and rethink my life.
+2,23,194,NIGHTCLUB,INT,ANAKIN,Easy... Official business. Go back to your drinks.
+2,24,195,ALLEY OUTSIDE NIGHTCLUB,EXT,OBI-WAN,Do you know who it was you were trying to kill?
+2,24,196,ALLEY OUTSIDE NIGHTCLUB,EXT,ZAM WESSEL,The Senator from Naboo.
+2,24,197,ALLEY OUTSIDE NIGHTCLUB,EXT,OBI-WAN,Who hired you?
+2,24,198,ALLEY OUTSIDE NIGHTCLUB,EXT,ZAM WESSEL,It was just a job.
+2,24,199,ALLEY OUTSIDE NIGHTCLUB,EXT,ANAKIN,Tell us!
+2,24,200,ALLEY OUTSIDE NIGHTCLUB,EXT,ZAM WESSEL,"That Senator's gonna die soon anyway, and the next one won't make the same mistake I did..."
+2,24,201,ALLEY OUTSIDE NIGHTCLUB,EXT,OBI-WAN,This wound's going to need treatment.
+2,24,202,ALLEY OUTSIDE NIGHTCLUB,EXT,ANAKIN,Who hired you? Tell us... tell us now!
+2,24,203,ALLEY OUTSIDE NIGHTCLUB,EXT,ZAM,It was a Bounty Hunter called...
+2,24,204,ALLEY OUTSIDE NIGHTCLUB,EXT,OBI-WAN,Toxic Dart...
+2,25,205,SENATE BUILDING,INT,PADMÉ,Representative Binks. I know I can count on you.
+2,25,206,SENATE BUILDING,INT,JAR JAR,Yousa betchen mesa bottums.
+2,25,207,SENATE BUILDING,INT,PADMÉ,What?!
+2,25,208,SENATE BUILDING,INT,JAR JAR,"Oh, pardone-ay, Senator. I mean, I am honoured to accept this heavy burden. I take on this responsibility with deep humility tinged with an overwhelming pride. It is not every day that I am called upon to..."
+2,25,209,SENATE BUILDING,INT,PADMÉ,"You're a good friend, Jar Jar. I don't wish to hold you up. I'm sure you have a great deal to do."
+2,25,210,SENATE BUILDING,INT,JAR JAR,"Of course, M'lady."
+2,25,211,SENATE BUILDING,INT,PADMÉ,I do not like this idea of hiding.
+2,25,212,SENATE BUILDING,INT,ANAKIN,"Don't worry. Now that the Council has ordered an investigation, it won't take Master Obi-Wan long to find that bounty hunter."
+2,25,213,SENATE BUILDING,INT,PADMÉ,"I haven't worked for a year to defeat the ""Military Creation Act"" not to be here when its fate is decided."
+2,25,214,SENATE BUILDING,INT,ANAKIN,Sometimes we have to let go of our pride and do what is requested of us.
+2,25,215,SENATE BUILDING,INT,PADMÉ,"Pride?!? Annie, you're young, and you don't have a very firm grip on politics. I suggest you reserve your opinions for some other time."
+2,25,216,SENATE BUILDING,INT,ANAKIN,"Sorry, M'lady. I was only trying to..."
+2,25,217,SENATE BUILDING,INT,PADMÉ,Annie! No!
+2,25,218,SENATE BUILDING,INT,ANAKIN,Please don't call me that.
+2,25,219,SENATE BUILDING,INT,PADMÉ,What?
+2,25,220,SENATE BUILDING,INT,ANAKIN,Annie...
+2,25,221,SENATE BUILDING,INT,PADMÉ,"I've always called you that... it is your name, isn't it?"
+2,25,222,SENATE BUILDING,INT,ANAKIN,It's Anakin. When you say Annie it's like I'm still a little boy... and I'm not.
+2,25,223,SENATE BUILDING,INT,PADMÉ,"I'm sorry, Anakin. It's impossible to deny you've... ...that you've grown up."
+2,25,224,SENATE BUILDING,INT,ANAKIN,Master Obi-Wan manages not to see it...
+2,25,225,SENATE BUILDING,INT,PADMÉ,Mentors have a way of seeing more of our faults than we would like. It's the only way we grow.
+2,25,226,SENATE BUILDING,INT,ANAKIN,"Don't get me wrong... Obi-Wan is a great mentor. As wise as Master Yoda and as powerful as Master Windu. I am truly thankful to be his apprentice. Only... although I'm a Padawan learner, in some ways... a lot of ways... I'm ahead of him. I'm ready for the trials. I know I am! He knows it too. He believes I'm too unpredictable... Other Jedi my age have gone through the trials and made it... I know I started my training late... but he won't let me move on."
+2,25,227,SENATE BUILDING,INT,PADMÉ,That must be frustrating.
+2,25,228,SENATE BUILDING,INT,ANAKIN,It's worse... he's overly critical. He never listens! He just doesn't understand! It's not fair!
+2,25,229,SENATE BUILDING,INT,PADMÉ,"I'm sorry... You sounded exactly like that little boy I once knew, when he didn't get his way."
+2,25,230,SENATE BUILDING,INT,ANAKIN,I'm not whining! I'm not.
+2,25,231,SENATE BUILDING,INT,PADMÉ,I didn't say it to hurt you.
+2,25,232,SENATE BUILDING,INT,ANAKIN,I know...
+2,25,233,SENATE BUILDING,INT,PADME,Anakin...
+2,25,234,SENATE BUILDING,INT,PADMÉ,Don't try to grow up too fast.
+2,25,235,SENATE BUILDING,INT,ANAKIN,I am grown up. You said it yourself.
+2,25,236,SENATE BUILDING,INT,PADMÉ,Please don't look at me like that.
+2,25,237,SENATE BUILDING,INT,ANAKIN,Why not?
+2,25,238,SENATE BUILDING,INT,PADMÉ,Because I can see what you're thinking.
+2,25,239,SENATE BUILDING,INT,ANAKIN,"Ahh... so, you have Jedi powers too?"
+2,25,240,SENATE BUILDING,INT,PADMÉ,It makes me feel uncomfortable.
+2,25,241,SENATE BUILDING,INT,ANAKIN,"Sorry, M'lady."
+2,27,242,CORUSCANT,INT,CAPTAIN TYPHO,"Be safe, m'lady."
+2,27,243,CORUSCANT,INT,PADMÉ,"Thank you, Captain. Take good care of Dorme... the threat's on you two now."
+2,27,244,CORUSCANT,INT,DORME,He'll be safe with me.
+2,27,245,CORUSCANT,INT,PADMÉ,You'll be fine.
+2,27,246,CORUSCANT,INT,DORME,"It's not me, M'Lady. I worry about you. What if they realise I'm not you?"
+2,27,247,CORUSCANT,INT,PADMÉ,Then my Jedi protector will have to prove how grown up he is.
+2,27,248,CORUSCANT,INT,OBI-WAN,"Anakin, you stay put on Naboo. Do not attract any attention. Do absolutely nothing without checking in with me or the Council."
+2,27,249,CORUSCANT,INT,ANAKIN,"Yes, Master."
+2,27,250,CORUSCANT,INT,OBI-WAN,"I will get to the bottom of this plot quickly, M'Lady. You'll be back here in no time."
+2,27,251,CORUSCANT,INT,PADMÉ,"I will be most grateful for your speed, Master Jedi."
+2,27,252,CORUSCANT,INT,ANAKIN,Time to go.
+2,27,253,CORUSCANT,INT,PADMÉ,I know.
+2,27,254,CORUSCANT,INT,OBI-WAN,May the Force be with you.
+2,27,255,CORUSCANT,INT,ANAKIN,"May the Force be with you, Master."
+2,27,256,CORUSCANT,INT,PADMÉ,"Suddenly, I'm afraid..."
+2,27,257,CORUSCANT,INT,ANAKIN,I'm kinda scared too. This is my first assignment on my own.
+2,27,258,CORUSCANT,INT,PADMÉ,There's nothing to worry about... we have Artoo with us.
+2,27,259,CORUSCANT,INT,OBI-WAN,I hope he doesn't try anything foolish.
+2,27,260,CORUSCANT,INT,CAPTAIN TYPHO,"I'd be more concerned about her doing something, than him."
+2,30,261,JEDI TEMPLE,INT,PK-4,"Place the subject for analysis on the sensot tray, please."
+2,30,262,JEDI TEMPLE,INT,OBI-WAN,It's a toxic dart. I need to know where it came from and who made it.
+2,30,263,JEDI TEMPLE,INT,PK-4,"One moment, please."
+2,30,264,JEDI TEMPLE,INT,PK-4,"As you can see on your screen, subject weapon does not exist in any known culture. Markings cannot be identified. Probablt self-made by a warrior not associated with any known society."
+2,30,265,JEDI TEMPLE,INT,OBI-WAN,Excuse me? Could you try again please?
+2,30,266,JEDI TEMPLE,INT,PK-4,"Master Jedi, our records are very thorough. they cover eight percent of the galaxy. If I can't tell you where it came from, nobody can."
+2,30,267,JEDI TEMPLE,INT,OBI-WAN,"Thanks for your assistance! You may not be able to figure this out, but I think I know someone who might."
+2,32,268,STARFREIGHTER,INT,SERVER,Keep moving! Keep moving!
+2,32,269,STARFREIGHTER,INT,FOOD SERVER,Hey! No Droids!
+2,32,270,STARFREIGHTER,INT,ANAKIN,"No, no, Mom, no..."
+2,32,271,STARFREIGHTER,INT,ANAKIN,What?
+2,32,272,STARFREIGHTER,INT,PADMÉ,You seemed to be having a nightmare.
+2,32,273,STARFREIGHTER,INT,PADMÉ,Are you hungry?
+2,32,274,STARFREIGHTER,INT,ANAKIN,Thank you.
+2,32,275,STARFREIGHTER,INT,PADMÉ,We went into lightspeed a while ago.
+2,32,276,STARFREIGHTER,INT,ANAKIN,I look forward to seeing Naboo again. I've thought about it every day since I left. It's by far the most beautiful place I've ever seen...
+2,32,277,STARFREIGHTER,INT,PADMÉ,You were just a little boy then. It may not be as you remember it; time changes your perception.
+2,32,278,STARFREIGHTER,INT,ANAKIN,I think time has given me much more mature feelings to enhance my perception.
+2,32,279,STARFREIGHTER,INT,PADMÉ,It must be difficult having sworn your life to the Jedi... not being able to visit the places you like... or do the things you like...
+2,32,280,STARFREIGHTER,INT,ANAKIN,Or be with the people I love.
+2,32,281,STARFREIGHTER,INT,PADMÉ,Are you allowed to love? I thought that was forbidden for a Jedi.
+2,32,282,STARFREIGHTER,INT,ANAKIN,"Attachment is forbidden. Possession is forbidden. Compassion, which I would define as unconditional love, is central to a Jedi's life, so you might say we're encouraged to love."
+2,32,283,STARFREIGHTER,INT,PADMÉ,You have changed so much
+2,32,284,STARFREIGHTER,INT,ANAKIN,You haven't changed a bit. You're exactly the way I remember you in my dreams. I doubt if Naboo has changed much either.
+2,32,285,STARFREIGHTER,INT,PADMÉ,It hasn't...
+2,32,286,STARFREIGHTER,INT,ANAKIN,"I can't wait to breathe the sweet breeze that comes off the rolling hills. Whenever I try to visualise the Force, those hills are what I see."
+2,32,287,STARFREIGHTER,INT,ANAKIN,I love Naboo.
+2,32,288,STARFREIGHTER,INT,PADMÉ,"Were you dreaming about you mother earlier, weren't you?"
+2,32,289,STARFREIGHTER,INT,ANAKIN,"Yes... I left Tatooine so long ago, my memory of her is fading. I don't want to lose it. Recently I've been seeing her in my dreams... vivid dreams... scary dreams. I worry about her."
+2,34,290,CORUSCANT,INT,HERMIONE,Can I help ya?
+2,34,291,CORUSCANT,INT,OBI-WAN,I'm looking for Dexter.
+2,34,292,CORUSCANT,INT,HERMIONE BAGWA,Waddya want him for?
+2,34,293,CORUSCANT,INT,OBI-WAN,He's not in trouble. It's personal.
+2,34,294,CORUSCANT,INT,HERMIONE BAGWA,"Someone to see ya, honey A Jedi, by the looks of him."
+2,34,295,CORUSCANT,INT,DEXTER JETTSTER,Obi-Wan!
+2,34,296,CORUSCANT,INT,OBI-WAN,"Hey, Dex."
+2,34,297,CORUSCANT,INT,DEXTER JETTSTER,Take a seat! Be right with ya!
+2,34,298,CORUSCANT,INT,HERMIONE BAGWA,You want a cup of ardees?
+2,34,299,CORUSCANT,INT,OBI-WAN,Thank you.
+2,34,300,CORUSCANT,INT,DEXTER JETTSTER,"Hey, ol' buddy!"
+2,34,301,CORUSCANT,INT,OBI-WAN,"Hey, Dex."
+2,34,302,CORUSCANT,INT,DEXTER JETTSTER,"So, my friend. What can I do for ya?"
+2,34,303,CORUSCANT,INT,OBI-WAN,You can tell me what this is.
+2,34,304,CORUSCANT,INT,DEXTER JETTSTER,"Well, whattaya know..."
+2,34,305,CORUSCANT,INT,DEXTER JETTSTER,I ain't seen one of these since I was prospecting on Subterrel beyond the Outer Rim!
+2,34,306,CORUSCANT,INT,OBI-WAN,Do you know where it came from?
+2,34,307,CORUSCANT,INT,DEXTER JETTSTER,This baby belongs to them cloners. What you got here is a Kamino Kyberdart.
+2,34,308,CORUSCANT,INT,OBI-WAN,Kamino Kyberdart... I wonder why it didn't show up in any analysis archive.
+2,34,309,CORUSCANT,INT,DEXTER JETTSTER,"It's these funny little cuts on the side give it away... Those analysis droids you've got over there only focus on symbols, you know. I should think you Jedi would have more respect for the difference between knowledge and wisdom."
+2,34,310,CORUSCANT,INT,OBI-WAN,"Well, Dex, if droids could think, we wouldn't be here, would we? Kamino... doesn't sound familiar. Is it part of the Republic?"
+2,34,311,CORUSCANT,INT,DEXTER JETTSTER,"No, it's beyond the Outer Rim. I'd say about twelve parsecs outside the Rishi Maze, toward the south. It should be easy to find, even for those droids in your archive to find. Those Kaminoans keep to themselves. They're cloners. Damned good ones, too."
+2,34,312,CORUSCANT,INT,OBI-WAN,Cloners? Are they friendly?
+2,34,313,CORUSCANT,INT,DEXTER JETTSTER,It depends.
+2,34,314,CORUSCANT,INT,OBI-WAN,"On what, Dex?"
+2,34,315,CORUSCANT,INT,DEXTER JETTSTER,On how good your manners are... and how big your pocketbook is...
+2,36,316,NABOO PALACE,EXT,ANAKIN,"If I grew up here, I don't think I'd ever leave."
+2,36,317,NABOO PALACE,EXT,PADMÉ,I doubt that.
+2,36,318,NABOO PALACE,EXT,ANAKIN,"No, really. When I started my training, I was very homesick and very lonely. This city and my Mom were the only pleasant things I had to think about... The problem was, the more I thought about my Mom, the worse I felt. But I would feel better if I thought about the palace - the way it shimmers in the sunlight - the way the air always smells of flowers..."
+2,36,319,NABOO PALACE,EXT,PADMÉ,"...and the soft sound of the distant waterfalls. The first time I saw the Capital, I was very young... I'd never seen a waterfall before. I though they were so beautiful... I never dreamed one day I'd live in the palace."
+2,36,320,NABOO PALACE,EXT,ANAKIN,"Well, tell me, did you dream of power and politics when you were a little girl?"
+2,36,321,NABOO PALACE,EXT,PADMÉ,"No! That was the last thing I thought of. My dream was to help in the ""Refugee Relief Movement."" I never thought of running for elected office. But the more history I studied, the more I realised how much good politicians could do. So when I was eight, I joined the ""Apprentice Legislators"", then later on became a Senatorial advisor, with such a passion that, before I knew it, I was elected Queen. Partly because I scored so high on my education certificate, but for the most part it was my conviction that reform was possible. I wasn't the youngest Queen ever elected, but now that I think back on it, I'm not sure I was old enough. I'm not sure I was ready."
+2,36,322,NABOO PALACE,EXT,ANAKIN,The people you served thought you did a good job. I heard they tried to amend the Constitution so you could stay in office.
+2,36,323,NABOO PALACE,EXT,PADMÉ,"Popular rule is not democracy, Annie. It gives the people what they want, not what they need. And, truthfully, I was relieved when my two terms were up. So were my parents. They worried About me during the blockade and couldn't wait for it all to be over. Actually, I was hoping to have a family by now... My sisters have the most amazing, wonderful kids... but when the Queen asked me to serve as Senator, I couldn't refuse her."
+2,36,324,NABOO PALACE,EXT,ANAKIN,I agree! I think the Republic needs you... I'm glad you chose to serve. I feel things are going to happen in our generation that will change the galaxy in profound ways.
+2,36,325,NABOO PALACE,EXT,PADMÉ,I think so too.
+2,37,326,NABOO PALACE,INT,QUEEN JAMILLIA,"We've been worried about you. I'm so glad you're safe, Padmé."
+2,37,327,NABOO PALACE,INT,PADMÉ,"Thank you, Your Highness. I only Wish I could have served you better by staying on Coruscant for the vote."
+2,37,328,NABOO PALACE,INT,SIO BIBBLE,"Given the circumstances, Senator, you know it was the only decision Her Highness could have made."
+2,37,329,NABOO PALACE,INT,QUEEN JAMILLIA,How many systems have joined Count Dooku and the separatists?
+2,37,330,NABOO PALACE,INT,PADMÉ,"About two hundred. And more are leaving the Republic every day. If the Senate votes to create an army, I'm sure it's going to push us into a civil war."
+2,37,331,NABOO PALACE,INT,SIO BIBBLE,It's unthinkable! There hasn't been a full-scale war since the formation of the Republic!
+2,37,332,NABOO PALACE,INT,QUEEN JAMILLIA,"Do you see any way, through negotiations, to bring the separatists back into the Republic?"
+2,37,333,NABOO PALACE,INT,PADMÉ,"Not if they feel threatened. The separatists don't have an army, but if they are provoked, they will move to defend themselves. I'm sure of that. And with no time or money to build an army, my guess is they will turn to the Commerce Guilds or the Trade Federation for help."
+2,37,334,NABOO PALACE,INT,QUEEN JAMILLIA,The armies of commerce! Why has Nothing been done in the Senate to restrain them?
+2,37,335,NABOO PALACE,INT,PADMÉ,"I'm afraid that, despite the Chancellor's best efforts, there are still many bureaucrats, judges, and even Senators on the payrolls of the Guilds."
+2,37,336,NABOO PALACE,INT,SIO BIBBLE,"It's outrageous! After all of those hearings, and the four trials in the Supreme Court, Nute Gunray is still the Viceroy of the Trade Federation. Do those money mongers control everything?"
+2,37,337,NABOO PALACE,INT,QUEEN JAMILLIA,"Remember, Counsellor, the courts were able to reduce the Federation's armies. That's a move in the right direction."
+2,37,338,NABOO PALACE,INT,PADMÉ,"There are rumours, Your Highness, that the Federation Army was not reduced as they were ordered."
+2,37,339,NABOO PALACE,INT,ANAKIN,"The Jedi have not been allowed to investigate. It would be to be too dangerous for the economy, we were told."
+2,37,340,NABOO PALACE,INT,QUEEN JAMILLIA,We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it.
+2,37,341,NABOO PALACE,INT,PADMÉ,Let's pray that day never comes.
+2,37,342,NABOO PALACE,INT,QUEEN JAMILLIA,"In the meantime, we must consider your own safety."
+2,37,343,NABOO PALACE,INT,SIO BIBBLE,"What is your suggestion, Master Jedi?"
+2,37,344,NABOO PALACE,INT,PADMÉ,"Anakin's not a Jedi yet, Counsellor. He's still a Padawan learner. I was thinking..."
+2,37,345,NABOO PALACE,INT,ANAKIN,"Hey, hold on a minute!"
+2,37,346,NABOO PALACE,INT,PADMÉ,Excuse me! I was thinking I would stay in the Lake Country. There are some places up there that are very isolated.
+2,37,347,NABOO PALACE,INT,ANAKIN,"Excuse me?! I am in charge of security here, M'Lady."
+2,37,348,NABOO PALACE,INT,PADMÉ,"Annie, my life is at risk, and this is my home. I know it very well... that is why we're here. I think it would be wise for you to take advantage of my knowledge in this instance."
+2,37,349,NABOO PALACE,INT,ANAKIN,"Sorry, M'Lady."
+2,37,350,NABOO PALACE,INT,SIO BIBBLE,She is right. The Lake Country is the most remote part of Naboo. Not many people and a clear view of the surrounding terrain.
+2,37,351,NABOO PALACE,INT,QUEEN JAMILLIA,Perfect. It's settled then.
+2,37,352,NABOO PALACE,INT,QUEEN JAMILLIA,"Padmé, I had an audience with your father yesterday. I told him what was happening. He hopes you will visit your mother before you leave... your family's very worried about you."
+2,39,353,JEDI TEMPLE,INT,JOCASTA NU,Did you call for assistance?
+2,39,354,JEDI TEMPLE,INT,OBI-WAN,"Yes... yes, I did..."
+2,39,355,JEDI TEMPLE,INT,JOCASTA NU,"He has a powerful face, doesn't he? He was one of the most brilliant Jedi I have had the privilege of knowing."
+2,39,356,JEDI TEMPLE,INT,OBI-WAN,I never understood why he quit. Only twenty Jedi have ever left the Order.
+2,39,357,JEDI TEMPLE,INT,JOCASTA NU,The Lost Twenty... and Count Dooku was the most recent and the most painful. No one likes to talk about it. His leaving was a great loss to the Order.
+2,39,358,JEDI TEMPLE,INT,OBI-WAN,What happened?
+2,39,359,JEDI TEMPLE,INT,JOCASTA NU,"Well, one might say, he was always a bit out of step with the decisions of the Council... much like your old Master, Qui-Gon Jinn."
+2,39,360,JEDI TEMPLE,INT,OBI-WAN,Really?
+2,39,361,JEDI TEMPLE,INT,JOCASTA NU,"Oh, yes. They were alike in many ways. Very individual thinkers... idealists..."
+2,39,362,JEDI TEMPLE,INT,JOCASTA NU,"He was always striving to become a more powerful Jedi. He wanted to be the best. With a lightsaber, in the old style of fencing, he had no match. His knowledge of the Force was... unique. In the end, I think he left because he lost faith in the Republic. He believed that politics were corrupt, and he felt the Jedi betrayed themselves by serving the politicians. He always had very high expectations of government. He disappeared for nine or ten years, then he just showed up recently as the head of the separatist movement."
+2,39,363,JEDI TEMPLE,INT,OBI-WAN,Interesting... I'm still not sure I understand.
+2,39,364,JEDI TEMPLE,INT,JOCASTA NU,"Well, I'm sure you didn't call me over here for a history lesson. Are you having a problem, Master Kenobi?"
+2,39,365,JEDI TEMPLE,INT,OBI-WAN,"Yes, I'm trying to find a planet system called Kamino. It doesn't seem to show upon any of the archive charts."
+2,39,366,JEDI TEMPLE,INT,JOCASTA NU,Kamino? It's not a system I'M familiar with... Let me see...
+2,39,367,JEDI TEMPLE,INT,JOCASTA NU,Are you sure you have the right co-ordinates?
+2,39,368,JEDI TEMPLE,INT,OBI-WAN,"According to my information, it should be in this quadrant somewhere... just south of the Rishi Maze."
+2,39,369,JEDI TEMPLE,INT,JOCASTA NU,No co-ordinates? It sounds like the kind of directions you'd get from a street tout... some old miner or Furbog trader.
+2,39,370,JEDI TEMPLE,INT,OBI-WAN,All three actually.
+2,39,371,JEDI TEMPLE,INT,JOCASTA NU,Are you sure it exists?
+2,39,372,JEDI TEMPLE,INT,OBI-WAN,Absolutely.
+2,39,373,JEDI TEMPLE,INT,JOCASTA NU,Let me do a gravitational scan.
+2,39,374,JEDI TEMPLE,INT,JOCASTA NU,There are some inconsistencies here. Maybe the planet you're looking for was destroyed.
+2,39,375,JEDI TEMPLE,INT,OBI-WAN,Wouldn't that be on record?
+2,39,376,JEDI TEMPLE,INT,JOCASTA NU,"It ought to be. Unless it was very recent. I hate to say it, but it looks like the system you're searching for doesn't exist."
+2,39,377,JEDI TEMPLE,INT,OBI-WAN,That's impossible... perhaps the archives are incomplete.
+2,39,378,JEDI TEMPLE,INT,JOCASTA NU,"The archives are comprehensive and totally secure, my young Jedi. One thing you may be absolutely sure of - if an item does not appear in our records, it does not exist!"
+2,40,379,THEED,EXT,PADME,There's my house!
+2,40,380,THEED,EXT,PADME,What? Don't say you're shy!
+2,40,381,THEED,EXT,ANAKIN,"No, but I..."
+2,40,382,THEED,EXT,RYOO & POOJA,Aunt Padme!! Aunt Padme!!
+2,40,383,THEED,EXT,PADME,Ryoo!! Pooja!!
+2,40,384,THEED,EXT,PADME,"I'm so happy to see you! This is Anakin. Anakin, this is Ryoo, and this is Pooja."
+2,40,385,THEED,EXT,RYOO & POOJA,Artoo!!!
+2,41,386,PADME'S PARENTS' HOUSE,INT,SOLA,"They're eating over at Jev Narran's later, Mom. They just had a snack. They'll be fine."
+2,41,387,PADME'S PARENTS' HOUSE,INT,PADME,"Anakin, this is my sister, Sola."
+2,41,388,PADME'S PARENTS' HOUSE,INT,SOLA,"Hello, Anakin."
+2,41,389,PADME'S PARENTS' HOUSE,INT,ANAKIN,Hello.
+2,41,390,PADME'S PARENTS' HOUSE,INT,JOBAL,"You're just in time for dinner. I hope you're hungry, Anakin."
+2,41,391,PADME'S PARENTS' HOUSE,INT,ANAKIN,A little.
+2,41,392,PADME'S PARENTS' HOUSE,INT,PADME,"He's being polite, Mom. We're starving."
+2,41,393,PADME'S PARENTS' HOUSE,INT,RUWEE,"You came to the right place at the right time. Sit down, son."
+2,41,394,PADME'S PARENTS' HOUSE,INT,JOBAL,"Honey, it's so good to see you safe. We were so worried."
+2,41,395,PADME'S PARENTS' HOUSE,INT,RUWEE,Dear...
+2,41,396,PADME'S PARENTS' HOUSE,INT,JOBAL,"I know, I know... but I had to say it. Now it's done."
+2,41,397,PADME'S PARENTS' HOUSE,INT,SOLA,"Well, this is exciting! Do you know, Anakin, you're the first boyfriend my sister's ever brought home?"
+2,41,398,PADME'S PARENTS' HOUSE,INT,PADME,Sola!! He isn't my boyfriend! He's a Jedi assigned by the Senate to protect me.
+2,41,399,PADME'S PARENTS' HOUSE,INT,JOVAL,"A bodyguard?! Oh, Padme! They didn't tell us it was that serious!"
+2,41,400,PADME'S PARENTS' HOUSE,INT,PADME,"It's not, Mom, I promise. Anyway, Anakin's a friend. I've known him for years. Remember that little boy who was with the Jedi during the blockade crisis?"
+2,41,401,PADME'S PARENTS' HOUSE,INT,PADME,He grew up.
+2,41,402,PADME'S PARENTS' HOUSE,INT,JOBAL,"Honey, when are you going to settle down? Haven't you had enough of that life? I certainly have!"
+2,41,403,PADME'S PARENTS' HOUSE,INT,PADME,"Mom, I'm not in any danger."
+2,41,404,PADME'S PARENTS' HOUSE,INT,RUWEE,Is she?
+2,41,405,PADME'S PARENTS' HOUSE,INT,ANAKIN,...Yes... I'm afraid she is.
+2,41,406,PADME'S PARENTS' HOUSE,INT,PADME,But not much.
+2,42,407,PADME'S PARENTS' GARDEN,EXT,RUWEE,"Sometimes I wish I'd traveled more... but I must say, I'm happy here."
+2,42,408,PADME'S PARENTS' GARDEN,EXT,ANAKIN,Padme tells me you teach at the university?
+2,42,409,PADME'S PARENTS' GARDEN,EXT,RUWEE,"Yes, and before that, I was a builder. I also worked for the Refugee Relief Movement, when I was very young."
+2,43,410,PADME'S PARENTS' HOUSE,INT,SOLA,Why haven't you told us about him?
+2,43,411,PADME'S PARENTS' HOUSE,INT,PADMÉ,What's there to talk about?  He's just a boy.
+2,43,412,PADME'S PARENTS' HOUSE,INT,SOLA,A boy? Have you seen the way he looks at you?
+2,43,413,PADME'S PARENTS' HOUSE,INT,PADMÉ,Sola - stop it!
+2,43,414,PADME'S PARENTS' HOUSE,INT,SOLA,"It's obvious he has feelings for you. Are you saying, little baby sister, that you haven't noticed?"
+2,43,415,PADME'S PARENTS' HOUSE,INT,PADMÉ,"I'm not your baby sister, Sola. Anakin and I are friends... our relationship is strictly professional. Mom, would you tell her to stop it?"
+2,43,416,PADME'S PARENTS' HOUSE,INT,SOLA,"Well, maybe you haven't noticed the way he looks at you. I think you're afraid to."
+2,43,417,PADME'S PARENTS' HOUSE,INT,PADMÉ,Cut it out.
+2,43,418,PADME'S PARENTS' HOUSE,INT,JOBAL,Sola's just concerned... we all are.
+2,43,419,PADME'S PARENTS' HOUSE,INT,PADMÉ,"Oh, Mom, you're impossible. What I'm doing is important."
+2,43,420,PADME'S PARENTS' HOUSE,INT,JOBAL,"You've done your service, Padmé. It's time you had a life of your own. You're missing so much!"
+2,44,421,PADME'S PARENTS' GARDEN,EXT,RUWEE,"Now tell me, son. How serious is this thing? How much danger is my daughter really in?"
+2,44,422,PADME'S PARENTS' GARDEN,EXT,ANAKIN,"There have been two attempts on her life. Chances are there'll be more. My Master is tracking down the assassins. I'm sure he'll find out who they are. This situation, won't last long."
+2,44,423,PADME'S PARENTS' GARDEN,EXT,RUWEE,I don't want anything to happen to her.
+2,44,424,PADME'S PARENTS' GARDEN,EXT,ANAKIN,I don't either.
+2,45,425,PADME'S PARENTS' HOUSE,INT,PADME,"Don't worry, this won't take long."
+2,45,426,PADME'S PARENTS' HOUSE,INT,ANAKIN,I just want to get there before dark.
+2,45,427,PADME'S PARENTS' HOUSE,INT,ANAKIN,You still live at home.
+2,45,428,PADME'S PARENTS' HOUSE,INT,PADME,"I move around so much, I've never had a place of my own. Official residences have no warmth. I feel good here. I feel at home."
+2,45,429,PADME'S PARENTS' HOUSE,INT,ANAKIN,I never had a real home. Home was always where my Mom was.
+2,45,430,PADME'S PARENTS' HOUSE,INT,ANAKIN,Is this you?
+2,45,431,PADME'S PARENTS' HOUSE,INT,PADME,"That was when I went with the Relief Group to Shadda-Bi-Boran. Their sun was imploding, and the planet was dying. I was helping to relocate the children. See that little one I'm holding? His name was N'a-kee-tula, which means sweethear. He was so full of life,. All those kids were. I did everything I could to save him, but he died... they all did. They were never able to adapt... to live off their native planet."
+2,45,432,PADME'S PARENTS' HOUSE,INT,PADME,My first day as an Apprentice Legislator. Notice the difference?
+2,47,433,JEDI TEMPLE,INT,YODA,"Don't think... feel... be as one with the Force. Help you, it will. Younglings - enough! A visitor we have. Welcome him."
+2,47,434,JEDI TEMPLE,INT,YODA,"Master Obi-Wan Kenobi, meet the mighty Bear Clan."
+2,47,435,JEDI TEMPLE,INT,CHILDREN,"Welcome, Master Obi-Wan!"
+2,47,436,JEDI TEMPLE,INT,OBI-WAN,"I am sorry to disturb you, Master."
+2,47,437,JEDI TEMPLE,INT,YODA,"What help to you, can I be?"
+2,47,438,JEDI TEMPLE,INT,OBI-WAN,Im looking for a planet described to me by an old friend. I trust him. But the system doesnt show up on the archive maps.
+2,47,439,JEDI TEMPLE,INT,YODA,"An interesting puzzle. Gather round the map reader, younglings. Master Obi-Wan has lost a planet. Find it, we will try..."
+2,47,440,JEDI TEMPLE,INT,OBI-WAN,This is where it ought to be... but it isnt. Gravity is pulling all the stars in this area inward to this spot. There should be a star here... but there isnt.
+2,47,441,JEDI TEMPLE,INT,YODA,"Most interesting. Gravitys silhouette remains, but the star and all its planets have disappeared. How can this be?"
+2,47,442,JEDI TEMPLE,INT,JEDI CHILD JACK,Because someone erased it from the archive memory.
+2,47,443,JEDI TEMPLE,INT,CHILDREN,Thats right! Yes! Thats what happened! Someone erased it!
+2,47,444,JEDI TEMPLE,INT,JEDI CHILD MAY,"If the planet blew up, the gravity would go away."
+2,47,445,JEDI TEMPLE,INT,YODA,"Truly wonderful, the mind of a child is. Uncluttered. To the centre of the pull of gravity go, and find your planet you will."
+2,47,446,JEDI TEMPLE,INT,OBI-WAN,"But Master Yoda who could have erased information from the archives? Thats impossible, isnt it?"
+2,47,447,JEDI TEMPLE,INT,YODA,"Much harder to answer, that question is."
+2,49,448,NABOO LAKE RETREAT,EXT,PADMÉ,"When I was in Level Three, we used to come here for school retreat. See that island? We used to swim there every day. I love the water."
+2,49,449,NABOO LAKE RETREAT,EXT,ANAKIN,I do too. I guess it comes from growing up on a desert planet.
+2,49,450,NABOO LAKE RETREAT,EXT,PADMÉ,...We used to lie on the sand and let the sun dry us... and try to guess the names of the birds singing.
+2,49,451,NABOO LAKE RETREAT,EXT,ANAKIN,"I dont like sand. Its coarse and rough and irritating, and it gets everywhere. Not like here. Here everythings soft... and smooth..."
+2,49,452,NABOO LAKE RETREAT,EXT,PADMÉ,There was a very old man who lived on the island. He used to make glass out of sand - and vases and necklaces out of the glass. They were magical.
+2,49,453,NABOO LAKE RETREAT,EXT,ANAKIN,Everything here is magical.
+2,49,454,NABOO LAKE RETREAT,EXT,PADMÉ,You could look into the glass and see the water. The way it ripples and moves. It looked so real... but it wasnt.
+2,49,455,NABOO LAKE RETREAT,EXT,ANAKIN,"Sometimes, when you believe something to be real, it becomes real. Real enough, anyway..."
+2,49,456,NABOO LAKE RETREAT,EXT,PADMÉ,"I used to think if you looked too deeply into glass, you would lose yourself."
+2,49,457,NABOO LAKE RETREAT,EXT,ANAKIN,I think it's true...
+2,49,458,NABOO LAKE RETREAT,EXT,PADMÉ,I shouldn't have done that.
+2,49,459,NABOO LAKE RETREAT,EXT,ANAKIN,"I'm sorry. When I'm around you, my mind is no longer my own."
+2,49,460,NABOO LAKE RETREAT,EXT,PADMÉ,It's the situation... the stress...
+2,49,461,NABOO LAKE RETREAT,EXT,ANAKIN,...the view.
+2,50,462,CORUSCANT,EXT,MACE WINDU,"Be wary, this disturbance in the Force is growing stronger."
+2,50,463,CORUSCANT,EXT,OBI-WAN,I am concerned for my Padawan. He is not ready to be on his own.
+2,50,464,CORUSCANT,EXT,YODA,"The Council is confident in this decision, Obi-Wan."
+2,50,465,CORUSCANT,EXT,MACE,"He has exceptional skills. The Council is confident in its decision, Obi-Wan. If the prophecy is true, he weill be the one to bring balance to the Force."
+2,50,466,CORUSCANT,EXT,OBI-WAN,But he still has much to learn. And his abilities have made him... well... arrogant. I realise now what you and Master Yoda knew from the beginning... the boy was too old to start the training and...
+2,50,467,CORUSCANT,EXT,MACE WINDU,There's something else?
+2,50,468,CORUSCANT,EXT,OBI-WAN,"Master, he should not have been given this assignment. I'm afraid Anakin won't be able to protect the Senator."
+2,50,469,CORUSCANT,EXT,MACE WINDU,Why?
+2,50,470,CORUSCANT,EXT,OBI-WAN,He has a... an emotional connection with her. It's been there since he was boy. Now he's confused... distracted.
+2,50,471,CORUSCANT,EXT,MACE-WINDU,"Obi-Wan, you must have faith that he will take the right path."
+2,50,472,CORUSCANT,EXT,OBI-WAN,Has Master Yoda gained any insight into whether or not this war will come about?
+2,50,473,CORUSCANT,EXT,MACE WINDU,Probing the Dark Side is a dangerous process. He could be in seclusion for days... May the force be with you.
+2,53,474,NABOO LAKE RETREAT,INT,PADME,You did that?
+2,53,475,NABOO LAKE RETREAT,INT,ANAKIN,What?
+2,53,476,NABOO LAKE RETREAT,INT,PADME,That! Now stop it!
+2,53,477,NABOO LAKE RETREAT,INT,PADME,Anakin!!
+2,53,478,NABOO LAKE RETREAT,INT,ANAKIN,"I'm not really supposed to do that... for fun, I mean. If Master Obi-Wan were here, he'd be very grumpy."
+2,54,479,NABOO LAKE RETREAT,INT,ANAKIN,May I tell you something?
+2,54,480,NABOO LAKE RETREAT,INT,PADME,I don't know.
+2,54,481,NABOO LAKE RETREAT,INT,ANAKIN,Then how can I tell you?
+2,54,482,NABOO LAKE RETREAT,INT,PADME,Maybe you should use your Jedi intuition.
+2,54,483,NABOO LAKE RETREAT,INT,ANAKIN,It doesn't work around you. My mind is always a muddle... I can only think of you.
+2,54,484,NABOO LAKE RETREAT,INT,PADME,"Anakin, don't..."
+2,54,485,NABOO LAKE RETREAT,INT,ANAKIN,"From the moment I met you, all those years ago, a day hasn't gone by when I haven't thought of you. And now that I'm close to you again, I'm in agony. The closer I get to you, the worse it gets. The thought of not being with you mskes my stomach turn over - my mouth goes dry. I feel dizzy. I can't breathe. I'm haunted by the kiss you should never have given me. My heart is beating, hoping that kiss will not become a scar. You are in my very soul, tormenting me. What can I do? I will do anything you ask..."
+2,54,486,NABOO LAKE RETREAT,INT,ANAKIN,"If you are suffering as much as I am, tell me."
+2,54,487,NABOO LAKE RETREAT,INT,PADME,...I can't. We can't. It's just not possible.
+2,54,488,NABOO LAKE RETREAT,INT,ANAKIN,"Anything's possible. Padme, please listen..."
+2,54,489,NABOO LAKE RETREAT,INT,PADME,"You listen. We live in a real world. Come back to it. You're studying to become a Jedi Knight. I'm a Senator. If you follow your thoughts through to conclusion, they will take us to a place we cannot go... regardless of the way we feel about each other."
+2,54,490,NABOO LAKE RETREAT,INT,ANAKIN,Then you do feel something! There's an extraordinary connection between us. You can't deny that.
+2,54,491,NABOO LAKE RETREAT,INT,PADME,"Annie, it doesn't make any difference. Jedi aren't allowed to marry. You swore an oath, remember? You'd be expelled from the Order. I will not let you give up your responsibilities... your future, for me."
+2,54,492,NABOO LAKE RETREAT,INT,ANAKIN,I was destined to be a Jedi. I don't think I could be anything else. But you are asking me to be rational. That is something I know I cannot do. I wish I could wish my feelings away... but I can't.
+2,54,493,NABOO LAKE RETREAT,INT,PADME,I am not going to give into this. I'm not going to throw my life away. I have more important things to do than fall in love.
+2,54,494,NABOO LAKE RETREAT,INT,ANAKIN,It wouldn't have to be that way... we could keep it a secret.
+2,54,495,NABOO LAKE RETREAT,INT,PADME,"Then we'd be living a lie - one we couldn't keep even if we wanted to. Mt sister saw it. So did my mother. I couldn't do that. Could you, Anakin? Could you live like that?"
+2,54,496,NABOO LAKE RETREAT,INT,ANAKIN,"...No, you're right. It would destroy us."
+2,57,497,TIPOCA CITY,INT,TAUN WE,"Welcome to Tipoca City, Master Jedi."
+2,57,498,TIPOCA CITY,INT,TAUN WE,Everything is ready. The Prime Minister expects you.
+2,57,499,TIPOCA CITY,INT,OBI-WAN,I'm expected?
+2,57,500,TIPOCA CITY,INT,TAUN WE,"Of course! He is anxious to see you. After all these years, we were beginning to think you weren't coming. Now please, this way!"
+2,58,501,TIPOCA CITY,INT,TAUN WE,"May I present Lama Su, Prime Minister of Kamino... and this is Master Jedi..."
+2,58,502,TIPOCA CITY,INT,OBI-WAN,Obi-Wan Kenobi.
+2,58,503,TIPOCA CITY,INT,LAMA SU,Please...
+2,58,504,TIPOCA CITY,INT,LAMA SU,I trust you are going to enjoy your stay. We are most happy you have arrived at the best part of the season.
+2,58,505,TIPOCA CITY,INT,OBI-WAN,You make me feel most welcome.
+2,58,506,TIPOCA CITY,INT,LAMA SU,"And now to business. You will be delighted to hear we are on schedule. Two hundred thousand units are ready, with another million well on the way."
+2,58,507,TIPOCA CITY,INT,OBI-WAN,That is... good news.
+2,58,508,TIPOCA CITY,INT,LAMA SU,"Please tell your Master Sido-Dyas that we have every confidence his order will be met on time and in full. He is well, I hope?"
+2,58,509,TIPOCA CITY,INT,OBI-WAN,I'm sorry Master - ?
+2,58,510,TIPOCA CITY,INT,LAMA SU,"Jedi Master Sifo-Dyas. He's still a leading member of the Jedi Council, is he not?"
+2,58,511,TIPOCA CITY,INT,OBI-WAN,"Oh, yes. Sido-Dyas."
+2,58,512,TIPOCA CITY,INT,LAMA SU,You must be anxious to inspect the units for yourself.
+2,58,513,TIPOCA CITY,INT,OBI-WAN,That's why I'm here.
+2,59,514,NABOO,EXT,PADMÉ,I don't know...
+2,59,515,NABOO,EXT,ANAKIN,Sure you do... you just don't want to tell me.
+2,59,516,NABOO,EXT,PADMÉ,Are you going to use one of your Jedi mind tricks on me?
+2,59,517,NABOO,EXT,ANAKIN,They only work on the weak-minded. You are anything but weak-minded.
+2,59,518,NABOO,EXT,PADMÉ,All right... his name was Palo. I was twelve. We were both in the Legislative Youth Program. He was a few years older then I... very cute... dark curly hair... dreamy eyes.
+2,59,519,NABOO,EXT,ANAKIN,"All right, I get the picture... whatever happened to him?"
+2,59,520,NABOO,EXT,PADMÉ,I went on to become a Queen. He went on to become an artist.
+2,59,521,NABOO,EXT,ANAKIN,Maybe he was the smart one.
+2,59,522,NABOO,EXT,PADME,"You really don't like politicians, do you?"
+2,59,523,NABOO,EXT,ANAKIN,"I like two or three, but I'm not really sure about one of them. I don't think the system works."
+2,59,524,NABOO,EXT,PADME,How would you have it work?
+2,59,525,NABOO,EXT,ANAKIN,"We need a system where the politicians sit down and discuss the problems, agree what's in the best interests of all the people, and then do it."
+2,59,526,NABOO,EXT,PADME,"That is exactly what we do. The trouble is that people don't wlways agree. In fact, they hardly ever do."
+2,59,527,NABOO,EXT,ANAKIN,Then they should be made to.
+2,59,528,NABOO,EXT,PADME,By whom? Who's going to make them?
+2,59,529,NABOO,EXT,ANAKIN,I don't know. Someone.
+2,59,530,NABOO,EXT,PADME,You?
+2,59,531,NABOO,EXT,ANAKIN,Of course not me.
+2,59,532,NABOO,EXT,PADME,But someone.
+2,59,533,NABOO,EXT,ANAKIN,Someone wise.
+2,59,534,NABOO,EXT,PADME,That sounds an awful lot like a dictatorship to me.
+2,59,535,NABOO,EXT,ANAKIN,"Well, if it works..."
+2,59,536,NABOO,EXT,PADMÉ,You're making fun of me.
+2,59,537,NABOO,EXT,ANAKIN,"On no, I'd be much too frightened to tease a Senator."
+2,59,538,NABOO,EXT,PADMÉ,You're so bad!
+2,59,539,NABOO,EXT,ANAKIN,You're always so serious. Always carrying the weight of the universe on your shoulders.
+2,60,540,TIPOCA CITY,EXT,LAMA SU,"Magnificent, aren't they?"
+2,61,541,TIPOCA CITY,INT,LAMA SU,"We modified their genetic structure to make them less independent than the original host. As a result they are totally obedient, taking any order without question."
+2,61,542,TIPOCA CITY,INT,OBI-WAM,Who was the original host?
+2,61,543,TIPOCA CITY,INT,LAMA SU,"A bounty hunter called Jango Fett. We felt a Jedi would be the perfect choice, but Sido-Dyas hand- picked Jango Fett himself."
+2,61,544,TIPOCA CITY,INT,OBI-WAN,Where is this bounty hunter now?
+2,61,545,TIPOCA CITY,INT,LAMA SU,"Oh, we keep him here. After a few hundred thousand clones, the genetic pattern starts to fade, so we take a fresh supply. He lives here, but he's free to come and go as he pleases."
+2,62,546,TIPOCA CITY,INT,LAMA SU,"Apart from his pay, which is considerable, Fett demanded only one thing - an unaltered clone for himself. Curious isn't it?"
+2,62,547,TIPOCA CITY,INT,OBI-WAN,Unaltered?
+2,62,548,TIPOCA CITY,INT,LAMA SU,Pure genetic replication. No tampering with the structure to make it more docile... and no growth acceleration...
+2,62,549,TIPOCA CITY,INT,OBI-WAN,I would like to meet this Jango Fett.
+2,62,550,TIPOCA CITY,INT,TAUN WE,"I would be most happy to arrange it, for you."
+2,63,551,TIPOCA CITY,INT,OBI-WAN,You mentioned growth acceleration...
+2,63,552,TIPOCA CITY,INT,LAMA SU,"Oh yes, it's essential. Otherwise, a mature clone would take a lifetime to grow. Now, we can do it in half the time. Those items you saw on the parade ground were started ten years ago, when Sido-dyas first placed the order, and they're already mature..."
+2,63,553,TIPOCA CITY,INT,OBI-WAN,And these?
+2,63,554,TIPOCA CITY,INT,LAMA SU,About five years ago.
+2,64,555,TIPOCA CITY,INT,LAMA SU,"They're immensely superior to droids, capable of independent thought and action."
+2,64,556,TIPOCA CITY,INT,OBI-WAN,Very impressive.
+2,64,557,TIPOCA CITY,INT,LAMA SU,I'd hoped you would be pleased.
+2,64,558,TIPOCA CITY,INT,OBI-WAN,"Tell me, prime minister, when my Master Sido-dyas first contacted you, did he say the order was for... himself... or?"
+2,64,559,TIPOCA CITY,INT,LAMA SU,Himself? Of course not. This army is for the Republic?
+2,64,560,TIPOCA CITY,INT,OBI-WAN,The Repubic?
+2,64,561,TIPOCA CITY,INT,LAMA SU,We are also very much agasint this Count Dooku and his seccessionist movement. We are proud to be of help to the Republic.
+2,65,562,TIPOCA CITY,INT,TAUN WE,I have arranged for you to meet Jango Fett in the morning. Sleep well.
+2,65,563,TIPOCA CITY,INT,OBI-WAN,"Arfour, Arfour..."
+2,67,564,TIPOCA CITY,INT,OBI-WAN,"Arfour, relay this, ""scramble code five,"" to Courscant: care of ""the old folks home."""
+2,69,565,JEDI TEMPLE,EXT,OBI-WAN (V.O.),"...I've never heard of a Jedi called Sido-Dyas, have you, Master?"
+2,69,566,JEDI TEMPLE,EXT,MACE WINDU,"No. Whoever placed that order was not a Jedi, I can assure you."
+2,69,567,JEDI TEMPLE,EXT,OBI-WAN (V.O.),I have a strong feeling that this bounty hunter is the assassin we're looking for.
+2,69,568,JEDI TEMPLE,EXT,YODA,"Who he is working for... discover that, you must."
+2,69,569,JEDI TEMPLE,EXT,OBI-WAN (V.O.),"I will, Master, and I will also find out more about this clone army... May The Force..."
+2,69,570,JEDI TEMPLE,EXT,WINDU,A clone army! Ordered by someone in the Senate perhaps... Someone's out to start a war.
+2,69,571,JEDI TEMPLE,EXT,YODA,"Inform the chancellor of this, we must."
+2,69,572,JEDI TEMPLE,EXT,WINDU,"Who do you think this impostor Sido-Dyas, could be?"
+2,71,573,NABOO LAKE RETREAT,INT,ANAKIN,"No...No...No...Mom!...Don't, no, don't!"
+2,72,574,NABOO LAKE RETREAT,EXT,ANAKIN,Don't go.
+2,72,575,NABOO LAKE RETREAT,EXT,PAMDE,I don't want to disturb you.
+2,72,576,NABOO LAKE RETREAT,EXT,ANAKIN,Your presence is soothing.
+2,72,577,NABOO LAKE RETREAT,EXT,PADME,You had a nightmare again last night.
+2,72,578,NABOO LAKE RETREAT,EXT,ANAKIN,Jedi don't have nightmares.
+2,72,579,NABOO LAKE RETREAT,EXT,PADME,I heard you.
+2,72,580,NABOO LAKE RETREAT,EXT,ANAKIN,"I saw my mother. I saw her as clearly as I see you now. She's suffering, Padme. She is in pain...They're killing her! I know I'm disobeying my mandate to protect you, Senator. I know I will be punished and possibly thrown out of the Jedi Order, but I must go. I have to help her! I'm sorry, Padme. I don't have a choice."
+2,72,581,NABOO LAKE RETREAT,EXT,PADME,"Annie, I told you I wouldn't let you give up your future for me. I'll go with you. That way you can continue to protect me, and you won't be disobeying your mandate."
+2,72,582,NABOO LAKE RETREAT,EXT,ANAKIN,What about Master Obi-wan?
+2,72,583,NABOO LAKE RETREAT,EXT,PADME,"I guess we won't tell him, will we?"
+2,75,584,TIPOCA CITY,INT,TAUN WE,"Boba, is your father here?"
+2,75,585,TIPOCA CITY,INT,TAUN WE,May we see him?
+2,75,586,TIPOCA CITY,INT,BOBA FETT,Sure.
+2,76,587,TIPOCA CITY,INT,BOBA FETT,Dad! Taun We's here!
+2,76,588,TIPOCA CITY,INT,TAUN WE,"Welcome back, Jango. Was your trip productive?"
+2,76,589,TIPOCA CITY,INT,JANGO FETT,Fairly.
+2,76,590,TIPOCA CITY,INT,TAUN WE,"This is Jedi Master, Obi-Wan Kenobi. He's come to check on our progress."
+2,76,591,TIPOCA CITY,INT,JANGO FETT,That right?
+2,76,592,TIPOCA CITY,INT,OBI-WAN,Your clones are very impressive. You must be very proud.
+2,76,593,TIPOCA CITY,INT,JANGO FETT,"I'm just a simple man, trying to make my way in the universe, Master Jedi."
+2,76,594,TIPOCA CITY,INT,OBI-WAN,Aren't we all?
+2,76,595,TIPOCA CITY,INT,OBI-WAN,Ever made your way as far into the interior as Coruscant?
+2,76,596,TIPOCA CITY,INT,JANGO,Once or twice.
+2,76,597,TIPOCA CITY,INT,OBI-WAN,Recently?
+2,76,598,TIPOCA CITY,INT,JANGO,Possibly...
+2,76,599,TIPOCA CITY,INT,OBI-WAN,Then you must know Master Sido- Dyas?
+2,76,600,TIPOCA CITY,INT,JANGO,"Boba, close the door."
+2,76,601,TIPOCA CITY,INT,JANGO,Master who?
+2,76,602,TIPOCA CITY,INT,OBI-WAN,Sido-Dyas. Isnt he the Jedi who hired you for this job?
+2,76,603,TIPOCA CITY,INT,JANGO,Never heard of him. I was recuited by a man called Darth Tyranus on one of the moons of Bogden.
+2,76,604,TIPOCA CITY,INT,OBI-WAN,No? I thought...
+2,76,605,TIPOCA CITY,INT,TAUN WE,"Sido-Dyas told us to expect him. And he showed up just when your Jedi Master said he would. We have kept the Jedis involvement a secret until your arrival, just as your Master requested."
+2,76,606,TIPOCA CITY,INT,OBI-WAN,Curious...
+2,76,607,TIPOCA CITY,INT,JANGO,Do you like your army?
+2,76,608,TIPOCA CITY,INT,OBI-WAN,It seems to me it's your army - being that they are all clones of you.
+2,76,609,TIPOCA CITY,INT,JANGO,"They'll do their job well, I'll guarantee that."
+2,76,610,TIPOCA CITY,INT,OBI-WAN,"I look forward to seeing them in action. Thank you for your time, Jango."
+2,76,611,TIPOCA CITY,INT,JANGO,Always a pleasure to meet a Jedi.
+2,76,612,TIPOCA CITY,INT,BOBA,"What is it, Dad?"
+2,78,613,TATOOINE,EXT,ANAKIN,"Wait, please."
+2,78,614,TATOOINE,EXT,WATTO,"No, not that one - that one!"
+2,78,615,TATOOINE,EXT,ANAKIN,"Excuse me, Watto."
+2,78,616,TATOOINE,EXT,WATTO,What?
+2,78,617,TATOOINE,EXT,ANAKIN,I said excuse me.
+2,78,618,TATOOINE,EXT,WATTO,Shut down.
+2,78,619,TATOOINE,EXT,WATTO,What? I don't know you... What can I do for you? You look like a Jedi. Whatever it is... I didn't do it.
+2,78,620,TATOOINE,EXT,ANAKIN,Let me help you with that.
+2,78,621,TATOOINE,EXT,ANAKIN,I'm looking for Shmi Skywalker.
+2,78,622,TATOOINE,EXT,WATTO,Annie?? Little Annie?? Naaaah!!
+2,78,623,TATOOINE,EXT,WATTO,You are Annie! It is you! You little womp rat.
+2,78,624,TATOOINE,EXT,WATTO,"You sure sprouted Weehoo! A Jedi! Waddya know? Hey, maybe you couldda help wit some daedbeats who owe..."
+2,78,625,TATOOINE,EXT,ANAKIN,My mother...
+2,78,626,TATOOINE,EXT,WATTO,"Oh, yeah. Shmi... she's not mine no more. I sold her."
+2,78,627,TATOOINE,EXT,ANAKIN,Sold her...
+2,78,628,TATOOINE,EXT,WATTO,"Years ago. Sorry, Anne, but you know, business is business. Sold her to a moisture farmer named Lars. Least I think it was Lars. Believe it or not, I heard he freed her and married her. Can ya beat that?"
+2,78,629,TATOOINE,EXT,ANAKIN,Do you know where they are?
+2,78,630,TATOOINE,EXT,WATTO,"Long way from here... someplace over on the other side of Mos Eisley, I think..."
+2,78,631,TATOOINE,EXT,ANAKIN,I'd like to know.
+2,78,632,TATOOINE,EXT,WATTO,Yeah... sure... absolutely. Let's go look in my records.
+2,80,633,TIPOCA CITY,INT,LAMA SU,"Tell your Council the first battalions are ready. And remind them that if they need more troops, we will need time to grow them."
+2,80,634,TIPOCA CITY,INT,OBI-WAN,I won't forget.
+2,84,635,TIPOCA CITY,EXT,BOBA FETT,Dad!!
+2,85,636,TATOOINE,EXT,PADME,"Stay with the ship, Artoo."
+2,86,637,TATOOINE,EXT,C-3PO,Good evening. May I help you?
+2,86,638,TATOOINE,EXT,ANAKIN,Threepio?
+2,86,639,TATOOINE,EXT,C-3PO,"Oh, my... oh, my! Master Anakin! My goodness, I can hardly believe it! And this must be Miss Padme."
+2,86,640,TATOOINE,EXT,PADME,"Hello, Threepio."
+2,86,641,TATOOINE,EXT,ANAKIN,I've come to see my mother.
+2,86,642,TATOOINE,EXT,C-3PO,"Oh, dear! I'm so terribly sorry, Master Annie."
+2,86,643,TATOOINE,EXT,PADME,"Threepio, what's happened?"
+2,86,644,TATOOINE,EXT,C-3PO,I think we'd better go inside.
+2,87,645,TATOOINE,EXT,C-3PO,Master Lars - Master Owen! Somebody to see you!
+2,87,646,TATOOINE,EXT,ANAKIN,I'm Anakin Skywalker. I'm here looking for my mother.
+2,87,647,TATOOINE,EXT,OWEN,"Owen Lars... I guess I'm your step-brother. This is my girlfriend, Beru."
+2,87,648,TATOOINE,EXT,BERU,Hello.
+2,87,649,TATOOINE,EXT,PADME,I'm Padme.
+2,87,650,TATOOINE,EXT,OWEN,I had a feeling you might show up some day.
+2,87,651,TATOOINE,EXT,ANAKIN,Is my mother here?
+2,87,652,TATOOINE,EXT,CLIEGG,"No, she's not."
+2,87,653,TATOOINE,EXT,CLIEGG,Cliegg Lars. Shmi is my wife... Come on inside. We have a lot to talk about.
+2,88,654,TATOOINE,INT,CLIEGG (O.S.),It was just before dawn. They came out of nowhere. A hunting party of Tusekn Raiders.
+2,89,655,TATOOINE,INT,CLIEGG,"Your mother had gone out early, like she always did, to pick mushrooms that grow on the vaporatos. From the tracks, she was about halfway when they took her. Those Tuskens walk like men, but they're vicious, mindless monsters. Thirty of us went out after her. Four of us came back. Three more are still out there looking. I'd be with them, only... I just couldn't ride any more... until I heal."
+2,89,656,TATOOINE,INT,CLIEGG,"This isn't the way I wanted to meet you, son. This isn't how your mother and I planned it. I don't want to give up on her, but she's been gone a month. There's little hope she's lasted this long."
+2,89,657,TATOOINE,INT,OWEN,Where are you going?
+2,89,658,TATOOINE,INT,ANAKIN,To find my mother.
+2,89,659,TATOOINE,INT,PADME,"No, Annie!"
+2,89,660,TATOOINE,INT,CLIEGG,"She's daed, son. Accept it."
+2,89,661,TATOOINE,INT,ANAKIN,"I can feel her pain, and I will find her. I know she's alive."
+2,90,662,TATOOINE,EXT,ANAKIN,"You are going to have to stay here. These are good people, Padme. You'll be safe."
+2,90,663,TATOOINE,EXT,OWEN,Take my speeder bike.
+2,90,664,TATOOINE,EXT,PADME,Anakin...
+2,90,665,TATOOINE,EXT,ANAKIN,"I trust you'll watch over her, Owen."
+2,90,666,TATOOINE,EXT,OWEN,Don't worry.
+2,90,667,TATOOINE,EXT,ANAKIN,I won't be long.
+2,92,668,COCKPIT,INT,JANGO FETT,"Nearly there, son."
+2,92,669,COCKPIT,INT,BOBA FETT,"Dad, look!!"
+2,92,670,COCKPIT,INT,JANGO FETT,Hang on!
+2,93,671,SPACE,EXT,BOBA FETT,Dad! Watch out!
+2,93,672,SPACE,EXT,JANGO FETT,"Stay calm, son. We'll be fine. That Jedi won't be able to follow us through this."
+2,93,673,SPACE,EXT,BOBA FETT,Got him! Yeahhhhh!
+2,93,674,SPACE,EXT,JANGO FETT,We won't see him again.
+2,99,675,TATOOINE,INT,C-3PO,"Please don't leave us, Miss Padme. These people need your help."
+2,99,676,TATOOINE,INT,PADME,"I'm not leaving, Threepio. I just can't sleep."
+2,99,677,TATOOINE,INT,C-3PO,"That's something I cannot relate to. As a Protocol Droid, I'm either active or inactive. There's no in-between."
+2,99,678,TATOOINE,INT,PADME,I guess you're lucky.
+2,99,679,TATOOINE,INT,C-3PO,Do you really think so..? I suppose I shouldn't expect...
+2,99,680,TATOOINE,INT,PADME,You're not happy here?
+2,99,681,TATOOINE,INT,C-3PO,"Oh, I'm not unhappy... and my masters here ar so kind I wouldn't wish to trouuble them, it's just... being like this... well, it's embarrassing."
+2,99,682,TATOOINE,INT,PADME,Being like what?
+2,99,683,TATOOINE,INT,C-3PO,"Naked. If you pardon the expression. You see, when Master Annie made me, he never quite found the time to give me any outer covering. It's so humiliating. How would you like it if you had to go around with all your circuits showing?"
+2,99,684,TATOOINE,INT,PADME,I guess I wouldn't like it at all.
+2,99,685,TATOOINE,INT,C-3PO,Of course you wouldn't. Nobody would. It's simply not protocol.
+2,99,686,TATOOINE,INT,PADME,Maybe we can do something about it.
+2,99,687,TATOOINE,INT,C-3PO,I don't think so. Only Master Annie...
+2,99,688,TATOOINE,INT,PADME,Why not? They seem to have a box of old coverings here.
+2,99,689,TATOOINE,INT,C-3PO,"Oh? How observant of you, Miss Padme. Of course, I'm just not mechanically minded... if you see what I mean."
+2,99,690,TATOOINE,INT,PADME,"Let's see, if we put this... here..."
+2,99,691,TATOOINE,INT,C-3PO,Ooooh! That's tickles.
+2,99,692,TATOOINE,INT,PADME,"You'll have to be quiet, Threepio. Hold still, please."
+2,106,693,TUSKEN RAIDER HUTT,INT,ANAKIN,Mom... Mom... Mom...
+2,106,694,TUSKEN RAIDER HUTT,INT,SHMI,Annie...? Is it you?
+2,106,695,TUSKEN RAIDER HUTT,INT,ANAKIN,"Im here, Mom. Youre safe. Hang on. Im going to get you out of here..."
+2,106,696,TUSKEN RAIDER HUTT,INT,SHMI,"Im so glad... to see you, Annie... Now... I am complete..."
+2,106,697,TUSKEN RAIDER HUTT,INT,ANAKIN,"Just stay with me, Mom. Im going to make you well again. Everythings going to be fine."
+2,106,698,TUSKEN RAIDER HUTT,INT,SHMI,"You look so handsome. My son... my grown-up son. Im so proud of you, Annie... so proud... I missed you so much... I love..."
+2,109,699,GEONOSIS,EXT,OBI-WAN,"""Guiding light"" to ""old folks home."""
+2,111,700,CORUSCANT,INT,OBI-WAN,...Starships from the Trade Federation and the Commerce Guilds are taking deliveries of battle droids from the foundries on Geonosis.
+2,111,701,CORUSCANT,INT,BAIL ORGANA,That's outrageous! The treaty forbids the Trade Federation from building up an army. What are they doing?!
+2,111,702,CORUSCANT,INT,OBI-WAN,The droid foundry seems to be working at full capacity. I am going to go down and investigate. I will bring Jango Fett back home for interrogation.
+2,111,703,CORUSCANT,INT,PALPATINE,Those Geonosian foundries are part of the Techno Union. We will call in their representatives and ask them a few very pointed questions.
+2,111,704,CORUSCANT,INT,OBI-WAN,One more thing. Jango mentioned he was recruited by someone named Darth Tyranus. Any idea who that might be?
+2,111,705,CORUSCANT,INT,YODA,"With the forename Darth, a Sith he must be."
+2,111,706,CORUSCANT,INT,MACE WINDU,Our missing apprentice. They are playing their hand at last.
+2,111,707,CORUSCANT,INT,OBI-WAN,"Do you believe he could be the mysterious Sido-Dyas, who made the deal for the clone army?"
+2,111,708,CORUSCANT,INT,YODA,"Perhaps too many pieces are missing from this puzzle, there are."
+2,111,709,CORUSCANT,INT,MACE WINDU,"Be careful, Obi-Wan. This investigation is becoming less than routine. Do you need help?"
+2,111,710,CORUSCANT,INT,OBI-WAN,Let me see if I can figure out what's going on first.
+2,111,711,CORUSCANT,INT,BAIL ORGANA,The Commerce Guilds are preparing for war... there can be no doubt of that.
+2,111,712,CORUSCANT,INT,PALPATINE,Count Dooku must have made a treaty with them.
+2,111,713,CORUSCANT,INT,MACE WINDU,We must stop them soon before they're fully ready.
+2,111,714,CORUSCANT,INT,SENATOR ASK AAK,"The debate is over, we need that clone army now!"
+2,111,715,CORUSCANT,INT,BAIL ORGANA,"Unfortunately, the debate is not over. The Senate will never be able to approve the use of that army before the separatists attack."
+2,111,716,CORUSCANT,INT,MAS AMEDDA,"This is a crisis! If the Senate votes the Chancellor emergency powers, he could approve the use of the army in a minute."
+2,111,717,CORUSCANT,INT,PALPATINE,"Please, please, I don't wish to have emergency powers. That's too extreme a solution. It's akin to a dictatorship. We must rely on the Jedi. Master Yoda, how many are available to go to Geonosis?"
+2,111,718,CORUSCANT,INT,YODA,"Two Hundred,... less or more."
+2,111,719,CORUSCANT,INT,BAIL ORGANA,"With all due respect for the Jedi Order, two hundred will be no match for hundreds of thousands of battle droids."
+2,111,720,CORUSCANT,INT,MACE WINDU,"Patience. We should wait for Obi- Wan to report back. We don't know that Count Dooku has made a treaty with the Corporate Alliance, it's speculation."
+2,111,721,CORUSCANT,INT,SENATOR ASK AAK,But we must prepare for the worst. I'm going to propose a motion granting emergency powers to the Chancellor at the next session. We must not wait!
+2,111,722,CORUSCANT,INT,PALPATINE,"Out of the question, Senator! You and I are too closely aligned. The issue will become partisan and debates will begin. The proposal must come from a neutral source."
+2,111,723,CORUSCANT,INT,MAS AMEDDA,If only Senator Amidala were here.
+2,111,724,CORUSCANT,INT,JAR JAR,"Supreme Chancellor... my august colleagues, I would be proud to propose the motion in question. This is a grave situation, and I'm sure Senator Amidala, and the Queen of Naboo would agree."
+2,111,725,CORUSCANT,INT,SENATOR ASK AAK,"Thank you, Representative Binks."
+2,111,726,CORUSCANT,INT,PALPATINE,"If called upon, I will serve. But it will be the saddest day of my life."
+2,113,727,TATOOINE,INT,PADME,There!
+2,113,728,TATOOINE,INT,C-3PO,Um. How do I look?
+2,113,729,TATOOINE,INT,OWEN,Great! You look perfect.
+2,113,730,TATOOINE,INT,C-3PO,"Perfect? Oh, Miss Padme, I'm so happy! Oh, pardon me."
+2,113,731,TATOOINE,INT,THREEPIO,Thank you.
+2,113,732,TATOOINE,INT,C-3PO,Thank you! Thank you! Thank you!
+2,113,733,TATOOINE,INT,OWEN,"Well, Padme, I think he should be yours from now on... I know that is what my Mom would want."
+2,113,734,TATOOINE,INT,C-3PO,"Oh, my!"
+2,113,735,TATOOINE,INT,BERU (V.O.),"Come topside, everybody! He's back! He's back!"
+2,114,736,TATOOINE,INT,OBI-WAN,...Alliance have pledged their armies to Count Dooku and are forming an... Wait!... ah... attack... I don't... make it... aaaggghhh!
+2,114,737,TATOOINE,INT,ANAKIN,I'm going after him!
+2,114,738,TATOOINE,INT,PADME,I thought the first thing he said was to retransmit his message to Coruscant.
+2,114,739,TATOOINE,INT,ANAKIN,"Yeah, you're right, you're right."
+2,116,740,COCKPIT,INT,MACE WINDU,"We will deal with Count Dooku. The most important thing for you, Anakin, is to stay where you are. Protect the Senator at all costs. That is your priority."
+2,116,741,COCKPIT,INT,ANAKIN,"Understood, Master."
+2,116,742,COCKPIT,INT,PADME,"They'll never get there in time to save him. They have to come half way across the galaxy. Look, Geonosis is less than a parsec away."
+2,116,743,COCKPIT,INT,ANAKIN,If he's still alive.
+2,116,744,COCKPIT,INT,PADME,"Annie, are you just going to sit here and let him die?? He's your friend... your mentor..."
+2,116,745,COCKPIT,INT,ANAKIN,"...He's like my father, but you heard Master Windu. He gave me strict orders to stay here."
+2,116,746,COCKPIT,INT,PADME,He gave you strict orders to protect me...
+2,116,747,COCKPIT,INT,PADME,"...and I'm going to save Obi-Wan. So if you plan to protect me, you will have to come along."
+2,119,748,CORUSCANT,INT,MACE WINDU,"The longer we wait, the stronger Dooku's armies become. We cannot wait for the Senate to make up its mind about granting the Chancellor emergency powers, in order to be able to use that clone army... We have the authority to go now. We must go now."
+2,119,749,CORUSCANT,INT,YODA,"Agreed, Master Windu. Two hundred Jedi send. Enough, let's hope they are."
+2,120,750,CORUSCANT,INT,MAS AMEDDA,Order! Order!!
+2,120,751,CORUSCANT,INT,PALPATINE,"In the regrettable absence of Senator Amidala, the chair recognises Senior Representative of Naboo, Jar Jar Binks."
+2,120,752,CORUSCANT,INT,JAR JAR,"Senators, dellow felagates..."
+2,120,753,CORUSCANT,INT,MAS AMEDDA,Order! The Senate will accord the Representative the courtesy of a hearing!
+2,120,754,CORUSCANT,INT,JAR JAR,"In response to the direct threat to the Republic from the Confederacy of Independent Systems, I propose that the Senate gives immediate emergency powers to the Supreme Chancellor."
+2,120,755,CORUSCANT,INT,JAR JAR,Who can deny these are exceptional times? Exceptional times demand exceptional measures! Exceptional measures demand exceptional men!
+2,120,756,CORUSCANT,INT,ORN FREE TAA,We won't support a dictator.
+2,120,757,CORUSCANT,INT,JAR JAR,"That is the sentiment every one of us agrees with! And when the shadow of war has dispersed and the bright day of liberty has dawned once again, the power we now give to the Supreme Chancellor will be gladly, and swiftly returned. Out ancient liberties will be restored to us, burnished even more brightly than before!"
+2,120,758,CORUSCANT,INT,PALPATINE,"It is with great reluctance that I have agreed to this calling. I love democracy... I love the Republic. The fact that this crisis is demanding I be given absolute power to tule over you is evident. But I am mild by nature and have no desire to destroy the democratic process. The power you give me I will lay down when this crisis has abated, I promise you. And all I ask in return is when my current term of office is over, you allow me to reture and live out my life in peace."
+2,120,759,CORUSCANT,INT,MAS AMEDDA,"We shall proceed to the vote. All those in favor of granting emergency powers to the Supreme Chancellor, signal ate at this time... those opposed?"
+2,123,760,COCKPIT,INT,ANAKIN,"Hey, where are you going?"
+2,123,761,COCKPIT,INT,PADME,To find Obi-Wan.
+2,123,762,COCKPIT,INT,ANAKIN,No! You're not!
+2,123,763,COCKPIT,INT,PADME,Let go of me!
+2,123,764,COCKPIT,INT,ANAKIN,I'm not letting you go out there. It's too dangerous.
+2,123,765,COCKPIT,INT,PADMÉ,What?!?
+2,123,766,COCKPIT,INT,ANAKIN,"It's my job to protect you. I said it's too dangerous. You're not going, and that's final!"
+2,123,767,COCKPIT,INT,PADMÉ,"Don't you give me orders, Annie! I'm a Senator of the Galactic Republic. You have no authority to contain me, restrain me, or direct me! You remember your place, young man. Now you can come along and protect me or stay here. It's up to you."
+2,123,768,COCKPIT,INT,C-3PO,"Yes, it is, Artoo. Most confusing. One moment they're generating a pleasant mutual attraction and the next, waves of violent hostility. Even though I'm programmed to understand them, I doubt if I ever shall."
+2,124,769,GEONOSIS,INT,PADME,It's empty!
+2,125,770,GEONOSIS,INT,PADME,Wait!
+2,125,771,GEONOSIS,INT,COUNT DOOKU,"Senator Amidala, I've heard so much about you."
+2,125,772,GEONOSIS,INT,PADMÉ,"Count Dooku, I assume."
+2,125,773,GEONOSIS,INT,COUNT DOOKU,"I'm delighted to meet you at last. We have a great deal to discuss, Senator. I hope you can keep your young Jedi under control."
+2,125,774,GEONOSIS,INT,PADMÉ,Don't worry he's housebroken.
+2,126,775,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,"You are holding a Jedi Knight, Obi- Wan Kenobi. I am formally requesting you turn him over to me, now."
+2,126,776,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,"He has been convicted of espionage, Senator, and will be executed. In just a few hours, I believe."
+2,126,777,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,He is an officer of the Republic. You can't do that.
+2,126,778,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,"We don't recognise the Republic here, Senator. But if Naboo were to join our Alliance, I could easily hear your plea for clemency."
+2,126,779,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,"And if I don't join your rebellion, I assume this Jedi with me will also die?"
+2,126,780,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,"I don't wish to make you to join our cause against your will, Senator, but you are a rational, honest representative of your people and I assume you want to do what's in their best interest. Aren't you fed up with the corruption, the bureaucrats, the hypocrisy of it all?.. Aren't you? Be honest, Senator."
+2,126,781,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,"The ideals are still alive, Count, even if the institution is failing."
+2,126,782,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,You believe in the same ideals we believe in! The same ideals we are striving to make prominent.
+2,126,783,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,"If what you say is true, you should stay in the Republic and help Chancellor Palpatine put things right."
+2,126,784,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,"The Chancellor means well, M'Lady but he is incompetent. He has promised to cut the bureaucracy, but the bureaucrats are stronger than ever, no? Senator, the Republic cannot be fixed. It is time to start over. The democratic process in the Republic is a sham, a shell game played on the voters. It will not be long before the cult of greed, called the Republic, will lose even the pretext of democracy and freedom."
+2,126,785,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,"I cannot believe that. I will not forsake all I have honoured and worked for and betray the Republic. I know of your treaties with the Trade Federation, the Commerce Guilds, and the others, Count. What is happening here is not government that has been bought out by business... it's business becoming government!"
+2,126,786,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,Are you willing to betray your Jedi friends? Without your co-operation I can do nothing to stop their execution.
+2,126,787,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,What is to happen to me? Am I to be executed also?
+2,126,788,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,"I wouldn't think of such an offence. But, there are individuals who have a strong interest in your demise, M'lady. It has nothing to do with politics, I'm afraid. It's purely personal, and they have already paid great sums to have you assassinated. I'm sure they will push hard to have you included in the executions. I'm sorry but if you are not going to co-operate, I must turn you over to the Geonosians for justice. I've done all I can for you."
+2,126,789,CONFERENCE ROOM (GEONOSIS),INT,JANGO FETT,I'll take that weapon.
+2,126,790,CONFERENCE ROOM (GEONOSIS),INT,DOOKU,"You may cause a lot of bloodshed, my young Jedi, but you will not escape."
+2,126,791,CONFERENCE ROOM (GEONOSIS),INT,PADMÉ,Anakin...
+2,127,792,GEONOSIS,INT,SUN RIT,You have been charged and found guilty of Espionage.
+2,127,793,GEONOSIS,INT,POGGLE,Do you have anything to say before your sentence is carried out?
+2,127,794,GEONOSIS,INT,PADMÉ,"You are committing an act of war, Archduke. I hope you are prepared for the consequences."
+2,127,795,GEONOSIS,INT,POGGLE,"We build weapons, Senator... that is our business! Of course we're prepared!"
+2,127,796,GEONOSIS,INT,NUTE GUNRAY,Get on with it. Carry out the sentence. I want to see her suffer.
+2,127,797,GEONOSIS,INT,POGGLE,"Your other Jedi friend is waiting for you, Senator. Take them to the arena!"
+2,128,798,GEONOSIS TUNNEL TO EXECUTION ARENA,INT,ANAKIN,Don't be afraid.
+2,128,799,GEONOSIS TUNNEL TO EXECUTION ARENA,INT,PADMÉ,I'm not afraid to die. I've been dying a little bit each day since you came back into my life.
+2,128,800,GEONOSIS TUNNEL TO EXECUTION ARENA,INT,ANAKIN,What are you talking about?
+2,128,801,GEONOSIS TUNNEL TO EXECUTION ARENA,INT,PADMÉ,I love you.
+2,128,802,GEONOSIS TUNNEL TO EXECUTION ARENA,INT,ANAKIN,You love me?! I thought we decided not to fall in love. That we would be forced to live a lie. That it would destroy our lives...
+2,128,803,GEONOSIS TUNNEL TO EXECUTION ARENA,INT,PADMÉ,"I think our lives are about to be destroyed anyway. My love for you is a puzzle, Annie, for which I have no answers. I can't control it... and now I don't care. I truly, deeply love you, and before we die I want you to know."
+2,128,804,GEONOSIS TUNNEL TO EXECUTION ARENA,INT,ANAKIN,"I have no desire to be cured of this love either. Long or short, I vow to spend the rest of my life with you."
+2,129,805,GEONOSIS,INT,OBI-WAN,I was beginning to wonder if you had gotten my message.
+2,129,806,GEONOSIS,INT,ANAKIN,"I retransmitted it as you requested, Master. Then we decided to come and rescue you."
+2,129,807,GEONOSIS,INT,OBI-WAN,It looks like you're going a good job so far.
+2,129,808,GEONOSIS,INT,SUN RIT,The felons before you have been convicted of espionage against the Sovereign System of Geonosis. Their sentence of death is to be carried out in this public arena henceforth.
+2,129,809,GEONOSIS,INT,POGGLE,Let the executions begin!
+2,129,810,GEONOSIS,INT,ANAKIN,I have a bad feeling about this.
+2,129,811,GEONOSIS,INT,OBI-WAN,Take the one the left. I'll take the one on the right.
+2,129,812,GEONOSIS,INT,ANAKIN,What about Padme?
+2,129,813,GEONOSIS,INT,OBI-WAN,It looks like she's already on top of things.
+2,129,814,GEONOSIS,INT,NUTE GUNRAY,Foul!! She can't do that... shoot her or something!
+2,129,815,GEONOSIS,INT,ANAKIN,You okay?
+2,129,816,GEONOSIS,INT,PADME,"Sure! Well, sort of."
+2,129,817,GEONOSIS,INT,ANAKIN,Jump!!!
+2,129,818,GEONOSIS,INT,NUTE GUNRAY,"This isn't how it's supposed to be! Jango, finish her off."
+2,129,819,GEONOSIS,INT,COUNT DOOKU,"Patiece, Viceroy... she will die. Maybe this is the way it's supposed to end."
+2,130,820,COCKPIT,INT,C-3PO,"Yes, it has been rather a long time. Do you suppose something's happened to them?"
+2,130,821,COCKPIT,INT,C-3PO,"Danger? Oh no, I shouldn't think so. It looks a very dull planet to me. They should be back shortly. Just stop worrying, Artoo."
+2,131,822,GEONOSIS,EXT,COUNT DOOKU,"Master Windu, how pleasant of you to join us. You're just in time for the moment of truth. I would think these two new boys of yours could use a little more training."
+2,131,823,GEONOSIS,EXT,MACE WINDU,"Sorry to disappoint you, Dooku. This party's over."
+2,131,824,GEONOSIS,EXT,COUNT DOOKU,"Brave, but stupid, my old Jedi friend. You're impossibly outnumbered."
+2,131,825,GEONOSIS,EXT,MACE WINDU,I don't think so. One Jedi has to be worth a hundred Geonosians.
+2,131,826,GEONOSIS,EXT,COUNT DOOKU,It wasn't the Geonosians I was thinking about. How well do you think one Jedi will hold up against a thousand battle droids?
+2,132,827,COCKPIT,INT,C-3PO,I don't hear anything. You're scaring me! Stop imagining things!
+2,133,828,GEONOSIS,EXT,OBI-WAN,Someone's got to - shut down - these droids.
+2,133,829,GEONOSIS,EXT,MACE WINDU,Don't worry! It's being - taken care of!
+2,136,830,COMMAND FEDERATION STARSHIP,INT,PLO KOON,We've done it! Now we have a chance!
+2,136,831,COMMAND FEDERATION STARSHIP,INT,KI-ADI-MUNDI,The system's off but they're still active. That's a new feature. They are independent of the control system.
+2,137,832,GEONOSIS,EXT,COUNT DOOKU,Master Windu!
+2,137,833,GEONOSIS,EXT,COUNT DOOKU,You have fought gallantly. Worthy of recognition in the history archives of the Jedi Order. Now it is finished. Surrender - and your lives will be spared.
+2,137,834,GEONOSIS,EXT,MACE WINDU,We will not be hostages for you to barter with Dooku.
+2,137,835,GEONOSIS,EXT,COUNT DOOKU,"Then, I'm sorry, old friend. You will have to be destroyed."
+2,137,836,GEONOSIS,EXT,PADME,Look!
+2,137,837,GEONOSIS,EXT,YODA,Come on - hurry! Hurry!
+2,139,838,GUNSHIP NUMBER ONE,INT,YODA,"More battalions to the left. Encircle them we must, then divide."
+2,140,839,COCKPIT,INT,C-3PO,"I'm sure I heard something, this time. Didn't you? It's probably just a celebration"
+2,142,840,GUNSHIP NUMBER TWO,INT,OBI-WAN,Hold on! Look over there...
+2,142,841,GUNSHIP NUMBER TWO,INT,ANAKIN,"It's Dooku, go after him!"
+2,142,842,GUNSHIP NUMBER TWO,INT,ANAKIN,Padme!!!
+2,142,843,GUNSHIP NUMBER TWO,INT,ANAKIN,Put the ship down! Down!
+2,142,844,GUNSHIP NUMBER TWO,INT,OBI-WAN,No! Forget her. We have to go after Dooku.
+2,142,845,GUNSHIP NUMBER TWO,INT,ANAKIN,No we're not!! Land this ship!
+2,142,846,GUNSHIP NUMBER TWO,INT,OBI-WAN,Don't let your personal feelings get in the way. We've got a job to do.
+2,142,847,GUNSHIP NUMBER TWO,INT,ANAKIN,I don't care!.. Go back.
+2,142,848,GUNSHIP NUMBER TWO,INT,OBI-WAN,Anakin! She's all right! Look.
+2,142,849,GUNSHIP NUMBER TWO,INT,OBI-WAN,Follow that speeder!
+2,143,850,GEONOSIS,INT,DROID CAPTAIN,Your Excellency!
+2,143,851,GEONOSIS,INT,COUNT DOOKU,"That won't be necessary, Captain. Stand down. And leave them to me."
+2,143,852,GEONOSIS,INT,OBI-WAN,We move in together - you slowly on the...
+2,143,853,GEONOSIS,INT,ANAKIN,I'm taking him now!
+2,143,854,GEONOSIS,INT,OBI-WAN,"Anakin, no!"
+2,143,855,GEONOSIS,INT,ANAKIN,"You'll pay for all the Jedi you've killed today, Dooku."
+2,143,856,GEONOSIS,INT,COUNT DOOKU,"Kenobi, isn't it? As you can see, my Jedi powers are far beyond yours. Now, back down."
+2,143,857,GEONOSIS,INT,OBI-WAN,I don't think so.
+2,143,858,GEONOSIS,INT,COUNT DOOKU,"Ah, but if I must."
+2,143,859,GEONOSIS,INT,COUNT DOOKU,I have spent the last ten years learning to use the power of the Dark Side. It gives me infinitely greater power.
+2,143,860,GEONOSIS,INT,OBI-WAN,You will have to prove it.
+2,143,861,GEONOSIS,INT,COUNT DOOKU,"Grand Master Kenobi, you disappoint me. Yoda holds you in such high esteem."
+2,143,862,GEONOSIS,INT,COUNT DOOKU,"Surely you can do better...? No, I'm surprised. Has Jedi swordsmanship degenerated so quickly, or are you trying to make fun of me? Which is it?"
+2,143,863,GEONOSIS,INT,COUNT DOOKU,"come, come, Master Kenobi. Put me out of my misery."
+2,143,864,GEONOSIS,INT,COUNT DOOKU,"That's brave of you, boy - but foolish. I would have thought you'd have learnt your lesson."
+2,143,865,GEONOSIS,INT,ANAKIN,I'm a slow learner.
+2,143,866,GEONOSIS,INT,COUNT DOOKU,"You have unusual powers, young Padawan. But not enought to save you this time."
+2,143,867,GEONOSIS,INT,ANAKIN,Don't bet on it!
+2,143,868,GEONOSIS,INT,OBI-WAN,Anakin!
+2,143,869,GEONOSIS,INT,COUNT DOOKU,Master Yoda. At last we shall know who is the most powerful.
+2,143,870,GEONOSIS,INT,YODA,"Count Dooku. No interest in contests, do I have."
+2,143,871,GEONOSIS,INT,YODA,"The end for you, Count, this is."
+2,143,872,GEONOSIS,INT,COUNT DOOKU,...Not yet...
+2,143,873,GEONOSIS,INT,PADMÉ,Anakin!
+2,143,874,GEONOSIS,INT,CLONE CAPTAIN,"Resistance is at an end, General. What are your orders ?"
+2,145,875,CORUSCANT,INT,COUNT DOOKU,"The Force is with us, my Master."
+2,145,876,CORUSCANT,INT,DARTH SIDIOUS,"Welcome home, Lord Tyranus. You have done well."
+2,145,877,CORUSCANT,INT,COUNT DOOKU,"I bring you good news, my Lord. The war has begun."
+2,145,878,CORUSCANT,INT,DARTH SIDIOUS,Excellent. Everything is going as planned.
+2,147,879,JEDI TEMPLE,INT,MACE WINDU,Where is your apprentice?
+2,147,880,JEDI TEMPLE,INT,OBI-WAN,On his way back to Naboo. He is escorting Senator Amidala home.
+2,147,881,JEDI TEMPLE,INT,OBI-WAN,"I must admit without the clones, it would not have been a victory."
+2,147,882,JEDI TEMPLE,INT,YODA,"Victory? Victory, you say?"
+2,147,883,JEDI TEMPLE,INT,YODA,"Not victory, a defeat, it was... Master Obi-Wan. Begun, the Clone War has!"

@@ -1,0 +1,1108 @@
+episode,scene_num,sequence,place,type,actor,dialogue
+3,3,1,ANAKINS STARFIGHTER COCKPIT,INT,ANAKIN,"There isn't a droid made that can out fly you, Master, and no other way to get to the Chancellor . . ."
+3,3,2,ANAKINS STARFIGHTER COCKPIT,INT,OBI-WAN,"Look out, four droids inbound . . ."
+3,5,3,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,We've got to split them up.
+3,5,4,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"Break left, fly through the guns on that tower."
+3,5,5,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,Easy for you to say . . . why am I always the bait?
+3,5,6,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,Don't worry. I'm coming around behind you.
+3,5,7,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,"Anakin, they're all over me!"
+3,5,8,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"Dead ahead! Closing . . . lock onto him, Artoo . . ."
+3,5,9,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"We got him, Artoo!"
+3,5,10,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"I copy, Artoo."
+3,5,11,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,I'm going down on the deck.
+3,5,12,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,Good idea ... I need some room to maneuver.
+3,5,13,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"Cut right. Do you hear me?! Cut right. Don't let him get a handle on you. Come on, Artoo, lock on! Lock on!"
+3,5,14,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,Hurry up! I don't like this!
+3,5,15,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,Ouch!
+3,5,16,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,"Don't even try to fix it, Arfour. I've shut it down."
+3,5,17,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,We're locked on ... we've got him . . .
+3,5,18,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"Yeah! We got him . . . good going, Artoo."
+3,5,19,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,Next time you're the bait . . . Now let's find the Command Ship and get on with it ...
+3,5,20,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"Lock onto them, Artoo. Master, General Grievous's ship is directly ahead."
+3,5,21,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,The one crawling with vulture droids.
+3,6,22,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,"I see it. Oh, this is going to be easy."
+3,6,23,OBI WAN'S STARFIGHTER COCKPIT,INT,ANAKIN,"Come on, Master."
+3,6,24,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,"Not this time. There's too much at stake. We need help. Odd Ball, do you copy?"
+3,6,25,OBI WAN'S STARFIGHTER COCKPIT,INT,ODD BALL,"Copy, Red Leader."
+3,6,26,OBI WAN'S STARFIGHTER COCKPIT,INT,OBI-WAN,Mark my position and form your squad up behind me . . .
+3,7,27,ODD BALL'S FIGHTER COCKPIT,INT,ODD BALL,"We're on your tail, General Kenobi. Set S-foils in attack position."
+3,8,28,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"This is where the fun begins. Ten Vulture Droids straight ahead, coming down the left side."
+3,8,29,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Add five Tri-fighters on the right . . .
+3,8,30,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I'm going head to head. See you.
+3,8,31,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Take it easy, Anakin."
+3,8,32,ANAKIN'S FIGHTER COCKPIT,INT,ODD BALL,"I'm on your right, Red Leader."
+3,8,33,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Incoming!!
+3,8,34,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Five more on the right!
+3,8,35,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Here we go.
+3,8,36,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,I'm going high and right.
+3,8,37,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Hang on. There are four more of them.
+3,8,38,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Stay with me . . . swing back and right . . . help me engage. Back off ... Let them pass between us.
+3,8,39,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I'm coming around. I'm coming around on your tail.
+3,8,40,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"All right, engage . . . and hurry. These droids are all over me like a rash."
+3,8,41,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,How many back there. Artoo?  Three . . .  Four . . . that's not good.
+3,8,42,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Anakin, you have four on your tail."
+3,8,43,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I know. I know!
+3,8,44,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Four more closing from your left.
+3,8,45,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I know. I know!
+3,8,46,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Break right and go high.
+3,8,47,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I'm going low and left.
+3,8,48,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,He still has much to learn.
+3,8,49,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"Hang on, Artoo. Obi-Wan, do you copy? I'm going to pull them through the needle . . ."
+3,8,50,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Too dangerous. First Jedi rule  ""Survive."""
+3,8,51,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"Sorry, no choice. Come down here and thin them out a little."
+3,8,52,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Just keep me steady . . . hold on ... not yet. . . now break left.
+3,8,53,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"You'll never get through there, Anakin. It's too tight."
+3,8,54,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"Easy, Artoo . . . we've done this before."
+3,8,55,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Use the Force, think yourself through, the ship will follow."
+3,8,56,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"Wrong thought, Artoo."
+3,8,57,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I'm through.
+3,8,58,ANAKIN'S FIGHTER COCKPIT,INT,ODD BALL,There are too many of them.
+3,8,59,ANAKIN'S FIGHTER COCKPIT,INT,CLONE PILOT 2,I'm on your wing. Break left. Break left. They're all over me. Get them off my . . .
+3,8,60,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I'm going to go help them out!
+3,8,61,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"No, no! They are doing their job so we can do ours. Head for the Command Ship!"
+3,8,62,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Missiles! Pull up!
+3,8,63,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,They overshot us . . .
+3,8,64,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,They're coming around!
+3,8,65,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"All right, Arfour. No, no. Nothing too fancy."
+3,8,66,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Surge all power units. Artoo! Stand by the reverse thrusters.
+3,8,67,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,We got 'em. Artoo!
+3,8,68,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Flying is for droids.
+3,8,69,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,I'm hit! Anakin?
+3,8,70,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,I see them . . . Buzz Droids.
+3,8,71,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Arfour, be careful. You have one . . ."
+3,8,72,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Oh dear. They're shutting down all the controls.
+3,8,73,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Move to the right so I can get a clear shot at them.
+3,8,74,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,The mission. Get to the Command Ship. Get the Chancellor! I'm running out of tricks here.
+3,8,75,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,In the name of ...
+3,8,76,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Steady . . . steady . . .
+3,8,77,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Anakin, hold your fire . . . hold your fire. You're not helping here."
+3,8,78,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"I agree, bad idea. Swing right . . . ease over . . . steady . . ."
+3,8,79,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Wait . . . wait . . . I can't see a thing! My cockpit's fogging. They're all over me, Anakin."
+3,8,80,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Move to the right.
+3,8,81,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Hold on, Anakin. You're going to get us both killed! Get out of here. There's nothing more you can do."
+3,8,82,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"I'm not leaving without you, Master."
+3,8,83,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Blast it ... I can't see . . . my controls are gone.
+3,8,84,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"Get 'em, Artoo. Watch out!"
+3,8,85,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Artoo, hit the buzz droid's center eye."
+3,8,86,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"Yeah, you got him!"
+3,8,87,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Great, Artoo."
+3,8,88,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,Stay on my wing . . . the General's Command Ship is dead ahead. Easy . . . pull up ... Head for the hangar.
+3,8,89,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,Have you noticed the shields are still up?
+3,8,90,ANAKIN'S FIGHTER COCKPIT,INT,ANAKIN,"Oh?!? Sorry, Master."
+3,8,91,ANAKIN'S FIGHTER COCKPIT,INT,OBI-WAN,"Oh, I have a bad feeling about this."
+3,9,92,MAIN HANGAR,INT,OBI-WAN,"Artoo, locate the Chancellor."
+3,9,93,MAIN HANGAR,INT,ANAKIN,Tap into the ship's computers.
+3,9,94,MAIN HANGAR,INT,OBI-WAN,The Chancellor's signal is coming from right there. The observation platform at the top of that spire.
+3,9,95,MAIN HANGAR,INT,ANAKIN,I sense Count Dooku . . .
+3,9,96,MAIN HANGAR,INT,OBI-WAN,I sense a trap.
+3,9,97,MAIN HANGAR,INT,ANAKIN,Next move?
+3,9,98,MAIN HANGAR,INT,OBI-WAN,Spring the trap.
+3,9,99,MAIN HANGAR,INT,ANAKIN,"Artoo, go back. I need you to stay with the ship."
+3,9,100,MAIN HANGAR,INT,OBI-WAN,"Here, take this, and wait for orders."
+3,10,101,BRIDGE,INT,GENERAL GRIEVOUS,"What's the situation, Captain?"
+3,10,102,BRIDGE,INT,CAPTAIN,TWO Jedi have landed in the main hangar bay.
+3,10,103,BRIDGE,INT,GENERAL GRIEVOUS,Just as Count Dooku predicted.
+3,11,104,HANGAR,INT,BODYGUARD I,"General Kenobi, Anakin Skywalker. We've been waiting for you."
+3,11,105,HANGAR,INT,OBI-WAN,"We are here to relieve you of Chancellor Palpatine, not join him."
+3,11,106,HANGAR,INT,OBI-WAN,Anakin. . .
+3,11,107,HANGAR,INT,ANAKIN,Ready.
+3,12,108,GENERATOR ROOM,INT,OBI-WAN,. . . fuel. The slightest charge from our sabers will send this ship into oblivion. That's why they've stopped shooting.
+3,12,109,GENERATOR ROOM,INT,ANAKIN,"Well then, we're safe for the time being."
+3,12,110,GENERATOR ROOM,INT,OBI-WAN,Your idea of safe is not the same as mine.
+3,12,111,GENERATOR ROOM,INT,ANAKIN,They're sealing this section off.
+3,12,112,GENERATOR ROOM,INT,OBI-WAN,Six droids coming our way!
+3,12,113,GENERATOR ROOM,INT,ANAKIN,Keep moving. There must be vents . . . This way.
+3,12,114,GENERATOR ROOM,INT,OBI-WAN,We'll never get through that. It's too small!
+3,12,115,GENERATOR ROOM,INT,ANAKIN,I found our escape vent.
+3,12,116,GENERATOR ROOM,INT,OBI-WAN,"Anakin, this is no time for jokes. We're in serious trouble here."
+3,12,117,GENERATOR ROOM,INT,ANAKIN,"Only in your mind. My Master. Look, no structure. . . ."
+3,13,118,VENT SHAFT,INT,ANAKIN,Here's a way out.
+3,15,119,HALLWAY,INT,OBI-WAN,That won't hold when the fuel hits those power dischargers.
+3,15,120,HALLWAY,INT,ANAKIN,The blast will break the hull. This side's pressurized.
+3,15,121,HALLWAY,INT,OBI-WAN,"You still have much to learn, Anakin."
+3,16,122,VENT SHAFT,INT,SUPER BATTLE DROID R77,I have a bad feeling about this.
+3,19,123,HALLWAY,INT,OBI-WAN,"All right, you win. I have much to learn. Let's go!"
+3,20,124,WIDE HALLWAY,INT,ANAKIN,Destroyers!!
+3,20,125,WIDE HALLWAY,INT,BATTLE DROID,Drop your weapons! I said drop 'em.
+3,21,126,ELEVATOR,INT,OBI-WAN,Did you press the stop button?
+3,21,127,ELEVATOR,INT,ANAKIN,"No, did you?"
+3,21,128,ELEVATOR,INT,OBI-WAN,No!
+3,21,129,ELEVATOR,INT,ANAKIN,"Well, there's more than one way out of here."
+3,21,130,ELEVATOR,INT,OBI-WAN,"We don't want to get out, we want to get moving. Artoo . . . Artoo. Do you copy? Activate elevator . . .  . . . 31174 . . ."
+3,21,131,ELEVATOR,INT,SUPER BATTLE DROID 1,What's that?
+3,21,132,ELEVATOR,INT,SUPER BATTLE DROID 2,Get back to work. It's nothing.
+3,22,133,ELEVATOR,INT,OBI-WAN,Artoo?
+3,22,134,ELEVATOR,INT,OBI-WAN,Always on the move.
+3,22,135,ELEVATOR,INT,OBI-WAN,"Artoo, switch on the comlink. Artoo, do you hear me? Artoo, we gave you a job to do! Artoo."
+3,24,136,ELEVATOR,INT,OBI-WAN,"Stop, stop! Artoo, we need to be going up."
+3,25,137,ELEVATOR SHAFT,INT,DROID 1,"Hands up, Jedi! Don't move."
+3,25,138,ELEVATOR SHAFT,INT,DROID 2,"Roger, roger."
+3,26,139,MAIN HANGAR,INT,SUPER BATTLE DROID 1,There it is again.
+3,26,140,MAIN HANGAR,INT,OBI-WAN,"Artoo, do you copy? Artoo, do you hear me? Artoo, we need to be going up, not down."
+3,27,141,ELEVATOR,INT,OBI-WAN,"Stop. Artoo! We need to go up! Stop, stop!"
+3,28,142,MAIN HANGAR,INT,SUPER BATTLE DROID 1,Hey you!
+3,29,143,ELEVATOR,INT,OBI-WAN,"Now, that's better . . ."
+3,30,144,MAIN HANGAR,INT,SUPER BATTLE DROID 1,You stupid little astro droid!
+3,31,145,ELEVATOR SHAFT,INT,OBI-WAN,"Oh, it's you . . ."
+3,33,146,ELEVATOR SHAFT,INT,ANAKIN,What was that all about?
+3,33,147,ELEVATOR SHAFT,INT,OBI-WAN,"Well, Artoo has been . . ."
+3,33,148,ELEVATOR SHAFT,INT,ANAKIN,No loose wire jokes . . . He's doing the best he can.
+3,33,149,ELEVATOR SHAFT,INT,OBI-WAN,Did I say anything?
+3,33,150,ELEVATOR SHAFT,INT,ANAKIN,He's trying!
+3,33,151,ELEVATOR SHAFT,INT,OBI-WAN,I didn't say anything!
+3,35,152,GENERAL'S QUARTER'S,INT,OBI-WAN,Chancellor.
+3,35,153,GENERAL'S QUARTER'S,INT,ANAKIN,Are you all right?
+3,35,154,GENERAL'S QUARTER'S,INT,PALPATINE,Count Dooku.
+3,35,155,GENERAL'S QUARTER'S,INT,OBI-WAN,This time we will do it together.
+3,35,156,GENERAL'S QUARTER'S,INT,ANAKIN,I was about to say that.
+3,35,157,GENERAL'S QUARTER'S,INT,PALPATINE,Get help! You're no match for him. He's a Sith Lord.
+3,35,158,GENERAL'S QUARTER'S,INT,OBI-WAN,"Chancellor Palpatine, Sith Lords are our specialty."
+3,35,159,GENERAL'S QUARTER'S,INT,COUNT DOOKU,"Your swords, please, Master Jedi. We don't want to make a mess of things in front of the Chancellor."
+3,35,160,GENERAL'S QUARTER'S,INT,OBI-WAN,"You won't get away this time, Dooku."
+3,35,161,GENERAL'S QUARTER'S,INT,COUNT DOOKU,I've been looking forward to this.
+3,35,162,GENERAL'S QUARTER'S,INT,ANAKIN,"My powers have doubled since the last time we met, Count."
+3,35,163,GENERAL'S QUARTER'S,INT,COUNT DOOKU,"Good. Twice the pride, double the fall."
+3,35,164,GENERAL'S QUARTER'S,INT,COUNT DOOKU,"Your moves are clumsy, Kenobi . . . too predictable. You'll have to do better."
+3,35,165,GENERAL'S QUARTER'S,INT,COUNT DOOKU,"I sense great fear in you, Skywalker. You have hate, you have anger, but you dont use them."
+3,36,166,GENERAL'S QUARTERS,INT,PALPATINE,"Good, Anakin, good. I knew you could do it. Kill him. Kill him now!"
+3,36,167,GENERAL'S QUARTERS,INT,ANAKIN,I shouldn't . . .
+3,36,168,GENERAL'S QUARTERS,INT,PALPATINE,Do it!!
+3,36,169,GENERAL'S QUARTERS,INT,ANAKIN,... I couldn't stop myself.
+3,36,170,GENERAL'S QUARTERS,INT,PALPATINE,"You did well, Anakin. He was too dangerous to be kept alive."
+3,36,171,GENERAL'S QUARTERS,INT,ANAKIN,"Yes, but he was an unarmed prisoner."
+3,36,172,GENERAL'S QUARTERS,INT,ANAKIN,"I shouldn't have done that, Chancellor. It's not the Jedi way."
+3,36,173,GENERAL'S QUARTERS,INT,PALPATINE,"It is only natural. He cut off your arm, and you wanted revenge. It wasn't the first time, Anakin. Remember what you told me about your mother and the Sand People. Now, we must leave before more security droids arrive."
+3,36,174,GENERAL'S QUARTERS,INT,PALPATINE,"Anakin, there is no time. We must get off the ship before it's too late."
+3,36,175,GENERAL'S QUARTERS,INT,ANAKIN,"He seems to be all right. No broken bones, breathing's all right."
+3,36,176,GENERAL'S QUARTERS,INT,PALPATINE,"Leave him, or we'll never make it."
+3,36,177,GENERAL'S QUARTERS,INT,ANAKIN,His fate will be the same as ours.
+3,37,178,BRIDGE,INT,GENERAL GRIEVOUS,Prepare for attack.
+3,37,179,BRIDGE,INT,PILOT,All batteries fire! Fire!
+3,39,180,ELEVATOR LOBBY GENERAL'S QUARTERS,INT,ANAKIN,"The elevator's not working,  Artoo . . ."
+3,39,181,ELEVATOR LOBBY GENERAL'S QUARTERS,INT,ANAKIN,. . . Activate Elevator 3224.
+3,39,182,ELEVATOR LOBBY GENERAL'S QUARTERS,INT,ANAKIN,"Artoo ... do you copy? Artoo, come in!"
+3,40,183,BRIDGE,INT,PILOT,Reverse stabilizers.
+3,44,184,BRIDGE,INT,PILOT,Magnetize! Magnetize!
+3,47,185,ELEVATOR LOBBY GENERAL'S QUARTERS,INT,ANAKIN,"We can't wait. Come on, we have to be fast."
+3,48,186,BRIDGE,INT,GENERAL GRIEVOUS,Fire the emergency booster engines.
+3,48,187,BRIDGE,INT,PILOT,"Leveling out, sir."
+3,50,188,"ELEVATOR SHAFT, VERTICAL",INT,ANAKIN,Easy. . . . We're in a bit of a situation.
+3,50,189,"ELEVATOR SHAFT, VERTICAL",INT,OBI-WAN,Did I miss something?
+3,50,190,"ELEVATOR SHAFT, VERTICAL",INT,ANAKINN,Hold on.
+3,50,191,"ELEVATOR SHAFT, VERTICAL",INT,OBI-WAN,What is that?
+3,50,192,"ELEVATOR SHAFT, VERTICAL",INT,OBI-WAN,Oops.
+3,50,193,"ELEVATOR SHAFT, VERTICAL",INT,ANAKIN,"Artoo, Artoo, shut down the elevator!"
+3,50,194,"ELEVATOR SHAFT, VERTICAL",INT,OBI-WAN,Too late! Jump!
+3,51,195,ELEVATOR LOBBY,INT,OBI-WAN,Let's see if we can find something in the hangar bay that's still flyable. Come on.
+3,51,196,ELEVATOR LOBBY,INT,ANAKIN,"Artoo, get down here. Artoo, do you copy?"
+3,54,197,DOORWAY TO HANGAR BAY,INT,OBI-WAN,None of those ships will get us anywhere.
+3,54,198,DOORWAY TO HANGAR BAY,INT,ANAKIN,I agree.
+3,54,199,DOORWAY TO HANGAR BAY,INT,PALPATINE,What are we going to do?
+3,54,200,DOORWAY TO HANGAR BAY,INT,ANAKIN,I don't know.
+3,54,201,DOORWAY TO HANGAR BAY,INT,OBI-WAN,Don't look at me. I don't know.
+3,54,202,DOORWAY TO HANGAR BAY,INT,ANAKIN,"Here, Chancellor, lock this around your waist, and hold on."
+3,54,203,DOORWAY TO HANGAR BAY,INT,OBI-WAN,We'll head toward the bridge and see if we can find an escape pod.
+3,56,204,HANGAR DOORWAY,INT,ANAKIN/OBI-WAN,"Well, that was close."
+3,57,205,BRIDGE,INT,BODYGUARD,"General, we found the Jedi. They're in hallway 328."
+3,57,206,BRIDGE,INT,GENERAL GRIEVOUS,Activate ray shields.
+3,58,207,HALLWAY,INT,ANAKIN,Ray shields!
+3,58,208,HALLWAY,INT,OBI-WAN,"Wait a minute, how'd this happen! We're smarter than this."
+3,58,209,HALLWAY,INT,ANAKIN,"Apparently not, Master. This is the oldest trap in the book . . . Well ... I was distracted."
+3,58,210,HALLWAY,INT,OBI-WAN,"Oh, so all of a sudden it's my fault."
+3,58,211,HALLWAY,INT,ANAKIN,You're the Master. I'm just a hero.
+3,58,212,HALLWAY,INT,OBI-WAN,I'm open to suggestions here.
+3,58,213,HALLWAY,INT,PALPATINE,"Why don't we let them take us to General Grievous. Perhaps with Count Dooku's demise, we can negotiate our release."
+3,58,214,HALLWAY,INT,ANAKIN,I say . . . patience.
+3,58,215,HALLWAY,INT,OBI-WAN,"Patience! That's your plan, is it?"
+3,58,216,HALLWAY,INT,ANAKIN,"Yes, Artoo will be along in a few moments and he'll release the ray shields . . ."
+3,58,217,HALLWAY,INT,ANAKIN,See! No problem.
+3,58,218,HALLWAY,INT,SUPER BATTLE DROID,"Don't move, dummy. Ouch! Zap this."
+3,58,219,HALLWAY,INT,OBI-WAN,Do you have a plan B?
+3,59,220,BRIDGE,INT,GENERAL GRIEVOUS,"Oh yes. General Kenobi, the Negotiator. We've been waiting for you. That wasn't much of a rescue."
+3,59,221,BRIDGE,INT,OBI-WAN,That depends upon your point of view. Hah!
+3,59,222,BRIDGE,INT,GENERAL GRIEVOUS,And Anakin Skywalker ... I was expecting someone with your reputation to be a little older.
+3,59,223,BRIDGE,INT,ANAKIN,General Grievous . . . Supreme Commander of the Droid Armies. You're shorter than I expected.
+3,59,224,BRIDGE,INT,GENERAL GRIEVOUS,"Ahhhh, Jedi scum . . ."
+3,59,225,BRIDGE,INT,OBI-WAN,"Anakin, try not to upset him. We have a job to do."
+3,59,226,BRIDGE,INT,GENERAL GRIEVOUS,Your lightsabers will make a fine addition to my collection.
+3,59,227,BRIDGE,INT,OBI-WAN,Not this time. And this time you won't escape.
+3,59,228,BRIDGE,INT,ANAKIN,Artoo.
+3,59,229,BRIDGE,INT,GENERAL GRIEVOUS,Crush them! Make them suffer!
+3,59,230,BRIDGE,INT,GENERAL GRIEVOUS,Stay and watch your stations.
+3,59,231,BRIDGE,INT,PILOT,"Sir, we are falling out of orbit. All aft control cells are dead."
+3,59,232,BRIDGE,INT,GENERAL GRIEVOUS,Stay on course . . . Don't bother with them. Keep the ship in orbit.
+3,59,233,BRIDGE,INT,GENERAL GRIEVOUS,"You lose, General Kenobi."
+3,59,234,BRIDGE,INT,PILOT,The ship is breaking up!
+3,59,235,BRIDGE,INT,GENERAL GRIEVOUS,We've run out of time.
+3,60,236,BRIDGE,INT,PALPATINE,The hull is burning up!
+3,62,237,POD BAY TRADE FEDERATION CRUISER,INT,GENERAL GRIEVOUS,Time to abandon ship.
+3,64,238,BRIDGE,INT,ANAKIN,All the escape pods have been launched.
+3,64,239,BRIDGE,INT,OBI-WAN,Grievous. Can you fly a cruiser like this?
+3,64,240,BRIDGE,INT,ANAKIN,"You mean, do I know how to land what's left of this thing?"
+3,64,241,BRIDGE,INT,OBI-WAN,Well?
+3,64,242,BRIDGE,INT,ANAKIN,"Under the circumstances, I'd say the ability to pilot this thing is irrelevant. Strap yourselves in."
+3,64,243,BRIDGE,INT,OBI-WAN,Steady . . . Attitude . . . eighteen degrees.
+3,64,244,BRIDGE,INT,ANAKIN,"Pressure rising. We've got to slow this wreck down. Open all hatches, extend all flaps, and drag fins."
+3,64,245,BRIDGE,INT,OBI-WAN,"Temp steady. Hatches open, flaps extended, drag fins . . ."
+3,64,246,BRIDGE,INT,ANAKIN,We lost something.
+3,64,247,BRIDGE,INT,OBI-WAN,"Not to worry, we're still flying half the ship."
+3,64,248,BRIDGE,INT,ANAKIN,Now we're really picking up speed . . . I'm going to shift a few degrees and see if I can slow us down.
+3,64,249,BRIDGE,INT,OBI-WAN,Careful . . . we're heating up-twelve thousand . . . thirteen thousand . . .
+3,64,250,BRIDGE,INT,ANAKIN,What's our speed?
+3,64,251,BRIDGE,INT,OBI-WAN,"Eight plus sixty-forty. Eight plus sixty-twenty. Eight plus sixty. Temp ten thousand, nine thousand . . . we're in the atmosphere . . ."
+3,64,252,BRIDGE,INT,ANAKIN,Grab that . . . Keep us level.
+3,64,253,BRIDGE,INT,OBI-WAN,Steady. Steady.
+3,64,254,BRIDGE,INT,ANAKIN,"Easy, Artoo. Hang on, this may get a little rough. We lost our heat shields."
+3,64,255,BRIDGE,INT,OBI-WAN,Five thousand. Three thousand . . . two thousand. Fireships on the left and the right.
+3,64,256,BRIDGE,INT,OBI-WAN,Copy that. Landing strip's straight ahead.
+3,64,257,BRIDGE,INT,ANAKIN,We're coming in too hot.
+3,64,258,BRIDGE,INT,OBI-WAN,Easy-easy.
+3,65,259,CORUSCANT INDUSTRIAL LANDING PLATFORM,INT,OBI-WAN,Another happy landing.
+3,66,260,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,ANAKIN,"Are you coming, Master?"
+3,66,261,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,OBI-WAN,"Oh no. I'm not brave enough for politics. I have to report to the Council. Besides, someone needs to be the poster boy."
+3,66,262,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,ANAKIN,"Hold on, this whole operation was your idea. You planned it. You led the rescue operation. You have to be the one to take the bows this time."
+3,66,263,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,OBI-WAN,"Sorry, old friend. Let us not forget that you rescued me from the Buzz Droids. And you killed Count Dooku. And you rescued the Chancellor, carrying me unconscious on your back, and you managed to land that bucket of bolts safely . . ."
+3,66,264,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,ANAKIN,"All because of your training, Master. You deserve all those speeches of your greatness."
+3,66,265,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,OBI-WAN,". . . the endless speeches . . . Anakin, let's be fair. Today, you are the hero and you deserve your glorious day with the politicians."
+3,66,266,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,ANAKIN,All right. But you owe me . . . and not for saving your skin for the tenth time . . .
+3,66,267,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,OBI-WAN,Ninth time . . . that business on Cato Nemoidia doesn't count. I'll see you at the briefing.
+3,66,268,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,PALPATINE,"Yes, thanks to your two Jedi Knights. They killed Count Dooku, but General Grievous has escaped once again."
+3,66,269,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,PALPATINE,"That maybe true, but with Count Dooku dead, he is the leader of the Droid Army, and I assure you, the Senate will vote to continue the war as long as Grievous is alive."
+3,66,270,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,BAIL ORGANA,"Skywalker, the Republic cannot praise you enough."
+3,66,271,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,ANAKIN,"Thank you, Senator Organa. The kidnapping was a bold move by the Separatists, but it was a mistake that Obi-Wan and I were able to take advantage of."
+3,66,272,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,C-3PO,It couldn't possibly be as bad as all that.
+3,66,273,CORUSCANT SENATE OFFICE BUILDING LANDING PLATFORM,INT,C-3PO,"Well, there, I agree with you. In fact, I could do with a tune-up myself."
+3,67,274,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,BAIL ORGANA,"The end of Count Dooku will surely bring an end to this war, and an end to the Chancellor's draconian security measures."
+3,67,275,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"I wish that were so, but the fighting is going to continue until General Grievous is spare parts . . . The Chancellor is very clear about that."
+3,67,276,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,BAIL ORGANA,I'll do everything I can with the Senate.
+3,67,277,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,Excuse me.
+3,67,278,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,BAIL ORGANA,Certainly.
+3,67,279,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,"Oh, Anakin! Thank goodness, you're back."
+3,67,280,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"I missed you, Padme. I've missed you so."
+3,67,281,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,There were whispers . . . that you'd been killed. I've been living with unbearable dread.
+3,67,282,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"I'm back, I'm all right. It feels like we've been apart for a lifetime. And it might have been ... If the Chancellor hadn't been kidnapped. I don't think they would have ever brought us back from the Outer Rim sieges."
+3,67,283,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,"Wait, not here . . ."
+3,67,284,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"Yes, here! I'm tired of all this deception. I don't care if they know we're married."
+3,67,285,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,"Anakin, don't say things like that. You're important to the Republic ... to ending this war. I love you more than anything, but I won't let you give up your life as a Jedi for me . . ."
+3,67,286,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"I've given my life to the Jedi order, but I'd only give up my life, for you."
+3,67,287,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,"I wouldn't like that. I wouldn't like that one bit. Patience, my handsome Jedi . . . Come to me later."
+3,67,288,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,Are you all right? You're trembling. What's going on?
+3,67,289,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,I'm just excited to see you.
+3,67,290,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,That's not it. I sense more . . . what is it?
+3,67,291,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,Nothing . . . nothing . . .
+3,67,292,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,You're frightened.  Tell me what's going on!
+3,67,293,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,You've been gone five months . . . it's been very hard for me. I've never felt so alone. There's . . .
+3,67,294,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,. . . Is there someone else?
+3,67,295,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,"No! Why do you think that? Your jealousy upsets me so much, Anakin. I do nothing to betray you, yet you still don't trust me. Nothing has changed."
+3,67,296,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"I'm afraid of losing you, Padme . . . that's all."
+3,67,297,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,"I will never stop loving you, Anakin. My only fear is losing you."
+3,67,298,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,It's just that I've never seen you like this . . .
+3,67,299,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,Something wonderful has happened.
+3,67,300,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,"I'm . . . Annie, I'm pregnant."
+3,67,301,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,That's . . . that's wonderful.
+3,67,302,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PADME,What are we going to do?
+3,67,303,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"We're not going to worry about anything right now, all right? This is a happy moment. The happiest moment of my life."
+3,68,304,UTAPAU LANDING PLATFORM,INT,SUPER BATTLE DROID G21,"The planet is secure, sir. The population is under control."
+3,68,305,UTAPAU LANDING PLATFORM,INT,GENERAL GRIEVOUS,Good. Where is the Separatist Council?
+3,68,306,UTAPAU LANDING PLATFORM,INT,SUPER BATTLE DROID G21,"This way, sir ..."
+3,69,307,UTAPAU CONFERENCE ROOM GRAND CHAMBER,INT,GENERAL GRIEVOUS,"Yes, Lord Sidious."
+3,69,308,UTAPAU CONFERENCE ROOM GRAND CHAMBER,INT,GENERAL GRIEVOUS,"It will be done, My Lord."
+3,69,309,UTAPAU CONFERENCE ROOM GRAND CHAMBER,INT,GENERAL GRIEVOUS,But the loss of Count Dooku?
+3,70,310,CORUSCANT PADME'S APARTMENT,INT,ANAKIN,". . . every second I was thinking of you. Protecting the endless, nameless Outer Rim settlements became a torture . . . the battles were easy, the longing became unbearable . . . I've never been so happy as I am at this moment."
+3,70,311,CORUSCANT PADME'S APARTMENT,INT,PADME,"Annie, I want to have our baby back home on Naboo. We could go to the lake country where no one would know . . . where we would be safe. I could go early-and fix up the baby's room. I know the perfect spot, right by the gardens."
+3,70,312,CORUSCANT PADME'S APARTMENT,INT,ANAKIN,You are so beautiful!
+3,70,313,CORUSCANT PADME'S APARTMENT,INT,PADME,It's only because I'm so in love . . .
+3,70,314,CORUSCANT PADME'S APARTMENT,INT,ANAKIN,"No, it's because I'm so in love with you."
+3,70,315,CORUSCANT PADME'S APARTMENT,INT,PADME,So love has blinded you?
+3,70,316,CORUSCANT PADME'S APARTMENT,INT,ANAKIN,"Well, that's not exactly what I meant . . ."
+3,70,317,CORUSCANT PADME'S APARTMENT,INT,PADME,But it's probably true!
+3,70,318,CORUSCANT PADME'S APARTMENT,INT,ANAKIN,I haven't laughed in so long . . .
+3,70,319,CORUSCANT PADME'S APARTMENT,INT,PADME,Neither have I.
+3,71,320,POLIS MASSA MEDICAL CENTER,INT,PADME,"Anakin, help me! Help, Anakin! Anakin, I love you. I love you."
+3,72,321,CORUSCANT PADME'S APARTMENT BEDROOM,INT,PADME,Anakin??
+3,73,322,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,What's bothering you?
+3,73,323,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,Nothing . . .
+3,73,324,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,I remember when I gave this to you.
+3,73,325,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Anakin, how long is it going to take for us to be honest with each other?"
+3,73,326,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,It was a dream.
+3,73,327,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,Bad?
+3,73,328,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,Like the ones I used to have about my mother just before she died.
+3,73,329,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,And?
+3,73,330,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,It was about you.
+3,73,331,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,Tell me.
+3,73,332,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,It was only a dream.
+3,73,333,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,You die in childbirth . . .
+3,73,334,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,And the baby?
+3,73,335,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,I don't know.
+3,73,336,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,It was only a dream.
+3,73,337,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,". . . I won't let this one become real, Padme."
+3,73,338,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Anakin, this baby will change our lives. I doubt the Queen will continue to allow me to serve in the Senate, and if the Council discovers you are the father, you will be expelled from the Jedi Order."
+3,73,339,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,I know .
+3,73,340,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Anakin, do you think Obi-Wan might be able to help us?"
+3,73,341,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,Have you told him anything?
+3,73,342,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"No, but he's your mentor, your best friend . . . he must suspect something."
+3,73,343,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"He's been a father to me, but he's still on the Council. Don't tell him anything!"
+3,73,344,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"I won't, Anakin."
+3,73,345,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"I don't need his help . . . Our baby is a blessing, not a problem."
+3,74,346,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,YODA,Premonitions . . . premonitions . . . Hmmmm . . . these visions you have . . .
+3,74,347,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,ANAKIN,"They are of pain, suffering, death . . ."
+3,74,348,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,YODA,"Yourself you speak of, or someone you know?"
+3,74,349,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,ANAKIN,Someone . . .
+3,74,350,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,YODA,. . . close to you?
+3,74,351,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,ANAKIN,Yes.
+3,74,352,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,YODA,"Careful you must be when sensing the future, Anakin. The fear of loss is a path to the dark side."
+3,74,353,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,ANAKIN,"I won't let these visions come true, Master Yoda."
+3,74,354,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,YODA,"Death is a natural part of life. Rejoice for those around you who transform into the Force. Mourn them, do not. Miss them, do not. Attachment leads to jealousy. The shadow of greed, that is."
+3,74,355,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,ANAKIN,"What must I do, Master Yoda?"
+3,74,356,CORUSCANT JEDI TEMPLE YODAS QUARTERS,INT,YODA,Train yourself to let go of everything you fear to lose.
+3,76,357,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,You missed the report on the Outer Rim sieges.
+3,76,358,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,ANAKIN,"I'm sorry, I was held up. I have no excuse."
+3,76,359,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,"In short, they are going very well. Saleucami has fallen, and Master Vos has moved his troops to Boz Pity."
+3,76,360,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,ANAKIN,What's wrong then?
+3,76,361,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,The Senate is expected to vote more executive powers to the Chancellor today.
+3,76,362,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,ANAKIN,"Well, that can only mean less deliberating and more action. Is that bad? It will make it easier for us to end this war."
+3,76,363,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,"Anakin, be careful of your friend Palpatine."
+3,76,364,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,ANAKIN,Be careful of what?
+3,76,365,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,He has requested your presence.
+3,76,366,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,ANAKIN,What for?
+3,76,367,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,He would not say.
+3,76,368,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,ANAKIN,"He didn't inform the Jedi Council? That's unusual, isn't it?"
+3,76,369,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,"All of this is unusual, and it's making me feel uneasy. You're probably aware that relations between the Council and the Chancellor are stressed."
+3,76,370,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,ANAKIN,"I know the Council has grown wary of the Chancellor's power, mine also for that matter. Aren't we all working together to save the Republic? Why all this distrust?"
+3,76,371,CORUSCANT JEDI TEMPLE BRIEFING ROOM,INT,OBI-WAN,"The Force grows dark, Anakin, and we are all affected by it. Be wary of your feelings."
+3,77,372,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Anakin, this afternoon the Senate is going to call on me to take direct control of the Jedi Council."
+3,77,373,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,The Jedi will no longer report to the Senate?
+3,77,374,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,They will report to me . . . personally. The Senate is too unfocused to conduct a war. This will bring a quick end to things.
+3,77,375,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,"I agree, but the Jedi Council may not see it that way."
+3,77,376,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,There are times when we must all endure adjustments to the constitution in the name of security.
+3,77,377,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,"With all due respect, sir, the Council is in no mood for more constitutional amendments."
+3,77,378,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Thank you, my friend, but in this case I have no choice . . . this war must be won."
+3,77,379,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,Everyone will agree on that.
+3,77,380,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Anakin, I've known you since you were a small boy. I have advised you over the years when I could ... I am very proud of your accomplishments. You have won many battles the Jedi Council thought were lost . . . and you saved my life. I hope you trust me, Anakin."
+3,77,381,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,Of course.
+3,77,382,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"I need your help, son."
+3,77,383,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,What do you mean?
+3,77,384,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,I fear the Jedi. The Council keeps pushing for more control. They're shrouded in secrecy and obsessed with maintaining their autonomy . . . ideals. I find simply incomprehensible in a democracy.
+3,77,385,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,"I can assure you that the Jedi are dedicated to the values of the Republic, sir."
+3,77,386,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Nevertheless, their actions will speak more loudly than their words. I'm depending on you."
+3,77,387,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,For what? I don't understand.
+3,77,388,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"To be the eyes, ears, and voice of the Republic . . ."
+3,77,389,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,Anakin . . . I'm appointing you to be my personal representative on the Jedi Council.
+3,77,390,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,"Me? A Master? I am overwhelmed, sir, but the Council elects its own members. They will never accept this."
+3,77,391,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,I think they will . . . they need you more than you know.
+3,78,392,CORUSCANT BAIL ORGANA'S OFFICE,INT,BAIL ORGANA,"Now that he has control of the Jedi Council, the Chancellor has appointed Governors to oversee all star systems in the Republic."
+3,78,393,CORUSCANT BAIL ORGANA'S OFFICE,INT,FANG ZAR,When did this happen?
+3,78,394,CORUSCANT BAIL ORGANA'S OFFICE,INT,BAIL ORGANA,The decree was posted this morning.
+3,78,395,CORUSCANT BAIL ORGANA'S OFFICE,INT,PADME,Do you think he will dismantle the Senate?
+3,78,396,CORUSCANT BAIL ORGANA'S OFFICE,INT,MON MOTHMA,"Why bother? As a practical matter, the Senate no longer exists."
+3,78,397,CORUSCANT BAIL ORGANA'S OFFICE,INT,GIDDEAN DANU,"The constitution is in shreds. Amendment after amendment . . . executive directives, sometimes a dozen in one day."
+3,78,398,CORUSCANT BAIL ORGANA'S OFFICE,INT,BAIL ORGANA,We can't let a thousand years of democracy disappear without a fight.
+3,78,399,CORUSCANT BAIL ORGANA'S OFFICE,INT,TERR TANEEL,What are you suggesting?
+3,78,400,CORUSCANT BAIL ORGANA'S OFFICE,INT,BAIL ORGANA,I apologize. I didn't mean to sound like a Separatist.
+3,78,401,CORUSCANT BAIL ORGANA'S OFFICE,INT,MON MOTHMA,"We are not Separatists trying to leave the Republic. We are loyalists, trying to preserve democracy in the Republic."
+3,78,402,CORUSCANT BAIL ORGANA'S OFFICE,INT,BAIL ORGANA,It has become increasingly clear to many of us that the Chancellor has become an enemy of democracy.
+3,78,403,CORUSCANT BAIL ORGANA'S OFFICE,INT,PADME,I can't believe it has come to this! Chancellor Palpatine is one of my oldest advisors. He served as my Ambassador when I was Queen.
+3,78,404,CORUSCANT BAIL ORGANA'S OFFICE,INT,MON MOTHMA,"The Chancellor has played the Senators well. They know where the power lies, and they will do whatever it takes to share in it. Palpatine has become a dictator and we have helped him to do it."
+3,78,405,CORUSCANT BAIL ORGANA'S OFFICE,INT,BAIL ORGANA,"We can't sit around debating any longer, we have decided to do what we can to stop it. Senator Mon Mothma and I are putting together an organization . . ."
+3,78,406,CORUSCANT BAIL ORGANA'S OFFICE,INT,PADME,"Say no more. Senator Organa. I understand. At this point, it's better to leave some things unsaid."
+3,78,407,CORUSCANT BAIL ORGANA'S OFFICE,INT,BAIL ORGANA,"Yes. I agree and we must not discuss this with anyone, without everyone in this group agreeing."
+3,78,408,CORUSCANT BAIL ORGANA'S OFFICE,INT,MON MOTHMA,That means those closest to you . . . even family ... no one can be told.
+3,78,409,CORUSCANT BAIL ORGANA'S OFFICE,INT,PADME,Agreed.
+3,80,410,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,MACE,"Anakin Skywalker, we have approved your appointment to the Council as the Chancellor's personal representative."
+3,80,411,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,ANAKIN,I will do my best to uphold the principles of the Jedi Order.
+3,80,412,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,YODA,"Allow this appointment lightly, the Council does not. Disturbing is this move by Chancellor Palpatine."
+3,80,413,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,ANAKIN,I understand.
+3,80,414,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,MACE,"You are on this Council, but we do not grant you the rank of Master."
+3,80,415,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,ANAKIN,"What? ! How can you do this?? This is outrageous, it's unfair . . . I'm more powerful than any of you. How can you be on the Council and not be a Master?"
+3,80,416,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,MACE,"Take a seat, young Skywalker."
+3,80,417,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,ANAKIN,"Forgive me, Master."
+3,80,418,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,YODA,"Hiding in the Outer Rim, Grievous is. The outlying systems, you must sweep."
+3,80,419,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,OBI-WAN,It may take some time . . . we do not have many ships to spare.
+3,80,420,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,MACE,We cannot take ships from the front line.
+3,80,421,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,OBI-WAN,"And yet, it would be fatal for us to allow the droid armies to regroup."
+3,80,422,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,YODA,"Master Kenobi, our spies contact, you must, and then wait."
+3,80,423,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,MACE,"It is critical we send an attack group there, immediately!"
+3,80,424,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,OBI-WAN,"He's right, that is a system we cannot afford to lose. It's the main navigation route for the southwestern quadrant."
+3,80,425,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,ANAKIN,I know that system well. It would take us little time to drive the droids off that planet.
+3,80,426,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,MACE,"Skywalker, your assignment is here with the Chancellor, and Kenobi must find General Grievous."
+3,80,427,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,YODA,"Go, I will. Good relations with the Wookiees, I have."
+3,80,428,CORUSCANT JEDI TEMPLE COUNCIL CHAMBERS,INT,MACE,It is settled then. Yoda will take a battalion of clones to reinforce the Wookiees on Kashyyyk. May the Force be with us all.
+3,81,429,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,"What kind of nonsense is this, put me on the Council and not make me a Master!?? That's never been done in the history of the Jedi. It's insulting!"
+3,81,430,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"Calm down, Anakin. You have been given a great honor. To be on the Council at your age . . . It's never happened before. Listen to me, Anakin. The fact of the matter is you're too close to the Chancellor. The Council doesn't like it when he interferes in Jedi affairs."
+3,81,431,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,"I swear to you, I didn't ask to be put on the Council . . ."
+3,81,432,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,But it's what you wanted! Your friendship with Chancellor Palpatine seems to have paid off.
+3,81,433,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,That has nothing to do with this.
+3,81,434,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"Anakin, regardless of how it happened, you find yourself in a delicate situation."
+3,81,435,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,You mean divided loyalties.
+3,81,436,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,I warned you there was tension between the Council and the Chancellor. I was very clear. Why didn't you listen? You walked right into it.
+3,81,437,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,The Council is upset I'm the youngest to ever serve.
+3,81,438,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"No, it is not. Anakin, I worry when you speak of jealousy and pride. Those are not Jedi thoughts. They're dangerous, dark thoughts."
+3,81,439,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,"Master, you of all people should have confidence in my abilities. I know where my loyalties lie."
+3,81,440,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,I hope so . . .
+3,81,441,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,I sense there's more to this talk than you're saying.
+3,81,442,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"Anakin, the only reason the Council has approved your appointment is because the Chancellor trusts you."
+3,81,443,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,And?
+3,81,444,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"Anakin, look, I am on your side. I didn't want to see you put in this situation."
+3,81,445,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,What situation?
+3,81,446,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,The Council wants you to report on all of the Chancellor's dealings. They want to know what he's up to.
+3,81,447,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,They want me to spy on the Chancellor? That's treason!
+3,81,448,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"We are at war, Anakin. The Jedi Council is sworn to uphold the principles of the Republic, even if the Chancellor does not."
+3,81,449,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,Why didn't the Council give me this assignment when we were in session?
+3,81,450,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,This assignment is not to be on record. The Council asked me to approach you on this personally.
+3,81,451,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,"The Chancellor is not a bad man, Obi-Wan. He befriended me. He's watched out for me ever since I arrived here."
+3,81,452,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"That is why you must help us, Anakin. Our allegiance is to the Senate, not to its leader who has managed to stay in office long after his term has expired."
+3,81,453,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,"Master, the Senate demanded that he stay longer."
+3,81,454,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,"Yes, but use your feelings, Anakin. Something is out of place."
+3,81,455,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,ANAKIN,You're asking me to do something against the Jedi Code. Against the Republic. Against a mentor . . . and a friend. That's what's out of place here. Why are you asking this of me?
+3,81,456,CORUSCANT JEDI TEMPLE MASSIVE MAIN HALLWAY AND ALCOVE,INT,OBI-WAN,The Council is asking you.
+3,83,457,CORUSCANT JEDI GUNSHIP,INT,OBI-WAN,Anakin did not take to his assignment with much enthusiasm.
+3,83,458,CORUSCANT JEDI GUNSHIP,INT,YODA,"Too much under the sway of the Chancellor, he is. Much anger there is in him. Too much pride in his powers."
+3,83,459,CORUSCANT JEDI GUNSHIP,INT,MACE,"It's very dangerous, putting them together. I don't think the boy can handle it. I don't trust him."
+3,83,460,CORUSCANT JEDI GUNSHIP,INT,OBI-WAN,He'll be all right. I trust him with my life.
+3,83,461,CORUSCANT JEDI GUNSHIP,INT,MACE,I wish I did.
+3,83,462,CORUSCANT JEDI GUNSHIP,INT,OBI-WAN,"With all due respect, Master, is he not the Chosen One? Is he not to destroy the Sith and bring balance to the Force?"
+3,83,463,CORUSCANT JEDI GUNSHIP,INT,MACE,So the prophecy says.
+3,83,464,CORUSCANT JEDI GUNSHIP,INT,YODA,A prophecy . . . that misread could have been.
+3,83,465,CORUSCANT JEDI GUNSHIP,INT,OBI-WAN,He will not let me down. He never has.
+3,83,466,CORUSCANT JEDI GUNSHIP,INT,YODA,"I hope right you are. And now destroy the Droid armies on Kashyyyk, I will. May the Force be with you."
+3,84,467,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Thank you, Captain."
+3,84,468,CORUSCANT PADME'S APARTMENT VERANDA,INT,CAPTAIN TYPHO,Rest well. My Lady.
+3,84,469,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,I'll be up in a while.
+3,84,470,CORUSCANT PADME'S APARTMENT VERANDA,INT,MOTEE,"Yes, my lady."
+3,84,471,CORUSCANT PADME'S APARTMENT VERANDA,INT,C-3PO,"Is there anything I might do for you, my lady?"
+3,84,472,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Yes, make sure all the security droids are working. Thank you, Threepio."
+3,84,473,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"Beautiful, isn't it?"
+3,84,474,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,You startled me.
+3,84,475,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,How are you feeling?
+3,84,476,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,He keeps kicking.
+3,84,477,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,He?! Why do you think it's a boy?
+3,84,478,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,My motherly intuition.
+3,84,479,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"Whoa! With a kick that strong, it's got to be a girl."
+3,84,480,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,I heard about your appointment. Anakin. I'm so proud of you.
+3,84,481,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"I may be on the Council, but . . . they refused to accept me as a Jedi Master."
+3,84,482,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Patience. In time, they will recognize your skills."
+3,84,483,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"They still treat me as if I were a Padawan learner. . . they fear my power, that's the problem."
+3,84,484,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,Anakin . . .
+3,84,485,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"Sometimes, I wonder what's happening to the Jedi Order . . . I think this war is destroying the principles of the Republic."
+3,84,486,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,Have you ever considered that we may be on the wrong side?
+3,84,487,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,What do you mean?
+3,84,488,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"What if the democracy we thought we were serving no longer exists, and the Republic has become the very evil we have been fighting to destroy?"
+3,84,489,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,I don't believe that. And you're sounding like a Separatist!
+3,84,490,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Anakin, this war represents a failure to listen . . . Now, you're closer to the Chancellor than anyone. Please, please ask him to stop the fighting and let diplomacy resume."
+3,84,491,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,"Don't ask me to do that, Padme. Make a motion in the Senate, where that kind of a request belongs. I'm not your errand boy. I'm not anyone's errand boy!"
+3,84,492,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,What is it?
+3,84,493,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,Nothing.
+3,84,494,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,Don't do this . . . don't shut me out. Let me help you.
+3,84,495,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,You can't help me . . . I'm trying to help you.
+3,84,496,CORUSCANT PADME'S APARTMENT VERANDA,INT,ANAKIN,I sense . . . there are things you are not telling me.
+3,84,497,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,I sense there are things you are not telling me.
+3,84,498,CORUSCANT PADME'S APARTMENT VERANDA,INT,PADME,"Hold me . . . like you did by the lake on Naboo, so long ago . . . when there was nothing but our love ... No politics, no plotting ... no war."
+3,85,499,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,"You wanted to see me, Chancellor."
+3,85,500,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Yes, Anakin! Come closer. I have good news. Our Clone Intelligence Units have discovered the location of General Grievous. He is hiding in the Utapau system."
+3,85,501,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,"At last, we'll be able to capture that monster and end this war."
+3,85,502,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"I would worry about the collective wisdom of the Council if they didn't select you for this assignment. You are the best choice by far  but, they can't always be trusted to do the right thing."
+3,85,503,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,They try.
+3,85,504,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Sit down,  Leave us."
+3,85,505,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Anakin, you know I'm not able to rely on the Jedi Council. If they haven't included you in their plot, they soon will."
+3,85,506,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,I'm not sure I understand.
+3,85,507,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,You must sense what I have come to suspect . . . the Jedi Council want control of the Republic . . . they're planning to betray me.
+3,85,508,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,I don't think . . .
+3,85,509,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Anakin, search your feelings. You know, don't you?"
+3,85,510,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,I know they don't trust you . . .
+3,85,511,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,Or the Senate . . . or the Republic . . . or democracy for that matter.
+3,85,512,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,I have to admit my trust in them has been shaken.
+3,85,513,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Why? They asked you to do something that made you feel dishonest, didn't they?"
+3,85,514,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"They asked you to spy on me, didn't they?"
+3,85,515,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,I don't know ... I don't know what to say.
+3,85,516,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Remember back to your early teachings. Anakin. ""All those who gain power are afraid to lose it."" Even the Jedi."
+3,85,517,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,The Jedi use their power for good.
+3,85,518,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Good is a point of view, Anakin. And the Jedi point of view is not the only valid one. The Dark Lords of the Sith believe in security and justice also, yet they are considered by the Jedi to be. . ."
+3,85,519,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,. . . evil.
+3,85,520,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,". . . from a Jedi's point of view. The Sith and the Jedi are similar in almost every way, including their quest for greater power. The difference between the two is the Sith are not afraid of the dark side of the Force. That is why they are more powerful."
+3,85,521,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,"The Sith rely on their passion for their strength. They think inward, only about themselves."
+3,85,522,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,And the Jedi don't?
+3,85,523,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,The Jedi are selfless . . . they only care about others.
+3,85,524,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Or so you've been trained to believe. Why is it, then, that they have asked you to do something you feel is wrong?"
+3,85,525,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,I'm not sure it's wrong.
+3,85,526,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,Have they asked you to betray the Jedi code? The Constitution? A friendship? Your own values? Think. Consider their motives. Keep your mind clear of assumptions. The fear of losing power is a weakness of both the Jedi and the Sith.
+3,85,527,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"Did you ever hear the tragedy of Darth Plagueis ""the wise""?"
+3,85,528,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,No.
+3,85,529,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"I thought not. It's not a story the Jedi would tell you. It's a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midi-chlorians to create life ... He had such a knowledge of the dark side that he could even keep the ones he cared about from dying."
+3,85,530,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,He could actually save people from death?
+3,85,531,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,The dark side of the Force is a pathway to many abilities some consider to be unnatural.
+3,85,532,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,What happened to him?
+3,85,533,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,"He became so powerful . . . the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep.  Plagueis never saw it coming. It's ironic he could save others from death, but not himself."
+3,85,534,CORUSCANT GALAXIES OPERA HOUSE,INT,ANAKIN,Is it possible to learn this power?
+3,85,535,CORUSCANT GALAXIES OPERA HOUSE,INT,PALPATINE,Not from a Jedi.
+3,87,536,KASHYYYK HOLOGRAM AREA,INT,MACE,How could the Chancellor have come by this information and we know nothing about it? We have had contact with Baron Papanoida and he said no one was there.
+3,87,537,KASHYYYK HOLOGRAM AREA,INT,ANAKIN,A partial message was intercepted in a diplomatic packet from the Chairman of Utapau.
+3,87,538,KASHYYYK HOLOGRAM AREA,INT,YODA,"Act on this, we must. The capture of General Grievous will end this war. Quickly and decisively we should proceed."
+3,87,539,KASHYYYK HOLOGRAM AREA,INT,OBI-WAN,Does everyone agree?
+3,87,540,KASHYYYK HOLOGRAM AREA,INT,ANAKIN,The Chancellor has requested that I lead the campaign.
+3,87,541,KASHYYYK HOLOGRAM AREA,INT,MACE,"The Council will make up its own mind who is to go, not the Chancellor."
+3,87,542,KASHYYYK HOLOGRAM AREA,INT,YODA,"A Master is needed, with more experience."
+3,87,543,KASHYYYK HOLOGRAM AREA,INT,MACE,"Given our resources, I recommend we send only one Jedi . . . Master Kenobi."
+3,87,544,KASHYYYK HOLOGRAM AREA,INT,ANAKIN,He was not so successful the last time he met Grievous.
+3,87,545,KASHYYYK HOLOGRAM AREA,INT,ANAKIN,"No offense, my Master, but I'm only stating a fact."
+3,87,546,KASHYYYK HOLOGRAM AREA,INT,OBI-WAN,"Oh no, you're quite right, but I do have the most experience with his ways of combat."
+3,87,547,KASHYYYK HOLOGRAM AREA,INT,YODA,"Obi-Wan, my choice is."
+3,87,548,KASHYYYK HOLOGRAM AREA,INT,YODA,I agree.
+3,87,549,KASHYYYK HOLOGRAM AREA,INT,MACE,Very well. Council is adjourned.
+3,87,550,KASHYYYK HOLOGRAM AREA,INT,MACE,"Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle droids he may have with him."
+3,88,551,KASHYYYK HOLOGRAM AREA,INT,CLONE COMMANDER GREE,The droids have started up their main power generators.
+3,88,552,KASHYYYK HOLOGRAM AREA,INT,YODA,"Then now the time is, Commander."
+3,88,553,KASHYYYK HOLOGRAM AREA,INT,CLONE COMMANDER GREE,"Yes, sir."
+3,91,554,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,Has Anakin been to see you?
+3,91,555,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,Several times . . . I was so happy to hear he was accepted on the Jedi Council.
+3,91,556,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,"I know ... he deserves it. He is impatient, strong willed, very opinionated, but truly gifted."
+3,91,557,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,"You're not just here to say hello. Something is wrong, isn't it?"
+3,91,558,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,"You should be a Jedi, Padme."
+3,91,559,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,You're not very good at hiding your feelings.
+3,91,560,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,It's Anakin . . . He's becoming moody and detached. He's been put in a difficult position as the Chancellor's representative . . . but I think it's more than that. I was hoping he may have talked to you.
+3,91,561,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,Why would he talk to me about his work?
+3,91,562,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,Neither of you is very good at hiding your feelings either.
+3,91,563,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,Don't give me that look.
+3,91,564,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,I know how he feels about you.
+3,91,565,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,What did he say?
+3,91,566,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,Nothing. He didn't have to.
+3,91,567,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,I don't know what you're talking about.
+3,91,568,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,"I know you both too well. I can see you two are in love. Padme, I'm worried about him."
+3,91,569,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,I fear your relationship has confused him. He's changed considerably since we returned . . .
+3,91,570,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,"Padme, I'm not telling the Council about any of this. I ... I hope I didn't upset you. We're all friends, I care about both of you . . ."
+3,91,571,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,PADME,"Thank you, Obi-Wan."
+3,91,572,CORUSCANT PADME'S APARTMENT LIVING ROOM,INT,OBI-WAN,Please do what you can to help him.
+3,92,573,CORUSCANT PADME'S APARTMENT,INT,PADME,We cannot let this turn into another war.
+3,92,574,CORUSCANT PADME'S APARTMENT,INT,BAIL ORGANA,"Absolutely, that is the last thing we want."
+3,92,575,CORUSCANT PADME'S APARTMENT,INT,MON MOTHMA,"We are hoping to form an alliance in the Senate to stop the Chancellor from further subverting the constitution, that's all."
+3,92,576,CORUSCANT PADME'S APARTMENT,INT,PADME,I know a Jedi I feel it would be wise to consult.
+3,92,577,CORUSCANT PADME'S APARTMENT,INT,BANA BREEMU,That would be dangerous.
+3,92,578,CORUSCANT PADME'S APARTMENT,INT,MON MOTHMA,We don't know where the Jedi stand in all this.
+3,92,579,CORUSCANT PADME'S APARTMENT,INT,PADME,I only wish to discuss this with one . . . one I trust.
+3,92,580,CORUSCANT PADME'S APARTMENT,INT,PADME,The Jedi aren't any happier with the situation than we are . . .
+3,92,581,CORUSCANT PADME'S APARTMENT,INT,CHI EEKWAY,"Patience, Senator."
+3,92,582,CORUSCANT PADME'S APARTMENT,INT,FANG ZAR,"We have so many Senators on our side, surely that will pursuade the Chancellor."
+3,92,583,CORUSCANT PADME'S APARTMENT,INT,BANA BREEMU,"When you present the ""petition of the two thousand"" to the Chancellor, things may change."
+3,92,584,CORUSCANT PADME'S APARTMENT,INT,BAIL ORGANA,"Let us see what we can accomplish in the Senate, before we include the Jedi."
+3,93,585,CORUSCANT CLONE LANDING PLATFORM,INT,ANAKIN,"You're going to need me on this one, Master."
+3,93,586,CORUSCANT CLONE LANDING PLATFORM,INT,OBI-WAN,"Oh, I agree. However it may turn out just to be a wild bantha chase."
+3,93,587,CORUSCANT CLONE LANDING PLATFORM,INT,ANAKIN,Master!
+3,93,588,CORUSCANT CLONE LANDING PLATFORM,INT,ANAKIN,"Master, I've disappointed you. I have not been very appreciative of your training . . . I have been arrogant and I apologize . . . I've just been so frustrated with the Council. Your friendship means everything to me."
+3,93,589,CORUSCANT CLONE LANDING PLATFORM,INT,OBI-WAN,"You are strong and wise, Anakin, and I am very proud of you. I have trained you since you were a small boy. I have taught you everything I know. And you have become a far greater Jedi than I could ever hope to be, and you have saved my life more times than I can remember. But be patient, Anakin. It won't be long before the Council makes you a Jedi Master."
+3,93,590,CORUSCANT CLONE LANDING PLATFORM,INT,OBI-WAN,Don't worry. I have enough clones with me to take three systems the size of Utapau. I think I'll be able to handle the situation . . . even without your help.
+3,93,591,CORUSCANT CLONE LANDING PLATFORM,INT,ANAKIN,"Well, there's always a first time."
+3,93,592,CORUSCANT CLONE LANDING PLATFORM,INT,ANAKIN,"Obi-Wan, may the Force be with you."
+3,93,593,CORUSCANT CLONE LANDING PLATFORM,INT,OBI-WAN,"Good-bye, old friend. May the Force be with you."
+3,95,594,REPUBLIC BATTLE CRUISER HANGAR,INT,CLONE COMMANDER CODY,"Fortunately, most of the cities are concentrated on this small continent here . . . on the far side."
+3,95,595,REPUBLIC BATTLE CRUISER HANGAR,INT,OBI-WAN,I'll keep them distracted until you get there. Just don't take too long.
+3,95,596,REPUBLIC BATTLE CRUISER HANGAR,INT,CLONE COMMANDER CODY,"Come on, boss, when have I ever let you down?"
+3,95,597,REPUBLIC BATTLE CRUISER HANGAR,INT,OBI-WAN,Cato Nemoidia . . . for starters.
+3,95,598,REPUBLIC BATTLE CRUISER HANGAR,INT,CLONE COMMANDER CODY,That was Anakin who was late. I believe.
+3,95,599,REPUBLIC BATTLE CRUISER HANGAR,INT,OBI-WAN,"Very well, the burden is on me not to destroy all the droids before you get there."
+3,95,600,REPUBLIC BATTLE CRUISER HANGAR,INT,CLONE COMMANDER CODY,I'm counting on you.
+3,97,601,CORUSCANT CITYSCAPE CHANCELLOR'S TRANSPORT,INT,PALPATINE,"Well, Anakin, did you see your friend off?"
+3,97,602,CORUSCANT CITYSCAPE CHANCELLOR'S TRANSPORT,INT,ANAKIN,He will soon have Grievous's head.
+3,97,603,CORUSCANT CITYSCAPE CHANCELLOR'S TRANSPORT,INT,PALPATINE,We can only hope the Council didn't make a mistake.
+3,97,604,CORUSCANT CITYSCAPE CHANCELLOR'S TRANSPORT,INT,ANAKIN,The Council was very sure in its decision.
+3,98,605,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,JAR JAR,Helloo Annie. Good en to see yousa . . .
+3,98,606,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,"Hi, Jar Jar."
+3,98,607,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,JAR JAR,"Oopsin da Chancellor!! So sorry, Your Highness, sir."
+3,98,608,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PALPATINE,There are rumors in the Senate about Master Kenobi. Many believe he is not fit for this assignment.
+3,98,609,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,Not fit? Why would anyone think that?
+3,98,610,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PALPATINE,They say his mind has become fogged by the influence of a certain female Senator.
+3,98,611,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,That's ridiculous. Who?!?
+3,98,612,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PALPATINE,No one knows who she is ... only that she is a Senator.
+3,98,613,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,ANAKIN,That's impossible. I would know.
+3,98,614,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PALPATINE,Sometimes the closest are the ones who cannot see.
+3,98,615,CORUSCANT SENATE OFFICE BUILDING MAIN HALLWAY,INT,PALPATINE,Idle Senate gossip is rarely true and never accurate. I'm sure your Master will do fine.
+3,99,616,POLIS MASSA MEDICAL CENTER,INT,OBI-WAN,Save your energy.
+3,99,617,POLIS MASSA MEDICAL CENTER,INT,PADME,I can't!
+3,99,618,POLIS MASSA MEDICAL CENTER,INT,OBI-WAN,"Don't give up, Padme. Don't give up . . ."
+3,100,619,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,"I sense someone familiar . . . Obi-Wan's been here, hasn't he?"
+3,100,620,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,He came by this morning.
+3,100,621,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,What did he want?
+3,100,622,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,He's worried about you.
+3,100,623,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,"You told him about us, didn't you?"
+3,100,624,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,"He's your best friend, Anakin. He says you're under a lot of stress."
+3,100,625,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,And he's not?
+3,100,626,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,You have been moody lately.
+3,100,627,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,I'm not moody . . .
+3,100,628,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,Anakin! Don't do this again.
+3,100,629,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,I don't know ... I feel . . . lost.
+3,100,630,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,Lost? What do you mean? You're always so sure of yourself. I don't understand.
+3,100,631,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,Obi-Wan and the Council don't trust me.
+3,100,632,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,They trust you with their lives. Obi-Wan loves you as a son.
+3,100,633,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,"Something's happening . . . I'm not the Jedi I should be. I am one of the most powerful Jedi, but I'm not satisfied ... I want more, and I know I shouldn't."
+3,100,634,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,You expect too much of yourself.
+3,100,635,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,I have found a way to save you.
+3,100,636,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,Save me?
+3,100,637,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,From my nightmares.
+3,100,638,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,Is that what's bothering you?
+3,100,639,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,"I won't lose you, Padme."
+3,100,640,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,"I'm not going to die in childbirth, Annie. I promise you."
+3,100,641,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,ANAKIN,"No, I promise you! I am becoming so powerful with my new knowledge of the Force, I will be able to keep you from dying."
+3,100,642,CORUSCANT PADME'S APARTMENT LANDING ROOM,INT,PADME,"You don't need more power, Anakin. I believe you can protect me against anything, just as you are."
+3,102,643,UTAPAU LANDING PLATFORM,INT,OBI-WAN,"Unfortunately, the war."
+3,102,644,UTAPAU LANDING PLATFORM,INT,OBI-WAN,"With your kind permission, I should like some fuel and to use your city as a base as I search nearby systems for General Grievous."
+3,102,645,UTAPAU LANDING PLATFORM,INT,OBI-WAN,I understand.
+3,102,646,UTAPAU LANDING PLATFORM,INT,OBI-WAN,"Tell your people to take shelter. If you have warriors, now is the time."
+3,102,647,UTAPAU LANDING PLATFORM,INT,OBI-WAN,"Geenine, take the Fighter back to the ship. I'm staying here. Tell Cody I've made contact."
+3,103,648,UTAPAU OBSERVATION DECK,INT,BODYGUARD,What was his name?
+3,106,649,UTAPAU CITY DRAGON CORRAL,INT,OBI-WAN,I need transportation.
+3,106,650,UTAPAU CITY DRAGON CORRAL,INT,WRANGLER,You need transportation.
+3,106,651,UTAPAU CITY DRAGON CORRAL,INT,OBI-WAN,Get it for me.
+3,106,652,UTAPAU CITY DRAGON CORRAL,INT,WRANGLER,I will get it for you.
+3,106,653,UTAPAU CITY DRAGON CORRAL,INT,OBI-WAN,This one.
+3,106,654,UTAPAU CITY DRAGON CORRAL,INT,WRANGLER,Boga. She answers to Boga.
+3,106,655,UTAPAU CITY DRAGON CORRAL,INT,OBI-WAN,"Good girl, Boga."
+3,108,656,UTAPAU CONFERENCE ROOM GRAND CHAMBER,INT,GENERAL GRIEVOUS,It won't be long before the armies of the Republic track us here. I am sending you to the Mustafar system in the Outer Rim. It is a volcanic planet which generates a great deal of scanning interference. You will be safe there.
+3,108,657,UTAPAU CONFERENCE ROOM GRAND CHAMBER,INT,NUTE GUNRAY,"Safe? Chancellor Palpatine managed to escape your grip, General, without Count Dooku. I have doubts about your ability to keep us safe."
+3,108,658,UTAPAU CONFERENCE ROOM GRAND CHAMBER,INT,GENERAL GRIEVOUS,"Be thankful, Viceroy, you have not found yourself in my grip . . . Your ship is waiting."
+3,109,659,UTAPAU TENTH LEVEL CONTROL CENTER,INT,OBI-WAN,"Hello, there!"
+3,109,660,UTAPAU TENTH LEVEL CONTROL CENTER,INT,GENERAL GRIEVOUS,"General Kenobi, you are a bold one. I find your behavior bewildering . . . Surely you realize you're doomed,  Kill him!"
+3,109,661,UTAPAU TENTH LEVEL CONTROL CENTER,INT,GENERAL GRIEVOUS,Enough of this.
+3,109,662,UTAPAU TENTH LEVEL CONTROL CENTER,INT,GENERAL GRIEVOUS,Back away. I will deal with this Jedi slime myself.
+3,109,663,UTAPAU TENTH LEVEL CONTROL CENTER,INT,OBI-WAN,Your move.
+3,109,664,UTAPAU TENTH LEVEL CONTROL CENTER,INT,GENERAL GRIEVOUS,"You fool. I have been trained in your Jedi arts by Count Dooku himself. Attack, Kenobi."
+3,109,665,UTAPAU TENTH LEVEL CONTROL CENTER,INT,OBI-WAN,You forget I trained the Jedi that defeated Count Dooku!
+3,109,666,UTAPAU TENTH LEVEL CONTROL CENTER,INT,OBI-WAN,"I may not defeat your droids, but my troops certainly will."
+3,109,667,UTAPAU TENTH LEVEL CONTROL CENTER,INT,GENERAL GRIEVOUS,"Army or not, you must realize you are doomed."
+3,109,668,UTAPAU TENTH LEVEL CONTROL CENTER,INT,OBI-WAN,I don't think so.
+3,113,669,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"I understand your reservations completely, Senator, and I assure you the appointment of Governors will in no way compete with the duties of the Senate."
+3,113,670,CORUSCANT CHANCELLOR'S OFFICE,INT,PADME,"May I take it then, that there will be no further amendments to the Constitution?"
+3,113,671,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"I want this terrible conflict to end as much as you do, My Lady, and when it does I guarantee an immediate return to democracy . . ."
+3,113,672,CORUSCANT CHANCELLOR'S OFFICE,INT,PADME,"You are pursuing a diplomatic solution to the war, then."
+3,113,673,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"You must trust me to do the right things, Senator. That is why I am here."
+3,113,674,CORUSCANT CHANCELLOR'S OFFICE,INT,FANGZAR,But surely . . .
+3,113,675,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"I have said I will do what is right, that should be enough for your . . . committee."
+3,113,676,CORUSCANT CHANCELLOR'S OFFICE,INT,PADME,"On behalf of the ""delegation of two thousand,"" I thank you, Chancellor."
+3,113,677,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"I thank you for bringing this to my attention, Senator."
+3,113,678,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Their sincerity is to be admired, although I sense there is more to their request than they are telling us."
+3,113,679,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,What do you mean?
+3,113,680,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,They are not to be trusted.
+3,113,681,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,Surely Senator Amidala can be trusted . . .
+3,113,682,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"These are unstable times for the Republic, Anakin. Some see instability as an opportunity. Senator Amidala is hiding something. I can see it in her eyes."
+3,113,683,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I'm sure you're mistaken.
+3,113,684,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,I'm surprised your Jedi insights are not more sensitive to such things.
+3,113,685,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I simply don't sense betrayal in Senator Amidala.
+3,113,686,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Yes, you do, but you don't seem to want to admit it. There is much conflict in you, Anakin."
+3,114,687,CORUSCANT JEDI WAR ROOM,INT,CLONE COMMANDER CODY,"Master Windu, may I interrupt? General Kenobi has made contact with General Grievous, and we
+have begun our attack."
+3,114,688,CORUSCANT JEDI WAR ROOM,INT,ANAKIN,"Yes, Master."
+3,114,689,CORUSCANT JEDI WAR ROOM,INT,MACE WINDU,I sense a plot to destroy the Jedi. The dark side of the Force surrounds the Chancellor.
+3,114,690,CORUSCANT JEDI WAR ROOM,INT,YODA,To a dark place this line of thought will carry us. Hmmmmm. . . . great care we must take.
+3,115,691,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,"Chancellor, we have just received a report from Master Kenobi. He has engaged General Grievous."
+3,115,692,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,We can only hope that Master Kenobi is up to the challenge.
+3,115,693,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I should be there with him.
+3,115,694,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,It is upsetting to me to see that the Council doesn't seem to fully appreciate your talents. Don't you wonder why they won't make you a Jedi Master?
+3,115,695,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I wish I knew. More and more I get the feeling that I am being excluded from the Council. I know there are things about the Force that they are not telling me.
+3,115,696,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"They don't trust you, Anakin. They see your future. They know your power will be too strong to control. Anakin, you must break through the fog of lies the Jedi have created around you. Let me help you to know the subtleties of the Force."
+3,115,697,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,How do you know the ways of the Force?
+3,115,698,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,My mentor taught me everything about the Force . . . even the nature of the dark side.
+3,115,699,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,You know the dark side?!?
+3,115,700,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Anakin, if one is to understand the great mystery, one must study all its aspects, not just the dogmatic, narrow view of the Jedi. If you wish to become a complete and wise leader, you must embrace a larger view of the Force. Be careful of the Jedi, Anakin.  They fear you. In time they will destroy you. Let me train you."
+3,115,701,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I won't be a pawn in your political game. The Jedi are my family.
+3,115,702,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Only through me can you achieve a power greater than any Jedi. Learn to know the dark side of the Force, Anakin, and you will be able to save your wife from certain death."
+3,115,703,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,What did you say?
+3,115,704,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Use my knowledge, I beg you . . ."
+3,115,705,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,You're a Sith Lord!
+3,115,706,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"I know what has been troubling you . . . Listen to me. Don't continue to be a pawn of the Jedi Council! Ever since I've known you, you've been searching for a life greater than that of an ordinary Jedi . . . a life of significance, of conscience."
+3,115,707,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,You're wrong!
+3,115,708,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,Are you going to kill me?
+3,115,709,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I would certainly like to.
+3,115,710,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"I know you would. I can feel your anger. It gives you focus, makes you stronger."
+3,115,711,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I am going to turn you over to the Jedi Council.
+3,115,712,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Of course you should. But you're not sure of their intentions, are you? What if I am right and they are plotting to take over the Republic?"
+3,115,713,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I will quickly discover the truth of all this.
+3,115,714,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"You have great wisdom, Anakin. Know the power of the dark side. The power to save Padme."
+3,115,715,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,I am not going anywhere. You have time to decide my fate. Perhaps you'll reconsider and help me rule the galaxy for the good of all . . .
+3,118,716,UTAPAU WINDMILLS,INT,GENERAL GRIEVOUS,Prepare to move out of orbit. I will be up in a few moments.
+3,120,717,UTAPAU SECRET LANDING PLATFORM,INT,OBI-WAN,So uncivilized . . .
+3,121,718,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,"Master Windu, I must talk to you."
+3,121,719,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,He won't give up his power. I've just learned a terrible truth. I think Chancellor Palpatine is a Sith Lord.
+3,121,720,JEDI GUNSHIP LANDING PLATFORM,INT,MACE WINDU,A Sith Lord?
+3,121,721,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,Yes. The one we have been looking for.
+3,121,722,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,He knows the ways of the Force. He has been trained to use the dark side.
+3,121,723,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,Absolutely.
+3,121,724,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,"Master, the Chancellor is very powerful. You will need my help if you are going to arrest him."
+3,121,725,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,"I must go, Master."
+3,121,726,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,"Yes, Master."
+3,121,727,JEDI GUNSHIP LANDING PLATFORM,INT,ANAKIN,"Yes, Master."
+3,122,728,CORUSCANT JEDI COUNCIL/PADME'S APARTMENT,INT,PALPATINE,"You do know, don't you, if the Jedi destroy me, any chance of saving her will be lost."
+3,122,729,CORUSCANT JEDI COUNCIL/PADME'S APARTMENT,INT,PADME,"I truly, deeply love you. Before I die. I want you to know."
+3,122,730,CORUSCANT JEDI COUNCIL/PADME'S APARTMENT,INT,C-3PO,"My Lady, are you. . . . Are you all right?"
+3,122,731,CORUSCANT JEDI COUNCIL/PADME'S APARTMENT,INT,ANAKIN,I can't do this ... I can't let her die.
+3,125,732,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"Master Windu. I take it General Grievous has been destroyed then. I must say, you're here sooner than expected."
+3,125,733,CORUSCANT CHANCELLORS OFFICE,INT,MACE WINDU,"In the name of the Galactic Senate of the Republic, you are under arrest, Chancellor."
+3,125,734,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"Are you threatening me, Master Jedi?"
+3,125,735,CORUSCANT CHANCELLORS OFFICE,INT,MACE,The Senate will decide your fate.
+3,125,736,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,I am the Senate!
+3,125,737,CORUSCANT CHANCELLORS OFFICE,INT,MACE,Not yet!
+3,125,738,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"It's treason, then."
+3,125,739,CORUSCANT CHANCELLORS OFFICE,INT,MACE WINDU,"You are under arrest, My Lord."
+3,125,740,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,Anakin! I told you it would come to this. I was right. The Jedi are taking over.
+3,125,741,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,No! No! You will die!
+3,125,742,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"He is a traitor, Anakin."
+3,125,743,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"Come to your senses, boy. The Jedi are in revolt. They will betray you, just as they betrayed me."
+3,125,744,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"You are not one of them, Anakin. Don't let him kill me."
+3,125,745,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,I am your pathway to power. I have the power to save the one you love. You must choose. You must stop him.
+3,125,746,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,Help me! Don't let him kill me. I can't hold on any longer. Ahhhhhhh . . . ahhhhhhh . . . ahhhhhhh . . .
+3,125,747,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,I can't ... I give up. Help me. I am weak ... I am too weak. Don't kill me. I give up. I'm dying. I can't hold on any longer.
+3,125,748,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,"You can't kill him, Master. He must stand trial."
+3,125,749,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,I'm too weak. Don't kill me. Please.
+3,125,750,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,It is not the Jedi way . . .
+3,125,751,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,He must live . . .
+3,125,752,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"Please don't, please don't . . ."
+3,125,753,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,I need him . . .
+3,125,754,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,Please don't . . .
+3,125,755,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,NO!!!
+3,125,756,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,Power! Unlimited power!
+3,125,757,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,What have I done?
+3,125,758,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"You are fulfilling your destin, Anakin. Become my apprentice. Learn to use the dark side of the Force."
+3,125,759,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,I will do whatever you ask.
+3,125,760,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,Good.
+3,125,761,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,Just help me save Padme's life. I can't live without her. I won't let her die. I want the power to stop death.
+3,125,762,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"To cheat death is a power only one has achieved, but if we work together, I know we can discover the secret."
+3,125,763,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,I pledge myself to your teachings. To the ways of the Sith.
+3,125,764,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"Good. Good. The Force is strong with you. A powerful Sith you will become. Henceforth, you shall be known as Darth . . . Vader."
+3,125,765,CORUSCANT CHANCELLORS OFFICE,INT,ANAKIN,Thank you. my Master.
+3,125,766,CORUSCANT CHANCELLORS OFFICE,INT,PALPATINE,"Rise, Darth Vader."
+3,127,767,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Because the Council did not trust you, my young apprentice, I believe you are the only Jedi with no knowledge of this plot. When the Jedi learn what has transpired here, they will kill us, along with all the Senators."
+3,127,768,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,I agree. The Jedi's next move will be against the Senate.
+3,127,769,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Every single Jedi, including your friend Obi-Wan Kenobi, is now an enemy of the Republic. You understand that, don't you?"
+3,127,770,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,"I understand, Master."
+3,127,771,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"We must move quickly. The Jedi are relentless; if they are not all destroyed, it will be civil war without end. First, I want you to go to the Jedi Temple. We will catch them off balance. Do what must be done, Lord Vader. Do not hesitate. Show no mercy. Only then will you be strong enough with the dark side to save Padme."
+3,127,772,CORUSCANT CHANCELLOR'S OFFICE,INT,ANAKIN,What about the other Jedi spread across the galaxy?
+3,127,773,CORUSCANT CHANCELLOR'S OFFICE,INT,PALPATINE,"Their betrayal will be dealt with. After you have killed all the Jedi in the Temple, go to the Mustafar system. Wipe out Viceroy Gunray and the other Separatist leaders. Once more, the Sith will rule the galaxy, and we shall have peace."
+3,129,774,UTAPAU TENTH LEVEL LANDIXG PLATFORM,INT,OBI-WAN,"Commander, contact your troops. Tell them to move to the higher levels."
+3,129,775,UTAPAU TENTH LEVEL LANDIXG PLATFORM,INT,CLONE COMMANDER CODY,"Very good, sir."
+3,129,776,UTAPAU TENTH LEVEL LANDIXG PLATFORM,INT,CLONE COMMANDER CODY,"Oh, by the way, I think you'll be needing this."
+3,129,777,UTAPAU TENTH LEVEL LANDIXG PLATFORM,INT,OBI-WAN,"Thank you, Cody,  Now let's get a move on. We've got a battle to win here."
+3,129,778,UTAPAU TENTH LEVEL LANDIXG PLATFORM,INT,CLONE COMMANDER CODY,"Yes, sir!"
+3,129,779,UTAPAU TENTH LEVEL LANDIXG PLATFORM,INT,CLONE COMMANDER CODY,"It will be done, My Lord."
+3,129,780,UTAPAU TENTH LEVEL LANDIXG PLATFORM,INT,CLONE COMMANDER CODY,Blast him!
+3,130,781,MYGEETO,INT,CLONE COMMANDER BACARA,"Yes, sir."
+3,130,782,MYGEETO,INT,CLONE COMMANDER BACARA,"It will be done, My Lord."
+3,131,783,FELUCIA FOREST,INT,AAYLA,Steady. . . . steady . . .
+3,131,784,FELUCIA FOREST,INT,AAYLA,"Bly, do you think they're Droids?"
+3,131,785,FELUCIA FOREST,INT,BLY,No.
+3,134,786,CATO NEIMOIDIA COCKPIT CLONE FIGHTER,INT,DARTH SIDIOUS,Execute Order Sixty-Six.
+3,134,787,CATO NEIMOIDIA COCKPIT CLONE FIGHTER,INT,CLONE PILOT,"It will be done, My Lord."
+3,135,788,CATO NEIMOIDIA JEDI STARFIGHTER,INT,PLO KOON,There they are. Land on the nearest platform.
+3,138,789,CORUSCANT CHANCELLOR'S OFFICE,INT,CLONE COMMANDER GREE,"Yes, My Lord."
+3,138,790,CORUSCANT CHANCELLOR'S OFFICE,INT,DABTH SIDIOUS,The time has come. Execute Order Sixty-Six.
+3,139,791,KASHYYYK MEETING HALL BALCONY,INT,CLONE COMMANDER GREE,"It will be done, My Lord."
+3,142,792,CORUSCANT JEDI TEMPLE BATTLE,INT,YOUNGLINGS,"Master Skywalker, there are too many of them. What are we going to do?"
+3,143,793,CORUSCANT PADME'S APARTMENT PRE,INT,C-3PO,"The Chancellor's office indicated Master Anakin returned to the Jedi Temple. Don't worry, My Lady. I am sure he will be all right."
+3,145,794,CORUSCANT JEDI TEMPLE LANDING PLATFORM PRE,INT,BAIL ORGANA,What's going on here?!?
+3,145,795,CORUSCANT JEDI TEMPLE LANDING PLATFORM PRE,INT,CLONE SERGEANT,"There's been a rebellion. Don't worry, sir, the situation is under control."
+3,145,796,CORUSCANT JEDI TEMPLE LANDING PLATFORM PRE,INT,CLONE SERGEANT,"I'm sorry, sir. No one is allowed entry."
+3,145,797,CORUSCANT JEDI TEMPLE LANDING PLATFORM PRE,INT,CLONE SERGEANT,"It's time for you to leave, sir."
+3,145,798,CORUSCANT JEDI TEMPLE LANDING PLATFORM PRE,INT,BAIL ORGANA,And so it is.
+3,145,799,CORUSCANT JEDI TEMPLE LANDING PLATFORM PRE,INT,CLONE COMMANDER APPO,Get him! Shoot him!
+3,149,800,KASHYYYK LAKE ON VILLAGE EDGE,INT,AT-ST CLONE SERGEANT,Everyone out of there!
+3,149,801,KASHYYYK LAKE ON VILLAGE EDGE,INT,CREATURE,Wookiee good . . . eat Wookiee.
+3,149,802,KASHYYYK LAKE ON VILLAGE EDGE,INT,CLONE SERGEANT,Did you find something?
+3,149,803,KASHYYYK LAKE ON VILLAGE EDGE,INT,CREATURE,"It's nothing, nothing."
+3,149,804,KASHYYYK LAKE ON VILLAGE EDGE,INT,CLONE SERGEANT,"It's nothing, nothing. All these Wookiees are dead. Move to the east."
+3,149,805,KASHYYYK LAKE ON VILLAGE EDGE,INT,CLONE TROOPER,"Yes, sir."
+3,149,806,KASHYYYK LAKE ON VILLAGE EDGE,INT,CREATURE,"Right you are, Chewbacca. Faster that will be."
+3,149,807,KASHYYYK LAKE ON VILLAGE EDGE,INT,YODA,"Stink, this mud does. A moment to bathe, give me."
+3,149,808,KASHYYYK LAKE ON VILLAGE EDGE,INT,YODA,"Not far, are we, from the emergency ship. Quickly . . ."
+3,150,809,KASHYYYK HILLS OVERLOOKING LAKE,INT,YODA,"Good-bye. Chewbacca and Tarfful, miss you I will. Good friends you are. For your help, much gratitude and respect, I have."
+3,151,810,CORUSCANT SENATE OFFICE BUILDING UNDERGROUND STARSHIP LANDING PLATFORM,INT,ROYAL GUARD,Identification . . .
+3,151,811,CORUSCANT SENATE OFFICE BUILDING UNDERGROUND STARSHIP LANDING PLATFORM,INT,BAIL ORGANA,Senator Bail Organa of Alderaan.
+3,152,812,CORUSCANT SENATE OFFICE BUILDING UNDERGROUND LANDING PLATFORM,INT,BAIL ORGANA,Were you able to get hold of a Jedi homing beacon?
+3,152,813,CORUSCANT SENATE OFFICE BUILDING UNDERGROUND LANDING PLATFORM,INT,CAPTAIN ANTILLES,"Yes, sir. We've encountered no opposition. The clones are still a bit confused. It appears no one is in command."
+3,152,814,CORUSCANT SENATE OFFICE BUILDING UNDERGROUND LANDING PLATFORM,INT,BAIL ORGANA,That will change soon. Hopefully we will be able to intercept a few Jedi before they walk into this catastrophe.
+3,153,815,UTAPAU SINKHOLE WALL,INT,CLONE CAPTAIN,Did you find Kenobi?
+3,153,816,UTAPAU SINKHOLE WALL,INT,CLONE TROOPER,No one could have survived that fall.
+3,153,817,UTAPAU SINKHOLE WALL,INT,CLONE CAPTAIN,Start loading your men on the ship.
+3,153,818,UTAPAU SINKHOLE WALL,INT,CLONE TROOPER,"Yes, sir."
+3,156,819,GENERAL GRIEVOUS'S STARFIGHTER,INT,OBI-WAN,Emergency Code Nine Thirteen ... I have no contact on any frequency. Are there any Jedi out there? . . . anywhere . . .
+3,156,820,GENERAL GRIEVOUS'S STARFIGHTER,INT,BAIL,. . . Kenobi . . .
+3,156,821,GENERAL GRIEVOUS'S STARFIGHTER,INT,OBI-WAN,I've locked on. Repeat.
+3,156,822,GENERAL GRIEVOUS'S STARFIGHTER,INT,BAIL ORGANA,Master Kenobi??
+3,156,823,GENERAL GRIEVOUS'S STARFIGHTER,INT,OBI-WAN,Senator Organa! My Clone Troops turned on me ... I need help.
+3,156,824,GENERAL GRIEVOUS'S STARFIGHTER,INT,BAIL ORGANA,We have just rescued Master Yoda. It appears this ambush has happened everywhere. We're sending you our coordinates.
+3,157,825,CORUSCANT PADMESAPARTMENT PRE,INT,C-3PO,"My Lady, there's a Jedi fighter docking on the veranda."
+3,158,826,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,THREEPIO,Hush! Not so loud!
+3,158,827,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,Are you all right? I heard there was an attack on the Jedi Temple . . . you can see the smoke from here.
+3,158,828,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,I'm fine. I'm fine. I came to see if you and the baby are safe.
+3,158,829,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,"Captain Typho's here, we're safe. What's happening?"
+3,158,830,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,What is going on?
+3,158,831,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,You can't be anymore confused than I am.
+3,158,832,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,The situation is not good. The Jedi have tried to overthrow the Republic . . .
+3,158,833,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,I can't believe that!
+3,158,834,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,"I couldn't either at first, but it's true. I saw Master Windu attempt to assassinate the Chancellor myself."
+3,158,835,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,Something important is going on! I heard a rumor they are going to banish all droids.
+3,158,836,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,Shhhhhh . . . not so loud.
+3,158,837,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,"Whatever it is, we'll be the last to know."
+3,158,838,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,"Anakin, what are you going to do?"
+3,158,839,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,I will not betray the Republic . . . my loyalties lie with the Chancellor and with the Senate . . . and with you.
+3,158,840,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,What about Obi-Wan?
+3,158,841,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,I don't know . . . Many Jedi have been killed. We can only hope that he's remained loyal to the Chancellor.
+3,158,842,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,How could this have happened?
+3,158,843,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,"The Republic is unstable, Padme. The Jedi aren't the only ones trying to take advantage of the situation. There are also traitors in the Senate."
+3,158,844,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,What are you saying?
+3,158,845,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,You need to distance yourself from your friends in the Senate. The Chancellor said they will be dealt with when this conflict is over.
+3,158,846,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,What if they start an inquisition? I've opposed this war. What will you do if I become a suspect?
+3,158,847,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,That won't happen. I won't let it.
+3,158,848,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,"Oh, Anakin, I'm afraid."
+3,158,849,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,"Have faith, my love. Everything will soon be set right. The Chancellor has given me a very important mission. The Separatists have gathered in the Mustafar system. I'm going there to end this war. Wait for me until I return . . . things will be different, I promise."
+3,158,850,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,ANAKIN,"Please, wait for me."
+3,158,851,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,I will.
+3,158,852,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,"Well, he is under a lot of stress, Artoo."
+3,158,853,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,"Take care, my little friend."
+3,158,854,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,"My Lady, is there anything I might do?"
+3,158,855,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,"No thank you, Threepio."
+3,158,856,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,G-3PO,"A snack, perhaps?"
+3,158,857,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,PADME,No.
+3,158,858,CORUSCANT PADME'S APARTMENT VERANDA PRE,INT,C-3PO,I feel so helpless.
+3,160,859,ALDERAAN STARCRUISER HALLWAY,INT,BAIL ORGANA,You made it.
+3,160,860,ALDERAAN STARCRUISER HALLWAY,INT,YODA,"Master Kenobi, dark times are these. Good to see you. it is."
+3,160,861,ALDERAAN STARCRUISER HALLWAY,INT,OBI-WAN,"You were attacked by your Clones, also?"
+3,160,862,ALDERAAN STARCRUISER HALLWAY,INT,YODA,"With the help of the Wookiees, barely escape, I did."
+3,160,863,ALDERAAN STARCRUISER HALLWAY,INT,OBI-WAN,How many other Jedi managed to survive?
+3,160,864,ALDERAAN STARCRUISER HALLWAY,INT,YODA,"Heard from no one, have we."
+3,160,865,ALDERAAN STARCRUISER HALLWAY,INT,BAIL ORGANA,I saw thousands of troops attack the Jedi Temple. That's why I went looking for Yoda.
+3,160,866,ALDERAAN STARCRUISER HALLWAY,INT,OBI-WAN,Have we had any contact from the Temple?
+3,160,867,ALDERAAN STARCRUISER HALLWAY,INT,YODA,"Received a coded retreat message, we have."
+3,160,868,ALDERAAN STARCRUISER HALLWAY,INT,BAIL ORGANA,It requests all Jedi to return to the Temple. It says that the war is over . . .
+3,160,869,ALDERAAN STARCRUISER HALLWAY,INT,OBI-WAN,"Well, then we must go back! If there are other stragglers, they will fall into the trap and be killed."
+3,160,870,ALDERAAN STARCRUISER HALLWAY,INT,BAIL ORGANA,It's too dangerous to return.
+3,160,871,ALDERAAN STARCRUISER HALLWAY,INT,YODA,"Suggest dismantling the coded signal, do you?"
+3,160,872,ALDERAAN STARCRUISER HALLWAY,INT,OBI-WAN,"Yes, Master. There is too much at stake here, and we need a clearer picture of what has happened."
+3,160,873,ALDERAAN STARCRUISER HALLWAY,INT,YODA,I agree. In a dark place we find ourselves ... a little more knowledge might light our way.
+3,162,874,MUSTAFAR MAIN CONTROL CENTER,INT,NUTE GUNRAY,"The plan has gone as you had promised, My Lord."
+3,162,875,MUSTAFAR MAIN CONTROL CENTER,INT,DARTH SIDIOUS,"You have done well, Viceroy. When my new apprentice, Darth Vader, arrives, he will take care of you."
+3,163,876,CRUISER,INT,PILOT,"We are receiving a message from the Chancellor's office, sir."
+3,163,877,CRUISER,INT,BAIL ORGANA,Send it through.
+3,163,878,CRUISER,INT,PILOT,"Yes, sir."
+3,163,879,CRUISER,INT,MAS AMEDDA,Senator Organa . . . the Supreme Chancellor of the Republic requests your presence at a special session of Congress.
+3,163,880,CRUISER,INT,BAIL ORGANA,Tell the Chancellor I will be there.
+3,163,881,CRUISER,INT,MAS AMEDDA,Very well. He will be expecting you.
+3,163,882,CRUISER,INT,BAIL ORGANA,It could be a trap.
+3,163,883,CRUISER,INT,OBI-WAN,"No, I don't think so. The Chancellor will not be able to control the thousands of star systems without keeping the Senate intact."
+3,163,884,CRUISER,INT,YODA,"If a special session of Congress there is, easier for us to enter the Jedi Temple it will be."
+3,164,885,CORUSCANT SENATE LANDING PLATFORM,INT,GUARD,"Welcome back, Senator. May I see your clearance?"
+3,164,886,CORUSCANT SENATE LANDING PLATFORM,INT,BAIL ORGANA,Certainly.
+3,164,887,CORUSCANT SENATE LANDING PLATFORM,INT,GUARD,"Thank you, you may proceed. We will take custody of the Jedi."
+3,164,888,CORUSCANT SENATE LANDING PLATFORM,INT,OBI-WAN,It would be better if we stayed with the Senator.
+3,164,889,CORUSCANT SENATE LANDING PLATFORM,INT,GUARD,It would be better if they stayed with you.
+3,166,890,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,Artoo . . . stay with the ship.
+3,168,891,MUSTAFAR MAIN CONTROL CENTER,INT,NUTE GUNRAY,"Welcome, Lord Vader. We've been expecting you."
+3,170,892,CORUSCANT JEDI TEMPLE MAIN ENTRANCE,INT,OBI-WAN,There are several battalions of Clone Troopers on every level. Many are dressed as Jedi.
+3,170,893,CORUSCANT JEDI TEMPLE MAIN ENTRANCE,INT,YODA,"Dismantle the coded signal quickly. That group back there, soon discovered will be."
+3,172,894,CORUSCANT SENATE CHAMBER,INT,PALPATINE,. . . and the Jedi Rebellion has been foiled.
+3,172,895,CORUSCANT SENATE CHAMBER,INT,BAIL ORGANA,I was held up. What's happening?
+3,172,896,CORUSCANT SENATE CHAMBER,INT,PADME,"The Chancellor has been elaborating on a plot by the Jedi, to overthrow the Senate."
+3,172,897,CORUSCANT SENATE CHAMBER,INT,BAIL ORGANA,That's not true!
+3,172,898,CORUSCANT SENATE CHAMBER,INT,PADME,He's been presenting evidence all afternoon.
+3,172,899,CORUSCANT SENATE CHAMBER,INT,BAIL ORGANA,"And the Senate will go along with it, just like they always do."
+3,172,900,CORUSCANT SENATE CHAMBER,INT,PALPATINE,The remaining Jedi will be hunted down and defeated.  Any collaborators will suffer the same fate.
+3,173,901,CORUSCANT JEDI TEMPLE HALLWAY,INT,OBI-WAN,Not even the younglings survived.
+3,173,902,CORUSCANT JEDI TEMPLE HALLWAY,INT,YODA,"Killed not by clones, this Padawan. By a lightsaber, he was."
+3,173,903,CORUSCANT JEDI TEMPLE HALLWAY,INT,OBI-WAN,. . .Who?? Who could have done this?
+3,175,904,CORUSCANT SENATE CHAMBER,INT,PALPATINE,"The attempt on my life has left me scarred and deformed, but I assure you my resolve has never been stronger."
+3,177,905,CORUSCANT SENATE CHAMBER,INT,PALPATINE,"The war is over.  The Separatists have been defeated,  and the Jedi rebellion has been foiled. We stand on the threshold of a new beginning."
+3,177,906,CORUSCANT SENATE CHAMBER,INT,PADME,"Well, this is the moment we discover if he intends to return the Republic to a democracy."
+3,177,907,CORUSCANT SENATE CHAMBER,INT,PALPATINE,"In order to ensure our security and continuing stability, the Republic will be reorganized into the first Galactic Empire, for a safe and secure society which I assure you will last for ten thousand years."
+3,177,908,CORUSCANT SENATE CHAMBER,INT,PALPATINE,"An empire that will continue to be ruled by this august body, and a sovereign ruler chosen for life . . ."
+3,177,909,CORUSCANT SENATE CHAMBER,INT,PALPATINE,An empire ruled by the majority . . . Ruled by a new constitution . . .
+3,177,910,CORUSCANT SENATE CHAMBER,INT,PADME,"So this is how liberty dies, with thunderous applause . . ."
+3,177,911,CORUSCANT SENATE CHAMBER,INT,BAIL ORGANA,We cannot let this happen.
+3,177,912,CORUSCANT SENATE CHAMBER,INT,PADME,Not now! There will be a time.
+3,178,913,MUSTAFAR MAIN CONTROL CENTER CONFERENCE ROOM,INT,RUNE HAAKO,"Stop! Enough, this is not right!"
+3,179,914,MUSTAFAR MAIN CONTROL CENTER HALLWAY,INT,NUTE GUNRAY,The war is over. Lord Sidious promised us peace ... we only want . . .
+3,180,915,CORUSCANT JEDI TEMPLE COMPUTER ROOM,INT,OBI-WAN,I've recalibrated the code warning all surviving Jedi to stay away.
+3,180,916,CORUSCANT JEDI TEMPLE COMPUTER ROOM,INT,YODA,"Good . . . For the Clones to discover the recalibration, a long time it will take. To change it back, longer still. Hurry."
+3,181,917,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,"Wait, Master. There is something I must know . . ."
+3,181,918,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,YODA,"If into the security recordings you go, only pain will you find."
+3,181,919,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,"I must know the truth, Master."
+3,181,920,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,It can't be . . . It can't be . . .
+3,181,921,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,ANAKIN,"The traitors have been taken care of, Lord Sidious."
+3,181,922,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,ANAKIN,"Yes, My Master."
+3,181,923,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,I can't watch any more.
+3,181,924,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,YODA,"Destroy the Sith, we must."
+3,181,925,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,Send me to kill the Emperor. I will not kill Anakin.
+3,181,926,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,YODA,"To fight this Lord Sidious, strong enough, you are not."
+3,181,927,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,He is like my brother ... I cannot do it.
+3,181,928,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,YODA,"Twisted by the dark side, young Skywalker has become. The boy you trained, gone he is . . . Consumed by Darth Vader."
+3,181,929,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,How could it have come to this?
+3,181,930,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,YODA,"To question, no time there is."
+3,181,931,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,I do not know where the Emperor has sent him. I don't know where to look.
+3,181,932,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,YODA,"Use your feelings, Obi-Wan, and find him, you will. Visit the new Emperor, my task is. May the Force be with you."
+3,181,933,CORUSCANT JEDI TEMPLE CONTROL CENTER,INT,OBI-WAN,"May the Force be with you, Master Yoda."
+3,183,934,CORUSCANT  PADME'S APARTMENT VERANDA,INT,C-3PO,"Hello, might I help you . . . Oh, it's you, Master Kenobi. Come in, quickly."
+3,183,935,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,Has Anakin been here . . . ?
+3,183,936,CORUSCANT  PADME'S APARTMENT VERANDA,INT,C-3PO,Yes . . . right after the attack on the Jedi Temple.
+3,183,937,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,Master Kenobi . . .
+3,183,938,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,"Oh, Obi-Wan, thank goodness . . . you're alive."
+3,183,939,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,The Republic has fallen. Padme . . . The Jedi Order is no more . . .
+3,183,940,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,"I know, it's hard to believe everything to which we've dedicated our lives is gone."
+3,183,941,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,I believe we have been part of a plot hundreds of years in the making.
+3,183,942,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,"The Senate is still intact, there is some hope."
+3,183,943,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,No. Padme . . . It's over . . . The Sith now rule the galaxy as they did before the Republic.
+3,183,944,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,The Sith!?!
+3,183,945,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,I'm here looking for Anakin . . . When was the last time you saw him?
+3,183,946,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,Yesterday.
+3,183,947,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,And do you know where he is now?
+3,183,948,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,No.
+3,183,949,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,"Padme, I need your help. He's in grave danger."
+3,183,950,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,From the Sith?
+3,183,951,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,"From himself . . . Padme, Anakin has turned to the dark side."
+3,183,952,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,You're wrong! How could you even say that?
+3,183,953,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,I have seen a security hologram of him killing younglings.
+3,183,954,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,Not Anakin! He couldn't!
+3,183,955,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,"He was deceived by a lie. We all were. It appears that the Chancellor is behind everything, including the war. Palpatine is the Sith Lord we've been looking for. After the death of Count Dooku, Anakin became his new apprentice."
+3,183,956,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,I don't believe you ... I can't.
+3,183,957,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,"Padme, I must find him."
+3,183,958,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,"You're going to kill him, aren't you?"
+3,183,959,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,He has become a very great threat.
+3,183,960,CORUSCANT  PADME'S APARTMENT VERANDA,INT,PADME,I can't . . .
+3,183,961,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,"Anakin is the father, isn't he?"
+3,183,962,CORUSCANT  PADME'S APARTMENT VERANDA,INT,OBI-WAN,I'm so sorry.
+3,187,963,CORUSCANT LANDING PLATFORM,INT,CAPTAIN TYPHO,"My Lady, let me come with you."
+3,187,964,CORUSCANT LANDING PLATFORM,INT,PADME,"There is no danger. The fighting is over, and . . . this is personal."
+3,187,965,CORUSCANT LANDING PLATFORM,INT,CAPTAIN TYPHO,"As you wish, My Lady . . . but I strongly disagree."
+3,187,966,CORUSCANT LANDING PLATFORM,INT,PADME,"I'll be all right, Captain."
+3,187,967,CORUSCANT LANDING PLATFORM,INT,PADME,"This is something I must do myself. Besides, Threepio will look after me."
+3,187,968,CORUSCANT LANDING PLATFORM,INT,C-3PO,"Oh, dear."
+3,188,969,,INT,C-3PO,Green light. Do you know that I think I'm beginning to get the hang of this flying business.
+3,189,970,CORUSCANT SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,DARTH VADER,"The Separatists are taken care of, My Master."
+3,189,971,CORUSCANT SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,DARTH VADER,"Thank you, My Master."
+3,190,972,MUSTAFAR COXFERENCE ROOM,INT,DARTH VADER,"Very good, My Lord."
+3,191,973,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,"Padme, I saw your ship . . ."
+3,191,974,MUSTAFAR LANDING PLATFORM,INT,PADME,"Oh, Anakin!"
+3,191,975,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,"It's all right, you're safe now. What are you doing out here?"
+3,191,976,MUSTAFAR LANDING PLATFORM,INT,PADME,I was so worried about you. Obi-Wan told me terrible things.
+3,191,977,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,What things?
+3,191,978,MUSTAFAR LANDING PLATFORM,INT,PADME,He said you have turned to the dark side . . . that you killed younglings.
+3,191,979,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,Obi-Wan is trying to turn you against me.
+3,191,980,MUSTAFAR LANDING PLATFORM,INT,PADME,He cares about us.
+3,191,981,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,Us??!
+3,191,982,MUSTAFAR LANDING PLATFORM,INT,PADME,He knows . . . He wants to help you.
+3,191,983,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,Is Obi-Wan going to protect you? He can't ... he can't help you. He's not strong enough.
+3,191,984,MUSTAFAR LANDING PLATFORM,INT,PADME,"Anakin, all I want is your love."
+3,191,985,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,"Love won't save you, Padme. Only my new powers can do that."
+3,191,986,MUSTAFAR LANDING PLATFORM,INT,PADME,At what cost? You are a good person. Don't do this.
+3,191,987,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,I won't lose you the way I lost my mother! I've become more powerful than any Jedi has ever dreamed of and I've done it for you. To protect you.
+3,191,988,MUSTAFAR LANDING PLATFORM,INT,PADME,Come away with me. Help me raise our child. Leave everything else behind while we still can.
+3,191,989,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,"Don't you see, we don't have to run away anymore. I have brought peace to the Republic. I am more powerful than the Chancellor. I can overthrow him, and together you and I can rule the galaxy. Make things the way we want them to be."
+3,191,990,MUSTAFAR LANDING PLATFORM,INT,PADME,I don't believe what I'm hearing . . . Obi-Wan was right. You've changed.
+3,191,991,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,I don't want to hear any more about Obi-Wan. The Jedi turned against me. Don't you turn against me.
+3,191,992,MUSTAFAR LANDING PLATFORM,INT,PADME,"I don't know you anymore. Anakin, you're breaking my heart. I'll never stop loving you, but you are going down a path I
+can't follow."
+3,191,993,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,Because of Obi-Wan?
+3,191,994,MUSTAFAR LANDING PLATFORM,INT,PADME,"Because of what you've done . . . what you plan to do. Stop, stop now. Come back! I love you."
+3,191,995,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,Liar!
+3,191,996,MUSTAFAR LANDING PLATFORM,INT,PADME,No!
+3,191,997,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,You're with him. You've betrayed me! You brought him here to kill me!
+3,191,998,MUSTAFAR LANDING PLATFORM,INT,PADME,NO! Anakin. I swear ... I ...
+3,191,999,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,"Let her go, Anakin."
+3,191,1000,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,What have you and she been up to?
+3,191,1001,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,Let her go!
+3,191,1002,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,You turned her against me.
+3,191,1003,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,You have done that yourself.
+3,191,1004,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,You will not take her from me.
+3,191,1005,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,Your anger and your lust for power have already done that.
+3,191,1006,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,You have allowed this Dark Lord to twist your mind until now . . . until now you have become the very thing you swore to destroy.
+3,191,1007,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,"Don't lecture me, Obi-Wan. I see through the lies of the Jedi. I do not fear the dark side as you do. I have brought peace, justice, freedom, and security to my new Empire."
+3,191,1008,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,Your new Empire?
+3,191,1009,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,Don't make me kill you.
+3,191,1010,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,"Anakin, my allegiance is to the Republic ... to democracy."
+3,191,1011,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,"If you're not with me, you're my enemy."
+3,191,1012,MUSTAFAR LANDING PLATFORM,INT,OBI-WAN,Only a Sith Lord deals in absolutes. I will do what I must.
+3,191,1013,MUSTAFAR LANDING PLATFORM,INT,ANAKIN,You will try.
+3,192,1014,CORRIDOR SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,YODA,"I hear a new apprentice, you have. Emperor, or should I call you Darth Sidious."
+3,192,1015,CORRIDOR SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,YODA,Surprised?
+3,194,1016,MUSTAFAR LANDING PLATFORM NABOO CRUISER,INT,C-3PO,What are you doing? You're going to hurt her. Wait!!
+3,195,1017,CORRIDOR SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,YODA,"Not if anything I have to say about it, Lord Sidious."
+3,195,1018,CORRIDOR SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,YODA,"At an end your rule is and not short enough it was, I must say."
+3,195,1019,CORRIDOR SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,YODA,"If so powerful you are, why leave??"
+3,195,1020,CORRIDOR SENATE ARENA CHANCELLOR'S HOLDING OFFICE,INT,YODA,"Faith in your new apprentice, misplaced may be, as is your faith in the dark side of the Force."
+3,196,1021,MUSTAFAR MAIN CONTROL CENTER,INT,ANAKIN,"Don't make me destroy you, Master. You're no match for the dark side."
+3,196,1022,MUSTAFAR MAIN CONTROL CENTER,INT,OBI-WAN,"I've heard that before, Anakin . . . but I never thought I'd hear it from you."
+3,198,1023,MUSTAFAR MAIN CONTROL CENTER,INT,OBI-WAN,The flaw of power is arrogance.
+3,198,1024,MUSTAFAR MAIN CONTROL CENTER,INT,ANAKIN,You hesitate . . . the flaw of compassion.
+3,199,1025,CORUSCANT SENATE CHAMRER MAIN ARENA,INT,YODA,"Destroy you I will, just as Master Kenobi, your apprentice will destroy."
+3,203,1026,CORUSCANT SENATE OFFICE BUILDING WIRING CHUTE,INT,YODA,Hurry. Careful timing we will need.
+3,203,1027,CORUSCANT SENATE OFFICE BUILDING WIRING CHUTE,INT,BAIL ORGANA,There aren't many troops on this side. Activate your homing beacon when you're ready.
+3,204,1028,CORUSCANT SENATE CHAMBER MAIN ARENA,INT,CLONE COMMANDER THIRE,"There is no sign of his body, sir."
+3,204,1029,CORUSCANT SENATE CHAMBER MAIN ARENA,INT,MAS AMEDDA,Then he is not dead.
+3,204,1030,CORUSCANT SENATE CHAMBER MAIN ARENA,INT,PALPATINE,Double your search.
+3,204,1031,CORUSCANT SENATE CHAMBER MAIN ARENA,INT,CLONE COMMANDER THIRE,"Yes sir. Right away, sir."
+3,204,1032,CORUSCANT SENATE CHAMBER MAIN ARENA,INT,PALPATINE,Tell Captain Kagi to prepare my shuttle for immediate takeoff.
+3,204,1033,CORUSCANT SENATE CHAMBER MAIN ARENA,INT,MAS AMEDDA,"Yes, Master."
+3,204,1034,CORUSCANT SENATE CHAMBER MAIN ARENA,INT,PALPATINE,I sense Lord Vader is in danger.
+3,207,1035,CORUSCANT BAIL ORGANA'S SPEEDER,INT,YODA,"Into exile I must go. Failed, I have."
+3,209,1036,MUSTAFAR LANDING PLATFORM NABOO SKIFF,INT,C-3PO,"I am being careful. I've got a good hold on her, but . . . I'm worried about my back. I hope it's able to hold up under this weight."
+3,210,1037,MUSTAFAR COLLECTION PANELS,INT,OBI-WAN,"I have failed you, Anakin. I was never able to teach you to think."
+3,210,1038,MUSTAFAR COLLECTION PANELS,INT,ANAKIN,I should have known the Jedi were plotting to take over . . .
+3,210,1039,MUSTAFAR COLLECTION PANELS,INT,OBI-WAN,"From the Sith!!! Anakin, Chancellor Palpatine is evil."
+3,210,1040,MUSTAFAR COLLECTION PANELS,INT,ANAKIN,"From the Jedi point of view! From my point of view, the Jedi are evil."
+3,210,1041,MUSTAFAR COLLECTION PANELS,INT,OBI-WAN,"Well, then you are lost!"
+3,210,1042,MUSTAFAR COLLECTION PANELS,INT,ANAKIN,"This is the end for you, My Master. I wish it were otherwise."
+3,210,1043,MUSTAFAR COLLECTION PANELS,INT,OBI-WAN,"It's over, Anakin. I have the high ground."
+3,210,1044,MUSTAFAR COLLECTION PANELS,INT,ANAKIN,You underestimate my power!
+3,210,1045,MUSTAFAR COLLECTION PANELS,INT,OBI-WAN,Don't try it.
+3,210,1046,MUSTAFAR COLLECTION PANELS,INT,OBI-WAN,". . . You were the Chosen One! It was said that you would, destroy the Sith, not join them. It was you who would bring balance to the Force, not leave it in Darkness."
+3,210,1047,MUSTAFAR COLLECTION PANELS,INT,ANAKIN,I hate you!
+3,210,1048,MUSTAFAR COLLECTION PANELS,INT,OBI-WAN,"You were my brother, Anakin. I loved you."
+3,212,1049,MUSTAFAR LANDING PLATFORM NABOO SKIFF,INT,C-3PO,"Master Kenobi! We have Miss Padme on board. Please, please hurry. We should leave this dreadful place."
+3,213,1050,MUSTAFAR LANDING PLATFORM NABOO SKIFF,INT,PADME,Obi-Wan? Is Anakin all right?
+3,217,1051,MUSTAFAR VOLCANO PIT,INT,DARTH SIDIOUS,"Anakin! Anakin! There he is. He's still alive. Get a medical capsule, immediately."
+3,217,1052,MUSTAFAR VOLCANO PIT,INT,CLONE CAPTAIN,Yes sir. Right away.
+3,218,1053,POLIS MASSA OBSERVATION DOME,INT,YODA,"Failed to stop the Sith Lord, I have. Still much to learn, there is ..."
+3,218,1054,POLIS MASSA OBSERVATION DOME,INT,QUI -GON,"Patience. You will have time. I did not. When I became one with the Force I made a great discovery. With my training, you will be able to merge with the Force at will. Your physical self will fade away, but you will still retain your consciousness. You will become more powerful than any Sith."
+3,218,1055,POLIS MASSA OBSERVATION DOME,INT,YODA,Eternal consciousness.
+3,218,1056,POLIS MASSA OBSERVATION DOME,INT,QUI-GON,"The ability to defy oblivion can be achieved, but only for oneself. It was accomplished by a Shaman of the Whills. It is a state acquired through compassion, not greed."
+3,218,1057,POLIS MASSA OBSERVATION DOME,INT,YODA,". . . to become one with the Force, and influence still have . . . A power greater than all, it is."
+3,218,1058,POLIS MASSA OBSERVATION DOME,INT,QUI-GON,"You will learn to let go of everything. No attachment, no thought of self. No physical self."
+3,218,1059,POLIS MASSA OBSERVATION DOME,INT,YODA,"A great Jedi Master, you have become, Qui-Gon Jinn. Your apprentice I gratefully become."
+3,218,1060,POLIS MASSA OBSERVATION DOME,INT,BAIL ORGANA,"Excuse me, Master Yoda. Obi-Wan Kenobi has made contact."
+3,220,1061,POLIS MASSA LANDING PLATFORM,INT,BAIL ORGANA,"We'll take her to the medical center, quickly."
+3,222,1062,POLIS MASSA MEDICAL CENTER,INT,MEDICAL DROID,"Medically, she is completely healthy. For reasons we can't explain, we are losing her."
+3,222,1063,POLIS MASSA MEDICAL CENTER,INT,OBI-WAN,She's dying?
+3,222,1064,POLIS MASSA MEDICAL CENTER,INT,MEDICAL DROID,We don't know why. She has lost the will to live. We need to operate quickly if we are to save the babies.
+3,222,1065,POLIS MASSA MEDICAL CENTER,INT,BAIL ORGANA,Babies??!!
+3,222,1066,POLIS MASSA MEDICAL CENTER,INT,MEDICAL DROID,She's carrying twins.
+3,222,1067,POLIS MASSA MEDICAL CENTER,INT,YODA,"Save them, we must. They are our last hope."
+3,222,1068,POLIS MASSA MEDICAL CENTER,INT,C-3PO,"It s some kind of reproductive process, I think."
+3,224,1069,POLIS MASSA MEDICAL CENTER,INT,OBI-WAN,"Don't give up, Padme."
+3,224,1070,POLIS MASSA MEDICAL CENTER,INT,MEDICAL DROID,It's a boy.
+3,224,1071,POLIS MASSA MEDICAL CENTER,INT,PADME,Luke . . .
+3,224,1072,POLIS MASSA MEDICAL CENTER,INT,MEDICAL DROID,... and a girl.
+3,224,1073,POLIS MASSA MEDICAL CENTER,INT,PADME,. . . Leia.
+3,226,1074,POLIS MASSA MEDICAL CENTER,INT,OBI-WAN,"You have twins, Padme They need you . . . hang on."
+3,226,1075,POLIS MASSA MEDICAL CENTER,INT,PADME,I can't . . .
+3,226,1076,POLIS MASSA MEDICAL CENTER,INT,OBI-WAN,Save your energy.
+3,226,1077,POLIS MASSA MEDICAL CENTER,INT,PADME,Obi-Wan . . . there . . . is good in him. I know there is ... still . . .
+3,227,1078,CORUSCANT IMPERIAL REHAB CENTER,INT,MEDICAL DROID,"My Lord, the construction is finished ... he lives."
+3,227,1079,CORUSCANT IMPERIAL REHAB CENTER,INT,DARTH SIDIOUS,Good. Good.
+3,227,1080,CORUSCANT IMPERIAL REHAB CENTER,INT,DARTH SIDIOUS,"Lord Vader, can you hear me?"
+3,227,1081,CORUSCANT IMPERIAL REHAB CENTER,INT,DARTH VADER,"Yes, My Master."
+3,227,1082,CORUSCANT IMPERIAL REHAB CENTER,INT,DARTH VADER,"Where is Padme? Is she safe, is she all right?"
+3,227,1083,CORUSCANT IMPERIAL REHAB CENTER,INT,DARTH SIDIOUS,"I'm afraid she died. ... it seems in your anger, you killed her."
+3,227,1084,CORUSCANT IMPERIAL REHAB CENTER,INT,DARTH VADER,I couldn't have! She was alive! I felt her! She was alive! It's impossible! No!!!
+3,229,1085,ALDERAAN CRUISER,INT,YODA,"Pregnant, she must still appear. Hidden, safe, the children must be kept."
+3,229,1086,ALDERAAN CRUISER,INT,OBI-WAN,We must take them somewhere the Sith will not sense their presence.
+3,229,1087,ALDERAAN CRUISER,INT,YODA,"Split up, they should be."
+3,229,1088,ALDERAAN CRUISER,INT,BAIL ORGANA,My wife and I will take the girl. We've always talked of adopting a baby girl. She will be loved with us.
+3,229,1089,ALDERAAN CRUISER,INT,OBI-WAN,And what of the boy?
+3,229,1090,ALDERAAN CRUISER,INT,YODA,"To Tatooine. To his family, send him."
+3,229,1091,ALDERAAN CRUISER,INT,OBI-WAN,"I will take the child and watch over him. Master Yoda, do you think Anakin's twins will be able to defeat Darth Sidious?"
+3,229,1092,ALDERAAN CRUISER,INT,YODA,"Strong the Force runs, in the Skywalker line. Hope, we can . . . Done, it is. Until the time is right, disappear we will."
+3,229,1093,ALDERAAN CRUISER,INT,YODA,"Master Kenobi, wait a moment. In your solitude on Tatooine, training I have for you."
+3,229,1094,ALDERAAN CRUISER,INT,OBI-WAN,Training??
+3,229,1095,ALDERAAN CRUISER,INT,YODA,An old friend has learned the path to immortality.
+3,229,1096,ALDERAAN CRUISER,INT,OBI-WAN,Who?
+3,229,1097,ALDERAAN CRUISER,INT,YODA,"One who has returned from the netherworld of the Force to train me . . . your old Master, Qui-Gon Jinn."
+3,229,1098,ALDERAAN CRUISER,INT,OBI-WAN,"Qui-Gon? But, how could he accomplish this?"
+3,229,1099,ALDERAAN CRUISER,INT,YODA,"The secret of the Ancient Order of the Whills, he studied. How to commune with him. I will teach you."
+3,229,1100,ALDERAAN CRUISER,INT,OBI-WAN,I will be able to talk with him?
+3,229,1101,ALDERAAN CRUISER,INT,YODA,"How to join the Force, he will train you. Your consciousness you will retain, when one with the Force. Even your physical self, perhaps."
+3,230,1102,ALDERAAN STARCRUISER HALLWAY,INT,BAIL ORGANA,Captain Antilles.
+3,230,1103,ALDERAAN STARCRUISER HALLWAY,INT,CAPTAIN ANTILLES,"Yes, Your Highness."
+3,230,1104,ALDERAAN STARCRUISER HALLWAY,INT,BAIL ORGANA,I'm placing these droids in your care. Treat them well. Clean them up. Have the Protocol Droid's mind wiped.
+3,230,1105,ALDERAAN STARCRUISER HALLWAY,INT,C-3PO,"Oh, no."

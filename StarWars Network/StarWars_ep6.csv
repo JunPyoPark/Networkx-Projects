@@ -1,0 +1,582 @@
+episode,scene_num,sequence,place,type,actor,dialogue
+6,1,1,IMPERIAL SHUTTLE,INT,SHUTTLE CAPTAIN,"Command station, this is ST 321. Code Clearance Blue. We're starting our approach. Deactivate the security shield."
+6,1,2,IMPERIAL SHUTTLE,INT,SHUTTLE CAPTAIN,We're starting our approach.
+6,2,3,DEATH STAR,INT,OFFICER,Inform the commander that Lord Vader's shuttle has arrived.
+6,2,4,DEATH STAR,INT,OPERATOR,"Yes, sir."
+6,3,5,DEATH STAR,INT,JERJERROD,"Lord Vader, this is an unexpected pleasure. We're honored by your presence."
+6,3,6,DEATH STAR,INT,VADER,"You may dispense with the pleasantries, Commander. I'm here to put you back on schedule."
+6,3,7,DEATH STAR,INT,JERJERROD,"I assure you, Lord Vader, my men are working as fast as they can."
+6,3,8,DEATH STAR,INT,VADER,Perhaps I can find new ways to motivate them.
+6,3,9,DEATH STAR,INT,JERJERROD,"I tell you, this station will be operational as planned."
+6,3,10,DEATH STAR,INT,VADER,The Emperor does not share your optimistic appraisal of the situation.
+6,3,11,DEATH STAR,INT,JERJERROD,But he asks the impossible. I need more men.
+6,3,12,DEATH STAR,INT,VADER,Then perhaps you can tell him when he arrives.
+6,3,13,DEATH STAR,INT,VADER,"That is correct, Commander. And he is most displeased with your apparent lack of progress."
+6,3,14,DEATH STAR,INT,JERJERROD,We shall double our efforts.
+6,3,15,DEATH STAR,INT,VADER,"I hope so, Commander, for your sake. The Emperor is not as forgiving as I am."
+6,4,16,ROAD TO JABBA'S PALACE,EXT,THREEPIO,"Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place."
+6,4,17,ROAD TO JABBA'S PALACE,EXT,THREEPIO,"Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, you'd probably short-circuit."
+6,4,18,ROAD TO JABBA'S PALACE,EXT,THREEPIO,"Artoo, are you sure this is the right place? I better knock, I suppose."
+6,5,19,JABBA'S PALACE,EXT,STRANGE VOICE,Tee chuta hhat yudd!
+6,5,20,JABBA'S PALACE,EXT,THREEPIO,Goodness gracious me!
+6,5,21,JABBA'S PALACE,EXT,THREEPIO,Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.
+6,5,22,JABBA'S PALACE,EXT,THREEPIO,"I don't think they're going to let us in, Artoo. We'd better go."
+6,5,23,JABBA'S PALACE,EXT,THREEPIO,"Artoo, wait. Oh, dear! Artoo. Artoo, I really don't think we should rush into all this."
+6,5,24,JABBA'S PALACE,EXT,THREEPIO,"Oh, Artoo!  Artoo, wait for me!"
+6,6,25,JABBA'S PALACE,INT,THREEPIO,"Just you deliver Master Luke's message and get us out of here. Oh my! Oh! Oh, no."
+6,6,26,JABBA'S PALACE,INT,BIB,Die Wanna Wanga!
+6,6,27,JABBA'S PALACE,INT,THREEPIO,"Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, Jabba the Hutt."
+6,6,28,JABBA'S PALACE,INT,BIB,Nee Jabba no badda. Me chaade su goodie.
+6,6,29,JABBA'S PALACE,INT,THREEPIO,He says that our instructions are to give it only to Jabba himself.
+6,6,30,JABBA'S PALACE,INT,THREEPIO,I'm terribly sorry. I'm afraid he's ever so stubborn about these sort of things.
+6,6,31,JABBA'S PALACE,INT,BIB,Nudd Chaa.
+6,6,32,JABBA'S PALACE,INT,THREEPIO,"Artoo, I have a bad feeling about this."
+6,7,33,JABBA'S THRONE ROOM,INT,THREEPIO,Good morning.
+6,7,34,JABBA'S THRONE ROOM,INT,JABBA,Bo Shuda!
+6,7,35,JABBA'S THRONE ROOM,INT,THREEPIO,"The message, Artoo, the message."
+6,7,36,JABBA'S THRONE ROOM,INT,LUKE,"Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo. I know that you are powerful, mighty Jabba, and that your anger with Solo must be equally powerful. I seek an audience with Your Greatness to bargain for Solo's life. (Jabba's crowd laughs) With your wisdom, I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation. As a token of my goodwill, I present to you a gift: these two droids."
+6,7,37,JABBA'S THRONE ROOM,INT,THREEPIO,What did he say?
+6,7,38,JABBA'S THRONE ROOM,INT,THREEPIO,"This can't be! Artoo, you're playing the wrong message."
+6,7,39,JABBA'S THRONE ROOM,INT,THREEPIO,We're doomed.
+6,7,40,JABBA'S THRONE ROOM,INT,THREEPIO,"Artoo, look! Captain Solo. And he's still frozen in carbonite."
+6,8,41,DUNGEON CORRIDOR,INT,THREEPIO,What could possibly have come over Master Luke. Is it something I did? He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!
+6,9,42,BOILER ROOM,INT,NINEDENINE,"Ah, good. New acquisitions. You are a protocol droid, are you not?"
+6,9,43,BOILER ROOM,INT,THREEPIO,"I am See-Threepio, human-cy..."
+6,9,44,BOILER ROOM,INT,NINEDENINE,Yes or no will do.
+6,9,45,BOILER ROOM,INT,THREEPIO,"Oh. Well, yes."
+6,9,46,BOILER ROOM,INT,NINEDENINE,How many languages do you speak?
+6,9,47,BOILER ROOM,INT,THREEPIO,"I am fluent in over six million forms of communication, and can readily..."
+6,9,48,BOILER ROOM,INT,NINEDENINE,Splendid! We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.
+6,9,49,BOILER ROOM,INT,THREEPIO,Disintegrated?
+6,9,50,BOILER ROOM,INT,NINEDENINE,"You're a feisty little one, but you'll soon learn some respect. I have need for you on the master's Sail Barge. And I think you'll fit in nicely."
+6,10,51,JABBA'S THRONE ROOM,INT,JABBA,Da Eitha!
+6,10,52,JABBA'S THRONE ROOM,INT,OOLA,Na Chuba negatorie Na! Na! Natoota...
+6,10,53,JABBA'S THRONE ROOM,INT,JABBA,Boscka!
+6,10,54,JABBA'S THRONE ROOM,INT,THREEPIO,"Oh, no! Chewbacca!"
+6,10,55,JABBA'S THRONE ROOM,INT,THREEPIO,"Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!"
+6,10,56,JABBA'S THRONE ROOM,INT,THREEPIO,Oh. The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand.
+6,10,57,JABBA'S THRONE ROOM,INT,THREEPIO,"Uh, oh... but what, what did I say? (to Boushh) Uh, the mighty Jabba asks why he must pay fifty thousand."
+6,10,58,JABBA'S THRONE ROOM,INT,THREEPIO,Because he's holding a thermal detonator.
+6,10,59,JABBA'S THRONE ROOM,INT,THREEPIO,Jabba offers the sum of thirty-five. And I suggest you take it.
+6,10,60,JABBA'S THRONE ROOM,INT,BOUSHH,Zeebuss.
+6,10,61,JABBA'S THRONE ROOM,INT,THREEPIO,He agrees!
+6,13,62,JABBA'S THRONE ROOM,INT,BOUSHH,Just relax for a moment. You're free of the carbonite.
+6,13,63,JABBA'S THRONE ROOM,INT,BOUSHH,Shhh. You have hibernation sickness.
+6,13,64,JABBA'S THRONE ROOM,INT,HAN,I can't see.
+6,13,65,JABBA'S THRONE ROOM,INT,BOUSHH,Your eyesight will return in time.
+6,13,66,JABBA'S THRONE ROOM,INT,HAN,Where am I?
+6,13,67,JABBA'S THRONE ROOM,INT,BOUSHH,Jabba's palace.
+6,13,68,JABBA'S THRONE ROOM,INT,HAN,Who are you?
+6,13,69,JABBA'S THRONE ROOM,INT,LEIA,Someone who loves you.
+6,13,70,JABBA'S THRONE ROOM,INT,HAN,Leia!
+6,13,71,JABBA'S THRONE ROOM,INT,LEIA,I gotta get you out of here.
+6,13,72,JABBA'S THRONE ROOM,INT,HAN,What's that? I know that laugh.
+6,13,73,JABBA'S THRONE ROOM,INT,HAN,"Hey, Jabba. Look, Jabba, I was just on my way to pay you back, but I got a little sidetracked. It's not my fault."
+6,13,74,JABBA'S THRONE ROOM,INT,HAN,Look...
+6,13,75,JABBA'S THRONE ROOM,INT,HAN,Jabba... I'll pay you triple! You're throwing away a fortune here. Don't be a fool!
+6,13,76,JABBA'S THRONE ROOM,INT,LEIA,We have powerful friends. You're gonna regret this...
+6,13,77,JABBA'S THRONE ROOM,INT,LEIA,Ugh!
+6,13,78,JABBA'S THRONE ROOM,INT,THREEPIO,"Ohhh, I can't bear to watch."
+6,14,79,DUNGEON CELL,INT,HAN,"Chewie? Chewie, is that you?"
+6,14,80,DUNGEON CELL,INT,HAN,Ah! Chew--Chewie!
+6,14,81,DUNGEON CELL,INT,HAN,"Wait. I can't see, pal. What's goin' on?"
+6,14,82,DUNGEON CELL,INT,HAN,"Luke? Luke's crazy. He can't even take care of himself, much less rescue anybody."
+6,14,83,DUNGEON CELL,INT,HAN,"A...Jedi Knight? I--I'm out of it for a little while, everybody gets delusions of grandeur."
+6,14,84,DUNGEON CELL,INT,HAN,"I'm all right, pal. I'm all right."
+6,15,85,MAIN GATE AND HALL,INT,LUKE,I must speak with Jabba.
+6,15,86,MAIN GATE AND HALL,INT,LUKE,You will take me to Jabba now!
+6,15,87,MAIN GATE AND HALL,INT,LUKE,You serve your master well.
+6,15,88,MAIN GATE AND HALL,INT,LUKE,And you will be rewarded.
+6,16,89,JABBA'S THRONE ROOM,INT,THREEPIO,At last! Master Luke's come to rescue me.
+6,16,90,JABBA'S THRONE ROOM,INT,BIB,Master.
+6,16,91,JABBA'S THRONE ROOM,INT,BIB,"...Luke Skywalker, Jedi Knight."
+6,16,92,JABBA'S THRONE ROOM,INT,LUKE,I must be allowed to speak.
+6,16,93,JABBA'S THRONE ROOM,INT,LUKE,You will bring Captain Solo and the Wookiee to me.
+6,16,94,JABBA'S THRONE ROOM,INT,LUKE,"Nevertheless, I'm taking Captain Solo and his friends. You can either profit by this... or be destroyed! It's your choice. But I warn you not to underestimate my powers."
+6,16,95,JABBA'S THRONE ROOM,INT,THREEPIO,"Master Luke, you're standing on..."
+6,16,96,JABBA'S THRONE ROOM,INT,JABBA,Bascka!
+6,17,97,RANCOR PIT,INT,THREEPIO,"Oh, no! The Rancor!"
+6,19,98,THRONE ROOM,INT,LUKE,Han!
+6,19,99,THRONE ROOM,INT,HAN,Luke!
+6,19,100,THRONE ROOM,INT,LUKE,Are you all right?
+6,19,101,THRONE ROOM,INT,HAN,"Fine. Together again, huh?"
+6,19,102,THRONE ROOM,INT,LUKE,Wouldn't miss it.
+6,19,103,THRONE ROOM,INT,HAN,How are we doing?
+6,19,104,THRONE ROOM,INT,LUKE,The same as always.
+6,19,105,THRONE ROOM,INT,HAN,"That bad, huh? Where's Leia?"
+6,19,106,THRONE ROOM,INT,LEIA,I'm here.
+6,19,107,THRONE ROOM,INT,THREEPIO,"Oh, dear. His High Exaltedness, the great Jabba the Hutt, has decreed that you are to be terminated immediately."
+6,19,108,THRONE ROOM,INT,HAN,"Good, I hate long waits."
+6,19,109,THRONE ROOM,INT,THREEPIO,"You will therefore be taken to the Dune Sea and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlacc."
+6,19,110,THRONE ROOM,INT,THREEPIO,"In his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years."
+6,19,111,THRONE ROOM,INT,HAN,"On second thought, let's pass on that, huh?"
+6,19,112,THRONE ROOM,INT,LUKE,"You should have bargained, Jabba. That's the last mistake you'll ever make."
+6,20,113,TATOOINE SEA,EXT,HAN,"I think my eyes are getting better. Instead of a big dark blur, I see a big light blur."
+6,20,114,TATOOINE SEA,EXT,LUKE,"There's nothing to see. I used to live here, you know."
+6,20,115,TATOOINE SEA,EXT,HAN,"You're gonna die here, you know. Convenient."
+6,20,116,TATOOINE SEA,EXT,LUKE,Just stick close to Chewie and Lando. I've taken care of everything.
+6,20,117,TATOOINE SEA,EXT,HAN,Oh... great!
+6,21,118,BARGE OBSERVATION DECK,INT,THREEPIO,"Oh, I'm terribly sor... Artoo! What are you doing here?"
+6,21,119,BARGE OBSERVATION DECK,INT,THREEPIO,"Well, I can see you're serving drinks, but this place is dangerous. They're going to execute Master Luke and, if we're not careful, us too!"
+6,21,120,BARGE OBSERVATION DECK,INT,THREEPIO,Hmm.  I wish I had your confidence.
+6,23,121,SAIL BARGE OBSERVATION DECK,EXT,THREEPIO,"Victims of the almighty Sarlacc: His Excellency hopes that you will die honorably. But should any of you wish to beg for mercy, the great Jabba the Hutt will now listen to your pleas."
+6,24,122,SKIFF,EXT,HAN,"Threepio, you tell that slimy piece of... worm-ridden filth he'll get no such pleasure from us. Right?"
+6,24,123,SKIFF,EXT,LUKE,Jabba! This is your last chance. Free us or die.
+6,30,124,SKIFF,EXT,LUKE,"Easy, Chewie."
+6,30,125,SKIFF,EXT,LANDO,Whoa! Whoa! Help!
+6,32,126,SKIFF,EXT,HAN,"Chewie, you okay? Where is he?"
+6,32,127,SKIFF,EXT,HAN,"I'm okay, pal."
+6,32,128,SKIFF,EXT,LANDO,Han! Chewie?
+6,32,129,SKIFF,EXT,HAN,Lando!
+6,32,130,SKIFF,EXT,HAN,Boba Fett?! Boba Fett?! Where?
+6,34,131,SKIFF,EXT,HAN,"Lando, grab it!"
+6,34,132,SKIFF,EXT,LANDO,Lower it!
+6,34,133,SKIFF,EXT,HAN,I'm trying!
+6,34,134,SKIFF,EXT,HAN,"Whoa! Whoa! Grab me, Chewie! I'm slipping."
+6,34,135,SKIFF,EXT,HAN,Grab it! L--Lando. Grab!
+6,34,136,SKIFF,EXT,HAN,Grab it! Almost... You almost got it!
+6,34,137,SKIFF,EXT,LANDO,Hold it! Whoa!
+6,34,138,SKIFF,EXT,HAN,"Gently now. All... all right. Now easy, easy. Hold me, Chewie."
+6,34,139,SKIFF,EXT,HAN,"Chewie! Chewie, give me the gun. Don't move, Lando."
+6,34,140,SKIFF,EXT,LANDO,"No, wait! I thought you were blind!"
+6,34,141,SKIFF,EXT,HAN,It's all right. Trust me. Don't move.
+6,34,142,SKIFF,EXT,LANDO,All right! A little higher! Just a little higher!
+6,34,143,SKIFF,EXT,HAN,"Chewie, Pull us up! Come on! Okay... up, Chewie, up!"
+6,36,144,SAIL BARGE,INT,LEIA,Come on. We gotta get out of here quick.
+6,36,145,SAIL BARGE,INT,THREEPIO,"Not my eyes! Artoo, help! Quickly, Artoo. Oh! Ohhh! You beast!"
+6,37,146,UPPER DECK,EXT,LUKE,Point it at the deck!
+6,37,147,UPPER DECK,EXT,THREEPIO,"Artoo, where are we going? I couldn't possibly jump."
+6,37,148,UPPER DECK,EXT,LUKE,Come on!
+6,38,149,SKIFF,EXT,LUKE,Let's go! And don't forget the droids.
+6,38,150,SKIFF,EXT,LANDO,We're on our way.
+6,41,151,DUNE SEA,EXT,HAN,I don't know. All I can see is a lot of blowing sand!
+6,41,152,DUNE SEA,EXT,LEIA,That's all any of us can see.
+6,41,153,DUNE SEA,EXT,HAN,"No, I'm thinking a lot about it. That carbon freeze was the closest thing to dead there is. And it wasn't just sleepin'. It was a big wide awake nothing!"
+6,41,154,DUNE SEA,EXT,HAN,Why don't you leave that crate and come with us?
+6,41,155,DUNE SEA,EXT,LUKE,I have a promise I have to keep first... to an old friend.
+6,41,156,DUNE SEA,EXT,HAN,"(looking dubiously at Lando, obviously remembering his friend's betrayal and subsequent aide) Guess I owe you some thanks, too, Lando."
+6,41,157,DUNE SEA,EXT,LANDO,"Figured if I left you frozen like that you'd just give me bad luck the rest of my life, so I might as well get you unfrozen sooner or later."
+6,41,158,DUNE SEA,EXT,LEIA,"He means ""You're welcome."""
+6,41,159,DUNE SEA,EXT,LANDO,"Come on, let's get off this miserable dust ball."
+6,43,160,X,INT,LANDO,
+6,43,161,X,INT,LUKE,I'll meet you back at the fleet.
+6,43,162,X,INT,LUKE,I will.
+6,43,163,X,INT,LUKE,"That's right, Artoo. We're going to the Dagobah system. I have a promise to keep... to an old friend."
+6,46,164,DOCKING BAY,INT,VADER,The Death Star will be completed on schedule.
+6,46,165,DOCKING BAY,INT,EMPEROR,"You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker."
+6,46,166,DOCKING BAY,INT,VADER,"Yes, my Master."
+6,46,167,DOCKING BAY,INT,EMPEROR,"Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force."
+6,46,168,DOCKING BAY,INT,VADER,As you wish.
+6,46,169,DOCKING BAY,INT,EMPEROR,Everything is proceeding as I have foreseen.
+6,48,170,YODA'S HOUSE,INT,YODA,Hmm. That face you make. Look I so old to young eyes?
+6,48,171,YODA'S HOUSE,INT,LUKE,No... of course not.
+6,48,172,YODA'S HOUSE,INT,YODA,"Soon will I rest. Yes, forever sleep. Earned it, I have."
+6,48,173,YODA'S HOUSE,INT,LUKE,"Master Yoda, you can't die."
+6,48,174,YODA'S HOUSE,INT,YODA,Strong am I with the Force... but not that strong! Twilight is upon me and soon night must fall. That is the way of things... the way of the Force.
+6,48,175,YODA'S HOUSE,INT,LUKE,But I need your help. I've come back to complete the training.
+6,48,176,YODA'S HOUSE,INT,YODA,No more training do you require. Already know you that which you need.
+6,48,177,YODA'S HOUSE,INT,LUKE,Then I am a Jedi?
+6,48,178,YODA'S HOUSE,INT,LUKE,Master Yoda... is Darth Vader my father?
+6,48,179,YODA'S HOUSE,INT,YODA,Mmm... rest I need. Yes... rest.
+6,48,180,YODA'S HOUSE,INT,LUKE,"Yoda, I must know."
+6,48,181,YODA'S HOUSE,INT,YODA,Your father he is.
+6,48,182,YODA'S HOUSE,INT,YODA,"Told you, did he?"
+6,48,183,YODA'S HOUSE,INT,LUKE,Yes.
+6,48,184,YODA'S HOUSE,INT,YODA,"Unexpected this is, and unfortunate..."
+6,48,185,YODA'S HOUSE,INT,LUKE,Unfortunate that I know the truth?
+6,48,186,YODA'S HOUSE,INT,LUKE,"Well, I'm sorry."
+6,48,187,YODA'S HOUSE,INT,YODA,"Remember, a Jedi's strength flows from the Force.  But beware.  Anger, fear, aggression. The dark side are they.  Once you start down the dark path, forever will it dominate your destiny."
+6,48,188,YODA'S HOUSE,INT,YODA,"Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I (cough), the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke... (with great effort) There is...another...Sky...Sky...walker."
+6,49,189,DAGOBAH SWAMP,EXT,LUKE,"I can't do it, Artoo. I can't go on alone."
+6,49,190,DAGOBAH SWAMP,EXT,BEN,Yoda will always be with you.
+6,49,191,DAGOBAH SWAMP,EXT,LUKE,Obi-Wan! Why didn't you tell me?
+6,49,192,DAGOBAH SWAMP,EXT,LUKE,You told me Vader betrayed and murdered my father.
+6,49,193,DAGOBAH SWAMP,EXT,BEN,"You father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I have told you was true... from a certain point of view."
+6,49,194,DAGOBAH SWAMP,EXT,BEN,"Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view."
+6,49,195,DAGOBAH SWAMP,EXT,BEN,"I don't blame you for being angry. If I was wrong in what I did, it certainly wouldn't have been for the first time. You see, what happened to your father was my fault."
+6,49,196,DAGOBAH SWAMP,EXT,BEN,Anakin was a good friend.
+6,49,197,DAGOBAH SWAMP,EXT,BEN,"When I first knew him, your father was already a great pilot. But I was amazed how strongly the Force was with him. I took it upon myself to train him as a Jedi. I thought that I could instruct him just as well as Yoda. I was wrong. My pride has had terrible consequences for the galaxy."
+6,49,198,DAGOBAH SWAMP,EXT,LUKE,There's still good in him.
+6,49,199,DAGOBAH SWAMP,EXT,BEN,I also thought he could be turned back to the good side. It couldn't be done. He is more machine now than man. Twisted and evil.
+6,49,200,DAGOBAH SWAMP,EXT,LUKE,"I can't do it, Ben."
+6,49,201,DAGOBAH SWAMP,EXT,BEN,You cannot escape your destiny.
+6,49,202,DAGOBAH SWAMP,EXT,LUKE,I tried to stop him once. I couldn't do it.
+6,49,203,DAGOBAH SWAMP,EXT,BEN,"Vader humbled you when first you met him, Luke... but that experience was part of your training. It taught you, among other things, the value of patience. Had you not been so impatient to defeat Vader then, you could have finished your training here with Yoda. You would have been prepared."
+6,49,204,DAGOBAH SWAMP,EXT,LUKE,But I had to help my friends.
+6,49,205,DAGOBAH SWAMP,EXT,BEN,"To be a Jedi, Luke, you must confront and then go beyond the dark side - the side your father couldn't get past. Impatience is the easiest door - for you, like your father. Only, your father was seduced by what he found on the other side of the door, and you have held firm. You're no longer so reckless now, Luke. You are strong and patient. And now, you must face Darth Vader again!"
+6,49,206,DAGOBAH SWAMP,EXT,LUKE,I can't kill my own father.
+6,49,207,DAGOBAH SWAMP,EXT,BEN,Then the Emperor has already won. You were our only hope.
+6,49,208,DAGOBAH SWAMP,EXT,LUKE,Yoda spoke of another.
+6,49,209,DAGOBAH SWAMP,EXT,BEN,The other he spoke of is your twin sister.
+6,49,210,DAGOBAH SWAMP,EXT,LUKE,But I have no sister.
+6,49,211,DAGOBAH SWAMP,EXT,BEN,"Hmm. To protect you both from the Emperor, you were hidden from your father when you were born. The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him. That is the reason why your sister remains safely anonymous."
+6,49,212,DAGOBAH SWAMP,EXT,LUKE,Leia! Leia's my sister.
+6,49,213,DAGOBAH SWAMP,EXT,BEN,"Your insight serves you well. Bury your feelings deep down, Luke. They do you credit. But they could be made to serve the Emperor."
+6,49,214,DAGOBAH SWAMP,EXT,LUKE,"But you can't let her get involved now, Ben. Vader will destroy her."
+6,49,215,DAGOBAH SWAMP,EXT,BEN,"She hasn't been trained in the ways of the Jedi the way you have, Luke... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!"
+6,50,216,SPACE,EXT,BEN,
+6,51,217,HEADQUARTERS FRIGATE,INT,HAN,"Well, look at you, a general, huh?"
+6,51,218,HEADQUARTERS FRIGATE,INT,LANDO,"Oh, well, someone must have told them about my little maneuver at the battle of Taanab."
+6,51,219,HEADQUARTERS FRIGATE,INT,HAN,"Well, who says they didn't.  But I ain't crazy. You're the respectable one, remember?"
+6,51,220,HEADQUARTERS FRIGATE,INT,MON MOTHMA,The Emperor has made a critical error and the time for our attack has come.
+6,51,221,HEADQUARTERS FRIGATE,INT,MON MOTHMA,"The data brought to us by the Bothan spies pinpoints the exact location of the Emperor's new battle station. We also know that the weapon systems of this Death Star are not yet operational. With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected. But most important of all, we've learned that the Emperor himself is personally overseeing the final stages of the construction of this Death Star."
+6,51,222,HEADQUARTERS FRIGATE,INT,ACKBAR,"You can see here the Death Star orbiting the forest Moon of Endor. Although the weapon systems on this Death Star are not yet operational, the Death Star does have a strong defense mechanism. It is protected by an energy shield, which is generated from the nearby forest Moon of Endor. The shield must be deactivated if any attack is to be attempted. Once the shield is down, our cruisers will create a perimeter, while the fighters fly into the superstructure and attempt to knock out the main reactor."
+6,51,223,HEADQUARTERS FRIGATE,INT,HAN,Good luck.
+6,51,224,HEADQUARTERS FRIGATE,INT,HAN,You're gonna need it.
+6,51,225,HEADQUARTERS FRIGATE,INT,ACKBAR,General Madine.
+6,51,226,HEADQUARTERS FRIGATE,INT,GENERAL MADINE,"We have stolen a small Imperial shuttle. Disguised as a cargo ship, and using a secret Imperial code, a strike team will land on the moon and deactivate the shield generator."
+6,51,227,HEADQUARTERS FRIGATE,INT,THREEPIO,Sounds dangerous.
+6,51,228,HEADQUARTERS FRIGATE,INT,GENERAL MADINE,"General Solo, is your strike team assembled?"
+6,51,229,HEADQUARTERS FRIGATE,INT,HAN,"Uh, my team's ready. I don't have a command crew for the shuttle."
+6,51,230,HEADQUARTERS FRIGATE,INT,HAN,"Well, it's gonna be rough, pal. I didn't want to speak for you."
+6,51,231,HEADQUARTERS FRIGATE,INT,LEIA,"Uh, General... count me in."
+6,51,232,HEADQUARTERS FRIGATE,INT,VOICE,"I'm with you, too!"
+6,51,233,HEADQUARTERS FRIGATE,INT,LEIA,What is it?
+6,51,234,HEADQUARTERS FRIGATE,INT,HAN,Luke.
+6,51,235,HEADQUARTERS FRIGATE,INT,LUKE,"Hi, Han... Chewie."
+6,51,236,HEADQUARTERS FRIGATE,INT,THREEPIO,"""Exciting"" is hardly the word I would use."
+6,52,237,HEADQUARTERS FRIGATE,INT,HAN,Look. I want you to take her. I mean it. Take her. You need all the help you can get. She's the fastest ship in the fleet.
+6,52,238,HEADQUARTERS FRIGATE,INT,LANDO,"All right, old buddy. You know, I know what she means to you. I'll take good care of her. She-she won't get a scratch. All right?"
+6,52,239,HEADQUARTERS FRIGATE,INT,LANDO,"Look, would you get going, you pirate."
+6,52,240,HEADQUARTERS FRIGATE,INT,LANDO,Good luck.
+6,52,241,HEADQUARTERS FRIGATE,INT,HAN,"You, too."
+6,53,242,IMPERIAL SHUTTLE,INT,HAN,You got her warmed?
+6,53,243,IMPERIAL SHUTTLE,INT,LUKE,"Yeah, she's comin' up."
+6,53,244,IMPERIAL SHUTTLE,INT,HAN,"No. I don't think the Empire had Wookiees in mind when they designed her, Chewie."
+6,53,245,IMPERIAL SHUTTLE,INT,LEIA,"Hey, are you awake?"
+6,53,246,IMPERIAL SHUTTLE,INT,HAN,"Yeah, I just got a funny feeling. Like I'm not gonna see her again."
+6,53,247,IMPERIAL SHUTTLE,INT,HAN,"Right. Chewie, let's see what this piece of junk can do. Ready, everybody?"
+6,53,248,IMPERIAL SHUTTLE,INT,LUKE,All set.
+6,53,249,IMPERIAL SHUTTLE,INT,THREEPIO,Here we go again.
+6,53,250,IMPERIAL SHUTTLE,INT,HAN,"All right, hang on."
+6,55,251,EMPEROR'S THRONE ROOM,INT,VADER,"What is thy bidding, my Master?"
+6,55,252,EMPEROR'S THRONE ROOM,INT,EMPEROR,Send the fleet to the far side of Endor. There it will stay until called for.
+6,55,253,EMPEROR'S THRONE ROOM,INT,VADER,What of the reports of the Rebel fleet massing near Sullust?
+6,55,254,EMPEROR'S THRONE ROOM,INT,EMPEROR,"It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders."
+6,55,255,EMPEROR'S THRONE ROOM,INT,VADER,"Yes, my Master."
+6,57,256,STOLEN IMPERIAL SHUTTLE,INT,HAN,"If they don't go for this, we're gonna have to get outta here pretty quick, Chewie."
+6,57,257,STOLEN IMPERIAL SHUTTLE,INT,HAN,Shuttle Tydirium requesting deactivation of the deflector shield.
+6,57,258,STOLEN IMPERIAL SHUTTLE,INT,HAN,Transmission commencing.
+6,57,259,STOLEN IMPERIAL SHUTTLE,INT,LEIA,Now we find out if that code is worth the price we paid.
+6,57,260,STOLEN IMPERIAL SHUTTLE,INT,HAN,It'll work. It'll work.
+6,57,261,STOLEN IMPERIAL SHUTTLE,INT,LUKE,Vader's on that ship.
+6,57,262,STOLEN IMPERIAL SHUTTLE,INT,HAN,"Now don't get jittery, Luke. There are a lot of command ships. Keep your distance though, Chewie, but don't look like you're trying to keep your distance."
+6,57,263,STOLEN IMPERIAL SHUTTLE,INT,HAN,I don't know.  Fly casual.
+6,57,264,STOLEN IMPERIAL SHUTTLE,INT,LUKE,I'm endangering the mission. I shouldn't have come.
+6,57,265,STOLEN IMPERIAL SHUTTLE,INT,HAN,"It's your imagination, kid. Come on. Let's keep a little optimism here."
+6,58,266,VADER'S STAR DESTROYER,INT,VADER,Where is that shuttle going?
+6,58,267,VADER'S STAR DESTROYER,INT,VADER,Do they have a code clearance?
+6,58,268,VADER'S STAR DESTROYER,INT,PIETT,"It's an older code, sir, but it checks out. I was about to clear them."
+6,58,269,VADER'S STAR DESTROYER,INT,PIETT,Shall I hold them?
+6,58,270,VADER'S STAR DESTROYER,INT,VADER,No. Leave them to me. I will deal with them myself.
+6,59,271,STOLEN IMPERIAL SHUTTLE,INT,HAN,"They're not goin' for it, Chewie."
+6,59,272,STOLEN IMPERIAL SHUTTLE,INT,HAN,Okay! I told you it was gonna work. No problem.
+6,61,273,FOREST LANDING SITE,EXT,THREEPIO,"Oh, I told you it was dangerous here."
+6,61,274,FOREST LANDING SITE,EXT,LEIA,Shall we try and go around?
+6,61,275,FOREST LANDING SITE,EXT,HAN,It'll take time. This whole party'll be for nothing if they see us.
+6,62,276,FOREST CLEARING,EXT,HAN,Chewie and I will take care of this. You stay here.
+6,62,277,FOREST CLEARING,EXT,LUKE,"Quietly, there might be more of them out there."
+6,62,278,FOREST CLEARING,EXT,SCOUT #1,Go for help! Go!
+6,62,279,FOREST CLEARING,EXT,LEIA,Over there! Two more of them!
+6,62,280,FOREST CLEARING,EXT,LUKE,"I see them. Wait, Leia!"
+6,62,281,FOREST CLEARING,EXT,HAN,"Hey, wait! Ahhh!"
+6,63,282,FOREST,EXT,LUKE,Move closer!
+6,63,283,FOREST,EXT,LUKE,Get alongside that one!
+6,63,284,FOREST,EXT,LUKE,Get him!
+6,64,285,SCOUT CAMPSITE,EXT,THREEPIO,"Oh, General Solo, somebody's coming. Oh!"
+6,64,286,SCOUT CAMPSITE,EXT,HAN,Luke! Where's Leia?
+6,64,287,SCOUT CAMPSITE,EXT,HAN,I thought she was with you.
+6,64,288,SCOUT CAMPSITE,EXT,LUKE,We got separated.
+6,64,289,SCOUT CAMPSITE,EXT,LUKE,"Hey, we better go look for her."
+6,64,290,SCOUT CAMPSITE,EXT,HAN,Take the squad ahead.  We'll meet at the shield generator at 0300.
+6,64,291,SCOUT CAMPSITE,EXT,LUKE,"Come on, Artoo.  We'll need your scanners."
+6,64,292,SCOUT CAMPSITE,EXT,THREEPIO,"Don't worry, Master Luke.  We know what to do."
+6,65,293,FOREST CLEARING,EXT,LEIA,Cut it out!
+6,65,294,FOREST CLEARING,EXT,LEIA,I'm not gonna hurt you.
+6,65,295,FOREST CLEARING,EXT,LEIA,"Well, looks like I'm stuck here. Trouble is, I don't know where here is."
+6,65,296,FOREST CLEARING,EXT,LEIA,"Well, maybe you can help me. Come on, sit down."
+6,65,297,FOREST CLEARING,EXT,LEIA,I promise I won't hurt you. Now come here.
+6,65,298,FOREST CLEARING,EXT,LEIA,All right. You want something to eat?
+6,65,299,FOREST CLEARING,EXT,LEIA,That's right. Come on. Hmmm?
+6,65,300,FOREST CLEARING,EXT,LEIA,"Look, it's a hat. It's not gonna hurt you. Look. You're a jittery little thing, aren't you?"
+6,65,301,FOREST CLEARING,EXT,LEIA,What is it?
+6,65,302,FOREST CLEARING,EXT,SCOUT #1,Go get your ride and take her back to base.
+6,65,303,FOREST CLEARING,EXT,SCOUT #2,"Yes, sir."
+6,65,304,FOREST CLEARING,EXT,LEIA,"Come on, let's get outta here."
+6,66,305,DEATH STAR,INT,GUARD,Halt! The Emperor does not wish to be disturbed at the moment.
+6,66,306,DEATH STAR,INT,VADER,"(raising his gloved hand to the two guards and choking them with the Force) The Emperor will see me, now!"
+6,66,307,DEATH STAR,INT,GUARD,"(repeating Vader's command) The Emperor will see you, now."
+6,67,308,EMPEROR'S TOWER,INT,EMPEROR,I told you to remain on the command ship.
+6,67,309,EMPEROR'S TOWER,INT,VADER,A small Rebel force has penetrated the shield and landed on Endor.
+6,67,310,EMPEROR'S TOWER,INT,VADER,"I have felt him, my Master."
+6,67,311,EMPEROR'S TOWER,INT,EMPEROR,"Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader."
+6,67,312,EMPEROR'S TOWER,INT,VADER,"They are clear, my Master."
+6,67,313,EMPEROR'S TOWER,INT,EMPEROR,Then you must go to the Sanctuary Moon and wait for them.
+6,67,314,EMPEROR'S TOWER,INT,EMPEROR,I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me.
+6,68,315,FOREST CLEARING,EXT,HAN,Luke! Luke!
+6,68,316,FOREST CLEARING,EXT,THREEPIO,"Oh, Master Luke."
+6,68,317,FOREST CLEARING,EXT,LUKE,There's two more wrecked speeders back there. And I found this.
+6,68,318,FOREST CLEARING,EXT,THREEPIO,I'm afraid that Artoo's sensors can find no trace of Princess Leia.
+6,68,319,FOREST CLEARING,EXT,HAN,"What, Chewie? What? Chewie!"
+6,69,320,FOREST,EXT,HAN,"Hey, I don't get it."
+6,69,321,FOREST,EXT,LUKE,"Chewie, wa-wait!  Don't!"
+6,69,322,FOREST,EXT,HAN,"Nice work. Great, Chewie! Great! Always thinking with your stomach."
+6,69,323,FOREST,EXT,LUKE,"Will you take it easy? Let's just figure out a way to get out of this thing. (trying to free an arm) Han, can you reach my lightsaber?"
+6,69,324,FOREST,EXT,HAN,"Yeah, sure."
+6,69,325,FOREST,EXT,THREEPIO,"Artoo, I'm not sure that's such a good idea. It's a very long dro-o- op!!"
+6,69,326,FOREST,EXT,HAN,Wha--?  Hey!  Point that thing someplace else.
+6,69,327,FOREST,EXT,HAN,Hey!
+6,69,328,FOREST,EXT,LUKE,"Han, don't. It'll be all right."
+6,69,329,FOREST,EXT,LUKE,"Chewie, give 'em your crossbow."
+6,69,330,FOREST,EXT,THREEPIO,"Oh, my head. Oh, my goodness!"
+6,69,331,FOREST,EXT,LUKE,Do you understand anything they're saying?
+6,69,332,FOREST,EXT,THREEPIO,"Oh, yes, Master Luke!  Remember that I am fluent in over six million forms of communication."
+6,69,333,FOREST,EXT,HAN,What are you telling them?
+6,69,334,FOREST,EXT,THREEPIO,"Hello, I think... I could be mistaken. They're using a very primitive dialect.  But I do believe they think I am some sort of god."
+6,69,335,FOREST,EXT,HAN,"Well, why don't you use your divine influence and get us out of this?"
+6,69,336,FOREST,EXT,THREEPIO,"I beg your pardon, General Solo, but that just wouldn't be proper."
+6,69,337,FOREST,EXT,HAN,Proper?!
+6,69,338,FOREST,EXT,THREEPIO,It's against my programming to impersonate a deity.
+6,69,339,FOREST,EXT,HAN,"Why, you--"
+6,69,340,FOREST,EXT,HAN,My mistake. He's an old friend of mine.
+6,72,341,EWOK VILLAGE SQUARE,EXT,HAN,I have a really bad feeling about this.
+6,72,342,EWOK VILLAGE SQUARE,EXT,HAN,What did he say?
+6,72,343,EWOK VILLAGE SQUARE,EXT,THREEPIO,"I'm rather embarrassed, General Solo, but it appears you are to be the main course at a banquet in my honor."
+6,72,344,EWOK VILLAGE SQUARE,EXT,LEIA,Oh!
+6,72,345,EWOK VILLAGE SQUARE,EXT,THREEPIO,Your Royal Highness.
+6,72,346,EWOK VILLAGE SQUARE,EXT,LEIA,"But these are my friends. Threepio, tell them they must be set free."
+6,72,347,EWOK VILLAGE SQUARE,EXT,HAN,"Somehow, I got the feeling that didn't help us very much."
+6,72,348,EWOK VILLAGE SQUARE,EXT,LUKE,"Threepio, tell them if they don't do as you wish, you'll become angry and use your magic."
+6,72,349,EWOK VILLAGE SQUARE,EXT,THREEPIO,"But Master Luke, what magic? I couldn't possibly --"
+6,72,350,EWOK VILLAGE SQUARE,EXT,LUKE,Just tell them.
+6,72,351,EWOK VILLAGE SQUARE,EXT,THREEPIO,"You see, Master Luke; they didn't believe me. Just..."
+6,72,352,EWOK VILLAGE SQUARE,EXT,THREEPIO,"... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!"
+6,72,353,EWOK VILLAGE SQUARE,EXT,THREEPIO,"Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!"
+6,72,354,EWOK VILLAGE SQUARE,EXT,THREEPIO,"Oh, oh, oh, oh! Thank goodness."
+6,72,355,EWOK VILLAGE SQUARE,EXT,LUKE,"Thanks, Threepio."
+6,73,356,CHIEF'S HUT,INT,THREEPIO,"Yes, Artoo. I was just coming to that."
+6,73,357,CHIEF'S HUT,INT,HAN,What's going on?
+6,73,358,CHIEF'S HUT,INT,LEIA,I don't know.
+6,73,359,CHIEF'S HUT,INT,THREEPIO,Wonderful! We are now a part of the tribe.
+6,73,360,CHIEF'S HUT,INT,HAN,Just what I always wanted.
+6,73,361,CHIEF'S HUT,INT,THREEPIO,He says the scouts are going to show us the quickest way to the shield generator.
+6,73,362,CHIEF'S HUT,INT,HAN,"Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back."
+6,74,363,EWOK VILLAGE,EXT,LEIA,"Luke, what's wrong?"
+6,74,364,EWOK VILLAGE,EXT,LUKE,Leia... do you remember your mother? Your real mother?
+6,74,365,EWOK VILLAGE,EXT,LEIA,Just a little bit. She died when I was very young.
+6,74,366,EWOK VILLAGE,EXT,LUKE,What do you remember?
+6,74,367,EWOK VILLAGE,EXT,LEIA,"Just...images, really. Feelings."
+6,74,368,EWOK VILLAGE,EXT,LUKE,Tell me.
+6,74,369,EWOK VILLAGE,EXT,LEIA,"(a little surprised at his insistence) She was very beautiful. Kind, but...sad. (looks up) Why are you asking me all this?"
+6,74,370,EWOK VILLAGE,EXT,LUKE,I have no memory of my mother. I never knew her.
+6,74,371,EWOK VILLAGE,EXT,LEIA,"Luke, tell me. What's troubling you?"
+6,74,372,EWOK VILLAGE,EXT,LUKE,"Vader is here...now, on this moon."
+6,74,373,EWOK VILLAGE,EXT,LUKE,"I felt his presence. He's come for me. He can feel when I'm near. That's why I have to go. (facing her) As long as I stay, I'm endangering the group and our mission here. (beat) I have to face him."
+6,74,374,EWOK VILLAGE,EXT,LEIA,Why?
+6,74,375,EWOK VILLAGE,EXT,LUKE,He's my father.
+6,74,376,EWOK VILLAGE,EXT,LEIA,Your father?
+6,74,377,EWOK VILLAGE,EXT,LUKE,"There's more. It won't be easy for you to hear it, but you must. If I don't make it back, you're the only hope for the Alliance."
+6,74,378,EWOK VILLAGE,EXT,LEIA,"Luke, don't talk that way. You have a power I--I don't understand and could never have."
+6,74,379,EWOK VILLAGE,EXT,LUKE,"You're wrong, Leia. You have that power too. In time you'll learn to use it as I have. The Force is strong in my family. My father has it...I have it...and...my sister has it."
+6,74,380,EWOK VILLAGE,EXT,LUKE,Yes. It's you Leia.
+6,74,381,EWOK VILLAGE,EXT,LEIA,I know. Somehow...I've always known.
+6,74,382,EWOK VILLAGE,EXT,LUKE,Then you know why I have to face him.
+6,74,383,EWOK VILLAGE,EXT,LEIA,"No! Luke, run away, far away. If he can feel your presence, then leave this place. I wish I could go with you."
+6,74,384,EWOK VILLAGE,EXT,LUKE,"No, you don't. You've always been strong."
+6,74,385,EWOK VILLAGE,EXT,LEIA,"But, why must you confront him?"
+6,74,386,EWOK VILLAGE,EXT,LUKE,Because...there is good in him. I've felt it. He won't turn me over to the Emperor. I can save him. I can turn him back to the good side. I have to try.
+6,74,387,EWOK VILLAGE,EXT,HAN,"Hey, what's goin' on?"
+6,74,388,EWOK VILLAGE,EXT,LEIA,Nothing. I - just want to be alone for a little while.
+6,74,389,EWOK VILLAGE,EXT,LEIA,I...I can't tell you.
+6,74,390,EWOK VILLAGE,EXT,LEIA,
+6,74,391,EWOK VILLAGE,EXT,HAN,Ahhh...
+6,74,392,EWOK VILLAGE,EXT,HAN,I'm sorry.
+6,74,393,EWOK VILLAGE,EXT,LEIA,Hold me.
+6,76,394,IMPERIAL LANDING PLATFORM,EXT,COMMANDER,"This is a Rebel that surrendered to us. Although he denies it, I believe there may be more of them, and I request permission to conduct a further search of the area."
+6,76,395,IMPERIAL LANDING PLATFORM,EXT,COMMANDER,He was armed only with this.
+6,76,396,IMPERIAL LANDING PLATFORM,EXT,VADER,"Good work, Commander. Leave us. Conduct your search and bring his companions to me."
+6,76,397,IMPERIAL LANDING PLATFORM,EXT,COMMANDER,"Yes, my Lord."
+6,76,398,IMPERIAL LANDING PLATFORM,EXT,VADER,The Emperor has been expecting you.
+6,76,399,IMPERIAL LANDING PLATFORM,EXT,LUKE,"I know, father."
+6,76,400,IMPERIAL LANDING PLATFORM,EXT,VADER,"So, you have accepted the truth."
+6,76,401,IMPERIAL LANDING PLATFORM,EXT,LURE,"I've accepted the truth that you were once Anakin Skywalker, my father."
+6,76,402,IMPERIAL LANDING PLATFORM,EXT,LUKE,It is the name of your true self. You've only forgotten. I know there is good in you. The Emperor hasn't driven it from you fully. That is why you couldn't destroy me. That's why you won't bring me to your Emperor now.
+6,76,403,IMPERIAL LANDING PLATFORM,EXT,VADER,"Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen."
+6,76,404,IMPERIAL LANDING PLATFORM,EXT,LUKE,Come with me.
+6,76,405,IMPERIAL LANDING PLATFORM,EXT,VADER,Obi-Wan once thought as you do.
+6,76,406,IMPERIAL LANDING PLATFORM,EXT,VADER,You don't know the power of the dark side. I must obey my master.
+6,76,407,IMPERIAL LANDING PLATFORM,EXT,LUKE,I will not turn...and you'll be forced to kill me.
+6,76,408,IMPERIAL LANDING PLATFORM,EXT,VADER,If that is your destiny.
+6,76,409,IMPERIAL LANDING PLATFORM,EXT,LUKE,"Search your feelings, father. You can't do this. I feel the conflict within you. Let go of your hate."
+6,76,410,IMPERIAL LANDING PLATFORM,EXT,VADER,"It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now."
+6,76,411,IMPERIAL LANDING PLATFORM,EXT,LUKE,Then my father is truly dead.
+6,77,412,ENDOR,EXT,LEIA,The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy.
+6,77,413,ENDOR,EXT,HAN,"Hey, don't worry. Chewie and me got into a lot of places more heavily guarded than this."
+6,77,414,ENDOR,EXT,LEIA,What's he saying?
+6,77,415,ENDOR,EXT,THREEPIO,He says there's a secret entrance on the other side of the ridge.
+6,79,416,MILLENNIUM FALCON,INT,LANDO,"Admiral, we're in position. All fighters accounted for."
+6,79,417,MILLENNIUM FALCON,INT,ACKBAR ,Proceed with the countdown. All groups assume attack coordinates.
+6,79,418,MILLENNIUM FALCON,INT,LANDO,"Don't worry, my friends are down there. They'll have that shield down on time... (to himself) or this'll be the shortest offensive of all time."
+6,79,419,MILLENNIUM FALCON,INT,ACKBAR,"All craft, prepare to jump to hyperspace on my mark."
+6,79,420,MILLENNIUM FALCON,INT,LANDO,All right. Stand by.
+6,81,421,ENDOR,EXT,HAN,"Back door, huh? Good idea."
+6,81,422,ENDOR,EXT,LEIA,"Well, it only takes one to sound the alarm."
+6,81,423,ENDOR,EXT,THREEPIO,"Oh! Oh, my. Uh, Princess Leia!"
+6,81,424,ENDOR,EXT,LEIA,Quiet.
+6,81,425,ENDOR,EXT,THREEPIO,I'm afraid our furry companion has gone and done something rather rash.
+6,81,426,ENDOR,EXT,LEIA,"Oh, no."
+6,84,427,BUNKER,EXT,SCOUT,Look! Over there! Stop him!
+6,85,428,RIDGE,EXT,HAN,Not bad for a little furball. There's only one left. You stay here. We'll take care of this.
+6,85,429,RIDGE,EXT,THREEPIO,I have decided that we shall stay here.
+6,88,430,DEATH STAR,INT,EMPEROR,"Welcome, young Skywalker. I have been expecting you."
+6,88,431,DEATH STAR,INT,EMPEROR,You no longer need those.
+6,88,432,DEATH STAR,INT,EMPEROR,"Guards, leave us."
+6,88,433,DEATH STAR,INT,LUKE,You're gravely mistaken. You won't convert me as you did my father.
+6,88,434,DEATH STAR,INT,EMPEROR,"Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things."
+6,88,435,DEATH STAR,INT,VADER,His lightsaber.
+6,88,436,DEATH STAR,INT,EMPEROR,"Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you."
+6,88,437,DEATH STAR,INT,LUKE,You're wrong. Soon I'll be dead...and you with me.
+6,88,438,DEATH STAR,INT,EMPEROR,Perhaps you refer to the imminent attack of your Rebel fleet.
+6,88,439,DEATH STAR,INT,EMPEROR,Yes...I assure you we are quite safe from your friends here.
+6,88,440,DEATH STAR,INT,LUKE,Your overconfidence is your weakness.
+6,88,441,DEATH STAR,INT,EMPEROR,Your faith in your friends is yours.
+6,88,442,DEATH STAR,INT,VADER,"It is pointless to resist, my son."
+6,88,443,DEATH STAR,INT,EMPEROR,Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.
+6,89,444,BUNKER,INT,HAN,"All right! Up! Move! Come on! Quickly! Quickly, Chewie."
+6,89,445,BUNKER,INT,LEIA,Han! Hurry! The fleet will be here any moment.
+6,89,446,BUNKER,INT,HAN,"Charges!  Come on, come on!"
+6,89,447,BUNKER,INT,THREEPIO,"Wa-wait! Wait, come back! Artoo, stay with me."
+6,89,448,BUNKER,INT,COMMANDER,Freeze! You Rebel scum.
+6,91,449,MILLENNIUM FALCON,INT,LANDO,All wings report in.
+6,91,450,MILLENNIUM FALCON,INT,WEDGE,Red Leader standing by.
+6,91,451,MILLENNIUM FALCON,INT,GRAY LEADER,Gray Leader standing by.
+6,91,452,MILLENNIUM FALCON,INT,GREEN LEADER,Green Leader standing by.
+6,91,453,MILLENNIUM FALCON,INT,WEDGE,Lock S-foils in attack positions.
+6,92,454,REBEL STAR CRUISER,INT,ACKBAR,May the Force be with us.
+6,93,455,MILLENNIUM FALCON,INT,LANDO,"We've got to be able to get some kind of a reading on that shield, up or down. Well, how could they be jamming us if they don't know if we're coming."
+6,93,456,MILLENNIUM FALCON,INT,LANDO,Break off the attack! The shield is still up.
+6,93,457,MILLENNIUM FALCON,INT,RED LEADER,I get no reading. Are you sure?
+6,93,458,MILLENNIUM FALCON,INT,LANDO,Pull up! All craft pull up!
+6,95,459,REBEL STAR CRUISER,INT,ACKBAR,"Take evasive action! Green Group, stick close to holding sector MV-7."
+6,95,460,REBEL STAR CRUISER,INT,CONTROLLER,"Admiral, we have enemy ships in sector 47."
+6,95,461,REBEL STAR CRUISER,INT,ACKBAR,It's a trap!
+6,95,462,REBEL STAR CRUISER,INT,REBEL PILOT,There's too many of them!
+6,95,463,REBEL STAR CRUISER,INT,LANDO,Accelerate to attack speed! Draw their fire away from the cruisers.
+6,95,464,REBEL STAR CRUISER,INT,WEDGE,"Copy, Gold Leader."
+6,96,465,DEATH STAR,INT,EMPEROR,"Come, boy. See for yourself."
+6,96,466,DEATH STAR,INT,EMPEROR,"From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion."
+6,96,467,DEATH STAR,INT,EMPEROR,"You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant."
+6,96,468,DEATH STAR,INT,LUKE,No!
+6,96,469,DEATH STAR,INT,EMPEROR,"It is unavoidable. It is your destiny. You, like your father, are now mine!"
+6,97,470,FOREST,EXT,STORMTROOPER,"All right, move it! I said move it! Go on!"
+6,97,471,FOREST,EXT,THREEPIO,"Hello! I say, over there! Were you looking for me?"
+6,97,472,FOREST,EXT,BUNKER COMMANDER,Bring those two down here!
+6,97,473,FOREST,EXT,STORMTROOPER,Let's go!
+6,97,474,FOREST,EXT,THREEPIO,"Well, they're on their way. Artoo, are you sure this was a good idea?"
+6,97,475,FOREST,EXT,STORMTROOPER,Freeze! Don't move!
+6,97,476,FOREST,EXT,THREEPIO,We surrender.
+6,97,477,FOREST,EXT,THREEPIO,"Ohhh! Stand back, Artoo."
+6,97,478,FOREST,EXT,LEIA,The code's changed. We need Artoo!
+6,97,479,FOREST,EXT,HAN,Here's the terminal.
+6,97,480,FOREST,EXT,THREEPIO,"Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!"
+6,99,481,MILLENNIUM FALCON,INT,LANDO,"Watch yourself, Wedge! Three from above!"
+6,99,482,MILLENNIUM FALCON,INT,WEDGE,"Red Three, Red Two, pull in!"
+6,99,483,MILLENNIUM FALCON,INT,RED TWO,Got it!
+6,99,484,MILLENNIUM FALCON,INT,RED THREE,"Three of them coming in, twenty degrees!"
+6,99,485,MILLENNIUM FALCON,INT,WEDGE,Cut to the left! I'll take the leader! They're heading for the medical frigate.
+6,99,486,MILLENNIUM FALCON,INT,NAVIGATOR,Pressure's steady.
+6,99,487,MILLENNIUM FALCON,INT,LANDO,Only the fighters are attacking.  I wonder what those Star Destroyers are waiting for.
+6,101,488,SUPER STAR DESTROYER,INT,COMMANDER,"We're in attack position now, sir."
+6,101,489,SUPER STAR DESTROYER,INT,PIETT,Hold here.
+6,101,490,SUPER STAR DESTROYER,INT,COMMANDER,We're not going to attack?
+6,101,491,SUPER STAR DESTROYER,INT,PIETT,I have my orders from the Emperor himself. He has something special planned for them. We only need to keep them from escaping.
+6,102,492,EMPEROR'S TOWER,INT,EMPEROR,"As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station. (into comlink) Fire at will, Commander."
+6,103,493,DEATH STAR,INT,JERJERROD,Fire!
+6,107,494,MILLENNIUM FALCON,INT,LANDO,"That blast came from the Death Star! That thing's operational! (into comlink) Home One, this is Gold Leader."
+6,108,495,REBEL STAR CRUISER,INT,ACKBAR,We saw it. All craft prepare to retreat.
+6,108,496,REBEL STAR CRUISER,INT,LANDO,"You won't get another chance at this, Admiral."
+6,108,497,REBEL STAR CRUISER,INT,ACKBAR,"We have no choice, General Calrissian. Our cruisers can't repel firepower of that magnitude."
+6,108,498,REBEL STAR CRUISER,INT,LANDO,Han will have that shield down. We've got to give him more time.
+6,109,499,FOREST,EXT,THREEPIO,We're coming!
+6,109,500,FOREST,EXT,HAN,Come on! Come on!
+6,109,501,FOREST,EXT,THREEPIO,"Oh, Artoo, hurry!"
+6,109,502,FOREST,EXT,THREEPIO,"My goodness! Artoo, why did you have to be so brave?"
+6,109,503,FOREST,EXT,HAN,"Well, I suppose I could hotwire this thing."
+6,109,504,FOREST,EXT,LEIA,I'll cover you.
+6,111,505,MILLENNIUM FALCON,INT,ACKBAR,"At that close range, we won't last long against those Star Destroyers."
+6,111,506,MILLENNIUM FALCON,INT,LANDO,We'll last longer then we will against that Death Star...and we might just take a few of them with us.
+6,111,507,MILLENNIUM FALCON,INT,REBEL PILOT,She's gonna blow!
+6,111,508,MILLENNIUM FALCON,INT,Y-WING PILOT,I'm hit!
+6,112,509,EMPEROR'S TOWER,INT,EMPEROR,"Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends."
+6,112,510,EMPEROR'S TOWER,INT,EMPEROR,"Good. I can feel your anger. I am defenseless.  Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete."
+6,113,511,FOREST,EXT,WALKER PILOT #1,Look!
+6,113,512,FOREST,EXT,PILOT #2,Get him off of there!
+6,114,513,FOREST,EXT,HAN,I think I got it. I got it!
+6,114,514,FOREST,EXT,THREEPIO,"Oh, Princess Leia, are you all right?"
+6,114,515,FOREST,EXT,HAN,Let's see.
+6,114,516,FOREST,EXT,LEIA,It's not bad.
+6,114,517,FOREST,EXT,STORMTROOPER,Freeze!
+6,114,518,FOREST,EXT,THREEPIO,"Oh, dear."
+6,114,519,FOREST,EXT,STORMTROOPER,Don't move!
+6,114,520,FOREST,EXT,HAN,I love you.
+6,114,521,FOREST,EXT,LEIA,I know.
+6,114,522,FOREST,EXT,STORMTROOPER,Hands up! Stand up!
+6,114,523,FOREST,EXT,HAN,"Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea."
+6,115,524,EMPEROR'S TOWER,INT,VADER,Obi-Wan has taught you well.
+6,115,525,EMPEROR'S TOWER,INT,LUKE,"I will not fight you, father."
+6,115,526,EMPEROR'S TOWER,INT,VADER,You are unwise to lower your defenses.
+6,115,527,EMPEROR'S TOWER,INT,LUKE,"Your thoughts betray you, father. I feel the good in you...the conflict."
+6,115,528,EMPEROR'S TOWER,INT,VADER,There is no conflict.
+6,115,529,EMPEROR'S TOWER,INT,LUKE,"You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now."
+6,115,530,EMPEROR'S TOWER,INT,VADER,"You underestimate the power of the dark side. If you will not fight, then you will meet your destiny."
+6,116,531,SPACE,EXT,LANDO,Watch out. Squad at .06.
+6,116,532,SPACE,EXT,REBEL PILOT,"I'm on it, Gold Leader."
+6,116,533,SPACE,EXT,WEDGE,"Good shot, Red Two."
+6,116,534,SPACE,EXT,LANDO,"Now...come on, Han, old buddy. Don't let me down."
+6,117,535,BUNKER,INT,HAN/PILOT,"It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit."
+6,117,536,BUNKER,INT,CONTROL ROOM COMMANDER,Send three squads to help. Open the back door.
+6,117,537,BUNKER,INT,SECOND COMMANDER,"Yes, sir."
+6,119,538,BUNKER,INT,HAN,Throw me another charge.
+6,120,539,EMPEROR'S TOWER,INT,VADER,"You cannot hide forever, Luke."
+6,120,540,EMPEROR'S TOWER,INT,LUKE,I will not fight you.
+6,120,541,EMPEROR'S TOWER,INT,VADER,"Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for..."
+6,120,542,EMPEROR'S TOWER,INT,VADER,"Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will."
+6,120,543,EMPEROR'S TOWER,INT,LUKE,Never-r-r!
+6,120,544,EMPEROR'S TOWER,INT,EMPEROR,"Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!"
+6,120,545,EMPEROR'S TOWER,INT,LUKE,"Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me."
+6,120,546,EMPEROR'S TOWER,INT,EMPEROR,So be it...Jedi.
+6,121,547,FOREST,EXT,HAN,Move! Move!
+6,122,548,REBEL STAR CRUISER,INT,ACKBAR,The shield is down! Commence attack on theDeath Star's main reactor.
+6,122,549,REBEL STAR CRUISER,INT,LANDO,"We're on our way. Red Group, Gold Group, all fighters follow me. (laughs) Told you they'd do it!"
+6,123,550,EMPEROR'S TOWER,INT,EMPEROR,"If you will not be turned, you will be destroyed."
+6,123,551,EMPEROR'S TOWER,INT,EMPEROR,"Young fool...only now, at the end, do you understand."
+6,123,552,EMPEROR'S TOWER,INT,EMPEROR,Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.
+6,123,553,EMPEROR'S TOWER,INT,EMPEROR,"Now, young Skywalker...you will die."
+6,124,554,/INT,EXT,WEDGE,I'm going in.
+6,124,555,/INT,EXT,LANDO,Here goes nothing.
+6,124,556,/INT,EXT,LANDO,Now lock onto the strongest power source. It should be the power generator.
+6,124,557,/INT,EXT,WEDGE,Form up. And stay alert. We could run out of space real fast.
+6,124,558,/INT,EXT,LANDO,Split up and head back to the surface. See if you can get a few of those TIE fighters to follow you.
+6,124,559,/INT,EXT,PILOT,"Copy, Gold Leader."
+6,124,560,/INT,EXT,LANDO,That was too close.
+6,125,561,REBEL STAR CRUISER,INT,ACKBAR,We've got to give those fighters more time. Concentrate all fire on that Super Star Destroyer.
+6,126,562,VADER'S STAR DESTROYER,INT,CONTROLLER,"Sir, we've lost our bridge deflector shield."
+6,126,563,VADER'S STAR DESTROYER,INT,PIETT,Intensify the forward batteries. I don't want anything to get through.
+6,126,564,VADER'S STAR DESTROYER,INT,PIETT,Intensify forward firepower!
+6,126,565,VADER'S STAR DESTROYER,INT,COMMANDER,It's too late!
+6,128,566,DEATH STAR,INT,LURE,But you'll die.
+6,128,567,DEATH STAR,INT,VADER,Nothing can stop that now. Just for once... let me look on you with my own eyes.
+6,128,568,DEATH STAR,INT,LUKE,No. You're coming with me. I can't leave you here. I've got to save you.
+6,128,569,DEATH STAR,INT,ANAKIN,"You already have, Luke. You were right about me. Tell your sister...you were right."
+6,128,570,DEATH STAR,INT,LUKE,Father...I won't leave you.
+6,130,571,MILLENNIUM FALCON,INT,WEDGE,There it is!
+6,130,572,MILLENNIUM FALCON,INT,LANDO,"All right, Wedge. Go for the power regulator on the north tower."
+6,130,573,MILLENNIUM FALCON,INT,WEDGE,"Copy, Gold Leader. I'm already on my way out."
+6,131,574,REBEL STAR CRUISER,INT,ACKBAR,Move the fleet away from the Death Star.
+6,134,575,ENDOR FOREST,EXT,THREEPIO,They did it!
+6,134,576,ENDOR FOREST,EXT,HAN,I'm sure Luke wasn't on that thing when it blew.
+6,134,577,ENDOR FOREST,EXT,LEIA,He wasn't. I can feel it.
+6,134,578,ENDOR FOREST,EXT,HAN,"You love him, don't you?"
+6,134,579,ENDOR FOREST,EXT,LEIA,Yes.
+6,134,580,ENDOR FOREST,EXT,HAN,"All right. I understand. Fine. When he comes back, I won't get in the way."
+6,134,581,ENDOR FOREST,EXT,LEIA,"Oh. No, it's not like that at all. He's my brother."
